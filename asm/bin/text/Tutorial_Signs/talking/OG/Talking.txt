@@ -1,0 +1,11 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $38
+
+//はなしたい<line>
+キャラクターの<line>
+まえで<line>
+上ボタンじゃ！<line>
+<end>
+

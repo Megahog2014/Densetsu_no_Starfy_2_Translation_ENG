@@ -1,0 +1,103 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $7BA
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+:if 1300 go 1<line>
+:sd<line>
+:flagon 1300<line>
+:flagon 1301<line>
+:flagon 1302<line>
+:flagon 1303<line>
+:flagon 1304<line>
+:func 1 1<line>
+:func 6 1 0<line>
+:se<line>
+:func 22 -1<line>
+<rname><diamond>Ｍｏｅ<line>
+Ｈｅｙａ Ｓｔａｒｆ， ｇｏｏｄ ｔｉｍｉｎｇ！<line>
+Ｉ ｆｏｕｎｄ ｓｏｍｅｔｈｉｎｇ ｂｅｆｏｒｅ ｙａ ｇｏｔ ｈｅｒｅ！<line>
+:obj 2 2 1<line>
+:func 18 1 71<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｉｔ ｌｏｏｋｓ ｌｉｋｅ ｓｏｍｅ ｓｏｒｔａ ｐａｍｐｈｌｅｔ．．．<line>
+Ａｌｒｉｇｈｔｙ， ｌｅｔ’ｓ ｔａｋｅ ａ ｌｉｔｔｌｅ ｌｏｏｋｓｅｅ！ ＊ａｈｅｍ＊<line>
+:c<line>
+[x 100]<line>
+<wait>Ｐａｍｐｌｅｔ<line>
+<line>
+[x 9]<line>
+<c d>Ｌｏｖｅｌｙ’ｓ Ｓｈｏｐ<c 0> ｉｓ ｈａｖｉｎｇ ａ ｈｕｇｅ ｓａｌｅ， ｄａｒｌｉｎｇｓ！<line>
+:c<line>
+[x 35]<line>
+<wait>Ｈｅｒｅ’ｓ ｔｈｉｓ ｉｓｓｕｅ’ｓ ｓｐｅｃｉａｌ ｆｅａｔｕｒｅ！<line>
+[x 16]<line>
+<line>
+”Ｔｈｅ Ｂｅａｕｔｉｆｕｌ Ｍｅｎ ａｎｄ Ｗｏｍｅｎ ｏｆ ｔｈｅ Ｓｅａ！”<line>
+:c<line>
+<wait>Ｔｈｅｒｅ ａｒｅ ｓｏ ｍａｎｙ <c d>ｐｈｏｔｏｓ<c 0> ｔｏ ｃｈｏｏｓｅ ｆｒｏｍ！<line>
+[x 40]<line>
+Ｄｏｎ’ｔ ｍｉｓｓ ｔｈｅ ｃｈａｎｃｅ， ｄａｒｌｉｎｇｓ！<line>
+:c<line>
+[x 0]<line>
+<redname><diamond>Ｍｏｅ<line>
+．．．Ｔｈａｔ’ｓ ｗｈａｔ ｉｔ ｓａｙｓ！<line>
+Ｈａ ｈａａａ！ Ｔｈｉｓ ｉｓ ｇｒｅａｔ， Ｓｔａｒｆ’！<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｔｈｅｒｅ’ｓ ｂｏｕｎｄ ｔｏ ｂｅ ａ ｂｕｎｃｈ ｏｆ ｐｈｏｔｏｓ<line>
+ｏｆ ｃｕｔｅ ｇｉｒｌｓ．．． Ａｎｄ．．． Ａｎｄ ｍａｙｂｅ．．．<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｍｓ． Ｒｕｂｙ’ｌｌ ｂｅ ｉｎ ａ ｂｉ－ｂｉ－ｂｉｋｉｎｉ ｉｎ ｈｅｒ ｐｈｏｔｏ．．．<line>
+Ｈｅｈ ｈｅｈ ｈｅｈ．．．<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｂｕｔ， ｕｈ．．． Ｗｈｅｒｅ ｉｓ <c d>Ｌｏｖｅｌｙ’ｓ Ｓｈｏｐ<c 0>？<line>
+Ｄｏｅｓｎ’ｔ ｌｏｏｋ ｌｉｋｅ ｔｈｅｒｅ’ｓ ａ ｍａｐ ａｎｙｗｈｅｒｅ．．．<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｈｕｈ？ Ｗａｉｔ ａ ｓｅｃ！ Ｌｏｏｋｓ ｌｉｋｅ ｔｈｅｒｅ’ｓ<line>
+ｓｏｍｅ ｓｏｒｔ ｏｆ ｎｏｔｅ ｏｎ ｔｈｅ ｂａｃｋ！<line>
+<redname><diamond>Ｍｏｅ<line>
+”Ｔｈｉｓ ｍｏｒｎｉｎｇ， ａｔ <c d>９ ｏ’ｃｌｏｃｋ<c 0>， Ｉ ｇｏｔ ｕｐ ａｎｄ<line>
+ｗｅｎｔ ｔｏ ｗｏｒｋ． Ｔｈｅｎ， ａｔ<c d> １２<c 0>， Ｉ ａｔｅ ｌｕｎｃｈ．．．”<line>
+<redname><diamond>Ｍｏｅ<line>
+”Ｔｈｅｎ Ｉ ｈａｄ ａ ｔａｓｔｙ ｓｎａｃｋ ａｔ <c d>３<c 0>，<line>
+ａｎｄ ｆｉｎａｌｌｙ， ａｔ<c d> ６<c 0>， Ｉ ａｔｅ ｄｉｎｎｅｒ．．．Ｕｆｕ．．．”<line>
+<redname><diamond>Ｍｏｅ<line>
+．．．Ｔｈｅ ｈｅｃｋ ｄｏｅｓ ｔｈａｔ ｍｅａｎ？<line>
+Ｔｈｉｓ ｓｏｍｅ ｓｏｒｔａ ｒｉｄｄｌｅ？<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｗｈａｔｅｖｅｒ．．．<line>
+Ｈｕｒｒｙ ｕｐ ａｎｄ ｆｉｎｄ ｔｈｉｓ ｓｈｏｐ ａｌｒｅａｄｙ！<line>
+:c<line>
+<wait>:sd<line>
+:func 4<line>
+:func 2 2<line>
+:obj 2 16<line>
+:obj 2 3<line>
+:obj 2 2 0<line>
+:func 1 0<line>
+:func 3 2<line>
+:exit<line>
+<wait>:1<line>
+:sd<line>
+:func 6 1<line>
+:se<line>
+:func 22 -1<line>
+<rname><diamond>Ｍｏｅ<line><line>
+Ｇｏｔｔａ ａｄｍｉｔ， Ｉ’ｍ ｃｕｒｉｏｕｓ ａｂｏｕｔ ｔｈｉｓ ｍｅｍｏ．．．<line>
+<c d>９ ｏ’ｃｌｏｃｋ<c 0>， <c d>１２ ｏ’ｃｌｏｃｋ<c 0>， <c d>３ ｏ’ｃｌｏｃｋ<c 0>， <c d>６ ｏ’ｃｌｏｃｋ<c 0>．．．<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｄｏｅｓ ｉｔ ｈａｖｅ ｓｏｍｅｔｈｉｎ’ ｔｏ ｄｏ ｗｉｔｈ<line>
+ｔｈｅ ｌａｙｏｕｔ ｏｆ ｔｈｉｓ ｐｌａｃｅ？<line>
+Ｈｍｍ．．． Ｉ ｄｕｎｎｏ．．． ＊ｍｕｍｂｌｅ ｍｕｍｂｌｅ＊<line>
+:end<line>
+<end>
+

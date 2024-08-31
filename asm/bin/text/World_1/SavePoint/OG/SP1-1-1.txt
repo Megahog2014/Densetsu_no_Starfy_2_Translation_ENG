@@ -1,0 +1,12 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 2
+//Block Range: $0 - $66
+
+//:func 22 -1<line>
+いろいろな　アクションを<line>
+おさらいして　これからの<line>
+ぼうけんに　そなえよう！<line>
+:end<line>
+<end>
+

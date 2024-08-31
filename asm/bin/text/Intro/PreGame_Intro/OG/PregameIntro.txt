@@ -1,0 +1,73 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 2
+//Block Range: $0 - $586
+
+//:sd<line>
+:func 3 2 1<line>
+:se<line>
+<rname><diamond>ロブじいさん<line>
+:obj 0 4<line>
+「おお！　やはりここにきたな！<line>
+　おまえたち・・　すべては<line>
+　テンカイ王より　きいておるぞ」<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+:obj 1 4<line>
+「お！　さすがじゃねえか！<line>
+　じゃあ　さっそく　くわしい<line>
+　じょうほうを　おしえてくれよ」<line>
+:c<line>
+<redname><diamond>ロブじいさん<line>
+:obj 0 4<line>
+「まあまあ　あわてるでない！<line>
+　今のスタフィーでは　じゅんびが<line>
+　ふじゅうぶんじゃ」<line>
+<redname><diamond>ロブじいさん<line>
+「今のままでは　ワルモノたちに<line>
+　カンタンに　やられてしまうのが<line>
+　オチじゃろうて・・・」<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+:obj 1 4<line>
+「なにぃー！　おい！スタフィー！」<line>
+<redname><diamond>キョロスケ<line>
+「オメェ　まさか　ぜんかいおぼえた<line>
+　アクション　ぜんぶ<line>
+　わすれたんじゃねえだろな！」<line>
+<wait>:obj 1 0 5<line>
+<rname><diamond>キョロスケ<line>
+「バッカヤロー！　なに『平和ボケ』<line>
+　してんだオメェ！」<line>
+:c<line>
+<redname><diamond>ロブじいさん<line>
+:obj 0 4<line>
+「まあまあ・・しかたないではないか<line>
+　では　今回も　また　カンバンを<line>
+　たてておいてやったから・・」<line>
+<redname><diamond>ロブじいさん<line>
+「カンバンの　まえにたち　<line>
+　<c d>『上ボタン』<c 1>で　よみながら<line>
+　アクションを　思い出すがよい」<line>
+<redname><diamond>ロブじいさん<line>
+「それから　<c d>しんじゅ<pearl>は　５コ<c 1><line>
+　<c d>あつめると　元気が　ひとつ<c 1><line>
+　<c d>かいふくする<c 1>のは知っておるな？」<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+:obj 1 4<line>
+「ケッ！　つきあってらんねーな<line>
+　・・ったく！　オレさまは<line>
+　先に行くぞ！　さっさとこいよ！」<line>
+:c<line>
+<redname><diamond>ロブじいさん<line>
+:obj 0 4<line>
+「がんばるんじゃぞ！<line>
+　では　ワシも　先で　<line>
+　まっておるからな」<line>
+<wait>:sd<line>
+:func 2 2 1<line>
+:se<line>
+:exit<line>
+<end>
+

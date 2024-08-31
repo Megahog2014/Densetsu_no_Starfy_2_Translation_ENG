@@ -1,0 +1,617 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Key Item Descriptions (Pointer)
+
+//POINTER #0 @ $2C580C - STRING #0 @ $643148
+
+#W32($2C580C)
+//ボストビラを<line>
+あけるための<line>
+カギ<line>
+:end<line>
+<end>
+
+
+//POINTER #1 @ $2C5830 - STRING #1 @ $64318C
+
+#W32($2C5830)
+//ボストビラを<line>
+あけるための<line>
+カギ<line>
+:end<line>
+<end>
+
+
+//POINTER #2 @ $2C5854 - STRING #2 @ $6431D0
+
+#W32($2C5854)
+//ボストビラを<line>
+あけるための<line>
+カギ<line>
+:end<line>
+<end>
+
+
+//POINTER #3 @ $2C5878 - STRING #3 @ $643214
+
+#W32($2C5878)
+//バラのはなが<line>
+かざられた<line>
+きれいな<line>
+かびん<line>
+:end<line>
+<end>
+
+
+//POINTER #4 @ $2C589C - STRING #4 @ $643260
+
+#W32($2C589C)
+//バラのはなが<line>
+かざられた<line>
+きれいな<line>
+どびん<line>
+:end<line>
+<end>
+
+
+//POINTER #5 @ $2C58C0 - STRING #5 @ $6432B0
+
+#W32($2C58C0)
+//ひまわりが<line>
+かざられた<line>
+きれいな<line>
+かびん<line>
+:end<line>
+<end>
+
+
+//POINTER #6 @ $2C58E4 - STRING #6 @ $643300
+
+#W32($2C58E4)
+//さんごでできた<line>
+たかそうな<line>
+テーブル<line>
+:end<line>
+<end>
+
+
+//POINTER #7 @ $2C5908 - STRING #7 @ $643344
+
+#W32($2C5908)
+//おしょうゆの<line>
+シミのついた<line>
+あじのある<line>
+ちゃぶだい<line>
+:end<line>
+<end>
+
+
+//POINTER #8 @ $2C592C - STRING #8 @ $64339C
+
+#W32($2C592C)
+//みるみる<line>
+アタマが<line>
+よくなる<line>
+つくえ<line>
+:end<line>
+<end>
+
+
+//POINTER #9 @ $2C5950 - STRING #9 @ $6433E4
+
+#W32($2C5950)
+//キラキラした<line>
+かいがらで<line>
+つくられた<line>
+いす<line>
+:end<line>
+<end>
+
+
+//POINTER #10 @ $2C5974 - STRING #10 @ $64342C
+
+#W32($2C5974)
+//ソースの<line>
+シミのついた<line>
+あじわいぶかい<line>
+ざぶとん<line>
+:end<line>
+<end>
+
+
+//POINTER #11 @ $2C5998 - STRING #11 @ $64347C
+
+#W32($2C5998)
+//いまにも<line>
+こわれそうな<line>
+やすっぽい<line>
+いす<line>
+:end<line>
+<end>
+
+
+//POINTER #12 @ $2C59BC - STRING #12 @ $6434CC
+
+#W32($2C59BC)
+//カメッコたちを<line>
+やじるしで<line>
+サーチするよ<line>
+:end<line>
+<end>
+
+
+//POINTER #13 @ $2C59E0 - STRING #13 @ $64351C
+
+#W32($2C59E0)
+//カメッコたちを<line>
+『おと』と<line>
+『ひょうじ』で<line>
+サーチするよ<line>
+:end<line>
+<end>
+
+
+//POINTER #14 @ $2C5A04 - STRING #14 @ $64357C
+
+#W32($2C5A04)
+//グレてしまった<line>
+いもうと<line>
+ケンダマが<line>
+とくい<line>
+:end<line>
+<end>
+
+
+//POINTER #15 @ $2C5A28 - STRING #15 @ $6435CC
+
+#W32($2C5A28)
+//グレてしまった<line>
+じなん<line>
+リーゼントが<line>
+おきにいり<line>
+:end<line>
+<end>
+
+
+//POINTER #16 @ $2C5A4C - STRING #16 @ $643624
+
+#W32($2C5A4C)
+//グレてしまった<line>
+ちょうなん<line>
+しっかりもので<line>
+あたまがいい<line>
+:end<line>
+<end>
+
+
+//POINTER #17 @ $2C5A70 - STRING #17 @ $64367C
+
+#W32($2C5A70)
+//クリオラへの<line>
+なかなおりの<line>
+おてがみ<line>
+:end<line>
+<end>
+
+
+//POINTER #18 @ $2C5A94 - STRING #18 @ $6436C0
+
+#W32($2C5A94)
+//キュウリオレ<line>
+への<line>
+なかなおりの<line>
+おてがみ<line>
+:end<line>
+<end>
+
+
+//POINTER #19 @ $2C5AB8 - STRING #19 @ $643708
+
+#W32($2C5AB8)
+//クリオラからの<line>
+なかなおりの<line>
+おへんじ<line>
+:end<line>
+<end>
+
+
+//POINTER #20 @ $2C5ADC - STRING #20 @ $64374C
+
+#W32($2C5ADC)
+//キュウリオレ<line>
+からの<line>
+なかなおりの<line>
+おへんじ<line>
+:end<line>
+<end>
+
+
+//POINTER #21 @ $2C5B00 - STRING #21 @ $6437A0
+
+#W32($2C5B00)
+//せんぞだいだい<line>
+つたわるスズ<line>
+:end<line>
+<end>
+
+
+//POINTER #22 @ $2C5B24 - STRING #22 @ $6437E4
+
+#W32($2C5B24)
+//クマじいの<line>
+だいこうぶつの<line>
+ハチミツ<line>
+:end<line>
+<end>
+
+
+//POINTER #23 @ $2C5B48 - STRING #23 @ $643824
+
+#W32($2C5B48)
+//アクセサリーの<line>
+ために<line>
+ミツガサゴを<line>
+さがしているよ<line>
+:end<line>
+<end>
+
+
+//POINTER #24 @ $2C5B6C - STRING #24 @ $643880
+
+#W32($2C5B6C)
+//ミツガサゴを<line>
+とじこめている<line>
+てつごうしを<line>
+あけられるカギ<line>
+:end<line>
+<end>
+
+
+//POINTER #25 @ $2C5B90 - STRING #25 @ $6438E0
+
+#W32($2C5B90)
+//４つに<line>
+こわされた<line>
+どうぞうの<line>
+はへん<line>
+:end<line>
+<end>
+
+
+//POINTER #26 @ $2C5BB4 - STRING #26 @ $64392C
+
+#W32($2C5BB4)
+//４つに<line>
+こわされた<line>
+どうぞうの<line>
+はへん<line>
+:end<line>
+<end>
+
+
+//POINTER #27 @ $2C5BD8 - STRING #27 @ $643978
+
+#W32($2C5BD8)
+//４つに<line>
+こわされた<line>
+どうぞうの<line>
+はへん<line>
+:end<line>
+<end>
+
+
+//POINTER #28 @ $2C5BFC - STRING #28 @ $6439C4
+
+#W32($2C5BFC)
+//４つに<line>
+こわされた<line>
+どうぞうの<line>
+はへん<line>
+:end<line>
+<end>
+
+
+//POINTER #29 @ $2C5C20 - STRING #29 @ $643A10
+
+#W32($2C5C20)
+//ヤリイカーズの<line>
+メンバー<line>
+かみなりが<line>
+だいすき<line>
+:end<line>
+<end>
+
+
+//POINTER #30 @ $2C5C44 - STRING #30 @ $643A64
+
+#W32($2C5C44)
+//ヤリイカーズの<line>
+メンバー<line>
+たいそうが<line>
+とくい<line>
+:end<line>
+<end>
+
+
+//POINTER #31 @ $2C5C68 - STRING #31 @ $643AB8
+
+#W32($2C5C68)
+//ヤリイカーズの<line>
+メンバー<line>
+くしゃみが<line>
+止まらない<line>
+:end<line>
+<end>
+
+
+//POINTER #32 @ $2C5C8C - STRING #32 @ $643B10
+
+#W32($2C5C8C)
+//ヤリイカーズの<line>
+メンバー<line>
+おけしょうが<line>
+だいすき<line>
+:end<line>
+<end>
+
+
+//POINTER #33 @ $2C5CB0 - STRING #33 @ $643B64
+
+#W32($2C5CB0)
+//ヤリイカーズ<line>
+１ごうの<line>
+おきにいり<line>
+:end<line>
+<end>
+
+
+//POINTER #34 @ $2C5CD4 - STRING #34 @ $643BA8
+
+#W32($2C5CD4)
+//ヤリイカーズ<line>
+２ごうの<line>
+おきにいり<line>
+:end<line>
+<end>
+
+
+//POINTER #35 @ $2C5CF8 - STRING #35 @ $643BE8
+
+#W32($2C5CF8)
+//ヤリイカーズ<line>
+３ごうの<line>
+くしゃみを<line>
+とめられる？<line>
+:end<line>
+<end>
+
+
+//POINTER #36 @ $2C5D1C - STRING #36 @ $643C40
+
+#W32($2C5D1C)
+//ヤリイカーズ<line>
+４ごうの<line>
+おきにいり<line>
+:end<line>
+<end>
+
+
+//POINTER #37 @ $2C5D40 - STRING #37 @ $643C84
+
+#W32($2C5D40)
+//ろうやを<line>
+あけるための<line>
+カギ<line>
+:end<line>
+<end>
+
+
+//POINTER #38 @ $2C5D64 - STRING #38 @ $643CBC
+
+#W32($2C5D64)
+//今まで<line>
+行けなかった<line>
+ばしょに<line>
+行けるよ<line>
+:end<line>
+<end>
+
+
+//POINTER #39 @ $2C5D88 - STRING #39 @ $643D00
+
+#W32($2C5D88)
+//タルイカたち<line>
+あいようのタル<line>
+オオタルイカの<line>
+ぬくもりだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #40 @ $2C5DAC - STRING #40 @ $643D5C
+
+#W32($2C5DAC)
+//メモには<line>
+　　<c d>『ジ』<c 4>　　<line>
+と　かかれて<line>
+いるよ<line>
+:end<line>
+<end>
+
+
+//POINTER #41 @ $2C5DD0 - STRING #41 @ $643DB8
+
+#W32($2C5DD0)
+//メモには<line>
+　　<c d>『ミ』<c 4>　　<line>
+と　かかれて<line>
+いるよ<line>
+:end<line>
+<end>
+
+
+//POINTER #42 @ $2C5DF4 - STRING #42 @ $643E14
+
+#W32($2C5DF4)
+//メモには<line>
+　　<c d>『シ』<c 4>　　<line>
+と　かかれて<line>
+いるよ<line>
+:end<line>
+<end>
+
+
+//POINTER #43 @ $2C5E18 - STRING #43 @ $643E6C
+
+#W32($2C5E18)
+//とーーーっても<line>
+つめたい<line>
+ゆきだるま<line>
+:end<line>
+<end>
+
+
+//POINTER #44 @ $2C5E3C - STRING #44 @ $643EB0
+
+#W32($2C5E3C)
+//とおくの人と<line>
+はなしができる<line>
+けの生えたタイ<line>
+:end<line>
+<end>
+
+
+//POINTER #45 @ $2C5E60 - STRING #45 @ $643F00
+
+#W32($2C5E60)
+//ヒゲウィルスに<line>
+こうかのある<line>
+ちゅうしゃ<line>
+:end<line>
+<end>
+
+
+//POINTER #46 @ $2C5E84 - STRING #46 @ $643F4C
+
+#W32($2C5E84)
+//ヒゲウィルスに<line>
+こうかのある<line>
+ちゅうしゃ<line>
+:end<line>
+<end>
+
+
+//POINTER #47 @ $2C5EA8 - STRING #47 @ $643F98
+
+#W32($2C5EA8)
+//ヒゲウィルスに<line>
+こうかのある<line>
+ちゅうしゃ<line>
+:end<line>
+<end>
+
+
+//POINTER #48 @ $2C5ECC - STRING #48 @ $643FE0
+
+#W32($2C5ECC)
+//エチギョヤの<line>
+たくらみを<line>
+知らせるための<line>
+てがみだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #49 @ $2C5EF0 - STRING #49 @ $644038
+
+#W32($2C5EF0)
+//ヤコウカガミが<line>
+とじこめられて<line>
+いる<line>
+ろうやのカギ<line>
+:end<line>
+<end>
+
+
+//POINTER #50 @ $2C5F14 - STRING #50 @ $64408C
+
+#W32($2C5F14)
+//シェルアターで<line>
+えいぞうを<line>
+みるための<line>
+どうぐ<line>
+:end<line>
+<end>
+
+
+//POINTER #51 @ $2C5F38 - STRING #51 @ $6440DC
+
+#W32($2C5F38)
+//シェルアターで<line>
+えいぞうを<line>
+みるための<line>
+どうぐ<line>
+:end<line>
+<end>
+
+
+//POINTER #52 @ $2C5F5C - STRING #52 @ $64412C
+
+#W32($2C5F5C)
+//シェルアターで<line>
+えいぞうを<line>
+みるための<line>
+どうぐ<line>
+:end<line>
+<end>
+
+
+//POINTER #53 @ $2C5F80 - STRING #53 @ $64417C
+
+#W32($2C5F80)
+//オリを<line>
+あけるための<line>
+カギ<line>
+:end<line>
+<end>
+
+
+//POINTER #54 @ $2C5FA4 - STRING #54 @ $6441B4
+
+#W32($2C5FA4)
+//オリを<line>
+あけるための<line>
+カギ<line>
+:end<line>
+<end>
+
+
+//POINTER #55 @ $2C5FC8 - STRING #55 @ $6441EC
+
+#W32($2C5FC8)
+//オリを<line>
+あけるための<line>
+カギ<line>
+:end<line>
+<end>
+
+
+//POINTER #56 @ $2C5FEC - STRING #56 @ $644228
+
+#W32($2C5FEC)
+//オリを<line>
+あけるための<line>
+カギ<line>
+:end<line>
+<end>
+
+
+//POINTER #57 @ $2C6010 - STRING #57 @ $644264
+
+#W32($2C6010)
+//オーグラを<line>
+ふうじこめ<line>
+られるツボ<line>
+:end<line>
+<end>
+

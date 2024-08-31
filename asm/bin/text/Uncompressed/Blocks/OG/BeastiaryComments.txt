@@ -1,0 +1,3762 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Beastiary Comments (Pointer)
+
+//POINTER #0 @ $2D29F8 - STRING #0 @ $2CBD60
+
+#W32($2D29F8)
+//かわいいカオして<linealt>
+どこまでもおいかけてくる<linealt>
+しつこいヤツだ<end>
+
+
+//POINTER #1 @ $2D29FC - STRING #1 @ $2CBD9C
+
+#W32($2D29FC)
+//まったく・・・<linealt>
+しつこいヤローは<linealt>
+きらわれるっつーの<end>
+
+
+//POINTER #2 @ $2D2A00 - STRING #2 @ $2CBDD0
+
+#W32($2D2A00)
+//近くにいくと<linealt>
+水にもぐって<linealt>
+たいあたりをしかけてくるぞ<end>
+
+
+//POINTER #3 @ $2D2A04 - STRING #3 @ $2CBE08
+
+#W32($2D2A04)
+//コイツの<linealt>
+もぐってるときのカオ<linealt>
+マヌケなんだよな・・・<end>
+
+
+//POINTER #4 @ $2D2A08 - STRING #4 @ $2CBE40
+
+#W32($2D2A08)
+//オレンジとしろのもようが<linealt>
+オシャレなヤツだ<end>
+
+
+//POINTER #5 @ $2D2A0C - STRING #5 @ $2CBE6C
+
+#W32($2D2A0C)
+//でも　オトコなら<linealt>
+なかみで　しょうぶしろ！<linealt>
+・・・オレさまみたいにな<end>
+
+
+//POINTER #6 @ $2D2A10 - STRING #6 @ $2CBEB0
+
+#W32($2D2A10)
+//海の中を<linealt>
+行ったりきたりしてるぞ<wait>ウワサじゃ　あの<linealt>
+しろいもようは<linealt>
+ペンキでかいてるらしい・・<end>
+
+
+//POINTER #7 @ $2D2A14 - STRING #7 @ $2CBED0
+
+#W32($2D2A14)
+//ウワサじゃ　あの<linealt>
+しろいもようは<linealt>
+ペンキでかいてるらしい・・<end>
+
+
+//POINTER #8 @ $2D2A18 - STRING #8 @ $2CBF0C
+
+#W32($2D2A18)
+//ぴょんぴょんはねて<linealt>
+うっとうしいヤツだが<linealt>
+オレさまのテキじゃねーな<end>
+
+
+//POINTER #9 @ $2D2A1C - STRING #9 @ $2CBF50
+
+#W32($2D2A1C)
+//ふん　くやしかったら<linealt>
+タテにあるいてみろ<linealt>
+っつーんだ！<end>
+
+
+//POINTER #10 @ $2D2A20 - STRING #10 @ $2CBF88
+
+#W32($2D2A20)
+//近づくと<linealt>
+たいあたりで<linealt>
+こうげきしてくるぞ<end>
+
+
+//POINTER #11 @ $2D2A24 - STRING #11 @ $2CBFB4
+
+#W32($2D2A24)
+//ほっぺたがぷよぷよで<linealt>
+ほんのちょっとだけ<linealt>
+かわいいと思うんだが・・<end>
+
+
+//POINTER #12 @ $2D2A28 - STRING #12 @ $2CBFF8
+
+#W32($2D2A28)
+//トゲのついたカラを<linealt>
+スタフィーにぶつけようと<linealt>
+するんだ<end>
+
+
+//POINTER #13 @ $2D2A2C - STRING #13 @ $2CC030
+
+#W32($2D2A2C)
+//コイツ・・・じぶんのいえを<linealt>
+そんなふうにあつかって<linealt>
+いいのかよ？<end>
+
+
+//POINTER #14 @ $2D2A30 - STRING #14 @ $2CC070
+
+#W32($2D2A30)
+//すばやく　とんでるから<linealt>
+たおすのには<linealt>
+くろうしただろ？<end>
+
+
+//POINTER #15 @ $2D2A34 - STRING #15 @ $2CC0A8
+
+#W32($2D2A34)
+//なんで『ウオ』のくせに<linealt>
+とんでるんだ？<linealt>
+ナマイキだぞ！！！<end>
+
+
+//POINTER #16 @ $2D2A38 - STRING #16 @ $2CC0E4
+
+#W32($2D2A38)
+//ときどきスピードをかえて<linealt>
+あちこちを<linealt>
+ウロウロしてるぞ<end>
+
+
+//POINTER #17 @ $2D2A3C - STRING #17 @ $2CC11C
+
+#W32($2D2A3C)
+//しょうたいは　ちっちゃい<linealt>
+ブラックホールだって<linealt>
+ウワサは　ほんとか・・？<end>
+
+
+//POINTER #18 @ $2D2A40 - STRING #18 @ $2CC164
+
+#W32($2D2A40)
+//ぶーっと　ふくれて<linealt>
+スタフィーのしんろを<linealt>
+じゃまするぞ<end>
+
+
+//POINTER #19 @ $2D2A44 - STRING #19 @ $2CC19C
+
+#W32($2D2A44)
+//よのなか　ふくれるだけで<linealt>
+なんとかなると思うなよ！<linealt>
+あまちゃんめ！！！<end>
+
+
+//POINTER #20 @ $2D2A48 - STRING #20 @ $2CC1E4
+
+#W32($2D2A48)
+//いつも　すっとぼけた<linealt>
+海の　ちょうろうだ<wait>でも　ほんとは<linealt>
+めちゃくちゃ　つええ<linealt>
+らしいぞ！<end>
+
+
+//POINTER #21 @ $2D2A4C - STRING #21 @ $2CC20C
+
+#W32($2D2A4C)
+//でも　ほんとは<linealt>
+めちゃくちゃ　つええ<linealt>
+らしいぞ！<end>
+
+
+//POINTER #22 @ $2D2A50 - STRING #22 @ $2CC23C
+
+#W32($2D2A50)
+//みんなの　ヒーロー<linealt>
+キョロスケさまだー！<linealt>
+かっこいいっ！<end>
+
+
+//POINTER #23 @ $2D2A54 - STRING #23 @ $2CC274
+
+#W32($2D2A54)
+//ただ今　カノジョ<linealt>
+大　大　大ぼしゅう中ー！！<linealt>
+かわい子ちゃん　よろしく！<end>
+
+
+//POINTER #24 @ $2D2A58 - STRING #24 @ $2CC2BC
+
+#W32($2D2A58)
+//いつもは　カイガラに<linealt>
+入っている　やさしい<linealt>
+おねえちゃんだ！<end>
+
+
+//POINTER #25 @ $2D2A5C - STRING #25 @ $2CC2F8
+
+#W32($2D2A5C)
+//この　おねえちゃんも<linealt>
+かわいいなあ・・・<linealt>
+でへへへへ・・・<end>
+
+
+//POINTER #26 @ $2D2A60 - STRING #26 @ $2CC334
+
+#W32($2D2A60)
+//いつも　なにかに<linealt>
+こまっている<linealt>
+ドンくさい　ヤツだ<end>
+
+
+//POINTER #27 @ $2D2A64 - STRING #27 @ $2CC368
+
+#W32($2D2A64)
+//・・ったく　オレさま<linealt>
+みたいに　テキパキ<linealt>
+たのもしくなれってんだ<end>
+
+
+//POINTER #28 @ $2D2A68 - STRING #28 @ $2CC3A8
+
+#W32($2D2A68)
+//氷の海から　ひっこしてきた！<linealt>
+クチビルの　でっけえ<linealt>
+ヤツだ・・<end>
+
+
+//POINTER #29 @ $2D2A6C - STRING #29 @ $2CC3E8
+
+#W32($2D2A6C)
+//どうでもいいけど<linealt>
+ちゅーだけは　やめてくれ<linealt>
+ちゅーだけは・・・<end>
+
+
+//POINTER #30 @ $2D2A70 - STRING #30 @ $2CC428
+
+#W32($2D2A70)
+//オレさまを　バカにした<linealt>
+とんでもねえ<linealt>
+ふとどきモンだ！<end>
+
+
+//POINTER #31 @ $2D2A74 - STRING #31 @ $2CC460
+
+#W32($2D2A74)
+//っつーか　モテないって<linealt>
+いうな！　モテないって<linealt>
+・・・ったく・・<end>
+
+
+//POINTER #32 @ $2D2A78 - STRING #32 @ $2CC4A0
+
+#W32($2D2A78)
+//コイツは　まえも<linealt>
+いやがった　オレさまの<linealt>
+こいの　ライバルだ！<end>
+
+
+//POINTER #33 @ $2D2A7C - STRING #33 @ $2CC4E0
+
+#W32($2D2A7C)
+//いいか！　ハデヒラリさんは<linealt>
+ぜってーわたさねーぞ！<end>
+
+
+//POINTER #34 @ $2D2A80 - STRING #34 @ $2CC514
+
+#W32($2D2A80)
+//くうちゅうをとんでる<linealt>
+めずらしいテキだ<end>
+
+
+//POINTER #35 @ $2D2A84 - STRING #35 @ $2CC53C
+
+#W32($2D2A84)
+//あのたいじゅうで　とぶのは<linealt>
+たいへんそうだよな・・・<linealt>
+・・・ダイエットしろよ<end>
+
+
+//POINTER #36 @ $2D2A88 - STRING #36 @ $2CC588
+
+#W32($2D2A88)
+//でっかいずうたいで<linealt>
+上下いどうしてるから<linealt>
+ジャマなんだよ！<end>
+
+
+//POINTER #37 @ $2D2A8C - STRING #37 @ $2CC5C4
+
+#W32($2D2A8C)
+//ちなみに　オレさまは<linealt>
+３こパックでうってる<linealt>
+イチゴゼリーが　すきだぞ！<end>
+
+
+//POINTER #38 @ $2D2A90 - STRING #38 @ $2CC60C
+
+#W32($2D2A90)
+//スピンをあてようとすると<linealt>
+こうらにとじこもる<linealt>
+やっかいなヤローだ<end>
+
+
+//POINTER #39 @ $2D2A94 - STRING #39 @ $2CC64C
+
+#W32($2D2A94)
+//・・・・・この　ふけガオめ<end>
+
+
+//POINTER #40 @ $2D2A98 - STRING #40 @ $2CC668
+
+#W32($2D2A98)
+//あらわれたと思ったら<linealt>
+きえちまう<linealt>
+きしょくワルイヤツだ<end>
+
+
+//POINTER #41 @ $2D2A9C - STRING #41 @ $2CC6A0
+
+#W32($2D2A9C)
+//コイツを　とっつかまえたら<linealt>
+ガスだいの　せつやくに<linealt>
+なんねえかな？<end>
+
+
+//POINTER #42 @ $2D2AA0 - STRING #42 @ $2CC6E4
+
+#W32($2D2AA0)
+//とくに　こうげきもしないで<linealt>
+ふらふらしてる<linealt>
+ノンキものだぞ<end>
+
+
+//POINTER #43 @ $2D2AA4 - STRING #43 @ $2CC720
+
+#W32($2D2AA4)
+//せっかくモップみたいな<linealt>
+みためなんだし　オレさまの<linealt>
+いえも　そうじしてくれ<end>
+
+
+//POINTER #44 @ $2D2AA8 - STRING #44 @ $2CC76C
+
+#W32($2D2AA8)
+//うかつに近づくと<linealt>
+からだじゅうから<linealt>
+トゲを出してくるぞ<end>
+
+
+//POINTER #45 @ $2D2AAC - STRING #45 @ $2CC7A4
+
+#W32($2D2AAC)
+//まあ　キレーな人にゃ<linealt>
+トゲがあるっていうからな<linealt>
+・・ってコイツはちがうだろ<end>
+
+
+//POINTER #46 @ $2D2AB0 - STRING #46 @ $2CC7F0
+
+#W32($2D2AB0)
+//いっていのはんいを回って<linealt>
+しんろの　じゃまを<linealt>
+してくるんだ<end>
+
+
+//POINTER #47 @ $2D2AB4 - STRING #47 @ $2CC82C
+
+#W32($2D2AB4)
+//どうせ回ってるだけなら<linealt>
+ゴミひろいのバイトでも<linealt>
+すりゃいーんだ<end>
+
+
+//POINTER #48 @ $2D2AB8 - STRING #48 @ $2CC86C
+
+#W32($2D2AB8)
+//ずつきを　かましてくる<linealt>
+はらのたつ　ヤローだ<wait>アタマに　まいてるのは<linealt>
+あじノリだって<linealt>
+はなしだぞ<end>
+
+
+//POINTER #49 @ $2D2ABC - STRING #49 @ $2CC898
+
+#W32($2D2ABC)
+//アタマに　まいてるのは<linealt>
+あじノリだって<linealt>
+はなしだぞ<end>
+
+
+//POINTER #50 @ $2D2AC0 - STRING #50 @ $2CC8CC
+
+#W32($2D2AC0)
+//スタフィーをみつけると<linealt>
+おいかけてきて<linealt>
+たいあたりをするんだ<end>
+
+
+//POINTER #51 @ $2D2AC4 - STRING #51 @ $2CC908
+
+#W32($2D2AC4)
+//コイツの　イヤーーな<linealt>
+目つきは　ゆめにみそうだぜ<linealt>
+もっと　かわいいカオしろよ<end>
+
+
+//POINTER #52 @ $2D2AC8 - STRING #52 @ $2CC954
+
+#W32($2D2AC8)
+//かわいいカオして<linealt>
+ウロウロしてるだけの<linealt>
+おこちゃまなヤツだ<end>
+
+
+//POINTER #53 @ $2D2ACC - STRING #53 @ $2CC990
+
+#W32($2D2ACC)
+//なんでも　おんなの子に<linealt>
+大人気らしい・・・<linealt>
+・・チッ　いい気になるなよ<end>
+
+
+//POINTER #54 @ $2D2AD0 - STRING #54 @ $2CC9D8
+
+#W32($2D2AD0)
+//オレさまの　みらいの<linealt>
+およめさん『よてい』だ！！<linealt>
+キレーだろ？<end>
+
+
+//POINTER #55 @ $2D2AD4 - STRING #55 @ $2CCA18
+
+#W32($2D2AD4)
+//コラ！　気やすくみるな！<linealt>
+この　キョロスケさまの<linealt>
+およめさん『よてい』だぞ！<end>
+
+
+//POINTER #56 @ $2D2AD8 - STRING #56 @ $2CCA64
+
+#W32($2D2AD8)
+//ったく　このじいさんも<linealt>
+ますます　元気だよなー<end>
+
+
+//POINTER #57 @ $2D2ADC - STRING #57 @ $2CCA94
+
+#W32($2D2ADC)
+//そういや　こないだ<linealt>
+けんきゅうしつが　バクハツ<linealt>
+したらしいんだが・・・<end>
+
+
+//POINTER #58 @ $2D2AE0 - STRING #58 @ $2CCADC
+
+#W32($2D2AE0)
+//ひをふく　バイクにのった<linealt>
+あぶねーヤローだ！<linealt>
+バイクごとつっこんでくるぞ<end>
+
+
+//POINTER #59 @ $2D2AE4 - STRING #59 @ $2CCB24
+
+#W32($2D2AE4)
+//あんぜんうんてん　しろよ！<linealt>
+じこは　こえーんだぞ！<end>
+
+
+//POINTER #60 @ $2D2AE8 - STRING #60 @ $2CCB58
+
+#W32($2D2AE8)
+//プチオーグラ２ごうの<linealt>
+あいしゃだ<wait>ま　バイクっつっても<linealt>
+タイヤが３つなんだけどな<linealt>
+プププッ<end>
+
+
+//POINTER #61 @ $2D2AEC - STRING #61 @ $2CCB78
+
+#W32($2D2AEC)
+//ま　バイクっつっても<linealt>
+タイヤが３つなんだけどな<linealt>
+プププッ<end>
+
+
+//POINTER #62 @ $2D2AF0 - STRING #62 @ $2CCBB0
+
+#W32($2D2AF0)
+//あちこちにげ回る<linealt>
+からだのすけた<linealt>
+きみのわるいヤツだ<end>
+
+
+//POINTER #63 @ $2D2AF4 - STRING #63 @ $2CCBE4
+
+#W32($2D2AF4)
+//ゆゆゆ　ユーレーだって<linealt>
+ウワサだけど　まさかだよな<linealt>
+ハハ　ハ　ハ・・・・<end>
+
+
+//POINTER #64 @ $2D2AF8 - STRING #64 @ $2CCC2C
+
+#W32($2D2AF8)
+//わたわた泳いでる<linealt>
+まんまるいヤローだ<wait>ったく　どーみても<linealt>
+おぼれてるよーにしか<linealt>
+みえねーがな<end>
+
+
+//POINTER #65 @ $2D2AFC - STRING #65 @ $2CCC50
+
+#W32($2D2AFC)
+//ったく　どーみても<linealt>
+おぼれてるよーにしか<linealt>
+みえねーがな<end>
+
+
+//POINTER #66 @ $2D2B00 - STRING #66 @ $2CCC88
+
+#W32($2D2B00)
+//左右にゆらゆらしながら<linealt>
+そらからふってくるぞ<wait>やっぱりドンブリの中は<linealt>
+『のりラーメン』<linealt>
+なのか？<end>
+
+
+//POINTER #67 @ $2D2B04 - STRING #67 @ $2CCCB4
+
+#W32($2D2B04)
+//やっぱりドンブリの中は<linealt>
+『のりラーメン』<linealt>
+なのか？<end>
+
+
+//POINTER #68 @ $2D2B08 - STRING #68 @ $2CCCE8
+
+#W32($2D2B08)
+//ぐるぐる回って<linealt>
+上からおちてくる<linealt>
+やっかいなヤツだぞ<end>
+
+
+//POINTER #69 @ $2D2B0C - STRING #69 @ $2CCD1C
+
+#W32($2D2B0C)
+//そんなことでビビる<linealt>
+キョロスケさまだと思うなよ<linealt>
+バ　バカヤローめ！<end>
+
+
+//POINTER #70 @ $2D2B10 - STRING #70 @ $2CCD60
+
+#W32($2D2B10)
+//からだじゅうの　けを<linealt>
+わさわささせて<linealt>
+水の中を泳いでるぞ<end>
+
+
+//POINTER #71 @ $2D2B14 - STRING #71 @ $2CCD98
+
+#W32($2D2B14)
+//ふゆは<linealt>
+あったかそうでいいけど<linealt>
+なつばは　じごくだな・・<end>
+
+
+//POINTER #72 @ $2D2B18 - STRING #72 @ $2CCDD0
+
+#W32($2D2B18)
+//とくに　こうげきを<linealt>
+しかけてこねえ<linealt>
+おとなしいヤツだ<end>
+
+
+//POINTER #73 @ $2D2B1C - STRING #73 @ $2CCE04
+
+#W32($2D2B1C)
+//あんまりおとなしいから<linealt>
+よく　ホウキに<linealt>
+まちがえられるらしい<end>
+
+
+//POINTER #74 @ $2D2B20 - STRING #74 @ $2CCE40
+
+#W32($2D2B20)
+//ったく　いい気になって<linealt>
+とんでんじゃねーぞ！<wait>このカッコつけヤローめ！<linealt>
+オレさまのほうが<linealt>
+かっこいいっつーの！<end>
+
+
+//POINTER #75 @ $2D2B24 - STRING #75 @ $2CCE6C
+
+#W32($2D2B24)
+//このカッコつけヤローめ！<linealt>
+オレさまのほうが<linealt>
+かっこいいっつーの！<end>
+
+
+//POINTER #76 @ $2D2B28 - STRING #76 @ $2CCEAC
+
+#W32($2D2B28)
+//スミのタマをはき出して<linealt>
+こうげきするぞ<end>
+
+
+//POINTER #77 @ $2D2B2C - STRING #77 @ $2CCED4
+
+#W32($2D2B2C)
+//メットのなかみは<linealt>
+じつは　タコだって<linealt>
+ウワサだ・・・<end>
+
+
+//POINTER #78 @ $2D2B30 - STRING #78 @ $2CCF08
+
+#W32($2D2B30)
+//ふだんはちっちゃくなってる<linealt>
+くせに　とつぜんトゲを<linealt>
+出してきやがるんだ<end>
+
+
+//POINTER #79 @ $2D2B34 - STRING #79 @ $2CCF50
+
+#W32($2D2B34)
+//このしょうしんものめ！<linealt>
+出すならどうどうと<linealt>
+出しゃ　いいんだ！<end>
+
+
+//POINTER #80 @ $2D2B38 - STRING #80 @ $2CCF90
+
+#W32($2D2B38)
+//ひとりで　子供たち<linealt>
+そだててる　とっても<linealt>
+えれえ　かあちゃんだ<end>
+
+
+//POINTER #81 @ $2D2B3C - STRING #81 @ $2CCFD0
+
+#W32($2D2B3C)
+//オレさまの　かあちゃんも<linealt>
+おてんとさまから<linealt>
+みまもってくれてるかなあ<end>
+
+
+//POINTER #82 @ $2D2B40 - STRING #82 @ $2CD014
+
+#W32($2D2B40)
+//ワルモノの　しわざで<linealt>
+しばらく　グレてやがった<linealt>
+カメッコのちょうなん<end>
+
+
+//POINTER #83 @ $2D2B44 - STRING #83 @ $2CD058
+
+#W32($2D2B44)
+//オメェは　ちょうなん<linealt>
+なんだから　もっと<linealt>
+しっかりするんだぞ！<end>
+
+
+//POINTER #84 @ $2D2B48 - STRING #84 @ $2CD098
+
+#W32($2D2B48)
+//ワルモノの　しわざで<linealt>
+しばらく　グレてやがった<linealt>
+カメッコのじなん<end>
+
+
+//POINTER #85 @ $2D2B4C - STRING #85 @ $2CD0D8
+
+#W32($2D2B4C)
+//じなんは　にいちゃんの<linealt>
+サポートを　しっかり<linealt>
+するんだぞ！<end>
+
+
+//POINTER #86 @ $2D2B50 - STRING #86 @ $2CD114
+
+#W32($2D2B50)
+//ワルモノの　しわざで<linealt>
+しばらく　グレてやがった<linealt>
+カメッコのすえっ子<end>
+
+
+//POINTER #87 @ $2D2B54 - STRING #87 @ $2CD158
+
+#W32($2D2B54)
+//すえっ子は　あんま<linealt>
+ワガママばっかり<linealt>
+いってちゃ　いけねーぞ！<end>
+
+
+//POINTER #88 @ $2D2B58 - STRING #88 @ $2CD198
+
+#W32($2D2B58)
+//おでんの　がんもどきが<linealt>
+だいこうぶつらしい・・<end>
+
+
+//POINTER #89 @ $2D2B5C - STRING #89 @ $2CD1C8
+
+#W32($2D2B5C)
+//ああ・・　かあちゃんの<linealt>
+つくってくれた　おでん<linealt>
+うまかったなあ・・グスッ<end>
+
+
+//POINTER #90 @ $2D2B60 - STRING #90 @ $2CD210
+
+#W32($2D2B60)
+//しあわせな　かていを<linealt>
+めちゃくちゃにした<linealt>
+とんでもねえ　ワルモノだ！<end>
+
+
+//POINTER #91 @ $2D2B64 - STRING #91 @ $2CD254
+
+#W32($2D2B64)
+//オレさまは　そういうヤツは<linealt>
+ぜってー　ゆるさねぇー！<wait>そらから　こうげきしてくる<linealt>
+みるからに　ワルそうな<linealt>
+ヤツだ！<end>
+
+
+//POINTER #92 @ $2D2B68 - STRING #92 @ $2CD288
+
+#W32($2D2B68)
+//そらから　こうげきしてくる<linealt>
+みるからに　ワルそうな<linealt>
+ヤツだ！<end>
+
+
+//POINTER #93 @ $2D2B6C - STRING #93 @ $2CD2C4
+
+#W32($2D2B6C)
+//コイツの　こなに　ふれると<linealt>
+いろいろな　のろいが<linealt>
+かかっちまうぞ！<end>
+
+
+//POINTER #94 @ $2D2B70 - STRING #94 @ $2CD308
+
+#W32($2D2B70)
+//じゃんぷでよけようとすると<linealt>
+ジャンプで　じゃまするんだ<linealt>
+うっとうしいヤツめ・・<end>
+
+
+//POINTER #95 @ $2D2B74 - STRING #95 @ $2CD358
+
+#W32($2D2B74)
+//そういや　あのまえがみは<linealt>
+まいあさ　３じかんかけて<linealt>
+セットしてるらしい<end>
+
+
+//POINTER #96 @ $2D2B78 - STRING #96 @ $2CD3A0
+
+#W32($2D2B78)
+//氷の海に　１ぴきしかいない<linealt>
+めずらしい　いきものだ<end>
+
+
+//POINTER #97 @ $2D2B7C - STRING #97 @ $2CD3D4
+
+#W32($2D2B7C)
+//コイツ　まくらに　ちょうど<linealt>
+いい　やわらかさなんだぞ<linealt>
+１回ためしてみろよ<end>
+
+
+//POINTER #98 @ $2D2B80 - STRING #98 @ $2CD41C
+
+#W32($2D2B80)
+//海の中を　ウロウロ<linealt>
+フワフワおよいでて<linealt>
+むちゃくちゃジャマだ！<end>
+
+
+//POINTER #99 @ $2D2B84 - STRING #99 @ $2CD45C
+
+#W32($2D2B84)
+//あんま　ジャマばっかすると<linealt>
+スルメにして<linealt>
+くっちまうぞ！！<end>
+
+
+//POINTER #100 @ $2D2B88 - STRING #100 @ $2CD498
+
+#W32($2D2B88)
+//せなかの氷を<linealt>
+とばしてくる　『ガイン』の<linealt>
+とおい　シンセキだ<end>
+
+
+//POINTER #101 @ $2D2B8C - STRING #101 @ $2CD4D4
+
+#W32($2D2B8C)
+//ひょっとして『ナイスガイ』<linealt>
+と　かけてあるのか・・？<linealt>
+１００ねんはえーぜ！<end>
+
+
+//POINTER #102 @ $2D2B90 - STRING #102 @ $2CD520
+
+#W32($2D2B90)
+//ホネをとばしてくる<linealt>
+ブキミなヤツだ・・・<wait>ホネはだいじにしろよ<linealt>
+つーか　なげんな！<wait>ヤリをもって<linealt>
+こうげきしてくるなんて<linealt>
+ヒキョーだぞ！ヒキョー！<end>
+
+
+//POINTER #103 @ $2D2B94 - STRING #103 @ $2CD548
+
+#W32($2D2B94)
+//ホネはだいじにしろよ<linealt>
+つーか　なげんな！<wait>ヤリをもって<linealt>
+こうげきしてくるなんて<linealt>
+ヒキョーだぞ！ヒキョー！<end>
+
+
+//POINTER #104 @ $2D2B98 - STRING #104 @ $2CD570
+
+#W32($2D2B98)
+//ヤリをもって<linealt>
+こうげきしてくるなんて<linealt>
+ヒキョーだぞ！ヒキョー！<end>
+
+
+//POINTER #105 @ $2D2B9C - STRING #105 @ $2CD5B0
+
+#W32($2D2B9C)
+//やるなら　オレさまみたいに<linealt>
+コブシで<linealt>
+しょうぶしろ　コブシで！<end>
+
+
+//POINTER #106 @ $2D2BA0 - STRING #106 @ $2CD5F0
+
+#W32($2D2BA0)
+//３たい　どうじに出て<linealt>
+せっきんしてくるぞ<wait>目ぇ　回して<linealt>
+かえるくらいなら<linealt>
+さいしょから　出るなよ・・<end>
+
+
+//POINTER #107 @ $2D2BA4 - STRING #107 @ $2CD618
+
+#W32($2D2BA4)
+//目ぇ　回して<linealt>
+かえるくらいなら<linealt>
+さいしょから　出るなよ・・<end>
+
+
+//POINTER #108 @ $2D2BA8 - STRING #108 @ $2CD654
+
+#W32($2D2BA8)
+//ヨコを　とおろうとすると<linealt>
+近づいてきて<linealt>
+しんろの　じゃまをするぞ<end>
+
+
+//POINTER #109 @ $2D2BAC - STRING #109 @ $2CD694
+
+#W32($2D2BAC)
+//マーボードウフは<linealt>
+オレさまも　大すきだが<linealt>
+コイツはどーでもいい<end>
+
+
+//POINTER #110 @ $2D2BB0 - STRING #110 @ $2CD6D4
+
+#W32($2D2BB0)
+//アメリカがえりって<linealt>
+ウワサの　キザな<linealt>
+ヤローだ！　ケッ！！<end>
+
+
+//POINTER #111 @ $2D2BB4 - STRING #111 @ $2CD710
+
+#W32($2D2BB4)
+//おとこはアメリカがどーとか<linealt>
+じゃなくて　やっぱ<linealt>
+ハートだろ！　おい！<end>
+
+
+//POINTER #112 @ $2D2BB8 - STRING #112 @ $2CD754
+
+#W32($2D2BB8)
+//のると　たかく<linealt>
+とべる　なかなか<linealt>
+ベンリなヤツだぞ<end>
+
+
+//POINTER #113 @ $2D2BBC - STRING #113 @ $2CD788
+
+#W32($2D2BBC)
+//スピンあてたときの<linealt>
+カオが　マヌケで<linealt>
+わらえるよな　・・ププ<end>
+
+
+//POINTER #114 @ $2D2BC0 - STRING #114 @ $2CD7C4
+
+#W32($2D2BC0)
+//っっだーーーっ！！<linealt>
+コイツもジャマだ！！！<linealt>
+いいかげんにしろっつの！<end>
+
+
+//POINTER #115 @ $2D2BC4 - STRING #115 @ $2CD808
+
+#W32($2D2BC4)
+//そもそも　コイツ<linealt>
+なにもんなんだよ！？<linealt>
+カニか？　カニなのか！？<end>
+
+
+//POINTER #116 @ $2D2BC8 - STRING #116 @ $2CD848
+
+#W32($2D2BC8)
+//っだーーッ！　ジャマだよ！<linealt>
+せきぞうで　こおらせねえと<linealt>
+ダメージうけちまうし<end>
+
+
+//POINTER #117 @ $2D2BCC - STRING #117 @ $2CD894
+
+#W32($2D2BCC)
+//ったく　なんで<linealt>
+こんなワルモノが<linealt>
+生まれたんだか・・・<end>
+
+
+//POINTER #118 @ $2D2BD0 - STRING #118 @ $2CD8CC
+
+#W32($2D2BD0)
+//海の平和をまもるために<linealt>
+にちや　かつどう中って<linealt>
+ハナシだが・・・<end>
+
+
+//POINTER #119 @ $2D2BD4 - STRING #119 @ $2CD90C
+
+#W32($2D2BD4)
+//なんか　いっつも<linealt>
+やられてねえか？<end>
+
+
+//POINTER #120 @ $2D2BD8 - STRING #120 @ $2CD930
+
+#W32($2D2BD8)
+//スケボンがしゅみの<linealt>
+クールな<linealt>
+元ボートレーサーだ<end>
+
+
+//POINTER #121 @ $2D2BDC - STRING #121 @ $2CD960
+
+#W32($2D2BDC)
+//オレさまも　スケボンが<linealt>
+できたら　モテるかな？<linealt>
+・・いや　すべりおちるな<end>
+
+
+//POINTER #122 @ $2D2BE0 - STRING #122 @ $2CD9A8
+
+#W32($2D2BE0)
+//マーベラスボデーの<linealt>
+おねーちゃんだ！！<linealt>
+セクシーだ！キュートだ！<end>
+
+
+//POINTER #123 @ $2D2BE4 - STRING #123 @ $2CD9E8
+
+#W32($2D2BE4)
+//はっ　オレさまには<linealt>
+ハデヒラリさんという人が．．．<linealt>
+すまねぇ　サバコちゃん<end>
+
+
+//POINTER #124 @ $2D2BE8 - STRING #124 @ $2CDA30
+
+#W32($2D2BE8)
+//ケッ！　とうとう<linealt>
+ケッコンだってな！　フン！<linealt>
+おめでとうよ　ヘッ！<end>
+
+
+//POINTER #125 @ $2D2BEC - STRING #125 @ $2CDA74
+
+#W32($2D2BEC)
+//しかし　どうやってコイツ<linealt>
+ききゅうにのってたんだ？<end>
+
+
+//POINTER #126 @ $2D2BF0 - STRING #126 @ $2CDAA8
+
+#W32($2D2BF0)
+//ああ　ヒラリンさん・・・<linealt>
+あんなヤローの<linealt>
+どこがよかったんですか<end>
+
+
+//POINTER #127 @ $2D2BF4 - STRING #127 @ $2CDAE8
+
+#W32($2D2BF4)
+//イヤになったら　いつでも<linealt>
+かえってきてくださいね・・・<linealt>
+ううううう・・・<end>
+
+
+//POINTER #128 @ $2D2BF8 - STRING #128 @ $2CDB30
+
+#W32($2D2BF8)
+//コイツらーーっ！！<linealt>
+氷づけのオレさまを<linealt>
+ほっとこうとしたんだぞ！？<end>
+
+
+//POINTER #129 @ $2D2BFC - STRING #129 @ $2CDB74
+
+#W32($2D2BFC)
+//せかい中の<linealt>
+おんなの子を　なかす気か！<end>
+
+
+//POINTER #130 @ $2D2C00 - STRING #130 @ $2CDB9C
+
+#W32($2D2C00)
+//オンセンをわかすのが<linealt>
+とくいな<linealt>
+ヤローどもだ<end>
+
+
+//POINTER #131 @ $2D2C04 - STRING #131 @ $2CDBC8
+
+#W32($2D2C04)
+//コイツらのわかすオンセンは<linealt>
+なんでか　いいダシが<linealt>
+とれるらしいぞ<end>
+
+
+//POINTER #132 @ $2D2C08 - STRING #132 @ $2CDC08
+
+#W32($2D2C08)
+//ほのおとふぶきを<linealt>
+かわるがわる　はく<linealt>
+やっかいなヤツだったな<end>
+
+
+//POINTER #133 @ $2D2C0C - STRING #133 @ $2CDC44
+
+#W32($2D2C0C)
+//ほのおのときは　きょうぼう<linealt>
+ふぶきのときは　ブキミな<linealt>
+ヤツになるんだ<end>
+
+
+//POINTER #134 @ $2D2C10 - STRING #134 @ $2CDC88
+
+#W32($2D2C10)
+//へんしんごの　すがただ<linealt>
+アタマが　２つある<linealt>
+ヘビなんだぞ<end>
+
+
+//POINTER #135 @ $2D2C14 - STRING #135 @ $2CDCC0
+
+#W32($2D2C14)
+//ほのおとふぶきの　タマを<linealt>
+こうごに　出してくるんだ<end>
+
+
+//POINTER #136 @ $2D2C18 - STRING #136 @ $2CDCF4
+
+#W32($2D2C18)
+//近づくと　タマを<linealt>
+ポンポンと　はき出してくる<linealt>
+めずらしい　テキだ！<end>
+
+
+//POINTER #137 @ $2D2C1C - STRING #137 @ $2CDD38
+
+#W32($2D2C1C)
+//１ぴきでしか出てこねーのは<linealt>
+ともだち　いねーからだな！<end>
+
+
+//POINTER #138 @ $2D2C20 - STRING #138 @ $2CDD70
+
+#W32($2D2C20)
+//さかさまで　てんじょうに<linealt>
+ぶらさがってる<linealt>
+かわったヤツだ<end>
+
+
+//POINTER #139 @ $2D2C24 - STRING #139 @ $2CDDA8
+
+#W32($2D2C24)
+//ウワサだと　アタマに<linealt>
+『ち』がのぼって　めまいで<linealt>
+下におちるヤツもいるらしい<end>
+
+
+//POINTER #140 @ $2D2C28 - STRING #140 @ $2CDDF4
+
+#W32($2D2C28)
+//オレさまを　おいかけてくる<linealt>
+みのほどしらずの中で<linealt>
+コイツは　とくにしつこい！<end>
+
+
+//POINTER #141 @ $2D2C2C - STRING #141 @ $2CDE40
+
+#W32($2D2C2C)
+//いっつも　オレさまを<linealt>
+おいかけてくる<linealt>
+おんなの子たちなみだぜ！<end>
+
+
+//POINTER #142 @ $2D2C30 - STRING #142 @ $2CDE80
+
+#W32($2D2C30)
+//オレさまが　上に行けば上に<linealt>
+下に行けば　下にうごくのは<linealt>
+チョッカイ出して<end>
+
+
+//POINTER #143 @ $2D2C34 - STRING #143 @ $2CDEC8
+
+#W32($2D2C34)
+//だれかに　あいてを<linealt>
+してもらいたいんだろーな！<linealt>
+さみしいヤツ・・・<end>
+
+
+//POINTER #144 @ $2D2C38 - STRING #144 @ $2CDF0C
+
+#W32($2D2C38)
+//さいしょみたとき<linealt>
+ちょうちんがうごいてるって<linealt>
+おどろいたもんだが<end>
+
+
+//POINTER #145 @ $2D2C3C - STRING #145 @ $2CDF4C
+
+#W32($2D2C3C)
+//同じところを<linealt>
+行ったりきたりするだけで<linealt>
+ぜんぜん　こわくなかったな<end>
+
+
+//POINTER #146 @ $2D2C40 - STRING #146 @ $2CDF90
+
+#W32($2D2C40)
+//ドクロのヘルメットのせいで<linealt>
+１回だけじゃーたおせねー<linealt>
+うっとーしいヤローだ<end>
+
+
+//POINTER #147 @ $2D2C44 - STRING #147 @ $2CDFDC
+
+#W32($2D2C44)
+//きっと　オレさまとちがって<linealt>
+カオが　かっこよくねーから<linealt>
+かぶってんだろーけどな<end>
+
+
+//POINTER #148 @ $2D2C48 - STRING #148 @ $2CE02C
+
+#W32($2D2C48)
+//オレさまを　みると<linealt>
+すぐに　にげちまう<linealt>
+おくびょうなヤツだ<end>
+
+
+//POINTER #149 @ $2D2C4C - STRING #149 @ $2CE068
+
+#W32($2D2C4C)
+//まぁ　オレさまをみて<linealt>
+ビビるってのは<linealt>
+しかたねーことだけどな<end>
+
+
+//POINTER #150 @ $2D2C50 - STRING #150 @ $2CE0A4
+
+#W32($2D2C50)
+//しんじゅを　まもるどころか<linealt>
+わらって　しんじゅを<linealt>
+なげまくる　ヘンナヤツだ<end>
+
+
+//POINTER #151 @ $2D2C54 - STRING #151 @ $2CE0F0
+
+#W32($2D2C54)
+//コイツさえいりゃ<linealt>
+しんじゅにゃ　こまらねーな<wait>オレさまを　みるやいなや<linealt>
+しつこくおっかけてくる<linealt>
+みのほどしらずだ<end>
+
+
+//POINTER #152 @ $2D2C58 - STRING #152 @ $2CE11C
+
+#W32($2D2C58)
+//オレさまを　みるやいなや<linealt>
+しつこくおっかけてくる<linealt>
+みのほどしらずだ<end>
+
+
+//POINTER #153 @ $2D2C5C - STRING #153 @ $2CE160
+
+#W32($2D2C5C)
+//ネコづららしいが<linealt>
+オレさまにはイヌづらに<linealt>
+みえるぞ！<end>
+
+
+//POINTER #154 @ $2D2C60 - STRING #154 @ $2CE194
+
+#W32($2D2C60)
+//トグロをまいているが<linealt>
+近づくと　とびはねて<linealt>
+ぶつかってきやがる<end>
+
+
+//POINTER #155 @ $2D2C64 - STRING #155 @ $2CE1D4
+
+#W32($2D2C64)
+//ビックリばこの<linealt>
+なかみにでもなりたいのか？<end>
+
+
+//POINTER #156 @ $2D2C68 - STRING #156 @ $2CE200
+
+#W32($2D2C68)
+//こーゆーヤローは<linealt>
+ヒラオで　コリゴリなのに<linealt>
+また　出てきやがった！<end>
+
+
+//POINTER #157 @ $2D2C6C - STRING #157 @ $2CE244
+
+#W32($2D2C6C)
+//オレさまのまえで<linealt>
+イチャイチャしてるとこを<linealt>
+みせつけるんじゃねぇ！<angry><end>
+
+
+//POINTER #158 @ $2D2C70 - STRING #158 @ $2CE288
+
+#W32($2D2C70)
+//ムカツク！<angry><linealt>
+ひたすらに　ムカツク！<angry><linealt>
+なぜかって？<end>
+
+
+//POINTER #159 @ $2D2C74 - STRING #159 @ $2CE2BC
+
+#W32($2D2C74)
+//人まえでイチャイチャするわ<linealt>
+口は　わるいわ<linealt>
+とにかく　もう　ダメだ！<end>
+
+
+//POINTER #160 @ $2D2C78 - STRING #160 @ $2CE300
+
+#W32($2D2C78)
+//よくモノを　おとす<linealt>
+マヌケな　ニンジャだ<wait>スズをつけてるけど<linealt>
+ニンジャが　おとのでるもん<linealt>
+つけてていいのか？<end>
+
+
+//POINTER #161 @ $2D2C7C - STRING #161 @ $2CE328
+
+#W32($2D2C7C)
+//スズをつけてるけど<linealt>
+ニンジャが　おとのでるもん<linealt>
+つけてていいのか？<end>
+
+
+//POINTER #162 @ $2D2C80 - STRING #162 @ $2CE36C
+
+#W32($2D2C80)
+//めんどくさがりやの<linealt>
+カモノハシだな<end>
+
+
+//POINTER #163 @ $2D2C84 - STRING #163 @ $2CE390
+
+#W32($2D2C84)
+//いっつも　いそがしいとか<linealt>
+いってるが　ほんとに<linealt>
+シゴトしてんのか？<end>
+
+
+//POINTER #164 @ $2D2C88 - STRING #164 @ $2CE3D4
+
+#W32($2D2C88)
+//ハチミツずきのじいさんだ！<linealt>
+ハチミツをたべると<linealt>
+メチャクチャつよくなるぞ！<end>
+
+
+//POINTER #165 @ $2D2C8C - STRING #165 @ $2CE420
+
+#W32($2D2C8C)
+//ぱわーだけなら<linealt>
+オレさまより　上ってことは<linealt>
+みとめてやるぜ！<end>
+
+
+//POINTER #166 @ $2D2C90 - STRING #166 @ $2CE45C
+
+#W32($2D2C90)
+//おとこまさりの　すげー<linealt>
+気のつえーヤツだ！<end>
+
+
+//POINTER #167 @ $2D2C94 - STRING #167 @ $2CE488
+
+#W32($2D2C94)
+//コイツをおこらせると<linealt>
+あのジョウブな『ハ』で<linealt>
+かみつかれそうだな・・・<end>
+
+
+//POINTER #168 @ $2D2C98 - STRING #168 @ $2CE4D0
+
+#W32($2D2C98)
+//ムーンさんに　りようされ<linealt>
+みつぎつづける<linealt>
+カワイソーなヤローだ<end>
+
+
+//POINTER #169 @ $2D2C9C - STRING #169 @ $2CE510
+
+#W32($2D2C9C)
+//ウワサじゃ　ムーンさんには<linealt>
+ふられたらしいぞ！<linealt>
+おかねもソコをついたらしい<end>
+
+
+//POINTER #170 @ $2D2CA0 - STRING #170 @ $2CE55C
+
+#W32($2D2CA0)
+//アクセサリーが大すきな<linealt>
+ハデヒラリさんとならぶ<linealt>
+びじんだぜ！<end>
+
+
+//POINTER #171 @ $2D2CA4 - STRING #171 @ $2CE598
+
+#W32($2D2CA4)
+//オレさまが　おかねもちなら<linealt>
+この人でも・・・いやいや！<linealt>
+それでもハデヒラリさんだな<end>
+
+
+//POINTER #172 @ $2D2CA8 - STRING #172 @ $2CE5EC
+
+#W32($2D2CA8)
+//とりあえず　ムチャクチャな<linealt>
+ヤロウ・・・じゃなくて<linealt>
+ヤツ・・・だな<end>
+
+
+//POINTER #173 @ $2D2CAC - STRING #173 @ $2CE630
+
+#W32($2D2CAC)
+//キレるとはなしかたがかわる<linealt>
+アブナイヤツでもある<linealt>
+もっと　しおらしくしろよ<end>
+
+
+//POINTER #174 @ $2D2CB0 - STRING #174 @ $2CE67C
+
+#W32($2D2CB0)
+//まわりの水を　すいこんで<linealt>
+水をなくすことができる<linealt>
+ものすごいヤツだ！<end>
+
+
+//POINTER #175 @ $2D2CB4 - STRING #175 @ $2CE6C0
+
+#W32($2D2CB4)
+//プチオーグラ５ごうの<linealt>
+子分らしいが　あんなのが<linealt>
+おやぶんなんてカワイソー！<end>
+
+
+//POINTER #176 @ $2D2CB8 - STRING #176 @ $2CE70C
+
+#W32($2D2CB8)
+//近づくとトゲを出すぞ<linealt>
+『まっくらどうくつ』に<linealt>
+１ぴきしかいねえんだ<end>
+
+
+//POINTER #177 @ $2D2CBC - STRING #177 @ $2CE750
+
+#W32($2D2CBC)
+//よくみないとわかんねえけど<linealt>
+みけんに　シワが<linealt>
+よってるのがとくちょうだ<end>
+
+
+//POINTER #178 @ $2D2CC0 - STRING #178 @ $2CE798
+
+#W32($2D2CC0)
+//水の中を<linealt>
+いったりきたりしてるぞ<linealt>
+とくにキケンはねぇ<end>
+
+
+//POINTER #179 @ $2D2CC4 - STRING #179 @ $2CE7CC
+
+#W32($2D2CC4)
+//コイツ　目ぇあかいな・・<linealt>
+つかれ目には　目ぐすりだぜ<linealt>
+目はだいじにしろよ<end>
+
+
+//POINTER #180 @ $2D2CC8 - STRING #180 @ $2CE814
+
+#W32($2D2CC8)
+//はっぱのぶぶんを<linealt>
+つるぎみたいに　のばして<linealt>
+こうげきしてくるぞ<end>
+
+
+//POINTER #181 @ $2D2CCC - STRING #181 @ $2CE854
+
+#W32($2D2CCC)
+//みそしるに　入れても<linealt>
+あんまり<linealt>
+うまくなさそうだな・・<end>
+
+
+//POINTER #182 @ $2D2CD0 - STRING #182 @ $2CE88C
+
+#W32($2D2CD0)
+//水の中だろうが<linealt>
+くうちゅうだろうが<linealt>
+どこでも　ついてきやがる<end>
+
+
+//POINTER #183 @ $2D2CD4 - STRING #183 @ $2CE8C8
+
+#W32($2D2CD4)
+//ま　カッコいいオレさまに<linealt>
+ついてきたいって　きもちは<linealt>
+わかるがな<end>
+
+
+//POINTER #184 @ $2D2CD8 - STRING #184 @ $2CE908
+
+#W32($2D2CD8)
+//ヨダレ　ふけーーーっ！！<linealt>
+ヨダレたらしながら<linealt>
+おっかけてくんな！<end>
+
+
+//POINTER #185 @ $2D2CDC - STRING #185 @ $2CE948
+
+#W32($2D2CDC)
+//キタネーなあ　もう！<linealt>
+エチケットって　ことばを<linealt>
+知らねーのか<end>
+
+
+//POINTER #186 @ $2D2CE0 - STRING #186 @ $2CE984
+
+#W32($2D2CE0)
+//ちっちぇえくせに<linealt>
+ながいハリを出してくる<linealt>
+ナマイキなヤローだ<end>
+
+
+//POINTER #187 @ $2D2CE4 - STRING #187 @ $2CE9C0
+
+#W32($2D2CE4)
+//ったく　なんでも出しゃ<linealt>
+いいってもんじゃ<linealt>
+ねーだろーがよ！<end>
+
+
+//POINTER #188 @ $2D2CE8 - STRING #188 @ $2CCEAC
+
+#W32($2D2CE8)
+//スミのタマをはき出して<linealt>
+こうげきするぞ<end>
+
+
+//POINTER #189 @ $2D2CEC - STRING #189 @ $2CE9FC
+
+#W32($2D2CEC)
+//メットのなかみは<linealt>
+じつは　イカだって<linealt>
+ウワサだ・・・<end>
+
+
+//POINTER #190 @ $2D2CF0 - STRING #190 @ $2CEA30
+
+#W32($2D2CF0)
+//近づくと　ちいさなハネで<linealt>
+あわててにげてくぞ<linealt>
+フン　よわむしめ<end>
+
+
+//POINTER #191 @ $2D2CF4 - STRING #191 @ $2CEA70
+
+#W32($2D2CF4)
+//ま　あんな　おもそうな<linealt>
+からだで　とべるんだから<linealt>
+すげーけどな<end>
+
+
+//POINTER #192 @ $2D2CF8 - STRING #192 @ $2CEAB0
+
+#W32($2D2CF8)
+//トゲのついた　タテを<linealt>
+もってるから<linealt>
+まえから近づくとキケンだ<end>
+
+
+//POINTER #193 @ $2D2CFC - STRING #193 @ $2CEAEC
+
+#W32($2D2CFC)
+//コイツのエガオが<linealt>
+すげームカツクのは<linealt>
+オレさまだけか？<end>
+
+
+//POINTER #194 @ $2D2D00 - STRING #194 @ $2CEB24
+
+#W32($2D2D00)
+//あなから　とび出てくる<linealt>
+ヤなヤローだ<linealt>
+びっくりさすな！<end>
+
+
+//POINTER #195 @ $2D2D04 - STRING #195 @ $2CEB5C
+
+#W32($2D2D04)
+//ふだんは　あなの中で<linealt>
+シェルアターみたりとか<linealt>
+してるらしいぞ<end>
+
+
+//POINTER #196 @ $2D2D08 - STRING #196 @ $2CEB98
+
+#W32($2D2D08)
+//ニクがだいこうぶつで<linealt>
+スタフィーそっちのけで<linealt>
+おっかけて行くぞ<end>
+
+
+//POINTER #197 @ $2D2D0C - STRING #197 @ $2CEBD8
+
+#W32($2D2D0C)
+//ケッ<linealt>
+いやしいヤツめ！<end>
+
+
+//POINTER #198 @ $2D2D10 - STRING #198 @ $2CEBF0
+
+#W32($2D2D10)
+//きょだいな口で<linealt>
+水りゅうを<linealt>
+がぶがぶ　すいこんでるんだ<end>
+
+
+//POINTER #199 @ $2D2D14 - STRING #199 @ $2CEC28
+
+#W32($2D2D14)
+//それにしても<linealt>
+カベに　うまってるぶぶんは<linealt>
+どうなってるんだろうな？<end>
+
+
+//POINTER #200 @ $2D2D18 - STRING #200 @ $2CEC6C
+
+#W32($2D2D18)
+//『インドアどうくつ』の<linealt>
+しかけに　使われてた<linealt>
+ヤツだ<end>
+
+
+//POINTER #201 @ $2D2D1C - STRING #201 @ $2CECA0
+
+#W32($2D2D1C)
+//あのどうくつは<linealt>
+たいへんだったな・・・<end>
+
+
+//POINTER #202 @ $2D2D20 - STRING #202 @ $2CEC6C
+
+#W32($2D2D20)
+//『インドアどうくつ』の<linealt>
+しかけに　使われてた<linealt>
+ヤツだ<end>
+
+
+//POINTER #203 @ $2D2D24 - STRING #203 @ $2CECC8
+
+#W32($2D2D24)
+//ドジのスタフィーの<linealt>
+せいで　クリアにじかんが<linealt>
+かかっちまった<end>
+
+
+//POINTER #204 @ $2D2D28 - STRING #204 @ $2CEC6C
+
+#W32($2D2D28)
+//『インドアどうくつ』の<linealt>
+しかけに　使われてた<linealt>
+ヤツだ<end>
+
+
+//POINTER #205 @ $2D2D2C - STRING #205 @ $2CED04
+
+#W32($2D2D2C)
+//ま　オレさまにかかれば<linealt>
+ラクショーな<linealt>
+ぼうけんだったけどな<end>
+
+
+//POINTER #206 @ $2D2D30 - STRING #206 @ $2CED40
+
+#W32($2D2D30)
+//くらいばしょを<linealt>
+てらしてくれる<linealt>
+なかなかイイヤツだ<end>
+
+
+//POINTER #207 @ $2D2D34 - STRING #207 @ $2CED74
+
+#W32($2D2D34)
+//へやに　おいたら<linealt>
+でんとう　がわりに<linealt>
+なんねえかな・・・？<end>
+
+
+//POINTER #208 @ $2D2D38 - STRING #208 @ $2CEDB0
+
+#W32($2D2D38)
+//あいかわらず　オロオロした<linealt>
+ヤロウだったぜ<end>
+
+
+//POINTER #209 @ $2D2D3C - STRING #209 @ $2CEDDC
+
+#W32($2D2D3C)
+//でも　さすがに<linealt>
+おんがくのことになると<linealt>
+ガンコだったな<end>
+
+
+//POINTER #210 @ $2D2D40 - STRING #210 @ $2CEE14
+
+#W32($2D2D40)
+//そんなに　だいじな<linealt>
+ツボなら<linealt>
+なくすなっつーの！<end>
+
+
+//POINTER #211 @ $2D2D44 - STRING #211 @ $2CEE44
+
+#W32($2D2D44)
+//まぁ　さんずのかわの<linealt>
+おばあちゃんに　あうハメに<linealt>
+ならなくて　よかったな<end>
+
+
+//POINTER #212 @ $2D2D48 - STRING #212 @ $2CEE8C
+
+#W32($2D2D48)
+//オオタルイカの<linealt>
+子分たちだな<wait>あのタルのなかみ<linealt>
+どうなってるんだ？<linealt>
+フロのときは　ぬぐのか？<end>
+
+
+//POINTER #213 @ $2D2D4C - STRING #213 @ $2CEEA8
+
+#W32($2D2D4C)
+//あのタルのなかみ<linealt>
+どうなってるんだ？<linealt>
+フロのときは　ぬぐのか？<end>
+
+
+//POINTER #214 @ $2D2D50 - STRING #214 @ $2CEEE8
+
+#W32($2D2D50)
+//なんかコイツ<linealt>
+ヒミツのしゅみが<linealt>
+あるらしいぞ<end>
+
+
+//POINTER #215 @ $2D2D54 - STRING #215 @ $2CEF14
+
+#W32($2D2D54)
+//あいにいってみたら<linealt>
+どうだ？　なんか<linealt>
+わかるかもしんねーぞ？<end>
+
+
+//POINTER #216 @ $2D2D58 - STRING #216 @ $2CEF50
+
+#W32($2D2D58)
+//お子ちゃまのくせに<linealt>
+いばりちらした<linealt>
+ヤツだったなー<end>
+
+
+//POINTER #217 @ $2D2D5C - STRING #217 @ $2CEF84
+
+#W32($2D2D5C)
+//ったく<linealt>
+口だけヤローってのは<linealt>
+コイツのことだぜ！<end>
+
+
+//POINTER #218 @ $2D2D60 - STRING #218 @ $2CEFB4
+
+#W32($2D2D60)
+//プチオーグラ６ごうが<linealt>
+つよがって　きてた<linealt>
+きぐるみだな<end>
+
+
+//POINTER #219 @ $2D2D64 - STRING #219 @ $2CEFEC
+
+#W32($2D2D64)
+//お子ちゃまの<linealt>
+おもちゃにしちゃ<linealt>
+ぶっそうすぎるぜ<end>
+
+
+//POINTER #220 @ $2D2D68 - STRING #220 @ $2CF01C
+
+#W32($2D2D68)
+//スピンをすると<linealt>
+カラにとじこもる<linealt>
+ヒキョーなヤツだ<end>
+
+
+//POINTER #221 @ $2D2D6C - STRING #221 @ $2CF050
+
+#W32($2D2D6C)
+//まっかなカラなんて<linealt>
+ハデすぎて<linealt>
+イヤミなヤローだ<end>
+
+
+//POINTER #222 @ $2D2D70 - STRING #222 @ $2CF080
+
+#W32($2D2D70)
+//うおっ！！<linealt>
+なんだ　コイツ！<linealt>
+こわいカオだな<end>
+
+
+//POINTER #223 @ $2D2D74 - STRING #223 @ $2CF0AC
+
+#W32($2D2D74)
+//つーか　そのカオで<linealt>
+わらうなってーの<linealt>
+よけい　こわいぞ<end>
+
+
+//POINTER #224 @ $2D2D78 - STRING #224 @ $2CF0E4
+
+#W32($2D2D78)
+//ぜんしんから　トゲを出して<linealt>
+近づいてくる<linealt>
+キケンなヤツなんだ<end>
+
+
+//POINTER #225 @ $2D2D7C - STRING #225 @ $2CF120
+
+#W32($2D2D7C)
+//ったく　おとなしく<linealt>
+ねてりゃいーのに・・・<end>
+
+
+//POINTER #226 @ $2D2D80 - STRING #226 @ $2CF14C
+
+#W32($2D2D80)
+//１ぴき　みたら<linealt>
+３０ぴきってのは<linealt>
+コイツのことだ<end>
+
+
+//POINTER #227 @ $2D2D84 - STRING #227 @ $2CF17C
+
+#W32($2D2D84)
+//べつに　『がい』はねーが<linealt>
+できれば　出てこないで<linealt>
+ほしいな・・・・・<end>
+
+
+//POINTER #228 @ $2D2D88 - STRING #228 @ $2CF1C0
+
+#W32($2D2D88)
+//トゲのついた　てつの<linealt>
+タマを　ぶつけてくるんだ<end>
+
+
+//POINTER #229 @ $2D2D8C - STRING #229 @ $2CF1F0
+
+#W32($2D2D8C)
+//あのキックりょくなら<linealt>
+キックでこうげきしたほうが<linealt>
+いいんじゃねえか？<end>
+
+
+//POINTER #230 @ $2D2D90 - STRING #230 @ $2CF234
+
+#W32($2D2D90)
+//かわいい　がいけんに<linealt>
+だまされるなよ！！！<end>
+
+
+//POINTER #231 @ $2D2D94 - STRING #231 @ $2CF260
+
+#W32($2D2D94)
+//あいつのせいで<linealt>
+どんだけ　ひどいめに<linealt>
+あったか・・・<end>
+
+
+//POINTER #232 @ $2D2D98 - STRING #232 @ $2CF294
+
+#W32($2D2D98)
+//上をとおると<linealt>
+びよーんとのびて<linealt>
+こうげきしてくるぞ<end>
+
+
+//POINTER #233 @ $2D2D9C - STRING #233 @ $2CF2C8
+
+#W32($2D2D9C)
+//いっつも　わらってるから<linealt>
+ちょっと　きしょくわりーぜ<wait>なんでコイツ<linealt>
+近よっただけで<linealt>
+にげようとするんだ？<end>
+
+
+//POINTER #234 @ $2D2DA0 - STRING #234 @ $2CF2FC
+
+#W32($2D2DA0)
+//なんでコイツ<linealt>
+近よっただけで<linealt>
+にげようとするんだ？<end>
+
+
+//POINTER #235 @ $2D2DA4 - STRING #235 @ $2CF330
+
+#W32($2D2DA4)
+//べつに　おにごっことか<linealt>
+してねーっつーの<wait>でけえ　ミミで<linealt>
+そらをとんでる<linealt>
+かわったヤローだ<end>
+
+
+//POINTER #236 @ $2D2DA8 - STRING #236 @ $2CF358
+
+#W32($2D2DA8)
+//でけえ　ミミで<linealt>
+そらをとんでる<linealt>
+かわったヤローだ<end>
+
+
+//POINTER #237 @ $2D2DAC - STRING #237 @ $2CF388
+
+#W32($2D2DAC)
+//ケッ！　ミミでとぶのは<linealt>
+ゾウだけで<linealt>
+たくさんだっつーの！<end>
+
+
+//POINTER #238 @ $2D2DB0 - STRING #238 @ $2CF3C0
+
+#W32($2D2DB0)
+//水のまわりを<linealt>
+ぐるぐる　回ってて<linealt>
+おちたりしねーのか？<end>
+
+
+//POINTER #239 @ $2D2DB4 - STRING #239 @ $2CF3F8
+
+#W32($2D2DB4)
+//ウワサじゃ　あしのウラに<linealt>
+びっしり　きゅうばんが<linealt>
+ついてるとか・・・・ウワぁ<end>
+
+
+//POINTER #240 @ $2D2DB8 - STRING #240 @ $2CF444
+
+#W32($2D2DB8)
+//なんかい　たおしても<linealt>
+おきあがってくる<linealt>
+うっとーしいヤローだが<end>
+
+
+//POINTER #241 @ $2D2DBC - STRING #241 @ $2CF484
+
+#W32($2D2DBC)
+//そのたびに　サングラスを<linealt>
+かけなおしてくるのは<linealt>
+なんか　エライと思うぞ！<end>
+
+
+//POINTER #242 @ $2D2DC0 - STRING #242 @ $2CF4CC
+
+#W32($2D2DC0)
+//つねに　目からビームを<linealt>
+だして　とおせんぼしている<linealt>
+ヤロー・・・いや！キカイだ<end>
+
+
+//POINTER #243 @ $2D2DC4 - STRING #243 @ $2CF51C
+
+#W32($2D2DC4)
+//アタマのいい　オレさまの<linealt>
+アイデアがねーと　ビームを<linealt>
+止めることは　ムリだったな<end>
+
+
+//POINTER #244 @ $2D2DC8 - STRING #244 @ $2CF56C
+
+#W32($2D2DC8)
+//スタフィーが　よけいなこと<linealt>
+しなけりゃ　コイツらを<linealt>
+ギッタギタに　こらしめる<end>
+
+
+//POINTER #245 @ $2D2DCC - STRING #245 @ $2CF5B8
+
+#W32($2D2DCC)
+//オレさまの　かつやくを<linealt>
+みせられたんだがなぁ・・・<linealt>
+<end>
+
+
+//POINTER #246 @ $2D2DD0 - STRING #246 @ $2CF5EC
+
+#W32($2D2DD0)
+//どっかのりょこうがいしゃの<linealt>
+ガイドらしいが<linealt>
+ふつうに　はなすときも<end>
+
+
+//POINTER #247 @ $2D2DD4 - STRING #247 @ $2CF630
+
+#W32($2D2DD4)
+//ガイドのはなしかたってのも<linealt>
+どーかと思うぞ！<linealt>
+あと　人をハタでさすな！<end>
+
+
+//POINTER #248 @ $2D2DD8 - STRING #248 @ $2CF678
+
+#W32($2D2DD8)
+//コイツらに　あうときには<linealt>
+いっつも　こまってたり<linealt>
+ないてたりするんだよな！<end>
+
+
+//POINTER #249 @ $2D2DDC - STRING #249 @ $2CF6C4
+
+#W32($2D2DDC)
+//おやこそろって　カニカニと<linealt>
+やかましいぞ！<linealt>
+アタマん中　カニだらけだ！<end>
+
+
+//POINTER #250 @ $2D2DE0 - STRING #250 @ $2CF70C
+
+#W32($2D2DE0)
+//へんなかっこうと<linealt>
+ゴワスゴワスって　へんな<linealt>
+はなしかたをするヤツだ！<end>
+
+
+//POINTER #251 @ $2D2DE4 - STRING #251 @ $2CF750
+
+#W32($2D2DE4)
+//ムスメとちがって<linealt>
+気がよわそうな<linealt>
+かんじがするぞ！<end>
+
+
+//POINTER #252 @ $2D2DE8 - STRING #252 @ $2CF784
+
+#W32($2D2DE8)
+//イワに　とじこめられても<linealt>
+その中で　いねむりキメてる<linealt>
+しんけいの　ずぶといヤツだ<end>
+
+
+//POINTER #253 @ $2D2DEC - STRING #253 @ $2CF7D4
+
+#W32($2D2DEC)
+//ナマズドンのムスメらしいが<linealt>
+こんな　おてんばだと<linealt>
+くろうするよな！<end>
+
+
+//POINTER #254 @ $2D2DF0 - STRING #254 @ $2CF818
+
+#W32($2D2DF0)
+//スクープもとめて<linealt>
+海をわたりあるいている<linealt>
+カメラマンらしいぞ！<end>
+
+
+//POINTER #255 @ $2D2DF4 - STRING #255 @ $2CF858
+
+#W32($2D2DF4)
+//オレさまのしゃしんを<linealt>
+いっぱいとって　うれば<linealt>
+うりきれかくじつだな！<end>
+
+
+//POINTER #256 @ $2D2DF8 - STRING #256 @ $2CF89C
+
+#W32($2D2DF8)
+//自分のことより　子供たちの<linealt>
+ことを　先に　かんがえる<linealt>
+いい先生だな<end>
+
+
+//POINTER #257 @ $2D2DFC - STRING #257 @ $2CF8E0
+
+#W32($2D2DFC)
+//オレさまと　まったく<linealt>
+いっしょの　かんがえかたの<linealt>
+もちぬしだな！うんうん！<end>
+
+
+//POINTER #258 @ $2D2E00 - STRING #258 @ $2CF92C
+
+#W32($2D2E00)
+//コルンドル先生のガッコウの<linealt>
+せいとたちだな！<wait>今ごろ　ガッコウでは<linealt>
+オレさまの　かつやくの<linealt>
+はなしで　もちきりだろうな<end>
+
+
+//POINTER #259 @ $2D2E04 - STRING #259 @ $2CF958
+
+#W32($2D2E04)
+//今ごろ　ガッコウでは<linealt>
+オレさまの　かつやくの<linealt>
+はなしで　もちきりだろうな<end>
+
+
+//POINTER #260 @ $2D2E08 - STRING #260 @ $2CF9A0
+
+#W32($2D2E08)
+//そーいや　コイツにはじめて<linealt>
+あったときは　オレさまの<linealt>
+はなしを　１つもきかずに<end>
+
+
+//POINTER #261 @ $2D2E0C - STRING #261 @ $2CF9F0
+
+#W32($2D2E0C)
+//こうげきしてきやがったな！<linealt>
+今回も　オレさまのはなしを<linealt>
+きかずじまいだ！<end>
+
+
+//POINTER #262 @ $2D2E10 - STRING #262 @ $2CFA38
+
+#W32($2D2E10)
+//バクダンあそびが<linealt>
+大すきな　かなり<linealt>
+アブナイヤツだ！<end>
+
+
+//POINTER #263 @ $2D2E14 - STRING #263 @ $2CFA6C
+
+#W32($2D2E14)
+//ムシされないように<linealt>
+ひっしになってたな！<wait>プチオーグラ７ごうが<linealt>
+よういした　のりものだな！<wait>しっかし　いったい<linealt>
+だれが　こんなもん<linealt>
+つくったんだ？<end>
+
+
+//POINTER #264 @ $2D2E18 - STRING #264 @ $2CFA94
+
+#W32($2D2E18)
+//プチオーグラ７ごうが<linealt>
+よういした　のりものだな！<wait>しっかし　いったい<linealt>
+だれが　こんなもん<linealt>
+つくったんだ？<end>
+
+
+//POINTER #265 @ $2D2E1C - STRING #265 @ $2CFAC4
+
+#W32($2D2E1C)
+//しっかし　いったい<linealt>
+だれが　こんなもん<linealt>
+つくったんだ？<end>
+
+
+//POINTER #266 @ $2D2E20 - STRING #266 @ $2CFAFC
+
+#W32($2D2E20)
+//水中で　ひかってる<linealt>
+めだちたがりやだ！<end>
+
+
+//POINTER #267 @ $2D2E24 - STRING #267 @ $2CFB24
+
+#W32($2D2E24)
+//・・オレさまも　ひかったら<linealt>
+モテモテになれるかな？<end>
+
+
+//POINTER #268 @ $2D2E28 - STRING #268 @ $2CFB58
+
+#W32($2D2E28)
+//コイツは　ひのカタマリだ<linealt>
+さわったら<linealt>
+ヤケドしちまうぞ<end>
+
+
+//POINTER #269 @ $2D2E2C - STRING #269 @ $2CFB90
+
+#W32($2D2E2C)
+//オレさまなんか<linealt>
+やきハマグリに<linealt>
+なっちまうな・・・・・<end>
+
+
+//POINTER #270 @ $2D2E30 - STRING #270 @ $2CFBC8
+
+#W32($2D2E30)
+//でけえ目んたま　ひんむいて<linealt>
+みちを　ふさごうとするんだ<end>
+
+
+//POINTER #271 @ $2D2E34 - STRING #271 @ $2CFC00
+
+#W32($2D2E34)
+//目ぐすりさすの<linealt>
+たいへんそうだな・・・<linealt>
+なんぼん　いるんだろう？<end>
+
+
+//POINTER #272 @ $2D2E38 - STRING #272 @ $2CFC40
+
+#W32($2D2E38)
+//ムシのくせに<linealt>
+そらをとぶなんて<linealt>
+ナマイキだよな<end>
+
+
+//POINTER #273 @ $2D2E3C - STRING #273 @ $2CFC70
+
+#W32($2D2E3C)
+//きゅうに出てこられたら<linealt>
+ちょっとだけ<linealt>
+びっくりするぞ<end>
+
+
+//POINTER #274 @ $2D2E40 - STRING #274 @ $2CFCA4
+
+#W32($2D2E40)
+//そらを　すごいスピードで<linealt>
+よこぎってくんだ<end>
+
+
+//POINTER #275 @ $2D2E44 - STRING #275 @ $2CFCD0
+
+#W32($2D2E44)
+//そのマント　かっこいい<linealt>
+とでも思ってんのか？<linealt>
+ダセーぞ　ふろしきみたいで<end>
+
+
+//POINTER #276 @ $2D2E48 - STRING #276 @ $2CFD18
+
+#W32($2D2E48)
+//水のまわりを<linealt>
+回ってるから<linealt>
+ジャマでしょーがねーよ<end>
+
+
+//POINTER #277 @ $2D2E4C - STRING #277 @ $2CFD4C
+
+#W32($2D2E4C)
+//かわいいからって<linealt>
+ようしゃしねーぞ<linealt>
+コノヤロー<end>
+
+
+//POINTER #278 @ $2D2E50 - STRING #278 @ $2CFD7C
+
+#W32($2D2E50)
+//３びきどうじに<linealt>
+こうげきしてくる<linealt>
+ガイコツヤローだ<end>
+
+
+//POINTER #279 @ $2D2E54 - STRING #279 @ $2CFDB0
+
+#W32($2D2E54)
+//なんびきで　きたって<linealt>
+このキョロスケさまに<linealt>
+かなうわけねーぜ！<end>
+
+
+//POINTER #280 @ $2D2E58 - STRING #280 @ $2CFDF0
+
+#W32($2D2E58)
+//なんど　たおしても<linealt>
+ふっかつするから<linealt>
+キリがねえんだよなー<end>
+
+
+//POINTER #281 @ $2D2E5C - STRING #281 @ $2CFE2C
+
+#W32($2D2E5C)
+//おばけやしきとかに<linealt>
+いそうな　カオしてるよな<wait>たおしても　たおしても<linealt>
+元どおりになる<linealt>
+うっとうしいヤローだ<end>
+
+
+//POINTER #282 @ $2D2E60 - STRING #282 @ $2CFE58
+
+#W32($2D2E60)
+//たおしても　たおしても<linealt>
+元どおりになる<linealt>
+うっとうしいヤローだ<end>
+
+
+//POINTER #283 @ $2D2E64 - STRING #283 @ $2CFE94
+
+#W32($2D2E64)
+//まあ　その　しぶとさだけは<linealt>
+ほめてやっても　いいぞ<end>
+
+
+//POINTER #284 @ $2D2E68 - STRING #284 @ $2CFEC8
+
+#W32($2D2E68)
+//へぁーくしょん！<linealt>
+ああ　オレさまも<linealt>
+くしゃみが出てきた・・<end>
+
+
+//POINTER #285 @ $2D2E6C - STRING #285 @ $2CFF04
+
+#W32($2D2E6C)
+//かわい子ちゃんが<linealt>
+オレさまの　ウワサでも<linealt>
+してんのかな・・？　でへっ<end>
+
+
+//POINTER #286 @ $2D2E70 - STRING #286 @ $2CFF48
+
+#W32($2D2E70)
+//オーグラが　つくり出した<linealt>
+ていさつがた　せいぶつ<wait>つねに　オーグラに<linealt>
+じょうほうを<linealt>
+おくっているらしいぞ！<end>
+
+
+//POINTER #287 @ $2D2E74 - STRING #287 @ $2CFF78
+
+#W32($2D2E74)
+//つねに　オーグラに<linealt>
+じょうほうを<linealt>
+おくっているらしいぞ！<end>
+
+
+//POINTER #288 @ $2D2E78 - STRING #288 @ $2CFFB0
+
+#W32($2D2E78)
+//今回も　たよりない<linealt>
+スタフィーの　なかまだ<end>
+
+
+//POINTER #289 @ $2D2E7C - STRING #289 @ $2CFFDC
+
+#W32($2D2E7C)
+//コイツら　いつになったら<linealt>
+しっかりするように<linealt>
+なるんかねえ・・<end>
+
+
+//POINTER #290 @ $2D2E80 - STRING #290 @ $2D001C
+
+#W32($2D2E80)
+//たよりない<linealt>
+テンカイのじゅうにんの<linealt>
+ガキどもだ<end>
+
+
+//POINTER #291 @ $2D2E84 - STRING #291 @ $2D004C
+
+#W32($2D2E84)
+//・・ったく　いつまで<linealt>
+人に　たよるつもりなんだ？<linealt>
+コイツら・・<end>
+
+
+//POINTER #292 @ $2D2E88 - STRING #292 @ $2D008C
+
+#W32($2D2E88)
+//でけえ　まゆげの<linealt>
+つねに　やる気のない<linealt>
+ナゾなヤツだ<end>
+
+
+//POINTER #293 @ $2D2E8C - STRING #293 @ $2D00C0
+
+#W32($2D2E8C)
+//いつから　なんのために<linealt>
+テンカイに　すみついたのか<linealt>
+それすらナゾだ・・<end>
+
+
+//POINTER #294 @ $2D2E90 - STRING #294 @ $2D0108
+
+#W32($2D2E90)
+//オイッスー！<linealt>
+たのもしい　ヤリイカーズの<linealt>
+リーダーの　オッサンだ<end>
+
+
+//POINTER #295 @ $2D2E94 - STRING #295 @ $2D0148
+
+#W32($2D2E94)
+//今　なんか　はたらきすぎで<linealt>
+カラダこわしてるらしい・・<linealt>
+はやく元気になれよー！<end>
+
+
+//POINTER #296 @ $2D2E98 - STRING #296 @ $2D0198
+
+#W32($2D2E98)
+//ヤリイカーズの　メンバー<linealt>
+かみなりといえば　コイツだ<wait>かみなりぱんつが<linealt>
+大の　お気に入りらしいぞ<end>
+
+
+//POINTER #297 @ $2D2E9C - STRING #297 @ $2D01CC
+
+#W32($2D2E9C)
+//かみなりぱんつが<linealt>
+大の　お気に入りらしいぞ<end>
+
+
+//POINTER #298 @ $2D2EA0 - STRING #298 @ $2D01F8
+
+#W32($2D2EA0)
+//ヤリイカーズの　メンバー<linealt>
+たいそうといえば　コイツだ<wait>たいそうタイツが<linealt>
+大の　お気に入りらしいぞ<end>
+
+
+//POINTER #299 @ $2D2EA4 - STRING #299 @ $2D022C
+
+#W32($2D2EA4)
+//たいそうタイツが<linealt>
+大の　お気に入りらしいぞ<end>
+
+
+//POINTER #300 @ $2D2EA8 - STRING #300 @ $2D0258
+
+#W32($2D2EA8)
+//ヤリイカーズの　メンバー<linealt>
+くしゃみといえば　コイツだ<wait>そういや　コイツ<linealt>
+カゼは　なおったのかなあ<end>
+
+
+//POINTER #301 @ $2D2EAC - STRING #301 @ $2D028C
+
+#W32($2D2EAC)
+//そういや　コイツ<linealt>
+カゼは　なおったのかなあ<end>
+
+
+//POINTER #302 @ $2D2EB0 - STRING #302 @ $2D02B8
+
+#W32($2D2EB0)
+//ヤリイカーズの　メンバー<linealt>
+ヘンなヤツといえば<linealt>
+コイツだ<end>
+
+
+//POINTER #303 @ $2D2EB4 - STRING #303 @ $2D02F0
+
+#W32($2D2EB4)
+//なんでも　このまえまで<linealt>
+ヤリイカーズの<linealt>
+みならいだったらしい・・<end>
+
+
+//POINTER #304 @ $2D2EB8 - STRING #304 @ $2D0330
+
+#W32($2D2EB8)
+//今回も　とうじょうした<linealt>
+そらとぶ　テンカイの<linealt>
+タクシー！<end>
+
+
+//POINTER #305 @ $2D2EBC - STRING #305 @ $2D0368
+
+#W32($2D2EBC)
+//たいいくかいけいの<linealt>
+『・・・ッス』くちょうが<linealt>
+とくちょうてきな　ヤツだ<end>
+
+
+//POINTER #306 @ $2D2EC0 - STRING #306 @ $2D03B0
+
+#W32($2D2EC0)
+//ぶんしんのじゅつを<linealt>
+つかう　あやしい<linealt>
+ワルモノだ<end>
+
+
+//POINTER #307 @ $2D2EC4 - STRING #307 @ $2D03E0
+
+#W32($2D2EC4)
+//『かげ』をみれば<linealt>
+すぐ　みやぶれるんだがな<linealt>
+プククッ！・・・<end>
+
+
+//POINTER #308 @ $2D2EC8 - STRING #308 @ $2D041C
+
+#W32($2D2EC8)
+//プチオーグラ８ごうの<linealt>
+お気に入りの　のりものだ<end>
+
+
+//POINTER #309 @ $2D2ECC - STRING #309 @ $2D044C
+
+#W32($2D2ECC)
+//クチから　ガンガン<linealt>
+タマうってきやがって<linealt>
+よけるのにくろうしたぜ・・<end>
+
+
+//POINTER #310 @ $2D2ED0 - STRING #310 @ $2D0490
+
+#W32($2D2ED0)
+//コイツ　サイアクだぞ！<linealt>
+とびながら　フンを<linealt>
+おとしてきやがるんだ<end>
+
+
+//POINTER #311 @ $2D2ED4 - STRING #311 @ $2D04D0
+
+#W32($2D2ED4)
+//くっつくと　くせーし・・・<linealt>
+オレさまがハデヒラリさんに<linealt>
+きらわれちまうだろーが！<end>
+
+
+//POINTER #312 @ $2D2ED8 - STRING #312 @ $2D0520
+
+#W32($2D2ED8)
+//上下にとびながら<linealt>
+ホネをなげてくるぞ<wait>タコメットとイカメットの<linealt>
+せいで　いまいち<linealt>
+メジャーになれねえらしい<end>
+
+
+//POINTER #313 @ $2D2EDC - STRING #313 @ $2D0544
+
+#W32($2D2EDC)
+//タコメットとイカメットの<linealt>
+せいで　いまいち<linealt>
+メジャーになれねえらしい<end>
+
+
+//POINTER #314 @ $2D2EE0 - STRING #314 @ $2D0588
+
+#W32($2D2EE0)
+//ライトでしゅういを<linealt>
+てらしながら　海のそこを<linealt>
+あるき回ってるヤツだ<end>
+
+
+//POINTER #315 @ $2D2EE4 - STRING #315 @ $2D05CC
+
+#W32($2D2EE4)
+//そんなとこに　おたからは<linealt>
+おちてねえっつーの<wait>アタマの　ちょうちんを<linealt>
+たよりに　水の中を<linealt>
+行ったりきたりしてるぞ<end>
+
+
+//POINTER #316 @ $2D2EE8 - STRING #316 @ $2D05F8
+
+#W32($2D2EE8)
+//アタマの　ちょうちんを<linealt>
+たよりに　水の中を<linealt>
+行ったりきたりしてるぞ<end>
+
+
+//POINTER #317 @ $2D2EEC - STRING #317 @ $2D063C
+
+#W32($2D2EEC)
+//でもよー<linealt>
+あんなモンくっついてても<linealt>
+ジャマなだけじゃねーのか？<end>
+
+
+//POINTER #318 @ $2D2EF0 - STRING #318 @ $2D067C
+
+#W32($2D2EF0)
+//近づくと　６ぽんもある<linealt>
+トゲをのばして<linealt>
+しんろを　ジャマするぞ<end>
+
+
+//POINTER #319 @ $2D2EF4 - STRING #319 @ $2D06BC
+
+#W32($2D2EF4)
+//めずらしーヤツだから<linealt>
+みつけるの<linealt>
+くろうしたんじゃないか？<end>
+
+
+//POINTER #320 @ $2D2EF8 - STRING #320 @ $2D06F8
+
+#W32($2D2EF8)
+//アタマにかぶってる<linealt>
+ドクロのせいで<linealt>
+たおすのが　めんどくせえ<end>
+
+
+//POINTER #321 @ $2D2EFC - STRING #321 @ $2D0734
+
+#W32($2D2EFC)
+//あのドクロ　だれのなんだ？<linealt>
+ひょっとして・・・・・・・<linealt>
+・・・・・・・・・・コワッ<end>
+
+
+//POINTER #322 @ $2D2F00 - STRING #322 @ $2D0788
+
+#W32($2D2F00)
+//みためは　のろそうだけど<linealt>
+けっこう　はやいスピードで<linealt>
+近づいてくるぞ<end>
+
+
+//POINTER #323 @ $2D2F04 - STRING #323 @ $2D07CC
+
+#W32($2D2F04)
+//オレさまのゴージャスな<linealt>
+きいろにくらべて<linealt>
+びんぼくさいかいがらだよな<end>
+
+
+//POINTER #324 @ $2D2F08 - STRING #324 @ $2D0810
+
+#W32($2D2F08)
+//きゅうこうかして<linealt>
+ねらってくる<linealt>
+せんとうきみたいなヤツだ<end>
+
+
+//POINTER #325 @ $2D2F0C - STRING #325 @ $2D0848
+
+#W32($2D2F0C)
+//よくみたら　ヨダレ<linealt>
+たらしてるんだよな・・・<linealt>
+きたねーっつーの<end>
+
+
+//POINTER #326 @ $2D2F10 - STRING #326 @ $2D0888
+
+#W32($2D2F10)
+//ジョージローの<linealt>
+子分だけあって<linealt>
+でかくてつよそうだ<end>
+
+
+//POINTER #327 @ $2D2F14 - STRING #327 @ $2D08BC
+
+#W32($2D2F14)
+//でも　なんでオレさまたちの<linealt>
+ジャマするんだ？　ステキな<linealt>
+オレさまへの　しっとか？<end>
+
+
+//POINTER #328 @ $2D2F18 - STRING #328 @ $2D090C
+
+#W32($2D2F18)
+//コイツのはく　タマに<linealt>
+あたると　ダメージを<linealt>
+くらっちまうんだ<end>
+
+
+//POINTER #329 @ $2D2F1C - STRING #329 @ $2D0948
+
+#W32($2D2F1C)
+//上下ぎゃくでも<linealt>
+カオにみえるって<linealt>
+ひょうばんだぞ<end>
+
+
+//POINTER #330 @ $2D2F20 - STRING #330 @ $2D0978
+
+#W32($2D2F20)
+//なんなんだ　コイツ！<linealt>
+なんでトサカが生えてんだ？<linealt>
+なんで　なげれるんだ？？<end>
+
+
+//POINTER #331 @ $2D2F24 - STRING #331 @ $2D09C4
+
+#W32($2D2F24)
+//ツッコミどころがありすぎて<linealt>
+ツッコミきれねえぞ・・・<wait>みためはこえーが<linealt>
+ワープさせてくれる<linealt>
+おたすけキャラだぞ<end>
+
+
+//POINTER #332 @ $2D2F28 - STRING #332 @ $2D09F8
+
+#W32($2D2F28)
+//みためはこえーが<linealt>
+ワープさせてくれる<linealt>
+おたすけキャラだぞ<end>
+
+
+//POINTER #333 @ $2D2F2C - STRING #333 @ $2D0A30
+
+#W32($2D2F2C)
+//むかしはトラックやろう<linealt>
+だったらしい・・・<linealt>
+く～　オトコらしいぜ！<end>
+
+
+//POINTER #334 @ $2D2F30 - STRING #334 @ $2D0A74
+
+#W32($2D2F30)
+//くっつかれると<linealt>
+うごきが　にぶくなる<linealt>
+イヤなかんじのしょくぶつだ<end>
+
+
+//POINTER #335 @ $2D2F34 - STRING #335 @ $2D0AB4
+
+#W32($2D2F34)
+//オレさまは　かげで<linealt>
+『子なきじじい』って<linealt>
+よんでるぞ<end>
+
+
+//POINTER #336 @ $2D2F38 - STRING #336 @ $2D0AE8
+
+#W32($2D2F38)
+//まんじゅうやを　やってる<linealt>
+気のいい　ヤツだ<end>
+
+
+//POINTER #337 @ $2D2F3C - STRING #337 @ $2D0B14
+
+#W32($2D2F3C)
+//コイツのおくさんは<linealt>
+めちゃくちゃ<linealt>
+こわいらしいぞ・・・<end>
+
+
+//POINTER #338 @ $2D2F40 - STRING #338 @ $2D0B4C
+
+#W32($2D2F40)
+//みずうみの　まもりがみの<linealt>
+くせに　おやこもんだいで<linealt>
+なやんでる<end>
+
+
+//POINTER #339 @ $2D2F44 - STRING #339 @ $2D0B8C
+
+#W32($2D2F44)
+//センチメンタルな　おやじだ<linealt>
+・・・にしても　ははおやの<linealt>
+カオが　気になるな・・・<end>
+
+
+//POINTER #340 @ $2D2F48 - STRING #340 @ $2D0BDC
+
+#W32($2D2F48)
+//まさか　コイツが<linealt>
+さいとうじょうするとは<linealt>
+ユメにも思わなかったぜ<end>
+
+
+//POINTER #341 @ $2D2F4C - STRING #341 @ $2D0C1C
+
+#W32($2D2F4C)
+//あつかましいところは<linealt>
+ラブリーいちぞくの<linealt>
+さいだいの　とくちょうだな<end>
+
+
+//POINTER #342 @ $2D2F50 - STRING #342 @ $2D0C60
+
+#W32($2D2F50)
+//まさか　コイツも<linealt>
+さいとうじょうするとは・・<linealt>
+いらねーっつーの<end>
+
+
+//POINTER #343 @ $2D2F54 - STRING #343 @ $2D0CA0
+
+#W32($2D2F54)
+//あつくるしーカオは<linealt>
+ラブリーひとりで<linealt>
+じゅうぶんなんだよ！<end>
+
+
+//POINTER #344 @ $2D2F58 - STRING #344 @ $2D0CDC
+
+#W32($2D2F58)
+//たよりになる<linealt>
+しぶい　おやぶん・・・・<linealt>
+・・・の　はずが<end>
+
+
+//POINTER #345 @ $2D2F5C - STRING #345 @ $2D0D14
+
+#W32($2D2F5C)
+//今回は　ヘンなヤツらに<linealt>
+なつかれてたな・・・<linealt>
+気のどくに・・・<end>
+
+
+//POINTER #346 @ $2D2F60 - STRING #346 @ $2D0D54
+
+#W32($2D2F60)
+//さいきん<linealt>
+『あつい日ようのきぐるみ』<linealt>
+を　かいはつしたらしいぞ<end>
+
+
+//POINTER #347 @ $2D2F64 - STRING #347 @ $2D0D94
+
+#W32($2D2F64)
+//いや　そんなめんどうなこと<linealt>
+しなくても　きぐるみを<linealt>
+ぬげばいいだけだと思うぞ<end>
+
+
+//POINTER #348 @ $2D2F68 - STRING #348 @ $2D0DE0
+
+#W32($2D2F68)
+//ビービーうるせえ<linealt>
+あまったれの　ガキだ<linealt>
+もっと　しっかりしろよ！<end>
+
+
+//POINTER #349 @ $2D2F6C - STRING #349 @ $2D0E20
+
+#W32($2D2F6C)
+//どうも　あまやかされて<linealt>
+そだったみたいな<linealt>
+ワガママなヤツだな<end>
+
+
+//POINTER #350 @ $2D2F70 - STRING #350 @ $2D0E5C
+
+#W32($2D2F70)
+//じじいッ！　よくも<linealt>
+この　キョロスケさまに<linealt>
+ヒゲなんか生やしたな！<end>
+
+
+//POINTER #351 @ $2D2F74 - STRING #351 @ $2D0EA0
+
+#W32($2D2F74)
+//いっしょう　わすれねーぞ<linealt>
+こんど　あったら<linealt>
+ボコボコにやっつけてやる！<end>
+
+
+//POINTER #352 @ $2D2F78 - STRING #352 @ $2D0EE8
+
+#W32($2D2F78)
+//じぶんの　しっぽを<linealt>
+くわえてるの<linealt>
+いたくねーのか？<end>
+
+
+//POINTER #353 @ $2D2F7C - STRING #353 @ $2D0F1C
+
+#W32($2D2F7C)
+//ロボットだから<linealt>
+だいじょうぶなのかな？<end>
+
+
+//POINTER #354 @ $2D2F80 - STRING #354 @ $2D0F44
+
+#W32($2D2F80)
+//たきを　ぐんぐんさかのぼる<linealt>
+元気の　いいヤツだ<linealt>
+すげー　めずらしいんだぞ<end>
+
+
+//POINTER #355 @ $2D2F84 - STRING #355 @ $2D0F8C
+
+#W32($2D2F84)
+//コイツらの　タマゴは<linealt>
+『海のほうせき』っつって<linealt>
+たかねでとりひきされるんだ<end>
+
+
+//POINTER #356 @ $2D2F88 - STRING #356 @ $2D0FD8
+
+#W32($2D2F88)
+//近くで　スピンをすると<linealt>
+トゲを出しておいかけてくる<linealt>
+やっかいなヤローだ<end>
+
+
+//POINTER #357 @ $2D2F8C - STRING #357 @ $2D1020
+
+#W32($2D2F8C)
+//ねてるとこジャマされんのが<linealt>
+そんなに気にくわねーのか？<linealt>
+あかんぼうか　コイツ！<end>
+
+
+//POINTER #358 @ $2D2F90 - STRING #358 @ $2D1070
+
+#W32($2D2F90)
+//コイツ　その気になったら<linealt>
+すげースピードで<linealt>
+はしれるらしい<end>
+
+
+//POINTER #359 @ $2D2F94 - STRING #359 @ $2D10AC
+
+#W32($2D2F94)
+//だけど　めったにその気に<linealt>
+ならないらしい<linealt>
+・・・・なれよ　オイ<end>
+
+
+//POINTER #360 @ $2D2F98 - STRING #360 @ $2D10EC
+
+#W32($2D2F98)
+//みためが　イワっぽいから<linealt>
+この名まえ　なのかと<linealt>
+思ったら<end>
+
+
+//POINTER #361 @ $2D2F9C - STRING #361 @ $2D1124
+
+#W32($2D2F9C)
+//おんがくの『ロック』が<linealt>
+すきだから　らしいぞ<linealt>
+・・・イワのくせに・・・<end>
+
+
+//POINTER #362 @ $2D2FA0 - STRING #362 @ $2D116C
+
+#W32($2D2FA0)
+//ヅラをとばしてくる<linealt>
+ふざけた　ヤローだ<end>
+
+
+//POINTER #363 @ $2D2FA4 - STRING #363 @ $2D1194
+
+#W32($2D2FA4)
+//このヅラは<linealt>
+３０ねんローンで　かった<linealt>
+こうきゅうひんなんだってよ<end>
+
+
+//POINTER #364 @ $2D2FA8 - STRING #364 @ $2D11D4
+
+#W32($2D2FA8)
+//からだを　ひっくりかえして<linealt>
+トゲを出すんだ<end>
+
+
+//POINTER #365 @ $2D2FAC - STRING #365 @ $2D1200
+
+#W32($2D2FAC)
+//トゲを出すヤツは<linealt>
+ほかにもいるけど　コイツは<linealt>
+とくに　かわってるよな<end>
+
+
+//POINTER #366 @ $2D2FB0 - STRING #366 @ $2D1244
+
+#W32($2D2FB0)
+//モヒカンにサングラスって<linealt>
+センスは　どーなんだよ！？<wait>それでカッコイイつもりか？<linealt>
+オレさまの　足元にも<linealt>
+およばねーぜ！<end>
+
+
+//POINTER #367 @ $2D2FB4 - STRING #367 @ $2D1278
+
+#W32($2D2FB4)
+//それでカッコイイつもりか？<linealt>
+オレさまの　足元にも<linealt>
+およばねーぜ！<end>
+
+
+//POINTER #368 @ $2D2FB8 - STRING #368 @ $2D12B8
+
+#W32($2D2FB8)
+//カベのさけめから<linealt>
+とつぜん出てくるから<linealt>
+びっくりするぞ<end>
+
+
+//POINTER #369 @ $2D2FBC - STRING #369 @ $2D12F0
+
+#W32($2D2FBC)
+//・・・オレさまも　こんどは<linealt>
+じめんじゃなくて<linealt>
+カベにもぐってみるかな・・<end>
+
+
+//POINTER #370 @ $2D2FC0 - STRING #370 @ $2D1338
+
+#W32($2D2FC0)
+//コイツ　むかしは<linealt>
+ウナギだったんだってよ！<end>
+
+
+//POINTER #371 @ $2D2FC4 - STRING #371 @ $2D1364
+
+#W32($2D2FC4)
+//くるまのタイヤを　くって<linealt>
+回るようになったらしい<linealt>
+・・・ホントかよ<end>
+
+
+//POINTER #372 @ $2D2FC8 - STRING #372 @ $2D13A8
+
+#W32($2D2FC8)
+//わあっ！　ゆ　ユーレーだ！<linealt>
+ヒー　オレさま　じつは<linealt>
+おばけ　ニガテなんだよ！<end>
+
+
+//POINTER #373 @ $2D2FCC - STRING #373 @ $2D13F4
+
+#W32($2D2FCC)
+//今　『ダセー』とか<linealt>
+思ったヤツ！　まえに出ろ！<linealt>
+せっきょうしてやる！<end>
+
+
+//POINTER #374 @ $2D2FD0 - STRING #374 @ $2D1438
+
+#W32($2D2FD0)
+//チョンマゲがついてるから<linealt>
+チョンマギョ・・・・<end>
+
+
+//POINTER #375 @ $2D2FD4 - STRING #375 @ $2D1468
+
+#W32($2D2FD4)
+//もうちょっと<linealt>
+ヒネった　名まえは<linealt>
+なかったのかよ・・・・<end>
+
+
+//POINTER #376 @ $2D2FD8 - STRING #376 @ $2D14A0
+
+#W32($2D2FD8)
+//海の平和をまもる<linealt>
+せいぎのくのイチ<linealt>
+『かげろうオギョン』だ<end>
+
+
+//POINTER #377 @ $2D2FDC - STRING #377 @ $2D14DC
+
+#W32($2D2FDC)
+//えらいとは　思うが<linealt>
+しゃべりかたが<linealt>
+ニセモンくせーんだよな・・<end>
+
+
+//POINTER #378 @ $2D2FE0 - STRING #378 @ $2D151C
+
+#W32($2D2FE0)
+//マンボウが　１回に<linealt>
+なんおくもの　タマゴを<linealt>
+うむのは　ホントのはなしだ<end>
+
+
+//POINTER #379 @ $2D2FE4 - STRING #379 @ $2D1564
+
+#W32($2D2FE4)
+//べんきょうに　なるだろ？<linealt>
+つーか　オレさまって<linealt>
+ものしりー！<end>
+
+
+//POINTER #380 @ $2D2FE8 - STRING #380 @ $2D15A0
+
+#W32($2D2FE8)
+//ゲコじいの　とおい<linealt>
+シンセキの　じいさんだ<linealt>
+けんぽうか　なんだってよ<end>
+
+
+//POINTER #381 @ $2D2FEC - STRING #381 @ $2D15E4
+
+#W32($2D2FEC)
+//まあ　オレさまくらい<linealt>
+つよいと　けんぽうなんて<linealt>
+いらねーんだけどな<end>
+
+
+//POINTER #382 @ $2D2FF0 - STRING #382 @ $2D1628
+
+#W32($2D2FF0)
+//ったく　コイツはいっつも<linealt>
+つかまったりいじめられたり<linealt>
+なさけねーヤツだぜ<end>
+
+
+//POINTER #383 @ $2D2FF4 - STRING #383 @ $2D1670
+
+#W32($2D2FF4)
+//オレさまなら　あんな<linealt>
+てつごうし　いっしゅんで<linealt>
+ひんまげるけどな<end>
+
+
+//POINTER #384 @ $2D2FF8 - STRING #384 @ $2D16B0
+
+#W32($2D2FF8)
+//コイツと　オレさまが<linealt>
+そっくりだと！？<linealt>
+ふざけんな！<end>
+
+
+//POINTER #385 @ $2D2FFC - STRING #385 @ $2D16E4
+
+#W32($2D2FFC)
+//オレさまのほうが<linealt>
+１０まんばいくらい<linealt>
+チャーミングだ！！！<end>
+
+
+//POINTER #386 @ $2D3000 - STRING #386 @ $2D1720
+
+#W32($2D3000)
+//だから<linealt>
+コイツと　オレさまじゃ<linealt>
+くらべもんになんねーよ！<end>
+
+
+//POINTER #387 @ $2D3004 - STRING #387 @ $2D1758
+
+#W32($2D3004)
+//オレさまのほうが<linealt>
+１０００まんばいくらい<linealt>
+ダンディだ！！！<end>
+
+
+//POINTER #388 @ $2D3008 - STRING #388 @ $2D1794
+
+#W32($2D3008)
+//プチオーグラ１０ごうと<linealt>
+てを　くんでた<linealt>
+あくとくしょうにんだ<end>
+
+
+//POINTER #389 @ $2D300C - STRING #389 @ $2D17D0
+
+#W32($2D300C)
+//海の平和をみだしたバツだ！<linealt>
+この　キョロスケさまに<linealt>
+なんか　おごれ！<end>
+
+
+//POINTER #390 @ $2D3010 - STRING #390 @ $2D1814
+
+#W32($2D3010)
+//プチオーグラ１０ごうの<linealt>
+てしたの<linealt>
+かいぞくどもだ<end>
+
+
+//POINTER #391 @ $2D3014 - STRING #391 @ $2D1844
+
+#W32($2D3014)
+//ボスせんでも　出てきてたが<linealt>
+じぶんで　かってに<linealt>
+おぼれてるヤツもいたな・・<end>
+
+
+//POINTER #392 @ $2D3018 - STRING #392 @ $2D1890
+
+#W32($2D3018)
+//かいぞくの　おやだまだ<linealt>
+プチオーグラたちの中の<linealt>
+ちょうなんらしいぞ<end>
+
+
+//POINTER #393 @ $2D301C - STRING #393 @ $2D18D4
+
+#W32($2D301C)
+//ぶんしんの　じゅつを<linealt>
+使ったりして<linealt>
+やっかいな　ヤツだったぜ<end>
+
+
+//POINTER #394 @ $2D3020 - STRING #394 @ $2D1910
+
+#W32($2D3020)
+//すげーじょうぶなカブトが<linealt>
+あたまや　足を<linealt>
+まもってるんだ<end>
+
+
+//POINTER #395 @ $2D3024 - STRING #395 @ $2D1948
+
+#W32($2D3024)
+//あのツノにあたると<linealt>
+めちゃくちゃ　いてえって<linealt>
+スタフィーがいってたぞ<end>
+
+
+//POINTER #396 @ $2D3028 - STRING #396 @ $2D198C
+
+#W32($2D3028)
+//近くまでいくと<linealt>
+おっかけてくる<linealt>
+ジャマくさいヤツだ<end>
+
+
+//POINTER #397 @ $2D302C - STRING #397 @ $2D19C0
+
+#W32($2D302C)
+//そんなに　オレさまが<linealt>
+スキか？<end>
+
+
+//POINTER #398 @ $2D3030 - STRING #398 @ $2D19E0
+
+#W32($2D3030)
+//ときどき　ちいさなタマを<linealt>
+はいてきて　うっとうしいぞ<wait>かみなりぐもなら<linealt>
+ちゃんと　かみなり<linealt>
+出してみろっつーんだ！<end>
+
+
+//POINTER #399 @ $2D3034 - STRING #399 @ $2D1A14
+
+#W32($2D3034)
+//かみなりぐもなら<linealt>
+ちゃんと　かみなり<linealt>
+出してみろっつーんだ！<end>
+
+
+//POINTER #400 @ $2D3038 - STRING #400 @ $2D1A50
+
+#W32($2D3038)
+//４ひきのうちの<linealt>
+いっぴきだけ　まっかなんだ<end>
+
+
+//POINTER #401 @ $2D303C - STRING #401 @ $2D1A7C
+
+#W32($2D303C)
+//ひとりだけちがうなんて<linealt>
+めだちたがりやか？<end>
+
+
+//POINTER #402 @ $2D3040 - STRING #402 @ $2D1AA8
+
+#W32($2D3040)
+//おいコラッ！<linealt>
+なんで　ケツから<linealt>
+はなび　出てんだよ！！！<end>
+
+
+//POINTER #403 @ $2D3044 - STRING #403 @ $2D1AE0
+
+#W32($2D3044)
+//だいじょうぶなのか？<linealt>
+いたくねーのか！？　いくら<linealt>
+テキでも　しんぱいになるぞ<end>
+
+
+//POINTER #404 @ $2D3048 - STRING #404 @ $2D1B2C
+
+#W32($2D3048)
+//ふだんは　ちぢんでるクセに<linealt>
+とつぜん　のびてきて<linealt>
+こうげきするんだ<end>
+
+
+//POINTER #405 @ $2D304C - STRING #405 @ $2D1B70
+
+#W32($2D304C)
+//うう　ガイコツヤローが<linealt>
+のびるのって　こえーなあ<wait>オーグラの　しもべ<linealt>
+ナゾのせいぶつだ<wait>コイツに　つかまると<linealt>
+いろんなところに<linealt>
+ワープさせられちまうぞっ！<end>
+
+
+//POINTER #406 @ $2D3050 - STRING #406 @ $2D1BA0
+
+#W32($2D3050)
+//オーグラの　しもべ<linealt>
+ナゾのせいぶつだ<wait>コイツに　つかまると<linealt>
+いろんなところに<linealt>
+ワープさせられちまうぞっ！<end>
+
+
+//POINTER #407 @ $2D3054 - STRING #407 @ $2D1BC4
+
+#W32($2D3054)
+//コイツに　つかまると<linealt>
+いろんなところに<linealt>
+ワープさせられちまうぞっ！<end>
+
+
+//POINTER #408 @ $2D3058 - STRING #408 @ $2D1C08
+
+#W32($2D3058)
+//あくのげんきょう！<linealt>
+今回は　まえより　すうだん<linealt>
+パワーアップしてやがった！<end>
+
+
+//POINTER #409 @ $2D305C - STRING #409 @ $2D1C54
+
+#W32($2D305C)
+//でも　ロブじいさんが<linealt>
+あんなにつええとは　よそく<linealt>
+してなかったみてーだな・・<end>
+
+
+//POINTER #410 @ $2D3060 - STRING #410 @ $2D1CA0
+
+#W32($2D3060)
+//ききゅうに　のってると<linealt>
+スゲー　いきおいで<linealt>
+とんでくるんだ<end>
+
+
+//POINTER #411 @ $2D3064 - STRING #411 @ $2D1CDC
+
+#W32($2D3064)
+//バーゲンかいじょうの<linealt>
+おばちゃんか！　オメェは！<wait>ふだんは　てんじょうに<linealt>
+くっついてるが<linealt>
+近くによるとおっこちてくる<end>
+
+
+//POINTER #412 @ $2D3068 - STRING #412 @ $2D1D0C
+
+#W32($2D3068)
+//ふだんは　てんじょうに<linealt>
+くっついてるが<linealt>
+近くによるとおっこちてくる<end>
+
+
+//POINTER #413 @ $2D306C - STRING #413 @ $2D1D50
+
+#W32($2D306C)
+//おっこちたあと<linealt>
+どこに　行くのかは<linealt>
+えいえんの　ナゾだ・・・<end>
+
+
+//POINTER #414 @ $2D3070 - STRING #414 @ $2D1D8C
+
+#W32($2D3070)
+//どこからともなく<linealt>
+あらわれて<linealt>
+ききゅうに　近づいてくるぞ<end>
+
+
+//POINTER #415 @ $2D3074 - STRING #415 @ $2D1DC4
+
+#W32($2D3074)
+//カオが　かわいいからって<linealt>
+いばるんじゃねーぞ！<end>
+
+
+//POINTER #416 @ $2D3078 - STRING #416 @ $2D1DF4
+
+#W32($2D3078)
+//ぷるぷる　しながら<linealt>
+てんじょうに<linealt>
+くっついてるぞ<end>
+
+
+//POINTER #417 @ $2D307C - STRING #417 @ $2D1E24
+
+#W32($2D307C)
+//ソーダゼリーみたいで<linealt>
+ちょっとだけ<linealt>
+うまそうだな・・・・<end>
+
+
+//POINTER #418 @ $2D3080 - STRING #418 @ $2D1E5C
+
+#W32($2D3080)
+//ほのおを　ふきながら<linealt>
+ききゅうに<linealt>
+とっしんしてくるぞ<end>
+
+
+//POINTER #419 @ $2D3084 - STRING #419 @ $2D1E90
+
+#W32($2D3084)
+//こーゆーの<linealt>
+チョトツモウシンっつーんだ<linealt>
+べんきょうに　なったか？<end>
+
+
+//POINTER #420 @ $2D3088 - STRING #420 @ $2D1ED0
+
+#W32($2D3088)
+//きゅうにあらわれて<linealt>
+ききゅうに近づく<linealt>
+からだの　すけたヤツだ<end>
+
+
+//POINTER #421 @ $2D308C - STRING #421 @ $2D1F0C
+
+#W32($2D308C)
+//からだが　すけて<linealt>
+しんぞうがみえちまってるぞ<linealt>
+いいのかよ・・・・<end>
+
+
+//POINTER #422 @ $2D3090 - STRING #422 @ $2D1F4C
+
+#W32($2D3090)
+//イワのフリを<linealt>
+してるつもりなんだろーが<linealt>
+バレバレだっつーの<end>
+
+
+//POINTER #423 @ $2D3094 - STRING #423 @ $2D1F88
+
+#W32($2D3094)
+//どうせなら<linealt>
+かわいい　おんなの子に<linealt>
+ばけりゃ　いいんだ<end>
+
+
+//POINTER #424 @ $2D3098 - STRING #424 @ $2D1FC0
+
+#W32($2D3098)
+//スケボンに　のってると<linealt>
+ジャマしてくるんだ<end>
+
+
+//POINTER #425 @ $2D309C - STRING #425 @ $2D1FEC
+
+#W32($2D309C)
+//あの　ノコギリは<linealt>
+きこりから　ムリヤリ<linealt>
+うばった　らしいぞ・・・<end>
+
+
+//POINTER #426 @ $2D30A0 - STRING #426 @ $2D202C
+
+#W32($2D30A0)
+//どくの水から<linealt>
+とび出してくるヤローだ<wait>目が　こえーよ<linealt>
+いったい　どこを<linealt>
+みてるんだ？<end>
+
+
+//POINTER #427 @ $2D30A4 - STRING #427 @ $2D2050
+
+#W32($2D30A4)
+//目が　こえーよ<linealt>
+いったい　どこを<linealt>
+みてるんだ？<end>
+
+
+//POINTER #428 @ $2D30A8 - STRING #428 @ $2D2080
+
+#W32($2D30A8)
+//からだから　ほうでんする<linealt>
+かわいいカオして<linealt>
+おそろしいヤツだ<end>
+
+
+//POINTER #429 @ $2D30AC - STRING #429 @ $2D20BC
+
+#W32($2D30AC)
+//まあ　これからの　じだい<linealt>
+しょうエネできて<linealt>
+いいんじゃねーか<end>
+
+
+//POINTER #430 @ $2D30B0 - STRING #430 @ $2D20F8
+
+#W32($2D30B0)
+//エビだ<end>
+
+
+//POINTER #431 @ $2D30B4 - STRING #431 @ $2D2100
+
+#W32($2D30B4)
+//・・・・・・・・・・・・・<linealt>
+・・・・・・・・・・・・・<linealt>
+・・・・・・・・・・たぶん<end>
+
+
+//POINTER #432 @ $2D30B8 - STRING #432 @ $2D2154
+
+#W32($2D30B8)
+//きゅうこうかしてきて<linealt>
+スケボンに<linealt>
+たいあたりしようとするぞ<end>
+
+
+//POINTER #433 @ $2D30BC - STRING #433 @ $2D2190
+
+#W32($2D30BC)
+//はなのアナ　でけえよな<linealt>
+マメでも　つめてんのか？<wait>コイツも　目がこえー！<linealt>
+口も　こえーぞ！<wait>かみつかれたら<linealt>
+めちゃくちゃ<linealt>
+いたそうだ<end>
+
+
+//POINTER #434 @ $2D30C0 - STRING #434 @ $2D21C0
+
+#W32($2D30C0)
+//コイツも　目がこえー！<linealt>
+口も　こえーぞ！<wait>かみつかれたら<linealt>
+めちゃくちゃ<linealt>
+いたそうだ<end>
+
+
+//POINTER #435 @ $2D30C4 - STRING #435 @ $2D21E8
+
+#W32($2D30C4)
+//かみつかれたら<linealt>
+めちゃくちゃ<linealt>
+いたそうだ<end>
+
+
+//POINTER #436 @ $2D30C8 - STRING #436 @ $2D2210
+
+#W32($2D30C8)
+//スケボンに<linealt>
+たいあたりしようとする<linealt>
+いのちしらずなヤツだ<end>
+
+
+//POINTER #437 @ $2D30CC - STRING #437 @ $2D2248
+
+#W32($2D30CC)
+//あやうく　だいさんじだぞ！<linealt>
+こうつうじこってのは<linealt>
+こえーんだからな！<end>
+
+
+//POINTER #438 @ $2D30D0 - STRING #438 @ $2D228C
+
+#W32($2D30D0)
+//上下にいどうしながら<linealt>
+リューンにむかって<linealt>
+タマを　はいてくるぞ<end>
+
+
+//POINTER #439 @ $2D30D4 - STRING #439 @ $2D22CC
+
+#W32($2D30D4)
+//タマは　<A>ボタンで<linealt>
+ふせげるんだ<wait>サングラスなんか<linealt>
+かけやがって<linealt>
+カッコつけた　ヤローだぜ<end>
+
+
+//POINTER #440 @ $2D30D8 - STRING #440 @ $2D22EC
+
+#W32($2D30D8)
+//サングラスなんか<linealt>
+かけやがって<linealt>
+カッコつけた　ヤローだぜ<end>
+
+
+//POINTER #441 @ $2D30DC - STRING #441 @ $2D2324
+
+#W32($2D30DC)
+//もとは　ガンマンだったって<linealt>
+ウワサだぞ<end>
+
+
+//POINTER #442 @ $2D30E0 - STRING #442 @ $2D234C
+
+#W32($2D30E0)
+//リューンをみつけると<linealt>
+たいあたりしようとする<linealt>
+カゲキなヤローだ<end>
+
+
+//POINTER #443 @ $2D30E4 - STRING #443 @ $2D238C
+
+#W32($2D30E4)
+//こんど　やりやがったら<linealt>
+あのひらたい　からだを<linealt>
+ザブトンに　してやる！<end>
+
+
+//POINTER #444 @ $2D30E8 - STRING #444 @ $2D23D4
+
+#W32($2D30E8)
+//エンゼルなんて<linealt>
+名まえ　だけだぞ！<linealt>
+むしろ　アクマだ！<end>
+
+
+//POINTER #445 @ $2D30EC - STRING #445 @ $2D240C
+
+#W32($2D30EC)
+//てんしなら　てんしらしく<linealt>
+しんじゅくれるとか<linealt>
+しろっつーの！<end>
+
+
+//POINTER #446 @ $2D30F0 - STRING #446 @ $2D2448
+
+#W32($2D30F0)
+//でっけえ　目んたまから<linealt>
+タマを　はいてくるぞ<wait>マブタは　どこにあるんだ？<linealt>
+ドライアイとかに<linealt>
+なんねーのか？<end>
+
+
+//POINTER #447 @ $2D30F4 - STRING #447 @ $2D2474
+
+#W32($2D30F4)
+//マブタは　どこにあるんだ？<linealt>
+ドライアイとかに<linealt>
+なんねーのか？<end>
+
+
+//POINTER #448 @ $2D30F8 - STRING #448 @ $2D24B0
+
+#W32($2D30F8)
+//からだを<linealt>
+ひからせながら<linealt>
+近づいてくるぞ<end>
+
+
+//POINTER #449 @ $2D30FC - STRING #449 @ $2D24D8
+
+#W32($2D30FC)
+//オメェら　クリスマスの<linealt>
+イルミネーション<linealt>
+かっつーの！！<end>
+
+
+//POINTER #450 @ $2D3100 - STRING #450 @ $2D2510
+
+#W32($2D3100)
+//からだが<linealt>
+とうめいになるって<linealt>
+ベンリだよな<end>
+
+
+//POINTER #451 @ $2D3104 - STRING #451 @ $2D253C
+
+#W32($2D3104)
+//もし　オレさまが<linealt>
+とうめいになったら・・・<linealt>
+・・・でへ　でへへへへ<end>
+
+
+//POINTER #452 @ $2D3108 - STRING #452 @ $2D2580
+
+#W32($2D3108)
+//オーグラが　ブロックに<linealt>
+まほうを　かけて<linealt>
+生まれた　せいぶつだ<end>
+
+
+//POINTER #453 @ $2D310C - STRING #453 @ $2D25C0
+
+#W32($2D310C)
+//・・・オーグラのしゅみって<linealt>
+よく　わかんねえな・・・<wait>ふだんは　すけてるが<linealt>
+近づくと<linealt>
+でんきゅうみたいにひかるぞ<end>
+
+
+//POINTER #454 @ $2D3110 - STRING #454 @ $2D25F4
+
+#W32($2D3110)
+//ふだんは　すけてるが<linealt>
+近づくと<linealt>
+でんきゅうみたいにひかるぞ<end>
+
+
+//POINTER #455 @ $2D3114 - STRING #455 @ $2D2630
+
+#W32($2D3114)
+//でも　こんな<linealt>
+ブキミなでんきゅう<linealt>
+いやだよなあ<end>
+
+
+//POINTER #456 @ $2D3118 - STRING #456 @ $2D2660
+
+#W32($2D3118)
+//トゲトゲしいヤツだが<linealt>
+きぐるみで　ほえると<linealt>
+かたまっちまうぞ<end>
+
+
+//POINTER #457 @ $2D311C - STRING #457 @ $2D269C
+
+#W32($2D311C)
+//ちっ！　びびるくらいなら<linealt>
+さいしょから<linealt>
+ガンつけんじゃねーよ<end>
+
+
+//POINTER #458 @ $2D3120 - STRING #458 @ $2D26D8
+
+#W32($2D3120)
+//コワい　カオして<linealt>
+近づいてくるけど<linealt>
+ほえれば　おとなしくなるぞ<end>
+
+
+//POINTER #459 @ $2D3124 - STRING #459 @ $2D2718
+
+#W32($2D3124)
+//かんけーねーけど<linealt>
+コイツ　みてると<linealt>
+ナベがくいたくなってくるぞ<end>
+
+
+//POINTER #460 @ $2D3128 - STRING #460 @ $2D2758
+
+#W32($2D3128)
+//たかいところまで<linealt>
+つれてってくれる<linealt>
+おたすけキャラだ<end>
+
+
+//POINTER #461 @ $2D312C - STRING #461 @ $2D278C
+
+#W32($2D312C)
+//キラキラしててキレーだよな<linealt>
+オレさまのハデヒラリさん<linealt>
+には　かなわねーけど<end>
+
+
+//POINTER #462 @ $2D3130 - STRING #462 @ $2D27D8
+
+#W32($2D3130)
+//きぐるみで　ほえると<linealt>
+かたまって<linealt>
+あしばになるぞ<end>
+
+
+//POINTER #463 @ $2D3134 - STRING #463 @ $2D2808
+
+#W32($2D3134)
+//中がすけてるけど<linealt>
+ないぞうとか<linealt>
+ねーのか？<end>
+
+
+//POINTER #464 @ $2D3138 - STRING #464 @ $2D2834
+
+#W32($2D3138)
+//そのまま　さわったら<linealt>
+けがしちまうから<linealt>
+気をつけろよ<end>
+
+
+//POINTER #465 @ $2D313C - STRING #465 @ $2D2868
+
+#W32($2D313C)
+//きぐるみに　おびえるなんて<linealt>
+コイツ　あんがい<linealt>
+おくびょうものだな　ププ<end>
+
+
+//POINTER #466 @ $2D3140 - STRING #466 @ $2D28B0
+
+#W32($2D3140)
+//けっこう　かわいいカオした<linealt>
+おたすけキャラだ<wait>じめんにうまって<linealt>
+まったりするのが<linealt>
+シュミらしいぞ<end>
+
+
+//POINTER #467 @ $2D3144 - STRING #467 @ $2D28DC
+
+#W32($2D3144)
+//じめんにうまって<linealt>
+まったりするのが<linealt>
+シュミらしいぞ<end>
+
+
+//POINTER #468 @ $2D3148 - STRING #468 @ $2D2910
+
+#W32($2D3148)
+//クラゲのくせに<linealt>
+そらをとんでる<linealt>
+ナマイキなヤローだ<end>
+
+
+//POINTER #469 @ $2D314C - STRING #469 @ $2D2944
+
+#W32($2D314C)
+//おぼんが　すぎると<linealt>
+コイツら<linealt>
+ふえるんだよなあ・・・<end>
+
+
+//POINTER #470 @ $2D3150 - STRING #470 @ $2D2978
+
+#W32($2D3150)
+//うんうん　ジアップは<linealt>
+あいかわらず　かわいい・・<linealt>
+って　ちがうじゃねーか！<end>
+

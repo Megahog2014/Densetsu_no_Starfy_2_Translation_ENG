@@ -1,0 +1,13 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $AF
+
+//:func 22 -1<line>
+ついに　ここまで<line>
+たどりつきましたね！<line>
+のこすは　オーグラだけ！<line>
+がんばって　先を　いそごう！<line>
+:end<line>
+<end>
+

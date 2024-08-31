@@ -1,0 +1,105 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 1
+//Block Range: $0 - $77E
+
+//：ｆｕｎｃ＿２２＿－１<line>
+：ｓｄ<line>
+：ｆｌａｇｏｎ＿４３００<line>
+：ｆｕｎｃ＿１＿１<line>
+：ｓｅ<line>
+<rname><diamond>キョロスケ<line>
+：ｏｂｊ＿１＿４<line>
+「ぬおおおおっ!!　ちょー<line>
+　マーベラスボデーの<line>
+　おねえちゃん　ハッケン!!」<line>
+<redname><diamond>キョロスケ<line>
+「オレさまの　こねこちゃんレーダーに<line>
+　ビシバシきてるぜーーっ!」<line>
+：ｃ<line>
+<redname><diamond>サブァコ<line>
+<linealt>：ｏｂｊ＿２＿４<line>
+「だい1回＜ｃ＿ｄ＞『ききゅうレース』＜ｃ＿０＞<line>
+　かいさい中でェーす　みなさん<line>
+　ふるってごさんかくださァーい」<line>
+：ｃ<line>
+<redname><diamond>キョロスケ<line>
+：ｏｂｊ＿１＿４<line>
+「ききゅうレース・・?<line>
+　なんだそりゃ・・いや　それは<line>
+　なにかな　おじょうさん」<line>
+：ｃ<line>
+<redname><diamond>サブァコ<line>
+：ｏｂｊ＿２＿４<line>
+「えー　なんかァ?ききゅう?<line>
+　ってゆーののはやさ?を<line>
+　あらそうレース?やってんのー」<line>
+<redname><diamond>サブァコ<line>
+「アタシは　そこでー<line>
+　レースクイーン?のバイトしてる<line>
+　＜ｃ＿ｄ＞『サブァコ』＜ｃ＿０＞ってゆーのー」<line>
+：ｃ<line>
+<redname><diamond>キョロスケ<line>
+：ｏｂｊ＿１＿４<line>
+「サバコちゃん?<line>
+　（なネ　なんか　だるそうな<line>
+　しゃべりかただな・・）」<line>
+：ｃ<line>
+<redname><diamond>サブァコ<line>
+：ｏｂｊ＿２＿４<line>
+「サ・『ぶぁ』・コ!!<line>
+　ってーかー　まちがえないで<line>
+　ほしいっつーかー?」<line>
+<redname><diamond>サブァコ<line>
+「あー　アタシー　もう<line>
+　行かないと　おこられるからー<line>
+　じゃーねー」<line>
+：ｃ<line>
+<wait>：ｏｂｊ＿２＿９＿２＿０<line>
+：ｏｂｊ＿２＿７＿１４０＿１２８＿１０<line>
+[ｗ＿１４０]<line>
+：ｏｂｊ＿１＿９＿２＿１<line>
+<rname><diamond>キョロスケ<line>
+「スタフィー・・・<line>
+　みたか?さっきの<line>
+　サバコちゃん・・・・」<line>
+<redname><diamond>キョロスケ<line>
+「は?　あ　あほー!!<line>
+　パラソルがハデだなんて<line>
+　どーでも　いいんだよ!!」<line>
+<redname><diamond>キョロスケ<line>
+「オレさまがい「ってんのは<line>
+　ボデー!　はちきれんばかりの<line>
+　ダイナマイツゴージャス!!」<line>
+<redname><diamond>キョロスケ<line>
+「もし　サバコちゃんが　オレさまの<line>
+　およめさんなんかに　なった日にゃ<line>
+　オレさまは・・オレさまは・・・」<line>
+<redname><diamond>キョロスケ<line>
+：ｏｂｊ＿１＿５＿３<line>
+：ｆｕｎｃ＿８＿１＿３<line>
+「ぶはアっっ!!!」<line>
+[ｗ＿６０]<line>
+：ｃ<line>
+<redname><diamond>キョロスケ<line>
+「ききゅうレースかぁ・・<line>
+　ふふふふふふふ・・・」<line>
+<redname><diamond>キョロスケ<line>
+「おい　オメェ　ききゅうレースに<line>
+　さんかしろ!ひょっとしたら<line>
+　しょうひんが　でるかもしれねえ」<line>
+<redname><diamond>キョロスケ<line>
+「なに?　ママをさがす?<line>
+　バカヤロー!　あとまわしだ!」<line>
+：ｃ<line>
+<wait>：ｓｄ<line>
+：ｆｕｎｃ＿４<line>
+：ｆｕｎｃ＿２＿２＿２<line>
+：ｆｕｎｃ＿１＿０＿１<line>
+：ｏｂｊ＿１＿２＿０<line>
+：ｏｂｊ＿２＿２＿０<line>
+：ｆｕｎｃ＿１０<line>
+：ｆｕｎｃ＿３＿２<line>
+：ｅｘｉｔ<line>
+<end>
+

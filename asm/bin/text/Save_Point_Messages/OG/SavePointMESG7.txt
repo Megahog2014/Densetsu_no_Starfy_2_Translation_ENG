@@ -1,0 +1,12 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $86
+
+//:func 22 -1<line>
+メカニじいさんには　もうあった？<line>
+<c d>『ききゅう』<c 0>っていう　のりものの<line>
+けんきゅうを　してるんだって！<line>
+:end<line>
+<end>
+

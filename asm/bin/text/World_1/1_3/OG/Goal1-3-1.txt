@@ -1,0 +1,23 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $EC
+
+//:sd<line>
+:func 3 2 2<line>
+:func 0 0<line>
+:se<line>
+たからばこの中には<line>
+グッズ<c d>『ぽしぇっと』<c 1>が<line>
+入っていたよ！<line>
+:c<line>
+<wait>『おみせ』にも　いけるように<line>
+なったし　これから　どんどん<line>
+おかいものをしよう！<line>
+:c<line>
+<wait>:sd<line>
+:func 1 0<line>
+:func 2 2 2<line>
+:exit<line>
+<end>
+

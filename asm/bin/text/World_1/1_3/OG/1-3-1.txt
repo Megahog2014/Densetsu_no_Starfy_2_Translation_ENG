@@ -1,0 +1,100 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $7BA
+
+//:if 1300 go 1<line>
+:sd<line>
+:flagon 1300<line>
+:flagon 1301<line>
+:flagon 1302<line>
+:flagon 1303<line>
+:flagon 1304<line>
+:func 1 1<line>
+:func 6 1 0<line>
+:se<line>
+:func 22 -1<line>
+<rname><diamond>キョロスケ<line>
+「お！　いいところに　きたな<line>
+　スタフィー！<line>
+　ここで　こんなもん　みつけたぞ！」<line>
+:obj 2 2 1<line>
+:func 18 1 71<line>
+<redname><diamond>キョロスケ<line>
+「なんかの　チラシみてえだな・・<line>
+　よーし　よんでみるぞ！<line>
+　えー　なになに・・？」<line>
+:c<line>
+<wait>　　　　　　　チラシ　　　　　　　　<line>
+「<c d>なんでもショップ　『ラブリー』<c 0><line>
+　ただいまバーゲン中ー！」<line>
+:c<line>
+<wait>「今回の目だまは　こちら！<line>
+　『海でみつけた　おとこまえ<line>
+　びじんさん　だいとくしゅう！』」<line>
+:c<line>
+<wait>「<c d>『しゃしん』<c 0>　たすうアリマス！<line>
+　このチャンスを　おみのがし<line>
+　なくー！」<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「・・だってよ！<line>
+　うひょー！　こりゃいいぞ<line>
+　スタフィー！」<line>
+<redname><diamond>キョロスケ<line>
+「uかわい子ちゃんの　しゃしんが<line>
+　いっぱいってことは・・<line>
+　ひょ・・ひょっとすると・・」<line>
+<redname><diamond>キョロスケ<line>
+「ハデヒラリさんの　みっ・・みみみ<line>
+　みずぎしゃしんとかも　あったり<line>
+　なんかしちゃったりして・・でへへ」<line>
+<redname><diamond>キョロスケ<line>
+「しかし　この<c d>『おみせ』<c 0>は<line>
+　どこにあるんだ？<line>
+　ちずが　のってねーぞ・・」<line>
+<redname><diamond>キョロスケ<line>
+「ん？　ちょっとまて！<line>
+　うらに　なにか　メモがきが<line>
+　されてあるぞ！」<line>
+<redname><diamond>キョロスケ<line>
+「『きょうは　あさ　<c d>９じ<c 0>に<line>
+　おきて　しごとに行き　<c d>１２じ<c 0>に<line>
+　おひる驍<$F0>たべ・・・』」<line>
+<redname><diamond>キョロスケ<line>
+「『おいしい　<c d>３じ<c 0>の　おやつの<line>
+　あとは　<c d>６じ<c 0>に　ゆうしょくを<line>
+　たべちゃったわん・・ウフ・・』」<line>
+<redname><diamond>キョロスケ<line>
+「・・って　なんだ？　コリャ？<line>
+　どっかで　きいたような<line>
+　はなしかただが・・」<line>
+<redname><diamond>气Lョロスケ<line>
+「まあいいや　とりあえず<line>
+　オメェ　このみせ<line>
+　さがしてこいよ　いそいでな！」<line>
+:c<line>
+<wait>:sd<line>
+:func 4<line>
+:func 2 2<line>
+:obj 2 16<line>
+:obj 2 3<line>
+:obj 2 2 0<line>
+:func 1 0<line>
+:func 3 2<line>
+:exit<line>
+<wait>:1<line>
+:sd<line>
+:func 6 1<line>
+:se<line>
+:func 22 -1<line>
+<rname><diamond>キョロスケ<line>
+「どうも　メモがきォが　気になるな・・<line>
+　<c d>９じ　１２じ　３じ　６じ<c 0>・・」<line>
+<redname><diamond>キョロスケ<line>
+「このあたりの　ちけいと<line>
+　なんか　かんけいがあるのか？<line>
+　うーむ　わからん・・・ブツブツ」<line>
+:end<line>
+<end>
+

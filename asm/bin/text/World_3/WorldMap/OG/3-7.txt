@@ -1,0 +1,14 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $64
+
+//[x 0]<line>
+[y 2]<line>
+『カメカメだいち』　３-７<line>
+[x auto]<line>
+[y 20]<line>
+はじかれ　ながされ<line>
+おたからへ・・・<line>
+<end>
+

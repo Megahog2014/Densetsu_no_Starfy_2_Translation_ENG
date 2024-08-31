@@ -1,0 +1,19 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Shop Chests
+//Block Range: $0 - $7E
+
+//:c<line>
+:sd<line>
+:func 3 2 2<line>
+:func 0 0<line>
+:se<line>
+グッズ<c d>『パジャマ』<c 1>を<line>
+かったよ<line>
+:c<line>
+<wait>:sd<line>
+:func 1 0<line>
+:func 2 2 2<line>
+:exit<line>
+<end>
+

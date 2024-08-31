@@ -1,0 +1,86 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Beastiary Locations (Pointer)
+
+//POINTER #0 @ $2CA628 - STRING #0 @ $2CA568
+
+#ACTIVETBL(Minifont)
+
+#WRITE(GBA,$2CA628)
+[x 18]<line>
+‚k‚‚‚‚‚‚…‚’f‚“ ‚b‚‚–‚…<end>
+
+
+//POINTER #1 @ $2CA62C - STRING #1 @ $2CA578
+
+#WRITE(GBA,$2CA62C)
+[x 16]<line>
+‚f‚Œ‚•‚‡‚Œ‚•‚‡ ‚k‚‚‡‚‚‚Ž<end>
+
+
+//POINTER #2 @ $2CA630 - STRING #2 @ $2CA588
+
+#WRITE(GBA,$2CA630)
+[x 15]<line>
+‚r‚ˆ‚…‚Œ‚Œ‚”‚‚ ‚h‚“‚Œ‚‚Ž‚„‚“<end>
+
+
+//POINTER #3 @ $2CA634 - STRING #3 @ $2CA598
+
+#WRITE(GBA,$2CA634)
+[x 15]<line>
+‚r‚Œ‚‰‚‚‚…‚’‚™ ‚f‚Œ‚‚ƒ‚‰‚…‚’<end>
+
+
+//POINTER #4 @ $2CA638 - STRING #4 @ $2CA5A8
+
+#WRITE(GBA,$2CA638)
+[x 9]<line>
+‚i‚•‚‚‚‚‚—‚‚‚„ ‚e‚‚’‚…‚“‚”<end>
+
+
+//POINTER #5 @ $2CA63C - STRING #5 @ $2CA5B8
+
+#WRITE(GBA,$2CA63C)
+[x 9]<line>
+‚o‚‰‚”‚ƒ‚ˆ ‚a‚Œ‚‚ƒ‚‹ ‚b‚‚–‚…‚’‚Ž<end>
+
+
+//POINTER #6 @ $2CA640 - STRING #6 @ $2CA5CC
+
+#WRITE(GBA,$2CA640)
+[x 18]<line>
+‚x|‚k|‚g ‚g‚…‚‰‚‡‚ˆ‚”‚“<end>
+
+
+//POINTER #7 @ $2CA644 - STRING #7 @ $2CA5E0
+
+#WRITE(GBA,$2CA644)
+‚o‚•‚†‚†‚”‚‚<end>
+
+
+//POINTER #8 @ $2CA648 - STRING #8 @ $2CA5EC
+
+#WRITE(GBA,$2CA648)
+‚k‚‚ƒ‚ˆ ‚q‚…‚“‚“<end>
+
+
+//POINTER #9 @ $2CA64C - STRING #9 @ $2CA5F8
+
+#WRITE(GBA,$2CA64C)
+[x 14]<line>
+‚s‚‚’‚’‚…‚Ž‚”‚‰‚‚Œ ‚e‚‚Œ‚Œ‚“<end>
+
+
+//POINTER #10 @ $2CA650 - STRING #10 @ $2CA60C
+
+#WRITE(GBA,$2CA650)
+[x 17]<line>
+‚n‚‡‚•‚’‚f‚“ ‚b‚‚“‚”‚Œ‚…<end>
+
+
+//POINTER #11 @ $2CA654 - STRING #11 @ $2CA61C
+
+#WRITE(GBA,$2CA654)
+‚u‚…‚ˆ‚‰‚ƒ‚Œ‚…<end>
+

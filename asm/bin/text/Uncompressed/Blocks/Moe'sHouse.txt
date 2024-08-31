@@ -1,0 +1,82 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Moe's House (Pointer)
+
+//POINTER #0 @ $2D3424 - STRING #0 @ $2D3228
+
+#ACTIVETBL(Story)
+
+#WRITE(GBA,$2D3424)
+‚g‚…‚’‚…f‚“ ‚—‚ˆ‚…‚’‚… ‚™‚‚• ‚ƒ‚‚Ž ‚Œ‚‚‚‹ ‚‚” ‚”‚ˆ‚… ‚o‚ˆ‚‚”‚‚“<linealt>
+‚™‚ ‚‚‚‚•‚‡‚ˆ‚” ‚‚” ‚k‚‚–‚…‚Œ‚™f‚“ ‚r‚ˆ‚‚D<end>
+
+
+//POINTER #1 @ $2D3428 - STRING #1 @ $2D3264
+
+#WRITE(GBA,$2D3428)
+‚x‚‚• ‚ƒ‚‚Ž ‚‚Œ‚‚™ ‚‚Œ‚Œ ‚”‚ˆ‚… ‚l‚‰‚Ž‚‰‚‡‚‚‚…‚“<linealt>
+‚™‚‚•f‚–‚… ‚•‚Ž‚Œ‚‚ƒ‚‹‚…‚„ ‚“‚ ‚†‚‚’ ‚ˆ‚…‚’‚…I<end>
+
+
+//POINTER #2 @ $2D342C - STRING #2 @ $2D3294
+
+#WRITE(GBA,$2D342C)
+‚x‚‚• ‚ƒ‚‚Ž ‚Œ‚‰‚“‚”‚…‚Ž ‚”‚ ‚‚Œ‚Œ ‚”‚ˆ‚… ‚“‚ˆ‚…‚…‚” ‚‚•‚“‚‰‚ƒ<linealt>
+‚™‚‚•f‚–‚… ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚…‚„ ‚ˆ‚…‚’‚…D<end>
+
+
+//POINTER #3 @ $2D3430 - STRING #3 @ $2D32C4
+
+#WRITE(GBA,$2D3430)
+‚`‚Œ‚Œ ‚”‚ˆ‚… ‚†‚’‚‰‚…‚Ž‚„‚“ ‚‚Ž‚„ ‚…‚Ž‚…‚‚‰‚…‚“ ‚™‚‚•f‚–‚… ‚‚…‚” ‚‰‚Ž|‚‡‚‚‚…<linealt>
+‚‚’‚… ‚’‚…‚ƒ‚‚’‚„‚…‚„ ‚‰‚Ž ‚”‚ˆ‚‰‚“D<end>
+
+
+//POINTER #4 @ $2D3434 - STRING #4 @ $2D32FC
+
+#WRITE(GBA,$2D3434)
+‚x‚‚• ‚ƒ‚‚Ž ‚”‚‚‹‚… ‚ ‚Œ‚‚‚‹<linealt>
+‚‚” ‚‚Œ‚Œ ‚”‚ˆ‚… ‚”‚’‚…‚‚“‚•‚’‚… ‚™‚‚•f‚–‚… ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚…‚„ ‚ˆ‚…‚’‚…D<end>
+
+
+//POINTER #5 @ $2D3438 - STRING #5 @ $2D3328
+
+#WRITE(GBA,$2D3438)
+‚v‚‚”‚ƒ‚ˆ ‚”‚ˆ‚… ‚†‚‰‚’‚“‚” ‚…‚Ž‚„‚‰‚Ž‚‡I<linealt>
+<end>
+
+
+//POINTER #6 @ $2D343C - STRING #6 @ $2D3350
+
+#WRITE(GBA,$2D343C)
+‚v‚‚”‚ƒ‚ˆ ‚”‚ˆ‚… ‚“‚…‚ƒ‚‚Ž‚„ ‚…‚Ž‚„‚‰‚Ž‚‡I<linealt>
+<end>
+
+
+//POINTER #7 @ $2D3440 - STRING #7 @ $2D3378
+
+#WRITE(GBA,$2D3440)
+‚v‚‚”‚ƒ‚ˆ ‚”‚ˆ‚… ‚…‚Ž‚„‚‰‚Ž‚‡ ‚‚†‚”‚…‚’<linealt>
+‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚‰‚Ž‚‡ ‚‚Œ‚Œ ‚”‚ˆ‚… ‚”‚’‚…‚‚“‚•‚’‚…I<end>
+
+
+//POINTER #8 @ $2D3444 - STRING #8 @ $2D33B4
+
+#WRITE(GBA,$2D3444)
+‚s‚‚‹‚… ‚ ‚Œ‚‚‚‹ ‚‚” ‚”‚ˆ‚… ‚†‚‚Œ‚‹‚“ ‚—‚ˆ‚ ‚‚‚„‚… ‚”‚ˆ‚‰‚“ ‚‡‚‚‚…I<linealt>
+<end>
+
+
+//POINTER #9 @ $2D3448 - STRING #9 @ $2D33B4
+
+#WRITE(GBA,$2D3448)
+‚s‚‚‹‚… ‚ ‚Œ‚‚‚‹ ‚‚” ‚”‚ˆ‚… ‚†‚‚Œ‚‹‚“ ‚—‚ˆ‚ ‚‚‚„‚… ‚”‚ˆ‚‰‚“ ‚‡‚‚‚…I<linealt>
+<end>
+
+
+//POINTER #10 @ $2D344C - STRING #10 @ $2D33E4
+
+#WRITE(GBA,$2D344C)
+‚x‚‚• ‚ƒ‚‚Žf‚” ‚“‚…‚Œ‚…‚ƒ‚” ‚”‚ˆ‚‰‚“ ‚™‚…‚”I<linealt>
+‚b‚‚‚… ‚‚‚‚ƒ‚‹ ‚‚†‚”‚…‚’ ‚™‚‚•f‚–‚… ‚‚„‚–‚…‚Ž‚”‚•‚’‚…‚„ ‚“‚‚‚… ‚‚‚’‚…I<end>
+

@@ -1,0 +1,185 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 1
+//Block Range: $0 - $C6A
+
+//：ｉｆ＿１１３０３＿ｇｏ＿１<line>
+：ｓｄ<line>
+：ｆｕｎｃ＿２２＿－１<line>
+：ｆｕｎｃ＿１１＿７＿０<line>
+：ｆｕｎｃ＿６＿１＿０<line>
+：ｓｅ<line>
+<rname><diamond>キョロスケ<line>
+「なんだ?　このへやは・・<line>
+　行き止まりか?」<line>
+：ｃ<line>
+<wait>：ｆｕｎｃ＿１８＿０＿２１<line>
+：ｏｂｊ＿６＿２＿１<line>
+<rname><diamond>オーグラのこえ<line>
+「グハハハ!　カカッタナー!<line>
+　ソレ!　コウシテヤルー!」<line>
+：ｃ<line>
+<wait>：ｆｌａｇｏｎ＿１１３０４<line>
+：ｏｂｊ＿１＿５＿１<line>
+：ｆｕｎｃ＿８＿０＿１９<line>
+<rname><diamond>キョロスケ<line>
+「ぐわっ・・　なんだ　この<line>
+　ヘンなにおいは・・ゴホゴホ<line>
+　やめろー!　オーグラー!」<line>
+：ｃ<line>
+<redname><diamond>オーグラのこえ<line>
+「グハハハ!　ザマーミロ!<line>
+　セイゼイ　モガキクルシムガイイ<line>
+　グハハハハ!」<line>
+：ｃ<line>
+<wait>：ｓｄ<line>
+：ｏｂｊ＿１＿５＿１<line>
+：ｆｕｎｃ＿８＿０＿１９<line>
+：ｏｂｊ＿６＿２＿０<line>
+：ｆｕｎｃ＿２＿５＿０<line>
+：ｆｕｎｃ＿３＿５＿０<line>
+：ｆｕｎｃ＿２＿５＿０<line>
+：ｆｕｎｃ＿３＿５＿０<line>
+：ｓｅ<line>
+<rname><diamond>キョロスケ<line>
+「ク・・クソ・・あのヤロー・・<line>
+　ヘンなしかけ・・なんか<line>
+　つくりやがっ・・て・・」<line>
+<redname><diamond>キョロスケ<line>
+「だ・・ダメだ・・<line>
+　気が　とおく　な・・る・・」<line>
+：ｃ<line>
+<wait>：ｓｄ<line>
+：ｆｕｎｃ＿４<line>
+：ｆｕｎｃ＿２＿１＿３<line>
+：ｆｕｎｃ＿２＿２＿０<line>
+：ｆｕｎｃ＿５＿１７<line>
+：ｆｌａｇｏｆｆ＿１１３０４<line>
+：ｆｌａｇｏｎ＿１１３０２<line>
+：ｆｕｎｃ＿８＿０＿０<line>
+：ｆｕｎｃ＿８＿０＿９９<line>
+：ｆｕｎｃ＿８＿１＿０<line>
+：ｏｂｊ＿０＿２＿０<line>
+：ｏｂｊ＿１＿２＿０<line>
+：ｏｂｊ＿３＿２＿１<line>
+：ｏｂｊ＿３＿６<line>
+：ｏｂｊ＿４＿２＿１<line>
+：ｏｂｊ＿４＿６<line>
+：ｆｕｎｃ＿３＿２＿０<line>
+：ｆｕｎｃ＿３＿１＿３<line>
+：ｓｅ<line>
+：ｆｕｎｃ＿２２＿－１<line>
+<rname><diamond>キョロスケ<line>
+「うーん・・うーん・・」<line>
+<wait>：ｏｂｊ＿３＿１０＿０＿１<line>
+：ｏｂｊ＿４＿１０＿０＿１<line>
+[ｗ＿２４０]<line>
+：ｏｂｊ＿３＿９＿２＿１<line>
+：ｏｂｊ＿４＿９＿２＿１<line>
+<rname><diamond>キョロスケ<line>
+「クソ・・ひでぇめに<line>
+　あったぜ・・ゴホゴホ・・」<line>
+<redname><diamond>キョロスケ<line>
+「・・なんだったんだ?<line>
+　今のヘンなにおいは・・」<line>
+<wait>：ｏｂｊ＿２＿２＿１<line>
+：ｆｕｎｃ＿１８＿１＿７１<line>
+<rname><diamond>キョロスケ<line>
+「ん?　ちょいまちだ!　なんか<line>
+　てがみが　おちてんぞ!<line>
+　・・えー　なになに?」<line>
+：ｃ<line>
+<wait>　　　　　　　てがみ<line>
+「しんぱいになって　きてみれば・・」<line>
+：ｃ<line>
+<wait>「おぬしら　ワシに<line>
+　たすけられているようでは<line>
+　まだまだじゃのう・・<line>
+　ホッホッホ・・」<line>
+：ｃ<line>
+<wait>「ヘンな　しかけは　ワシが<line>
+　止めてやったわい」<line>
+：ｃ<line>
+<wait>「そこに　パタパタと<line>
+　もようがかわる<line>
+　みょうな　ブロックが<line>
+　あるじゃろ?」<line>
+：ｃ<line>
+<wait>「それを　＜ｃ＿ｄ＞ぜんぶ　トビラの上の＜ｃ＿０＞<line>
+　＜ｃ＿ｄ＞ブロックと　同じ＜ｃ＿０＞<line>
+　＜ｃ＿ｄ＞もようにすれば　しかけは＜ｃ＿０＞<line>
+　＜ｃ＿ｄ＞かいじょできる＜ｃ＿０＞ぞい」<line>
+：ｃ<line>
+<wait>「もようがかわる　ブロックは<line>
+　スピンアタックで<line>
+　止めるんじゃ」<line>
+：ｃ<line>
+<wait>「モタモタしとると　しかけの<line>
+　ガスで　ダメージをくらって<line>
+　しまうからのう・・」<line>
+：ｃ<line>
+<wait>「ムリせず　あぶなくなったら<line>
+　いったん　へやを　出るんじゃ!<line>
+　わかったな?」<line>
+：ｃ<line>
+<wait>「では　ワシは　コシが<line>
+　いたいから　もう行くわい・・」<line>
+：ｃ<line>
+<wait>「あまり　この　おいぼれを<line>
+　しんぱいさせるんでないぞ?<line>
+　早く　いちにんまえに<line>
+　なるんじゃ!　ホッホッホ・・」<line>
+：ｃ<line>
+<wait>：ｏｂｊ＿２＿２＿０<line>
+：ｆｕｎｃ＿１８＿１＿７２<line>
+<rname><diamond>キョロ鴻Ｘケ<line>
+「・・って　なんだ?<line>
+　この　エラソーな<line>
+　てがみは・・ったく・・」<line>
+<redname><diamond>キョロスケ<line>
+「しかし　この　くちょう・・<line>
+　あの　じいさんに<line>
+　そっくりだな・・」<line>
+<redname><diamond>キョロスケ<line>
+「まあいいや・・とりあえず<line>
+　この先　このタイプの<line>
+　しかけに　ちゅういしろ<$EB>よ!」<line>
+：ｃ<line>
+<wait>：ｓｄ<line>
+：ｆｕｎｃ＿４<line>
+：ｆｕｎｃ＿２＿２＿２<line>
+：ｆｌａｇｏｎ＿１１３０３<line>
+：ｏｂｊ＿０＿２＿１<line>
+：ｏｂｊ＿１＿２＿１<line>
+：ｏｂｊ＿１＿５＿０<line>
+：ｏｂｊ＿２＿２＿０<line>
+：ｏｂｊ＿３＿２＿０<line>
+：ｏｂｊ＿４＿２＿０<line>
+：ｆｕｎｃ＿１０<line>
+：ｆｕｎｃ＿１＿０＿１<line>
+：ｆｕｎｃ＿３＿２<line>
+：ｅｘｉｔ<line>
+<wait>：１<line>
+：ｓｄ<line>
+：ｆｕｎｃ＿２２＿－１<line>
+：ｆｕｎｃ＿６＿１＿０<line>
+：ｓｅ<line>
+<rname><diamond>キョロスケ<line>
+「へやにある　もようがかわる<line>
+　＠ブロックを　ぜんぶ<line>
+　スピンアタックで止めて・・」<line>
+<redname><diamond>キョロスケ<line>
+「＜ｃ＿ｄ＞トビラの上にある　ブロックの＜ｃ＿０＞<line>
+　＜ｃ＿ｄ＞もようと　同じもように＜ｃ＿０＞<line>
+　＜ｃ＿ｄ＞する＜ｃ＿０＞んだ!」<line>
+<redname><diamond>キョロスケ<line>
+「すばやくやるんだぞ!<line>
+　じゃないと　ガスで<line>
+　ダメージ　もらっちまワうからな」<line>
+<redname><diamond>キョロスケ<line>
+「あぶなくなったら<line>
+　いったんへやの外に<line>
+　出ろ!　わかったな!」<line>
+：ｅｎｄ<line>
+<end>
+

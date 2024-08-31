@@ -1,0 +1,74 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 2
+//Block Range: $0 - $3D2
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+[y auto]<line>
+[x 94]<line>
+[w 80]<line>
+<s 5>Ｔｈａｔ Ｏｇｕｒａ，<line>
+[x 58]<line>
+ｔｒａｐｐｅｄ ｉｎｓｉｄｅ ｏｆ ｔｈｅ ｊａｒ．．．<line>
+//May Edit that later!
+[w 200]<line>
+[x 56]<line>
+<wait>Ｈａｄ ｂｅｅｎ ｔｈｉｎｋｉｎｇ ｏｆ ａ ｗａｙ<line>
+ｔｏ ｅｓｃａｐｅ ｆｏｒ ａ ｌｏｎｇ ｔｉｍｅ．．．<line>
+[w 200]<line>
+ <progressalt><line>
+<wait>[y 14]<line>
+[x 2]<line>
+<rname><diamond>Ｏｇｕｒａ<line>
+Ｇｒｒｒ．．． Ｉ ｎｅｅｄ ｔｏ ｇｅｔ ｏｕｔ ｏｆ ｈｅｒｅ！<line>
+[w 200]<line>
+<progress><rname><diamond>Ｏｇｕｒａ<line>
+Ｃｕｒｓｅ ｔｈａｔ ｉｎｓｕｆｆｅｒａｂｌｅ ｒｏｙａｌ ｆａｍｉｌｙ！<line>
+[w 200]<line>
+<progress><rname><diamond>Ｏｇｕｒａ<line>
+Ｗｈａｔ ｄｏ Ｉ ｄｏ？．．．<line>
+＊ｍｕｍｂｌｅ ｍｕｍｂｌｅ＊<line>
+//Might wanna edit that later!
+[w 200]<line>
+<redname><diamond>Ｏｇｕｒａ<line>
+Ｈｍｍ．．． Ｈｍ！？ Ｆａｍｉｌｙ， ｈｕｈ？．．．<line>
+[w 200]<line>
+<progress><rname><diamond>Ｏｇｕｒａ<line>
+Ｔｈａｔ’ｓ ｉｔ！ Ｉ ｈａｖｅ ｔｈｅ ｐｅｒｆｅｃｔ ｐｌａｎ．．．<line>
+Ｇｗａｈａｈａｈａｈａ！<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>Ｏｇｕｒａ<line>
+Ｈｏｊｉ．．． Ｈｏｊｉ．．． Ｈｏｊｉ．．．<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>Ｏｇｕｒａ<line>
+Ｐｅｒｆｅｃｔ！ Ｙｏｕ ａｌｌ ｗｉｌｌ ｂｅ ｋｎｏｗｎ ａｓ<line>
+ｔｈｅ ”Ｐｕｃｈｉ Ｏｇｕｒａｓ”！<line>
+[w 200]<line>
+<redname><diamond>Ｏｇｕｒａ<line>
+Ｉｔ ｓｈｏｕｌｄ ｂｅ ｓｉｍｐｌｅ ｆｏｒ ａｌｌ ｏｆ ｙｏｕ ｔｏ<line>
+ｅｓｃａｐｅ ｔｈｅ ｊａｒ ａｔ ｙｏｕｒ ｓｉｚｅ！<line>
+[w 200]<line>
+<redname><diamond>Ｏｇｕｒａ<line>
+Ｇｏ， ｍｙ ｌｉｔｔｌｅ ｏｎｅｓ！<line>
+[w 200]<line>
+<redname><diamond>Ｏｇｕｒａ<line>
+Ｇｏ ａｎｄ ｓｕｍｍｏｎ ａ ｓｔｏｒｍ ｔｈａｔ ｗｉｌｌ<line>
+ｆｒｅｅ ｍｅ ｆｒｏｍ ｔｈｉｓ ｐｒｉｓｏｎ！！！<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>Ｐｕｃｈｉ Ｏｇｕｒａｓ<line>
+Ｒｏｇｅｒ！！！<line>
+[w 200]<line>
+ <progressalt><line>
+<end>
+

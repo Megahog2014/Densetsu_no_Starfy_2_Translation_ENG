@@ -1,0 +1,139 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Tutorial Signs list (Pointer)
+
+//POINTER #0 @ $2C52E0 - STRING #0 @ $63C1EC
+
+#W32($2C52E0)
+//およぐ<line>
+:end<line>
+<end>
+
+
+//POINTER #1 @ $2C52E4 - STRING #1 @ $63C1FC
+
+#W32($2C52E4)
+//がんばりおよぎ<line>
+:end<line>
+<end>
+
+
+//POINTER #2 @ $2C52E8 - STRING #2 @ $63C214
+
+#W32($2C52E8)
+//なみまじゃんぷ<line>
+:end<line>
+<end>
+
+
+//POINTER #3 @ $2C52EC - STRING #3 @ $63C22C
+
+#W32($2C52EC)
+//あるく<line>
+:end<line>
+<end>
+
+
+//POINTER #4 @ $2C52F0 - STRING #4 @ $63C23C
+
+#W32($2C52F0)
+//しゃがみ<line>
+:end<line>
+<end>
+
+
+//POINTER #5 @ $2C52F4 - STRING #5 @ $63C250
+
+#W32($2C52F4)
+//じゃんぷ<line>
+:end<line>
+<end>
+
+
+//POINTER #6 @ $2C52F8 - STRING #6 @ $63C264
+
+#W32($2C52F8)
+//だっっしゅ<line>
+:end<line>
+<end>
+
+
+//POINTER #7 @ $2C52FC - STRING #7 @ $63C278
+
+#W32($2C52FC)
+//だっっしゅじゃんぷ<line>
+:end<line>
+<end>
+
+
+//POINTER #8 @ $2C5300 - STRING #8 @ $63C294
+
+#W32($2C5300)
+//しゃがみすべり<line>
+:end<line>
+<end>
+
+
+//POINTER #9 @ $2C5304 - STRING #9 @ $63C2AC
+
+#W32($2C5304)
+//トビラに入る<line>
+:end<line>
+<end>
+
+
+//POINTER #10 @ $2C5308 - STRING #10 @ $63C2C4
+
+#W32($2C5308)
+//はなしかける<line>
+:end<line>
+<end>
+
+
+//POINTER #11 @ $2C530C - STRING #11 @ $63C2DC
+
+#W32($2C530C)
+//スピンアタックレベル１<line>
+:end<line>
+<end>
+
+
+//POINTER #12 @ $2C5310 - STRING #12 @ $63C2FC
+
+#W32($2C5310)
+//ムササビじゃんぷ<line>
+:end<line>
+<end>
+
+
+//POINTER #13 @ $2C5314 - STRING #13 @ $63C318
+
+#W32($2C5314)
+//だぶるじゃんぷ<line>
+:end<line>
+<end>
+
+
+//POINTER #14 @ $2C5318 - STRING #14 @ $63C330
+
+#W32($2C5318)
+//スピンアタックレベル２<line>
+:end<line>
+<end>
+
+
+//POINTER #15 @ $2C531C - STRING #15 @ $63C350
+
+#W32($2C531C)
+//りゅうせいアタック<line>
+:end<line>
+<end>
+
+
+//POINTER #16 @ $2C5320 - STRING #16 @ $63C36C
+
+#W32($2C5320)
+//スピンアタックレベル３<line>
+:end<line>
+<end>
+

@@ -1,0 +1,53 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 1
+//Block Range: $0 - $3D8
+
+//：ｉｆ＿６２０１＿ｇｏ＿１<line>
+：ｆｕｎｃ＿２２＿－１<line>
+：ｓｄ<line>
+：ｆｌａｇｏｎ＿６２０１<line>
+：ｆｕｎｃ＿６＿１＿０<line>
+：ｓｅ<line>
+<rname><diamond>キョロスケ<line>
+「クソーっ!　トビラが　おおすぎて<line>
+　どれに　入ればいいか<line>
+　わかんねーぞ!　・・ん?」<line>
+<redname><diamond>キョロスケ<line>
+「なんだあ?　このカベ　もじが<line>
+　ほってある・・　よんでやるから<line>
+　よく　きいとけよ!」<line>
+<redname><diamond>キョロスケ<line>
+「えーと・・<line>
+　＜ｃ＿ｄ＞『ワタシだけ　ナカマはずれ<line>
+　ワタシだけ　すむバショがちがう』＜ｃ＿０＞」<line>
+<redname><diamond>キョロスケ<line>
+「＜ｃ＿ｄ＞『でも　シンジツへ<line>
+　つづくドアは　ワタシだけ』＜ｃ＿０＞<line>
+　・・なんだこりゃ?　」<line>
+<redname><diamond>キョロスケ<line>
+「ひょっとしたら　なにかの<line>
+　ヒントなのかもな」<line>
+：ｅｎｄ<line>
+<wait>：１<line>
+：ｆｕｎｃ＿２２＿－１<line>
+：ｓｄ<line>
+：ｆｕｎｃ＿６＿１＿０<line>
+：ｓｅ<line>
+<rname><diamond>キョロスケ<line>
+「なんだよ　もう1回　よんで<line>
+　ほしいのか?　しょーがねーな・・」<line>
+<redname><diamond>キョロスケ<line>
+「＜ｃ＿ｄ＞『ワタシだけ　ナカマはずれ<line>
+　ワタシだけ　すむバショがちがう』ｘ＜ｃ＿０＞」<line>
+<redname><diamond>キョロスケ<line>
+「＜ｃ＿ｄ＞『でも　シンジツへ<line>
+　つづくドアは　ワタシだけ』＜ｃ＿０＞<line>
+　・・これだけだぞ」<line>
+<redname><diamond>キョロスケ<line>
+「ようするに　すんでるところが<line>
+　ほかと　ちがうヤツを<line>
+　さがせってことだろ?」<line>
+：ｅｎｄ<line>
+<end>
+

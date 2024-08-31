@@ -1,0 +1,23 @@
+!disabled
+# Have All Moves
+720043C0 00B7
+7A0C4934 DCF6
+!disabled
+# Have Land Ability [Press Select+Down]
+F4088138 5B7A
+FA04DC6C A802
+!disabled
+# Have Water Ability [Press Select+Up]
+3C004971 DFFA
+FA04DC6C A800
+!disabled
+# Weak Bosses
+F304F780 7D4C
+FB00BB8C 3C40
+# [M] Must Be On
+9F1D1EDC 6226
+7507E624 6292
+E5066C24 2A13
+# Maximum Pearls
+DB154516 58E5
+5E5DC756 F8EF

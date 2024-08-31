@@ -1,0 +1,14 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		WorldMap 1-1
+//Block Range: $0 - $68
+
+//[x 0]<line>
+[y 2]<line>
+『ロブのどうくつ』　1-1<line>
+[x auto]<line>
+[y 20]<line>
+いろいろな　アクションを<line>
+思い出そう!<line>
+<end>
+

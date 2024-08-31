@@ -1,0 +1,297 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Photo Names (Pointer)
+
+//POINTER #0 @ $2C7774 - STRING #0 @ $2C74D0
+
+#W32($2C7774)
+//キョロスケ<end>
+
+
+//POINTER #1 @ $2C7778 - STRING #1 @ $2C74DC
+
+#W32($2C7778)
+//ロブじいさん<end>
+
+
+//POINTER #2 @ $2C777C - STRING #2 @ $2C74EC
+
+#W32($2C777C)
+//マーメイド<end>
+
+
+//POINTER #3 @ $2C7780 - STRING #3 @ $2C74F8
+
+#W32($2C7780)
+//ヤドカリタ<end>
+
+
+//POINTER #4 @ $2C7784 - STRING #4 @ $2C7504
+
+#W32($2C7784)
+//ラブリー<end>
+
+
+//POINTER #5 @ $2C7788 - STRING #5 @ $2C7510
+
+#W32($2C7788)
+//ハデヒラリ<end>
+
+
+//POINTER #6 @ $2C778C - STRING #6 @ $2C751C
+
+#W32($2C778C)
+//メカニじいさん<end>
+
+
+//POINTER #7 @ $2C7790 - STRING #7 @ $2C752C
+
+#W32($2C7790)
+//カメール<end>
+
+
+//POINTER #8 @ $2C7794 - STRING #8 @ $2C7538
+
+#W32($2C7794)
+//カメッコたち１<end>
+
+
+//POINTER #9 @ $2C7798 - STRING #9 @ $2C7548
+
+#W32($2C7798)
+//カメッコたち２<end>
+
+
+//POINTER #10 @ $2C779C - STRING #10 @ $2C7558
+
+#W32($2C779C)
+//ガガンモ<end>
+
+
+//POINTER #11 @ $2C77A0 - STRING #11 @ $2C7564
+
+#W32($2C77A0)
+//クリオレたち<end>
+
+
+//POINTER #12 @ $2C77A4 - STRING #12 @ $2C7574
+
+#W32($2C77A4)
+//トリート<end>
+
+
+//POINTER #13 @ $2C77A8 - STRING #13 @ $2C7580
+
+#W32($2C77A8)
+//サブァコ<end>
+
+
+//POINTER #14 @ $2C77AC - STRING #14 @ $2C758C
+
+#W32($2C77AC)
+//ヒラオとヒラリン<end>
+
+
+//POINTER #15 @ $2C77B0 - STRING #15 @ $2C75A0
+
+#W32($2C77B0)
+//コンビー<end>
+
+
+//POINTER #16 @ $2C77B4 - STRING #16 @ $2C75AC
+
+#W32($2C77B4)
+//ウキッズ<end>
+
+
+//POINTER #17 @ $2C77B8 - STRING #17 @ $2C75B8
+
+#W32($2C77B8)
+//オリスとコリス<end>
+
+
+//POINTER #18 @ $2C77BC - STRING #18 @ $2C75C8
+
+#W32($2C77BC)
+//ニャンジャ<end>
+
+
+//POINTER #19 @ $2C77C0 - STRING #19 @ $2C75D4
+
+#W32($2C77C0)
+//カモーネ<end>
+
+
+//POINTER #20 @ $2C77C4 - STRING #20 @ $2C75E0
+
+#W32($2C77C4)
+//クマじい<end>
+
+
+//POINTER #21 @ $2C77C8 - STRING #21 @ $2C75EC
+
+#W32($2C77C8)
+//ビバ<end>
+
+
+//POINTER #22 @ $2C77CC - STRING #22 @ $2C75F4
+
+#W32($2C77CC)
+//ムーン<end>
+
+
+//POINTER #23 @ $2C77D0 - STRING #23 @ $2C75FC
+
+#W32($2C77D0)
+//ミツガサゴ<end>
+
+
+//POINTER #24 @ $2C77D4 - STRING #24 @ $2C7608
+
+#W32($2C77D4)
+//ウォーツァルト<end>
+
+
+//POINTER #25 @ $2C77D8 - STRING #25 @ $2C7618
+
+#W32($2C77D8)
+//チュータ<end>
+
+
+//POINTER #26 @ $2C77DC - STRING #26 @ $2C7624
+
+#W32($2C77DC)
+//オオタルイカたち<end>
+
+
+//POINTER #27 @ $2C77E0 - STRING #27 @ $2C7638
+
+#W32($2C77E0)
+//ガイドンナ<end>
+
+
+//POINTER #28 @ $2C77E4 - STRING #28 @ $2C7644
+
+#W32($2C77E4)
+//カンニンオヤコ<end>
+
+
+//POINTER #29 @ $2C77E8 - STRING #29 @ $2C7654
+
+#W32($2C77E8)
+//ナマズオヤコ<end>
+
+
+//POINTER #30 @ $2C77EC - STRING #30 @ $2C7664
+
+#W32($2C77EC)
+//コルンドル<end>
+
+
+//POINTER #31 @ $2C77F0 - STRING #31 @ $2C7670
+
+#W32($2C77F0)
+//コドルン<end>
+
+
+//POINTER #32 @ $2C77F4 - STRING #32 @ $2C767C
+
+#W32($2C77F4)
+//タイブロンド<end>
+
+
+//POINTER #33 @ $2C77F8 - STRING #33 @ $2C768C
+
+#W32($2C77F8)
+//ホルーン<end>
+
+
+//POINTER #34 @ $2C77FC - STRING #34 @ $2C7698
+
+#W32($2C77FC)
+//テンカイヘイシ<end>
+
+
+//POINTER #35 @ $2C7800 - STRING #35 @ $2C76A8
+
+#W32($2C7800)
+//マユドラゴ<end>
+
+
+//POINTER #36 @ $2C7804 - STRING #36 @ $2C76B4
+
+#W32($2C7804)
+//ヤリイカーズ<end>
+
+
+//POINTER #37 @ $2C7808 - STRING #37 @ $2C76C4
+
+#W32($2C7808)
+//テンカイコドモ<end>
+
+
+//POINTER #38 @ $2C780C - STRING #38 @ $2C76D4
+
+#W32($2C780C)
+//ジュエリー<end>
+
+
+//POINTER #39 @ $2C7810 - STRING #39 @ $2C76E0
+
+#W32($2C7810)
+//レッシー<end>
+
+
+//POINTER #40 @ $2C7814 - STRING #40 @ $2C76EC
+
+#W32($2C7814)
+//フナゾウ<end>
+
+
+//POINTER #41 @ $2C7818 - STRING #41 @ $2C76F8
+
+#W32($2C7818)
+//ジョージロー<end>
+
+
+//POINTER #42 @ $2C781C - STRING #42 @ $2C7708
+
+#W32($2C781C)
+//ラブラブリン<end>
+
+
+//POINTER #43 @ $2C7820 - STRING #43 @ $2C7718
+
+#W32($2C7820)
+//フカフカ<end>
+
+
+//POINTER #44 @ $2C7824 - STRING #44 @ $2C7724
+
+#W32($2C7824)
+//オギョンたち<end>
+
+
+//POINTER #45 @ $2C7828 - STRING #45 @ $2C7734
+
+#W32($2C7828)
+//ゲキョじい<end>
+
+
+//POINTER #46 @ $2C782C - STRING #46 @ $2C7740
+
+#W32($2C782C)
+//ヤコウカガミ<end>
+
+
+//POINTER #47 @ $2C7830 - STRING #47 @ $2C7750
+
+#W32($2C7830)
+//チョロスケたち<end>
+
+
+//POINTER #48 @ $2C7834 - STRING #48 @ $2C7760
+
+#W32($2C7834)
+//？？？？？？？？<end>
+

@@ -1,0 +1,14 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $7F
+
+//[x 0]<line>
+[y 2]<line>
+『ロブのどうくつ』　１-８<line>
+[x auto]<line>
+[y 20]<line>
+回るブロック！　トゲ！　リフト！<line>
+おたからへのみち　とおせんぼ！<line>
+<end>
+

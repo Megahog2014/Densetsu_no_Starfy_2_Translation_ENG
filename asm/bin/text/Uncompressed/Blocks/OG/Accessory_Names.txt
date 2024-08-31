@@ -1,0 +1,419 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Accessory Names (Pointer)
+
+//POINTER #0 @ $2C6DC0 - STRING #0 @ $63B0A4
+
+#W32($2C6DC0)
+//はずす<line>
+:end<line>
+<end>
+
+
+//POINTER #1 @ $2C6DC4 - STRING #1 @ $63B0B4
+
+#W32($2C6DC4)
+//テンカイのぼうし<line>
+:end<line>
+<end>
+
+
+//POINTER #2 @ $2C6DC8 - STRING #2 @ $63B0D0
+
+#W32($2C6DC8)
+//ぽしぇっと<line>
+:end<line>
+<end>
+
+
+//POINTER #3 @ $2C6DCC - STRING #3 @ $63B0E4
+
+#W32($2C6DCC)
+//ぐるぐるメガネ<line>
+:end<line>
+<end>
+
+
+//POINTER #4 @ $2C6DD0 - STRING #4 @ $63B0FC
+
+#W32($2C6DD0)
+//ヘルメット<line>
+:end<line>
+<end>
+
+
+//POINTER #5 @ $2C6DD4 - STRING #5 @ $63B110
+
+#W32($2C6DD4)
+//テンカイのゲタ<line>
+:end<line>
+<end>
+
+
+//POINTER #6 @ $2C6DD8 - STRING #6 @ $63B128
+
+#W32($2C6DD8)
+//ぼうさいずきん<line>
+:end<line>
+<end>
+
+
+//POINTER #7 @ $2C6DDC - STRING #7 @ $63B140
+
+#W32($2C6DDC)
+//グラサン<line>
+:end<line>
+<end>
+
+
+//POINTER #8 @ $2C6DE0 - STRING #8 @ $63B154
+
+#W32($2C6DE0)
+//やきゅうキャップ<line>
+:end<line>
+<end>
+
+
+//POINTER #9 @ $2C6DE4 - STRING #9 @ $63B170
+
+#W32($2C6DE4)
+//おまもり<line>
+:end<line>
+<end>
+
+
+//POINTER #10 @ $2C6DE8 - STRING #10 @ $63B184
+
+#W32($2C6DE8)
+//きんぱつのヅラ<line>
+:end<line>
+<end>
+
+
+//POINTER #11 @ $2C6DEC - STRING #11 @ $63B19C
+
+#W32($2C6DEC)
+//ぼうけんかのムチ<line>
+:end<line>
+<end>
+
+
+//POINTER #12 @ $2C6DF0 - STRING #12 @ $63B1B8
+
+#W32($2C6DF0)
+//タコはちまき<line>
+:end<line>
+<end>
+
+
+//POINTER #13 @ $2C6DF4 - STRING #13 @ $63B1D0
+
+#W32($2C6DF4)
+//うさぎイヤー<line>
+:end<line>
+<end>
+
+
+//POINTER #14 @ $2C6DF8 - STRING #14 @ $63B1E8
+
+#W32($2C6DF8)
+//海のこうすい<line>
+:end<line>
+<end>
+
+
+//POINTER #15 @ $2C6DFC - STRING #15 @ $63B200
+
+#W32($2C6DFC)
+//ヘアバンド<line>
+:end<line>
+<end>
+
+
+//POINTER #16 @ $2C6E00 - STRING #16 @ $63B214
+
+#W32($2C6E00)
+//ローラースケート<line>
+:end<line>
+<end>
+
+
+//POINTER #17 @ $2C6E04 - STRING #17 @ $63B230
+
+#W32($2C6E04)
+//けいとのぼうし<line>
+:end<line>
+<end>
+
+
+//POINTER #18 @ $2C6E08 - STRING #18 @ $63B248
+
+#W32($2C6E08)
+//マニキュア<line>
+:end<line>
+<end>
+
+
+//POINTER #19 @ $2C6E0C - STRING #19 @ $63B25C
+
+#W32($2C6E0C)
+//たんていぼうし<line>
+:end<line>
+<end>
+
+
+//POINTER #20 @ $2C6E10 - STRING #20 @ $63B274
+
+#W32($2C6E10)
+//うちゅうぼうし<line>
+:end<line>
+<end>
+
+
+//POINTER #21 @ $2C6E14 - STRING #21 @ $63B28C
+
+#W32($2C6E14)
+//せんごくカブト<line>
+:end<line>
+<end>
+
+
+//POINTER #22 @ $2C6E18 - STRING #22 @ $63B2A4
+
+#W32($2C6E18)
+//ムシめがね<line>
+:end<line>
+<end>
+
+
+//POINTER #23 @ $2C6E1C - STRING #23 @ $63B2B8
+
+#W32($2C6E1C)
+//つけヒゲ<line>
+:end<line>
+<end>
+
+
+//POINTER #24 @ $2C6E20 - STRING #24 @ $63B2CC
+
+#W32($2C6E20)
+//まちむすめのヅラ<line>
+:end<line>
+<end>
+
+
+//POINTER #25 @ $2C6E24 - STRING #25 @ $63B2E8
+
+#W32($2C6E24)
+//ちょんまげヅラ<line>
+:end<line>
+<end>
+
+
+//POINTER #26 @ $2C6E28 - STRING #26 @ $63B300
+
+#W32($2C6E28)
+//テンカイギター<line>
+:end<line>
+<end>
+
+
+//POINTER #27 @ $2C6E2C - STRING #27 @ $63B318
+
+#W32($2C6E2C)
+//ウクレレ<line>
+:end<line>
+<end>
+
+
+//POINTER #28 @ $2C6E30 - STRING #28 @ $63B32C
+
+#W32($2C6E30)
+//サンダル<line>
+:end<line>
+<end>
+
+
+//POINTER #29 @ $2C6E34 - STRING #29 @ $63B340
+
+#W32($2C6E34)
+//シルクハット<line>
+:end<line>
+<end>
+
+
+//POINTER #30 @ $2C6E38 - STRING #30 @ $63B358
+
+#W32($2C6E38)
+//きしのかぶと<line>
+:end<line>
+<end>
+
+
+//POINTER #31 @ $2C6E3C - STRING #31 @ $63B370
+
+#W32($2C6E3C)
+//おめん<line>
+:end<line>
+<end>
+
+
+//POINTER #32 @ $2C6E40 - STRING #32 @ $63B380
+
+#W32($2C6E40)
+//ターバン<line>
+:end<line>
+<end>
+
+
+//POINTER #33 @ $2C6E44 - STRING #33 @ $63B394
+
+#W32($2C6E44)
+//アフロヅラ<line>
+:end<line>
+<end>
+
+
+//POINTER #34 @ $2C6E48 - STRING #34 @ $63B3A8
+
+#W32($2C6E48)
+//しない<line>
+:end<line>
+<end>
+
+
+//POINTER #35 @ $2C6E4C - STRING #35 @ $63B3B8
+
+#W32($2C6E4C)
+//ヒーローメット<line>
+:end<line>
+<end>
+
+
+//POINTER #36 @ $2C6E50 - STRING #36 @ $63B3D0
+
+#W32($2C6E50)
+//おうかん<line>
+:end<line>
+<end>
+
+
+//POINTER #37 @ $2C6E54 - STRING #37 @ $63B3E4
+
+#W32($2C6E54)
+//ナイトキャップ<line>
+:end<line>
+<end>
+
+
+//POINTER #38 @ $2C6E58 - STRING #38 @ $63B3FC
+
+#W32($2C6E58)
+//おたま<line>
+:end<line>
+<end>
+
+
+//POINTER #39 @ $2C6E5C - STRING #39 @ $63B40C
+
+#W32($2C6E5C)
+//デビルのつの<line>
+:end<line>
+<end>
+
+
+//POINTER #40 @ $2C6E60 - STRING #40 @ $63B424
+
+#W32($2C6E60)
+//かいけつハット<line>
+:end<line>
+<end>
+
+
+//POINTER #41 @ $2C6E64 - STRING #41 @ $63B43C
+
+#W32($2C6E64)
+//かせいじんぼうし<line>
+:end<line>
+<end>
+
+
+//POINTER #42 @ $2C6E68 - STRING #42 @ $63B458
+
+#W32($2C6E68)
+//はげヅラ<line>
+:end<line>
+<end>
+
+
+//POINTER #43 @ $2C6E6C - STRING #43 @ $63B46C
+
+#W32($2C6E6C)
+//モヒカンヅラ<line>
+:end<line>
+<end>
+
+
+//POINTER #44 @ $2C6E70 - STRING #44 @ $63B484
+
+#W32($2C6E70)
+//うんちぼうし<line>
+:end<line>
+<end>
+
+
+//POINTER #45 @ $2C6E74 - STRING #45 @ $63B49C
+
+#W32($2C6E74)
+//チュンぼうし<line>
+:end<line>
+<end>
+
+
+//POINTER #46 @ $2C6E78 - STRING #46 @ $63B4B4
+
+#W32($2C6E78)
+//欠番<line>
+:end<line>
+<end>
+
+
+//POINTER #47 @ $2C6E7C - STRING #47 @ $63B4C4
+
+#W32($2C6E7C)
+//パーティーかめん<line>
+:end<line>
+<end>
+
+
+//POINTER #48 @ $2C6E80 - STRING #48 @ $63B4E0
+
+#W32($2C6E80)
+//はなメガネ<line>
+:end<line>
+<end>
+
+
+//POINTER #49 @ $2C6E84 - STRING #49 @ $63B4F4
+
+#W32($2C6E84)
+//かんぺきメイク<line>
+:end<line>
+<end>
+
+
+//POINTER #50 @ $2C6E88 - STRING #50 @ $63B50C
+
+#W32($2C6E88)
+//リーゼントヅラ<line>
+:end<line>
+<end>
+
+
+//POINTER #51 @ $2C6E8C - STRING #51 @ $63B524
+
+#W32($2C6E8C)
+//はずすんだフィー<line>
+:end<line>
+<end>
+

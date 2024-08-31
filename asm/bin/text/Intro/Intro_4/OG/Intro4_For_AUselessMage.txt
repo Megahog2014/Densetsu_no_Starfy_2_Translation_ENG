@@ -1,0 +1,27 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 4
+//Block Range: $0 - $16E
+
+//[y 2]<line>
+[x 2]<line>
+<rname><diamond>キョロスケ<line>
+<s 5>「バッカヤロ！ なにやってんだ？<line>
+  オメェ！ アブネーだろが！」<line>
+[w 200]<line>
+<redname><diamond>キョロスケ<line>
+「せっかく テンカイにもどれたのに<line>
+  また おっこちるつもりか！」<line>
+ <progressalt><line>
+[w 200]<line>
+<redname><diamond>キョロスケ<line>
+「コラ！ よせ！ あばれるな！<line>
+  オレさままで おちるだろうが！」<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>キョロスケ<line>
+「ウワァァァァァァァァァァァァァ！」<line>
+[w 200]<line>
+ <progressalt><line>
+<end>
+

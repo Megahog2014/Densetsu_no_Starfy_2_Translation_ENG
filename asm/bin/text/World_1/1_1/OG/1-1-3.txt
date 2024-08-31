@@ -1,0 +1,88 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 2
+//Block Range: $0 - $6DA
+
+//:if 1103 go 10<line>
+:sd<line>
+:flagon 1103<line>
+:func 1 1<line>
+:se<line>
+:func 22 -2<line>
+<rname><diamond>ロブじいさん<line>
+「よしよし　だいぶ　アクションを<line>
+　思い出したようじゃの・・」<line>
+<redname><diamond>ロブじいさん<line>
+「この先に　たからばこが<line>
+　あるんじゃが・・・」<line>
+<redname><diamond>ロブじいさん<line>
+「中には　テンカイにまつわ<$ED>る<line>
+　<c d>『グッズ』<c 0>が入っておる」<line>
+<redname><diamond>ロブじいさん<line>
+「きっと　スタフィーの　<line>
+　ははうえが　オーグラに<line>
+　つれさられながら・・・」<line>
+<redname><diamond>ロブじいさん<line>
+「みちしるべとして　いろいろな<line>
+　ところに　おとしていった<line>
+　ものじゃろう・・・」<line>
+:c<line>
+<wait>:sd<line>
+:func 4<line>
+:func 2 1 3<line>
+:func 2 2 0<line>
+:func 5 0<line>
+:func 10<line>
+:func 3 2 0<line>
+:func 3 1 3<line>
+:se<line>
+<rname><diamond>ロブじいさん<line>
+「それを　あつめて行けば<line>
+　きっと　ははうえの　元に<line>
+　たどりつけるはずじゃ」<line>
+<redname><diamond>ロブじいさん<line>
+「グッズはテキが　もっている<line>
+　ばあいも　あるようじゃから轣E・」<line>
+<redname><diamond>ロブじいさん<line>
+「がんばって　たくさんあつめて<line>
+　ははうえの　元に<line>
+　たどりつくのじゃ！」<line>
+<redname><diamond>ロブじいさん<line>
+「それから　あつめたグッズは<line>
+　<c d>『グッズがめん』で　きせかえ<c 0><line>
+　<c d>できる<c 0>ぞい」<line>
+<redname><diamond>ロブじいさん<line>
+「グッズがめんへは　@<c d>『ポーズ<c 0><line>
+　<c d>がめん』と『マップがめん』から<c 0><line>
+　<c d>行ける<c 0>からのう・・」<line>
+<redname><diamond>ロブじいさん<line>
+「では　いそぐがよい！<line>
+　わからないことが　あったら<line>
+　また　おしえてやるわい・・」<line>
+:c<line>
+<wait>:sd<line>
+:func 4<line>
+:func 2 2<line>
+[w 20]<line>
+:func 3 2<line>
+:exit<line>
+<wait>:10<line>
+:func 22 -1<line>
+<rname><diamond>ロブじいさん<line>
+「ぼうけんの　とちゅうや　テキから<line>
+　てに入れられる　テンカイの<line>
+　<c d>『グッズ』<c 0>を　あつめて・・」<line>
+<redname><diamond>ロブじいさん<line>
+「それをたよりに　ははうえの<line>
+　元を　めざすのじゃ！」<line>
+<redname><diamond>ロブじいさん<line>
+「あつめたグッズはヘ<line>
+　<c d>『グッズがめん』で　きせかえ<c 0><line>
+　<c d>できる<c 0>ぞい」<line>
+<redname><diamond>ロブじいさん<line>
+「グッズがめんへは　<c d>『ポーズ<c 0><line>
+　<c d>がめん』と『マップがめん』から<c 0><line>
+　<c d>行ける<c 0>からのう・・」<line>
+:end<line>
+<end>
+

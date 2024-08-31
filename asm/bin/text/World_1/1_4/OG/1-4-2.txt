@@ -1,0 +1,104 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $73A
+
+//:if 1406 go 2<line>
+:if 1407 go 1<line>
+:sd<line>
+:flagon 1407<line>
+:func 1 2<line>
+:func 6 1<line>
+:obj 1 4<line>
+:se<line>
+:func 22 -1<line>
+<rname><diamond>キョロスケ<line>
+「クソー！　アイツら　この中に入って<line>
+　<c d>３つ<c 0>も<c d>『カギ』<c 0>かけやがった！」<line>
+:c<line>
+<wait>:obj 1 9 2 1<line>
+:obj 2 2 1<line>
+:func 18 1 65<line>
+<rname><diamond>プvチオーグラ１ごう<line>
+「あははは！　バーカバーカ！<line>
+　モテない　ハマグリー！」<line>
+:c<line>
+<redname><diamond>ボンボーン<line>
+「早くこないと　また<line>
+　ハデヒラリ　さらっちゃう<line>
+　ボーン！」<line>
+:c<line>
+<wait>:obj 1 5 2<line>
+:obj 1 4<line>
+<rname><diamond>キョロスケ<line>
+「クソー！　アイツらー！！<line>
+　オレさまを『モテないくん<$F1>』みたいに<line>
+　いいやがってーー！」<line>
+<wait>:obj 1 5<line>
+<rname><diamond>キョロスケ<line>
+「いや　そんなことより<line>
+　ハデヒラリさんを　よびすてに<line>
+　するのがムカツクな・・」<line>
+<redname><diamond>キョロスケ<line>
+「オレさまでさえ　まだ　よびすてで<line>
+　よんだことないのに・・・<line>
+　ブツブツ・・」<line>
+<wait>:obj 1 9 2<line>
+<rname><diamond>キョロスケ<line>
+「オラ！　スタフィー！<line>
+　オメェは　さっさと　このカギを<line>
+　なんとか　さがしてくるんだよ！」<line>
+<redname><diamond>キョロスケ<line>
+「きっと　このへんに　あるはずだ！<line>
+　<c d>『カギあなと　同じカタチのカギ』<c 0><line>
+　を　さがしてこい！・・・ったく！」<line>
+:c<line>
+<wait>:sd<line>
+<linealt>:func 4<line>
+:func 2 2<line>
+:obj 1 9 2<line>
+:obj 1 5<line>
+:func 10<line>
+:func 1 0<line>
+:func 3 2<line>
+:exit<line>
+<wait>:1<line>
+:sd<line>
+:func 6 1<line>
+:se<line>
+:func 22 -1<line>
+<rname><diamond>キョロスケ<line>
+「さっさと<c d>『カギあなと　同じ<c 0><line>
+　<c d>カタチのカギ』<c 0>を　さがしてきて<line>
+　このトビラをあけろ！・・ったく！」<line>
+:end<line>
+<wait>:2<line>
+:sd<line>
+:func 6 1<line>
+:se<line>
+:func 22 -1<line>
+<rname><diamond>キョロスケ<line>
+「あの　うずまきヤローの<line>
+　じゃくてんは　おぼえてるな？」<line>
+<redname><diamond>キョロスケ<line>
+「アタマだ！　アタマをねらえ！<line>
+　コテンパンに　こらしめてこい！」<line>
+<redname><diamond>キョロスケ<line>
+「あっと　そうだ！<line>
+　もひとつ　いいこと<line>
+　おしえてやる」<line>
+<redname><diamond>キョロスケ<line>
+「<c d>テキをれんぞくして　たおす<c 0>と<line>
+　<c d>しんじゅが出る<c 0>ぞ！」<line>
+<redname><diamond>キョロスケ<line>
+「うまく　たおしまくれば<line>
+　<c d>でっけえしんじゅも<c 0><line>
+　<c d>出る<c 0>からな」<line>
+<redname><diamond>キョロスケ<line>
+「たたかいに　そなえて<line>
+　元気は　つねに<line>
+　たくわえておけよ」<line>
+:end<line>
+:end<line>
+<end>
+

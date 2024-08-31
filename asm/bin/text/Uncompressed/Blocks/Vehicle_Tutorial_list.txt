@@ -1,0 +1,69 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Vehicle Tutorial Signs list (Pointer)
+
+//POINTER #0 @ $2C52C0 - STRING #0 @ $652428
+
+#ACTIVETBL(Story)
+
+#WRITE(GBA,$2C52C0)
+‚a‚Œ‚‰‚‚<line>
+:end<line>
+<end>
+
+
+//POINTER #1 @ $2C52C4 - STRING #1 @ $65243C
+
+#WRITE(GBA,$2C52C4)
+‚i‚…‚” ‚a‚Œ‚‰‚‚<line>
+:end<line>
+<end>
+
+
+//POINTER #2 @ $2C52C8 - STRING #2 @ $652450
+
+#WRITE(GBA,$2C52C8)
+‚r‚…‚ ‚r‚‹‚‚”‚…‚’<line>
+:end<line>
+<end>
+
+
+//POINTER #3 @ $2C52CC - STRING #3 @ $652464
+
+#WRITE(GBA,$2C52CC)
+‚r‚‚‚’‚‰‚Žf ‚r‚…‚ ‚r‚‹‚‚”‚…‚’<line>
+:end<line>
+<end>
+
+
+//POINTER #4 @ $2C52D0 - STRING #4 @ $652478
+
+#WRITE(GBA,$2C52D0)
+‚q‚™‚•‚Ž<line>
+:end<line>
+<end>
+
+
+//POINTER #5 @ $2C52D4 - STRING #5 @ $65248C
+
+#WRITE(GBA,$2C52D4)
+‚r‚•‚‚…‚’ ‚q‚™‚•‚Ž<line>
+:end<line>
+<end>
+
+
+//POINTER #6 @ $2C52D8 - STRING #6 @ $6524A0
+
+#WRITE(GBA,$2C52D8)
+‚j‚‚‚Œ‚ ‚b‚‚“‚”‚•‚‚…<line>
+:end<line>
+<end>
+
+
+//POINTER #7 @ $2C52DC - STRING #7 @ $6524B8
+
+#WRITE(GBA,$2C52DC)
+‚g‚‚‚Œ‚‰‚‡‚‚”‚‚’ ‚b‚‚“‚”‚•‚‚…<line>
+:end<line>
+<end>
+

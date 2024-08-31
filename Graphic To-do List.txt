@@ -1,0 +1,56 @@
+Graphics To-do List for Starfy 2
+_____________________________________________________
+OAM Graphics
+World 1-2 Enemy remain count        	Status: Not Done
+World 1-3 Lovely's Shop Pamphlet	Status: Not Done
+World 1-3 Lovely's Shop Sign		Status: Not Done
+World 4-3 Finish Line at Blimp Race 	Status: Not Done
+World 5-3 Food Puzzle Graphics		Status: In Testing
+Minigame menu				Status: Not Done
+Minigame Assets				Status: Not Done
+Tutorial Signs Names			Status: In Progress
+-----------------------------------------------------
+Extras
+
+Total count (LZSS)				Status: Done
+Locations: 082EA458
+		   082ED240 (Has Two Pointers)
+
+Stuff Screen BG(LZSS)				Status: Done
+Location: 083F1DDC
+
+Stuff Screen Object (LZSS)			Status: Done
+Location: 083F3F40
+
+Book Screen BG (LZSS)				Status: Done
+Location: 083F59E0
+
+Book Screen OBJ (LZSS)				Status: Done
+Location: 083F8798
+
+Moe's House BG (LZSS)				Status: Done
+Location: 08405674
+
+Moe's House OBJ (LZSS)				Status: Done
+Location: 084070FC
+
+World Select Map OBJ (LZSS) 			Status: Done
+Location: 0840DC18
+
+Minigame Graphic Names
+おいろあわせ=Color Matcher
+Location:
+
+おとしちゃダメダメ=Don't Drop 'Em
+Location:
+
+ふれふれボンバー=FureFure Bomber (Temp name)
+Location:
+
+ドキドキつなわたり=Heart-Pounding Tightrope
+Location:
+
+チューチューパニック=Squeak Squeak Panic
+Location:
+
+

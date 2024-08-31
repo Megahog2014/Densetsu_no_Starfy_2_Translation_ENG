@@ -1,0 +1,14 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $6C
+
+//[x 0]<line>
+[y 2]<line>
+『まっくらどうくつ』　６-１<line>
+[x auto]<line>
+[y 20]<line>
+おんがくかウォーツァルトの<line>
+大ピンチ！！<line>
+<end>
+

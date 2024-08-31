@@ -1,0 +1,14 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $74
+
+//[x 0]<line>
+[y 2]<line>
+『ヤッホーこうざん』　７-９<line>
+[x auto]<line>
+[y 20]<line>
+どこにある？<line>
+そらと　くもに　ひそむ　おたから！<line>
+<end>
+

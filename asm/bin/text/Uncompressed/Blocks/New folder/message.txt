@@ -1,0 +1,1154 @@
+WRITE(GBA,$107A8C)
+//<c d>セレクトボタンをおしながら<c 1><line>
+<c d>スタートボタンをおす<c 1>と<line>
+あつめたものを　セーブして<line>
+マップがめんに　もどります<line>
+:end<line>
+<end>
+
+Press the [Start Button] while [holding the Select Button] to exit the stage while keeping everything you’ve collected.
+
+//BLOCK #001 NAME: Pause Screen Hints (Pointer) Part 2 (87 pointers)
+
+//POINTER #0 @ $2C6208 - STRING #0 @ $640FB0
+
+#WRITE(GBA,$2C6208)
+//ママスタが　みちしるべのために<line>
+おとしていった　<c d>『グッズ』<c 1>を<line>
+たどって行き　いっこくもはやく<line>
+たすけだしてあげましょう！<line>
+:end<line>
+<end>
+
+Follow the trail of [Stuff] Mama Star left you to save her!
+
+//BLOCK #002 NAME: Pause Screen Hints Part 3 (Pointer)
+
+//POINTER #0 @ $2C6210 - STRING #0 @ $64103C
+
+#WRITE(GBA,$2C6210)
+//クリオレの<c d>『てがみ』<c 1>を<line>
+クリオラとキュウリオレに<line>
+とどけてあげよう<line>
+:end<line>
+<end>
+
+Deliver Jellato’s [letters] to Jellata and Gellato.
+
+//BLOCK #003 NAME: Pause Screen Hints Part 4 (Pointer)
+
+//POINTER #0 @ $2C6218 - STRING #0 @ $641094
+
+#WRITE(GBA,$2C6218)
+//クリオラとキュウリオレの<line>
+<c d>『おへんじ』<c 1>を<line>
+クリオレに　とどけよう<line>
+:end<line>
+<end>
+
+Make your way back to Jellato and give them Jellata and Gellato’s [responses].
+
+//BLOCK #004 NAME: Pause Screen Hints Part 5 (Pointer)
+
+//POINTER #0 @ $2C6238 - STRING #0 @ $64114C
+
+#WRITE(GBA,$2C6238)
+//スケボンを　のりこなそう！<line>
+今まで　行けなかったばしょに<line>
+行けるようになるよ<line>
+:end<line>
+<end>
+
+Looks like you’ve gotten the hang of the Sea Skater! You’ll be able to access areas you couldn’t before.
+
+//BLOCK #005 NAME: Pause Screen Hints Part 6 (Pointer)
+
+//POINTER #0 @ $2C6258 - STRING #0 @ $6411A4
+
+#WRITE(GBA,$2C6258)
+//<c d>『ききゅうレース』<c 1>で<line>
+ゆうしょうしよう！<line>
+ごうかな　しょうひんが<line>
+出るらしいよ<line>
+:end<line>
+<end>
+
+Join the [Blimp Race] and win the first place prize! Sounds like it’ll be well worth the effort!
+
+//BLOCK #006 NAME: Pause Screen Hints Part 7 (Pointer)
+
+//POINTER #0 @ $2C6278 - STRING #0 @ $641208
+
+#WRITE(GBA,$2C6278)
+//あかいせきぞうに　スピンをあてると<line>
+ほのおをふいて　氷をとかすよ<line>
+このしかけを　りようして<line>
+すすもう<line>
+:end<line>
+<end>
+
+Those red statues spit fire when you hit them with a Star Spin. Use that to melt the ice and press forward.
+
+//BLOCK #007 NAME: Pause Screen Hints Part 8 (Pointer)
+
+//POINTER #0 @ $2C6290 - STRING #0 @ $641278
+
+#WRITE(GBA,$2C6290)
+//こおらされたキョロスケを<line>
+もとに　もどそう！<line>
+:end<line>
+<end>
+
+Find a way to unfreeze Moe!
+
+//BLOCK #008 NAME: Pause Screen Hints Part 9 (Pointer)
+
+//POINTER #0 @ $2C6298 - STRING #0 @ $6412B0
+
+#WRITE(GBA,$2C6298)
+//３かしょに　ちらばってる<line>
+コンビーを　みつけだして<line>
+おんせんのおんどを<line>
+あげてもらおう<line>
+:end<line>
+<end>
+
+The Coalbies are scattered about in 3 different area. Find them so you can make the hot springs hotter.
+
+//BLOCK #009 NAME: Pause Screen Hints Part 10 (Pointer)
+
+//POINTER #0 @ $2C62B8 - STRING #0 @ $641310
+
+#WRITE(GBA,$2C62B8)
+<line>
+Ｐｕｃｈｉ　Ｏｇｕｒａ　＃６　ｋｉｄｎａｐｐｅｄ　Ｗｏｚａｒｔ！<line>
+Ａｆｔｅｒ　ｈｉｍ！<line>
+<line>
+:end<line>
+<end>
+
+Puchi Ogura #6 kidnapped Wozart! After him!
+
+//BLOCK #010 NAME: Pause Screen Hints Part 11 (Pointer)
+
+//POINTER #0 @ $2C62D0 - STRING #0 @ $64135C
+
+#WRITE(GBA,$2C62D0)
+//なぞと　しかけにみちた<line>
+<c d>『インドアどうくつ』<c 1>！<line>
+まよったり　わからなかったら<line>
+キョロスケに　きいてみよう<line>
+:end<line>
+<end>
+
+The [Indoor Cave] is full of riddles and gimmicks! Try asking Moe for help if you ever get lost or stumped.
+
+//BLOCK #011 NAME: Pause Screen Hints Part 12 (Pointer)
+
+//POINTER #0 @ $2C62F0 - STRING #0 @ $6413D8
+
+#WRITE(GBA,$2C62F0)
+//元気が　なくなってしまった<line>
+チュータのために<line>
+オオタルイカに　そうだんしに<line>
+行こう<line>
+:end<line>
+<end>
+
+Chutah isn’t feeling well! Go find Big Barrel Squid and ask him what to do!
+
+//BLOCK #012 NAME: Pause Screen Hints Part 13 (Pointer)
+
+//POINTER #0 @ $2C62F8 - STRING #0 @ $641434
+
+#WRITE(GBA,$2C62F8)
+//<c d>『タル』<c 1>を<line>
+チュータにとどけてあげよう<line>
+:end<line>
+<end>
+
+Deliver the [barrel] to Chutah.
+
+//BLOCK #013 NAME: Pause Screen Hints Part 14 (Pointer)
+
+//POINTER #0 @ $2C6318 - STRING #0 @ $641470
+
+#WRITE(GBA,$2C6318)
+//同じもようを<line>
+こわすと　みちが<line>
+とおれるように<line>
+なる　みたいだよ<line>
+:end<line>
+<end>
+
+It looks like destroying these dotted pillars opens the path somewhere…
+
+//BLOCK #014 NAME: Pause Screen Hints Part 15 (Pointer)
+
+//POINTER #0 @ $2C6338 - STRING #0 @ $6414BC
+
+#WRITE(GBA,$2C6338)
+//シャッターを　あけるために<line>
+３つの<c d>『ヒントメモ』<c 1>をあつめて<line>
+パスワードを　かんがえよう<line>
+:end<line>
+<end>
+
+You’ll have to collect the three [Hint Memos] to get the password that opens the shutters.
+
+//BLOCK #015 NAME: Pause Screen Hints Part 16 (Pointer)
+
+//POINTER #0 @ $2C6340 - STRING #0 @ $641528
+
+#WRITE(GBA,$2C6340)
+//いばりんぼうの<line>
+プチオーグラ６ごうを<line>
+つかまえよう<line>
+:end<line>
+<end>
+
+Go catch that braggart, Puchi Ogura #6!
+
+//BLOCK #016 NAME: Pause Screen Hints Part 17 (Pointer)
+
+//POINTER #0 @ $2C6348 - STRING #0 @ $641564
+
+#WRITE(GBA,$2C6348)
+//プチオーグラ６ごうを<line>
+つかまえよう！　うごきには<line>
+いっていの　ほうそくが<line>
+あるみたいだけど・・・？<line>
+:end<line>
+<end>
+
+Go catch Puchi Ogura #6! Is there a pattern to the way he moves…?
+
+//BLOCK #017 NAME: Pause Screen Hints Part 18 (Pointer)
+
+//POINTER #0 @ $2C6350 - STRING #0 @ $6415D0
+
+#WRITE(GBA,$2C6350)
+//プチオーグラ６ごうを<line>
+おいかけて<line>
+こらしめよう<line>
+:end<line>
+<end>
+
+Time to chase down and defeat Puchi Ogura #6!
+
+//BLOCK #018 NAME: Pause Screen Hints Part 19 (Pointer)
+
+//POINTER #0 @ $2C6368 - STRING #0 @ $641608
+
+#WRITE(GBA,$2C6368)
+//<c d>『イワ』<c 1>どうしを　ぶつけて<line>
+こわしながらすすんでいこう！<line>
+イワに　とじこめられている<line>
+人たちがいたら　たすけよう！<line>
+:end<line>
+<end>
+
+Smash two [boulders] against each other to get rid of them! Use that to save anyone trapped under one or open the way forward!
+
+//BLOCK #019 NAME: Pause Screen Hints Part 20 (Pointer)
+
+//POINTER #0 @ $2C6388 - STRING #0 @ $641690
+
+#WRITE(GBA,$2C6388)
+//<c d>『あしば』<c 1>になるものを　さがして<line>
+コドルンたちのところまで<line>
+もっていこう！<line>
+:end<line>
+<end>
+
+Find something that can be used as a [platform] and take it back to the Tutweets!
+
+//BLOCK #020 NAME: Pause Screen Hints Part 21 (Pointer)
+
+//POINTER #0 @ $2C63A8 - STRING #0 @ $6416F0
+
+#WRITE(GBA,$2C63A8)
+//<c d>『しゃしん』<c 1>を　たよりに<line>
+<c d>『かくしトビラ』<c 1>をみつけよう！<line>
+わからなかったら　キョロスケに<line>
+はなしかけてみよう！<line>
+:end<line>
+<end>
+
+Use Taiblond’s [pictures] to find [hidden doors]! Ask Moe for advice whenever you feel stuck!
+
+//BLOCK #021 NAME: Pause Screen Hints Part 22 (Pointer)
+
+//POINTER #0 @ $2C63C8 - STRING #0 @ $64177C
+
+#WRITE(GBA,$2C63C8)
+//ゆくてをはばむ　キカイのビームを<line>
+なんとかして　止めよう！<line>
+<c d>キョロスケの　アイデアも<c 1><line>
+<c d>まんざらでもないかも・・・<c 1><line>
+:end<line>
+<end>
+
+Find a way to stop that machine from firing its beam! [Moe’s strange idea might just work…]
+
+//BLOCK #022 NAME: Pause Screen Hints Part 23 (Pointer)
+
+//POINTER #0 @ $2C63E0 - STRING #0 @ $64180C
+
+#WRITE(GBA,$2C63E0)
+//プチオーグラ７ごうのことは<line>
+ほっといて　テンカイめざして<line>
+どんどん　のぼっていこう！<line>
+:end<line>
+<end>
+
+Ignore Puchi Ogura #7 for now. Climb this mountain and set your sights on reaching Pufftop!
+
+//BLOCK #023 NAME: Pause Screen Hints Part 24 (Pointer)
+
+//POINTER #0 @ $2C63E8 - STRING #0 @ $64186C
+
+#WRITE(GBA,$2C63E8)
+//プチオーグラ７ごうの　なげてくる<line>
+<c d>『バクダン』<c 1>を　よけながら<line>
+どんどん　上に　のぼっていこう！<line>
+:end<line>
+<end>
+
+Make it to the top of this area while dodging the [bombs] Puchi Ogura #7 throws at you!
+
+//BLOCK #024 NAME: Pause Screen Hints Part 25 (Pointer)
+
+//POINTER #0 @ $2C63F0 - STRING #0 @ $6418E0
+
+#WRITE(GBA,$2C63F0)
+//ホルーンとキョロスケのはなしから<line>
+じゃくてんを　みつけだして<line>
+おくにいる　プチオーグラ７ごうを<line>
+こらしめよう！<line>
+:end<line>
+<end>
+
+Use the info Moe and Horun gave you to find Puchi Ogura #7’s weakpoint and teach him a lesson!
+
+//BLOCK #025 NAME: Pause Screen Hints Part 26 (Pointer)
+
+//POINTER #0 @ $2C6408 - STRING #0 @ $641958
+
+#WRITE(GBA,$2C6408)
+//しっそうしてしまった<line>
+レッシーを<line>
+みつけだそう<line>
+:end<line>
+<end>
+
+Ressie’s gone missing! Go find him!
+
+//BLOCK #026 NAME: Pause Screen Hints Part 27 (Pointer)
+
+//POINTER #0 @ $2C6410 - STRING #0 @ $641990
+
+#WRITE(GBA,$2C6410)
+//きょうはくじょうに<line>
+かいてあった<line>
+<c d>『あさせ』<c 1>に　いそごう<line>
+:end<line>
+<end>
+
+That threatening letter mentioned something about the [sandbar]. Head there, pronto!
+
+//BLOCK #027 NAME: Pause Screen Hints Part 28 (Pointer)
+
+//POINTER #0 @ $2C6418 - STRING #0 @ $6419DC
+
+#WRITE(GBA,$2C6418)
+//レッシーからおれいの<line>
+たからものを　もらって<line>
+ムスメさんを　<line>
+とりもどしてあげよう<line>
+:end<line>
+<end>
+
+After promising to save Ressie’s daughter, he gave you some treasure as thanks. Bring his daughter home!
+
+//BLOCK #028 NAME: Pause Screen Hints Part 29 (5 Pointers)
+
+//POINTER #0 @ $2C6428 - STRING #0 @ $641A38
+
+#WRITE(GBA,$2C6428)
+//ひとじちにされた<line>
+レッシーのムスメさんを<line>
+さがしだそう<line>
+:end<line>
+<end>
+
+Go find Ressie’s kidnapped daughter!
+
+//BLOCK #029 NAME: Pause Screen Hints Part 30 (Pointer)
+
+//POINTER #0 @ $2C6430 - STRING #0 @ $641A78
+
+#WRITE(GBA,$2C6430)
+//<c d>『３人』<c 1>の人から<line>
+レッシーのムスメについての<line>
+じょうほうを<line>
+あつめよう<line>
+:end<line>
+<end>
+
+Go ask around about Ressie’s daughter. [3 people] should give you enough information.
+
+//BLOCK #030 NAME: Pause Screen Hints Part 31 (Pointer)
+
+//POINTER #0 @ $2C6450 - STRING #0 @ $641AD4
+
+#WRITE(GBA,$2C6450)
+//ふらふらのフカフカを<line>
+元気にするために<line>
+つめたいものを<line>
+さがしに行こう<line>
+:end<line>
+<end>
+
+Fluffy’s head’s feeling fuzzy! Go find something that’ll help them cool down!
+
+//BLOCK #031 NAME: Pause Screen Hints Part 32 (Pointer)
+
+//POINTER #0 @ $2C6458 - STRING #0 @ $641B24
+
+#WRITE(GBA,$2C6458)
+//きぐるみを　のりこなそう<line>
+今まで　行けなかったばしょに<line>
+行けるようになるよ<line>
+:end<line>
+<end>
+
+With the Koala Costume in tow, you can scale up high areas you couldn’t before!
+
+//BLOCK #032 NAME: Pause Screen Hints Part 33 (Pointer)
+
+//POINTER #0 @ $2C6490 - STRING #0 @ $641B78
+
+#WRITE(GBA,$2C6490)
+//レッシーがイワを　どけてくれたよ<line>
+今まで　行けなかったばしょで<line>
+プチオーグラ９ごうをつかまえよう<line>
+:end<line>
+<end>
+
+Now that Ressie moved that boulder for you, you can go to new places and catch Puchi Ogura #9.
+
+//BLOCK #033 NAME: Pause Screen Hints Part 34 (Pointer)
+
+//POINTER #0 @ $2C64B0 - STRING #0 @ $641BE4
+
+#WRITE(GBA,$2C64B0)
+//<c d>『ヒゲワクチン』<c 1>を　みつけて<line>
+<c d>『ヒゲウィルス』<c 1>に　<line>
+おそわれた人を<line>
+たすけてあげよう<line>
+<line>
+:end<line>
+<end>
+
+People have been infected with the [‘Stache Virus]! Go find [‘Stache-ccines] so you can cure them!
+
+//BLOCK #034 NAME: Pause Screen Hints Part 35 (Pointer)
+
+//POINTER #0 @ $2C64D0 - STRING #0 @ $641C58
+
+#WRITE(GBA,$2C64D0)
+//エチギョヤとプチオーグラ１０ごうの<line>
+あくじがかかれた<c d>『みっしょ』<c 1>を<line>
+くのイチに　とどけよう<line>
+:end<line>
+<end>
+
+Echigyoya and Puchi Ogura #10’s evil plans are written down in this [secret message]. Deliver this to the other kunoichi!
+
+//BLOCK #035 NAME: Pause Screen Hints Part 36 (Pointer)
+
+//POINTER #0 @ $2C64F0 - STRING #0 @ $641CC8
+
+#WRITE(GBA,$2C64F0)
+//ゲキョじいりゅう<line>
+<c d>『スピンアタックレベル３』<c 1>を<line>
+マスターしよう！<line>
+:end<line>
+<end>
+
+Master the secret art of Master Croak’s Dojo: the [Ultra Star Spin]!
+
+//BLOCK #036 NAME: Pause Screen Hints Part 37 (2 Pointers)
+
+//POINTER #0 @ $2C6510 - STRING #0 @ $641D1C
+
+#WRITE(GBA,$2C6510)
+//エチギョヤが　なにかたくらんでるよ<line>
+くのイチたちに　キケンを<line>
+知らせてあげよう<line>
+:end<line>
+<end>
+
+Echigyoya’s up to something something… You have to warn the kunoichi!
+
+//BLOCK #037 NAME: Pause Screen Hints Part 38 (Pointer)
+
+//POINTER #0 @ $2C6528 - STRING #0 @ $641D74
+
+#WRITE(GBA,$2C6528)
+//すばやいうごきの<c d>『チョンマギョ』<c 1>を<line>
+シャッターをりようして<line>
+つかまえよう　ヒントはキョロスケに<line>
+きいてみてね<line>
+:end<line>
+<end>
+
+Use the shutters to catch that super-fast [Chonmagyo]! Ask Moe for a hint if you need one!
+
+//BLOCK #038 NAME: Pause Screen Hints Part 39 (Pointer)
+
+//POINTER #0 @ $2C6530 - STRING #0 @ $641DF4
+
+#WRITE(GBA,$2C6530)
+//ばくだんが　しかけられてることを<line>
+くのイチたちに　知らせてあげよう<line>
+:end<line>
+<end>
+
+The bombs around the kunoichi’s home are set to blow! You have to warn them, and fast!
+
+//BLOCK #039 NAME: Pause Screen Hints Part 40 (Pointer)
+
+//POINTER #0 @ $2C6538 - STRING #0 @ $641E40
+
+#WRITE(GBA,$2C6538)
+//あくとくしょうにんの<c d>『エチギョヤ』<c 1>を<line>
+おいかけて、ばくだんの<line>
+スイッチをとめよう<line>
+:end<line>
+<end>
+
+Chase after the wicked merchant, [Echigyoya], and stop him from detonating those bombs!
+
+//BLOCK #040 NAME: Pause Screen Hints Part 41 (Pointer)
+
+//POINTER #0 @ $2C6540 - STRING #0 @ $641EA4
+
+#WRITE(GBA,$2C6540)
+//しゅりけんこうげきを<line>
+よけながら　エチギョヤを<line>
+つかまえよう<line>
+:end<line>
+<end>
+
+Dodge the shurikens and catch Echigyoya!
+
+//BLOCK #041 NAME: Pause Screen Hints Part 42 (2 Pointers)
+
+//POINTER #0 @ $2C6558 - STRING #0 @ $641EEC
+
+#WRITE(GBA,$2C6558)
+//ばくふうでとばされちゃったよ<line>
+キョロスケを　さがしにいこう<line>
+:end<line>
+<end>
+
+That explosion sent you flying! Let’s go look for Moe.
+
+//BLOCK #042 NAME: Pause Screen Hints Part 43 (Pointer)
+
+//POINTER #0 @ $2C6560 - STRING #0 @ $641F30
+
+#WRITE(GBA,$2C6560)
+//<c d>『ろうやのカギ』<c 1>をみつけて<line>
+ヤコウカガミを　たすけだそう<line>
+トビラをひらく　しかけのナゾは<line>
+ヤコウカガミのはなしをよくきいてね<line>
+:end<line>
+<end>
+
+Find the [Cell Key] and save Lumi! Listen to what she says to unveil the secrets to opening the doors!
+
+//BLOCK #043 NAME: Pause Screen Hints Part 44 (2 Pointers)
+
+//POINTER #0 @ $2C6568 - STRING #0 @ $641FC0
+
+#WRITE(GBA,$2C6568)
+//はなればなれになった<line>
+キョロスケを　さがしに行こう<line>
+:end<line>
+<end>
+
+Go find the friend you’ve been separated from, Moe.
+
+//BLOCK #044 NAME: Pause Screen Hints Part 45 (Pointer)
+
+//POINTER #0 @ $2C6580 - STRING #0 @ $641FFC
+
+#WRITE(GBA,$2C6580)
+//<c d>『コブまき』<c 1>を　たどって行こう<line>
+キョロスケまで　つづいてるはずだよ<line>
+:end<line>
+<end>
+
+Follow the trail of [kelp rolls] to find Moe!
+
+//BLOCK #045 NAME: Pause Screen Hints Part 46 (Pointer)
+
+//POINTER #0 @ $2C6590 - STRING #0 @ $642054
+
+#WRITE(GBA,$2C6590)
+//ハリセンボンこうげきを<line>
+よけながら　プチオーグラ１０ごうを<line>
+おいかけよう<line>
+:end<line>
+<end>
+
+Chase after Puchi Ogura #10 while avoiding the rain of porcupinefish he throws at you!
+
+//BLOCK #046 NAME: Pause Screen Hints Part 47 (Pointer)
+
+//POINTER #0 @ $2C6598 - STRING #0 @ $6420A8
+
+#WRITE(GBA,$2C6598)
+//プチオーグラ１０ごうを<line>
+こらしめよう<line>
+:end<line>
+<end>
+
+Defeat Puchi Ogura #10!
+
+//BLOCK #047 NAME: Pause Screen Hints Part 48 (12 Pointers)
+
+//POINTER #0 @ $2C65A8 - STRING #0 @ $6420D8
+
+#WRITE(GBA,$2C65A8)
+//ママスタを　たすけるために<line>
+カンバンで　アクションを<line>
+思い出しながら<line>
+すすもう！<line>
+:end<line>
+<end>
+
+Read the signs to remember your Abilities so you can save Mama Star!
+
+//BLOCK #048 NAME: Pause Screen Hints Part 49 (12 Pointers)
+
+//POINTER #0 @ $2C65B0 - STRING #0 @ $642134
+
+#WRITE(GBA,$2C65B0)
+//みどりのヤツを　<c d>４０ぴき<c 1><line>
+ぜんぶたおして　ヤドカリタに<line>
+ほうこくしよう<line>
+:end<line>
+<end>
+
+Report back to Herman after you’ve beaten all [40] of those green creatures.
+
+//BLOCK #049 NAME: Pause Screen Hints Part 50 (Pointer)
+
+//POINTER #0 @ $2C6660 - STRING #0 @ $642190
+
+#WRITE(GBA,$2C6660)
+//チラシに　かいてあった<line>
+おみせを　さがそう<line>
+こまったら　キョロスケに<line>
+はなしてみよう<line>
+:end<line>
+<end>
+
+Use the info from the pamphlet to find the Shop! If you’re in a bind, ask Moe for a hint!
+
+//BLOCK #050 NAME: Pause Screen Hints Part 51 (Pointer)
+
+//POINTER #0 @ $2C6680 - STRING #0 @ $6421F0
+
+#WRITE(GBA,$2C6680)
+//<c d>３つ<c 1>の　カギを　さがして<line>
+ボストビラを　あけよう<line>
+:end<line>
+<end>
+
+Find the [3 keys] that open the Boss Door!
+
+//BLOCK #051 NAME: Pause Screen Hints Part 52 (Pointer)
+
+//POINTER #0 @ $2C66A0 - STRING #0 @ $642234
+
+#WRITE(GBA,$2C66A0)
+//ハデヒラリの　３つの<c d>『かぐ』<c 1>を<line>
+さがしてあげよう<line>
+わからなくなったら<line>
+キョロスケに　はなしかけてね<line>
+:end<line>
+<end>
+
+Go find the [3 pieces] of furniture Ruby lost! If you don’t know what to do, ask Moe!
+
+//BLOCK #052 NAME: Pause Screen Hints Part 53 (Pointer)
+
+//POINTER #0 @ $2C66C0 - STRING #0 @ $6422AC
+
+#WRITE(GBA,$2C66C0)
+//スイッチで　水をそうさして<line>
+たからものを　みつけだそう！<line>
+こまったときは　キョロスケにきけば<line>
+ヒントを　くれるよ<line>
+:end<line>
+<end>
+
+Use the switches to operate the water and find the treasure chest! Ask Moe to give you a hint if you get confused!
+
+//BLOCK #053 NAME: Pause Screen Hints Part 54 (Pointer)
+
+//POINTER #0 @ $2C66D0 - STRING #0 @ $642328
+
+#WRITE(GBA,$2C66D0)
+//<c d>『ききゅう』<c 1>を　けんきゅうしている<line>
+メカニじいさんに<line>
+あいに　いってみよう<line>
+:end<line>
+<end>
+
+Let’s go meet the [Blimp] researcher, Old Man Mechani!
+
+//BLOCK #054 NAME: Pause Screen Hints Part 55 (Pointer)
+
+//POINTER #0 @ $2C66D8 - STRING #0 @ $642388
+
+#WRITE(GBA,$2C66D8)
+//メカニじいさんを　てつだって<line>
+ききゅうを　のりこなせるように<line>
+なろう<line>
+:end<line>
+<end>
+
+Let’s help out Old Man Mechani by trying out using his Blimp!
+
+//BLOCK #055 NAME: Pause Screen Hints Part 56 (Pointer)
+
+//POINTER #0 @ $2C66F8 - STRING #0 @ $6423D8
+
+#WRITE(GBA,$2C66F8)
+//いたずらものの<line>
+プチオーグラ２ごうを　おいかけよう<line>
+すいりゅうに　気をつけて<line>
+:end<line>
+<end>
+
+Chase after that prankster, Puchi Ogura #2! Be careful of the water currents!
+
+//BLOCK #056 NAME: Pause Screen Hints Part 57 (Pointer)
+
+//POINTER #0 @ $2C6710 - STRING #0 @ $642430
+
+#WRITE(GBA,$2C6710)
+//大きな　なきごえの<line>
+ぬしは　だれ？<line>
+どんどん　先に　すすもう<line>
+:end<line>
+<end>
+
+Who’s the one crying so loudly? Keep moving to find out!
+
+//BLOCK #057 NAME: Pause Screen Hints Part 58 (Pointer)
+
+//POINTER #0 @ $2C6730 - STRING #0 @ $642478
+
+#WRITE(GBA,$2C6730)
+//にげだした　カメッコいもうとを<line>
+おいかけて　つかまえよう<line>
+:end<line>
+<end>
+
+Sisturt ran away! Quick, we have to catch her!
+
+//BLOCK #058 NAME: Pause Screen Hints Part 59 (Pointer)
+
+//POINTER #0 @ $2C6748 - STRING #0 @ $6424BC
+
+#WRITE(GBA,$2C6748)
+//レーダーをたよりに　カメッコたちを<line>
+つかまえたら　キョロスケの元に<line>
+つれて行こう<line>
+:end<line>
+<end>
+
+Use the radar to catch the Turtle Kids and bring them back to Moe.
+
+//BLOCK #059 NAME: Pause Screen Hints Part 60 (Pointer)
+
+//POINTER #0 @ $2C6760 - STRING #0 @ $642518
+
+#WRITE(GBA,$2C6760)
+//レーダーをたよりに　カメッコたちを<line>
+つかまえたら　キョロスケの元に<line>
+つれて行こう<line>
+:end<line>
+<end>
+
+Use the radar to catch the Turtle Kids and bring them back to Moe.
+
+//BLOCK #060 NAME: Pause Screen Hints Part 61 (Pointer)
+
+//POINTER #0 @ $2C6780 - STRING #0 @ $642574
+
+#WRITE(GBA,$2C6780)
+//カメッコたちに　いたずらした<line>
+ワルモノを　たおそう！<line>
+:end<line>
+<end>
+
+Take down the bad guy who turned the Turtle Kids into delinquents!
+
+//BLOCK #061 NAME: Pause Screen Hints Part 62 (Pointer)
+
+//POINTER #0 @ $2C6798 - STRING #0 @ $6425B4
+
+#WRITE(GBA,$2C6798)
+//水がないままだと　これいじょう<line>
+まえにすすめないよ！<line>
+水を止めている<c d>『コルク』<c 1>をぬいて<line>
+水でいっぱいにしよう！<line>
+:end<line>
+<end>
+
+With the water drained, we can’t move forward! Take out the [cork] and make the water flow again!
+
+//BLOCK #062 NAME: Pause Screen Hints Part 63 (Pointer)
+
+//POINTER #0 @ $2C67B8 - STRING #0 @ $642638
+
+#WRITE(GBA,$2C67B8)
+//およげないニャンジャのかわりに<line>
+水に入って<c d>『スズ』<c 1>をとってきて<line>
+あげよう！<line>
+:end<line>
+<end>
+
+Shurikit can’t swim, so they’ve asked us to go underwater and get their [bell] back!
+
+//BLOCK #063 NAME: Pause Screen Hints Part 64 (Pointer)
+
+//POINTER #0 @ $2C67C0 - STRING #0 @ $642698
+
+#WRITE(GBA,$2C67C0)
+//ニャンジャに　おしえてもらった<line>
+<c d>『だぶるじゃんぷ』<c 1>を　使って<line>
+<c d>カンバンのあるへや<c 1>を　どんどん<line>
+上に　のぼっていこう！<line>
+:end<line>
+<end>
+
+Use the technique Shurikit taught you, the [Air Jump], to climb up past the room with the sign in it!
+
+//BLOCK #064 NAME: Pause Screen Hints Part 65 (Pointer)
+
+//POINTER #0 @ $2C67E0 - STRING #0 @ $64272C
+
+#WRITE(GBA,$2C67E0)
+//<c d>『バクダン』<c 1>で<c d>ブロック<c 1>をこわして<line>
+いちばん下までおりていこう！<line>
+うまっている　バクダンをめざして<line>
+すすむのが　コツだよ！<line>
+:end<line>
+<end>
+
+Use the [bombs] to destroy the [blocks] in your way to reach the bottom! The trick is to go for the buried bombs!
+
+//BLOCK #065 NAME: Pause Screen Hints Part 66 (Pointer)
+
+//POINTER #0 @ $2C67F0 - STRING #0 @ $6427C4
+
+#WRITE(GBA,$2C67F0)
+//<c d>『しょくりょうこ』<c 1>の中にある<line>
+<c d>『ハチミツ』<c 1>をとってきて<line>
+クマじいに　わたそう！<line>
+:end<line>
+<end>
+
+Head inside Old Man Grizzly’s [storage room] and go get him some [honey]!
+
+//BLOCK #066 NAME: Pause Screen Hints Part 67 (Pointer)
+
+//POINTER #0 @ $2C6810 - STRING #0 @ $642830
+
+#WRITE(GBA,$2C6810)
+//かたほうの<c d>スイッチ<c 1>のひかりが<line>
+ついているあいだに<line>
+もうかたほうの<c d>スイッチ<c 1>にも<line>
+アタックしてひかりをつけよう！<line>
+:end<line>
+<end>
+
+While one [switch] is still lit, make the other [switch] lights up by Spinning into it!
+
+//BLOCK #066 NAME: Pause Screen Hints Part 68 (Pointer)
+
+//POINTER #0 @ $2C6820 - STRING #0 @ $6428BC
+
+#WRITE(GBA,$2C6820)
+//まえのときと同じように<line>
+うまっている<c d>『バクダン』<c 1>を<line>
+めざしながら<c d>ブロック<c 1>を<line>
+こわして　下にすすもう！<line>
+:end<line>
+<end>
+
+Just like before, aim for the buried [bombs] to destroy all the [blocks] and move forwards!
+
+//BLOCK #066 NAME: Pause Screen Hints Part 69 (Pointer)
+
+//POINTER #0 @ $2C6830 - STRING #0 @ $642940
+#WRITE(GBA,$2C6830)
+//ビバの　近くにある<c d>『エダ』<c 1>を<line>
+とって<c d>『エダのカタマリ』<c 1>を<line>
+つくると　はこぶキョリが<line>
+みじかくてすむよ！<line>
+:end<line>
+<end>
+
+Gather some [sticks] to make a [bundle] for Viva! Making bundles closer to her means a shorter trip!
+
+//BLOCK #066 NAME: Pause Screen Hints Part 70 (Pointer)
+
+//POINTER #0 @ $2C6840 - STRING #0 @ $6429C4
+#WRITE(GBA,$2C6840)
+//<c d>『スイッチ』<c 1>に<c d>『アタック』<c 1>して<line>
+<c d>『すいりゅう』<c 1>がきえているあいだに<line>
+いそいでとおりぬけよう！<line>
+:end<line>
+<end>
+
+[Star Spin] into the [switch] to stop the [current] for a short time. Use what time you have to hurry onwards!
+
+//BLOCK #067 NAME: Pause Screen Hints Part 71 (Pointer)
+
+//POINTER #0 @ $2C6858 - STRING #0 @ $642A4C
+
+#WRITE(GBA,$2C6858)
+//プチオーグラ５ごうを　<line>
+おいかけるために<line>
+<c d>『コルク』<c 1>を　ぬいて<line>
+水を　元に　もどそう！<line>
+:end<line>
+<end>
+
+Take out the [cork] plugging up the water so you can stay hot on Puchi Ogura #5’s trail!
+
+//BLOCK #068 NAME: Pause Screen Hints Part 72 (2 Pointers)
+
+//POINTER #0 @ $2C6860 - STRING #0 @ $642AB8
+
+#WRITE(GBA,$2C6860)
+//つれさられた　<c d>『ミツガサゴ』<c 1>を<line>
+たすけるため　ムーンをつれて<line>
+プチオーグラ５ごうを<line>
+おいかけよう！<line>
+:end<line>
+<end>
+
+Puchi Ogura #5’s kidnapped [Pursley]! Let’s save him together with Moon!
+
+//BLOCK #069 NAME: Pause Screen Hints Part 73 (Pointer)
+
+//POINTER #0 @ $2C6868 - STRING #0 @ $642B30
+
+#WRITE(GBA,$2C6868)
+//キョロスケの　ヒントをたよりに<line>
+<c d>じゅんばんに　テキをたおして<c 1><line>
+プチオーグラ５ごうの　のろいの<line>
+かかったトビラをあけよう！<line>
+:end<line>
+<end>
+
+Puchi Ogura #5’s put a curse on the door! Using Moe’s hint, [defeat the enemies in the right order] so you can open it!
+
+//BLOCK #070 NAME: Pause Screen Hints Part 74 (Pointer)
+
+//POINTER #0 @ $2C6878 - STRING #0 @ $642BBC
+
+#WRITE(GBA,$2C6878)
+//てつごうしを　あけるために<line>
+プチオーグラ５ごうから<line>
+<c d>『てつごうしのカギ』<c 1>を<line>
+うばってにげきろう！<line>
+:end<line>
+<end>
+
+Steal the [Cell Key] from Puchi Ogura #5 so we can open Pursley’s prison door!
+
+//BLOCK #071 NAME: Pause Screen Hints Part 75 (Pointer)
+
+//POINTER #0 @ $2C6880 - STRING #0 @ $642C30
+
+#WRITE(GBA,$2C6880)
+//にげた　プチオーグラ５ごうを<line>
+おいかけ　おいつめ<line>
+こらしめよう！<line>
+:end<line>
+<end>
+
+Puchi Ogura #5 ran away! Chase after her and settle things!
+
+//BLOCK #072 NAME: Pause Screen Hints Part 76 (Pointer)
+
+//POINTER #0 @ $2C6898 - STRING #0 @ $642C7C
+
+#WRITE(GBA,$2C6898)
+//こわされた　<c d>４つ<c 1>の<line>
+<c d>どうぞうのはへん<c 1>を　みつけて<line>
+テンカイヘイシの元に<line>
+もって行こう<line>
+:end<line>
+<end>
+
+Gather the [4 fragments] of the destroyed statue and bring them back to the Pufftop Soldier.
+
+//BLOCK #073 NAME: Pause Screen Hints Part 77 (Pointer)
+
+//POINTER #0 @ $2C68B8 - STRING #0 @ $642CF0
+
+#WRITE(GBA,$2C68B8)
+//<c d>３つ<c 1>の　のりものエリアを<line>
+クリアして　テンカイヘイシに<line>
+あいに行こう<line>
+:end<line>
+<end>
+
+Clear the [three Ride trials] and meet back up with the Pufftop Soldier!
+
+//BLOCK #074 NAME: Pause Screen Hints Part 78 (Pointer)
+
+//POINTER #0 @ $2C68D8 - STRING #0 @ $642D48
+
+#WRITE(GBA,$2C68D8)
+//ヤリイカーズを　<c d>４人<c 1>みつけて<line>
+ヤリイカさんの元に<line>
+つれて行こう<line>
+:end<line>
+<end>
+
+Find the [four missing members of the Squirts] and bring the back to Bawss.
+
+//BLOCK #075 NAME: Pause Screen Hints Part 79 (Pointer)
+
+//POINTER #0 @ $2C68F0 - STRING #0 @ $642D9C
+
+#WRITE(GBA,$2C68F0)
+//たいへん！　たいへん！<line>
+カベに　押しつぶされないように<line>
+いそいで　先に　すすもう！<line>
+:end<line>
+<end>
+
+This doesn’t look good! There’s no time to lose! Keep moving so you don’t get crushed by the wall!
+
+//BLOCK #076 NAME: Pause Screen Hints Part 80 (Pointer)
+
+//POINTER #0 @ $2C6910 - STRING #0 @ $642DF8
+
+#WRITE(GBA,$2C6910)
+//アイテムを　ヤリイカーズと<line>
+いろいろ　うけわたしして<line>
+<c d>ろうやのカギ<c 1>を　みつけたら<line>
+ヤリイカさんに　とどけよう<line>
+:end<line>
+<end>
+
+Deliver the items you find to the Squirts so you can get the [Cell Key] and hand it over to Bawss.
+
+//BLOCK #077 NAME: Pause Screen Hints Part 81 (Pointer)
+
+//POINTER #0 @ $2C6930 - STRING #0 @ $642E78
+
+#WRITE(GBA,$2C6930)
+//この先の　ワルモノを　たおし<line>
+いっこくも早く<line>
+オーグラじょうに<line>
+むかおう！<line>
+:end<line>
+<end>
+
+Beat the bad guy just past here so we can chart a course for Ogura’s Castle!
+
+//BLOCK #078 NAME: Pause Screen Hints Part 82 (Pointer)
+
+//POINTER #0 @ $2C6948 - STRING #0 @ $642ECC
+
+#WRITE(GBA,$2C6948)
+//<c d>３つ<c 1>の　シェルテープを<line>
+みつけたら　キョロスケの<line>
+ところに　もって行こう<line>
+:end<line>
+<end>
+
+Look for [3 more Shell Tapes] and bring them back to Moe.
+
+//BLOCK #079 NAME: Pause Screen Hints Part 83 (Pointer)
+
+//POINTER #0 @ $2C6968 - STRING #0 @ $642F28
+
+#WRITE(GBA,$2C6968)
+//オーグラの　てしたに<line>
+つかまらないように<line>
+いそいで　先を　めざそう<line>
+:end<line>
+<end>
+
+Hurry to the next area! You can’t let Ogura’s minions catch you!
+
+//BLOCK #080 NAME: Pause Screen Hints Part 84 (Pointer)
+
+//POINTER #0 @ $2C6980 - STRING #0 @ $642F74
+
+#WRITE(GBA,$2C6980)
+//まわるブロックを　トビラの<line>
+上のブロックと　同じ<line>
+もようで　止めよう<line>
+:end<line>
+<end>
+
+Spin into the pattern-changing block so they match the one above the door.
+
+//BLOCK #081 NAME: Pause Screen Hints Part 85 (Pointer)
+
+//POINTER #0 @ $2C69A0 - STRING #0 @ $642FC4
+
+#WRITE(GBA,$2C69A0)
+//オリの　カギあなは　もようが<line>
+同じカギを　もったじょうたいで<line>
+たいあたりすると　あけられますよ<line>
+キョロスケを　たすけてあげよう<line>
+:end<line>
+<end>
+
+You’ve got to free Moe from that cage! When you have the key that matches the shape of the cell’s keyhole, jump into it to unlock it.
+
+//BLOCK #082 NAME: Pause Screen Hints Part 86 (Pointer)
+
+//POINTER #0 @ $2C69C0 - STRING #0 @ $64304C
+
+#WRITE(GBA,$2C69C0)
+//<c d>３かしょ<c 1>の　スイッチを<line>
+さどうさせ　大トビラを<line>
+ひらこう<line>
+:end<line>
+<end>
+
+To open the big door, you’ll need to flip the switches at the end of [all three passages].
+
+//BLOCK #083 NAME: Pause Screen Hints Part 87 (Pointer)
+
+//POINTER #0 @ $2C69E0 - STRING #0 @ $643098
+
+#WRITE(GBA,$2C69E0)
+//いよいよ！　さいしゅうけっせん！<line>
+キョロスケの　はなしを<line>
+よくきいて　ぜんりょくで<line>
+むかおう！<line>
+:end<line>
+<end>
+
+This is it! The final showdown! Pay close attention to Moe’s advice and give it all you got!!!

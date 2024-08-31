@@ -1,0 +1,12 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $AF
+
+//:func 22 -1<line>
+がんばって<line>
+レッシーのムスメさんを<line>
+たすけだそうね　スタフィー<line>
+:end<line>
+<end>
+

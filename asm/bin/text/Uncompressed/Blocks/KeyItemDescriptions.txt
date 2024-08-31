@@ -1,0 +1,577 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Key Item Descriptions (Pointer)
+
+//POINTER #0 @ $2C580C - STRING #0 @ $643148
+
+#ACTIVETBL(Story)
+
+#WRITE(GBA,$2C580C)
+‚n‚Ž‚… ‚‚† ‚”‚ˆ‚… ‚‹‚…‚™‚“<line>
+‚™‚‚• ‚Ž‚…‚…‚„ ‚”‚ ‚•‚Ž‚Œ‚‚ƒ‚‹<line>
+‚”‚ˆ‚… ‚‚‚‚“‚“ ‚„‚‚‚’D<line>
+:end<line>
+<end>
+
+
+//POINTER #1 @ $2C5830 - STRING #1 @ $64318C
+
+#WRITE(GBA,$2C5830)
+‚n‚Ž‚… ‚‚† ‚”‚ˆ‚… ‚‹‚…‚™‚“<line>
+‚™‚‚• ‚Ž‚…‚…‚„ ‚”‚ ‚•‚Ž‚Œ‚‚ƒ‚‹<line>
+‚”‚ˆ‚… ‚‚‚‚“‚“ ‚„‚‚‚’D<line>
+:end<line>
+<end>
+
+
+//POINTER #2 @ $2C5854 - STRING #2 @ $6431D0
+
+#WRITE(GBA,$2C5854)
+‚n‚Ž‚… ‚‚† ‚”‚ˆ‚… ‚‹‚…‚™‚“<line>
+‚™‚‚• ‚Ž‚…‚…‚„ ‚”‚ ‚•‚Ž‚Œ‚‚ƒ‚‹<line>
+‚”‚ˆ‚… ‚‚‚‚“‚“ ‚„‚‚‚’D<line>
+:end<line>
+<end>
+
+
+//POINTER #3 @ $2C5878 - STRING #3 @ $643214
+
+#WRITE(GBA,$2C5878)
+‚` ‚‚‚…‚‚•‚”‚‰‚†‚•‚Œ ‚–‚‚“‚…<line>
+‚—‚‰‚”‚ˆ ‚’‚‚“‚…‚“ ‚‰‚Ž‚“‚‰‚„‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #4 @ $2C589C - STRING #4 @ $643260
+
+#WRITE(GBA,$2C589C)
+‚` ‚‚‚…‚‚•‚”‚‰‚†‚•‚Œ ‚‚‚”<line>
+‚—‚‰‚”‚ˆ ‚’‚‚“‚…‚“ ‚‰‚Ž‚“‚‰‚„‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #5 @ $2C58C0 - STRING #5 @ $6432B0
+
+#WRITE(GBA,$2C58C0)
+‚` ‚‚‚…‚‚•‚”‚‰‚†‚•‚Œ ‚–‚‚“‚…<line>
+‚—‚‰‚”‚ˆ ‚“‚•‚Ž‚†‚Œ‚‚—‚…‚’‚“<line>
+‚‰‚Ž‚“‚‰‚„‚… ‚‚† ‚‰‚”D<line>
+:end<line>
+<end>
+
+
+//POINTER #6 @ $2C58E4 - STRING #6 @ $643300
+
+#WRITE(GBA,$2C58E4)
+‚`‚Ž ‚…‚˜‚‚…‚Ž‚“‚‰‚–‚… ‚”‚‚‚‚Œ‚…<line>
+‚‚‚„‚… ‚‚•‚” ‚‚† ‚ƒ‚‚’‚‚ŒD<line>
+:end<line>
+<end>
+
+
+//POINTER #7 @ $2C5908 - STRING #7 @ $643344
+
+#WRITE(GBA,$2C5908)
+‚s‚ˆ‚… ‚“‚”‚‚‰‚Ž‚“ ‚‚Ž ‚”‚ˆ‚‰‚“<line>
+‚”‚‚‚‚Œ‚… ‚”‚‚“‚”‚…‚“ ‚ ‚Œ‚‚”<line>
+‚Œ‚‰‚‹‚… ‚“‚‚™ ‚“‚‚•‚ƒ‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #8 @ $2C592C - STRING #8 @ $64339C
+
+#WRITE(GBA,$2C592C)
+‚` ‚”‚‚‚‚Œ‚… ‚”‚ˆ‚‚”f‚Œ‚Œ ‚‚‚‹‚…<line>
+‚™‚‚• ‚“‚‚‚’‚”‚…‚’ ‚‚‚…‚†‚‚’‚…<line>
+‚™‚‚• ‚‹‚Ž‚‚— ‚‰‚”I<line>
+:end<line>
+<end>
+
+
+//POINTER #9 @ $2C5950 - STRING #9 @ $6433E4
+
+#WRITE(GBA,$2C5950)
+‚` ‚ƒ‚ˆ‚‚‰‚’ ‚‚‚„‚… ‚†‚’‚‚<line>
+‚ ‚“‚‚‚’‚‹‚Œ‚‰‚Ž‚‡ ‚“‚ˆ‚…‚Œ‚ŒD<line>
+:end<line>
+<end>
+
+
+//POINTER #10 @ $2C5974 - STRING #10 @ $64342C
+
+#WRITE(GBA,$2C5974)
+‚` ‚ƒ‚•‚“‚ˆ‚‰‚‚Ž ‚—‚‰‚”‚ˆ<line>
+‚“‚”‚‚‰‚Ž‚“ ‚”‚ˆ‚‚” ‚”‚‚“‚”‚…‚“<line>
+‚ ‚Œ‚‰‚”‚”‚Œ‚… ‚Œ‚‰‚‹‚… ‚“‚‚•‚ƒ‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #11 @ $2C5998 - STRING #11 @ $64347C
+
+#WRITE(GBA,$2C5998)
+‚` ‚ƒ‚ˆ‚…‚‚|‚Œ‚‚‚‹‚‰‚Ž‚‡<line>
+‚ƒ‚ˆ‚‚‰‚’ ‚”‚ˆ‚‚” ‚ƒ‚‚•‚Œ‚„<line>
+‚‚‚’‚…‚‚‹ ‚‚Ž‚™ ‚“‚…‚ƒ‚‚Ž‚„D<line>
+:end<line>
+<end>
+
+
+//POINTER #12 @ $2C59BC - STRING #12 @ $6434CC
+
+#WRITE(GBA,$2C59BC)
+‚t‚“‚… ‚”‚ˆ‚… ‚‚’‚’‚‚— ‚”‚<line>
+‚†‚‰‚Ž‚„ ‚”‚ˆ‚… ‚s‚•‚’‚”‚Œ‚… ‚j‚‰‚„‚“D<line>
+:end<line>
+<end>
+
+
+//POINTER #13 @ $2C59E0 - STRING #13 @ $64351C
+
+#WRITE(GBA,$2C59E0)
+‚t‚“‚… ‚”‚ˆ‚… ‚’‚‚„‚‚’f‚“<line>
+‚“‚‚•‚Ž‚„‚“ ‚”‚ ‚†‚‰‚Ž‚„<line>
+‚”‚ˆ‚… ‚s‚•‚’‚”‚Œ‚… ‚j‚‰‚„‚“D<line>
+:end<line>
+<end>
+
+
+//POINTER #14 @ $2C5A04 - STRING #14 @ $64357C
+
+#WRITE(GBA,$2C5A04)
+‚s‚ˆ‚… ‚„‚…‚Œ‚‰‚Ž‚‘‚•‚…‚Ž‚”<line>
+‚Œ‚‰‚”‚”‚Œ‚… ‚“‚‰‚“‚”‚…‚’D<line>
+‚` ‚‹‚…‚Ž‚„‚‚‚ ‚…‚˜‚‚…‚’‚”D<line>
+:end<line>
+<end>
+
+
+//POINTER #15 @ $2C5A28 - STRING #15 @ $6435CC
+
+#WRITE(GBA,$2C5A28)
+‚s‚ˆ‚… ‚„‚…‚Œ‚‰‚Ž‚‘‚•‚…‚Ž‚”<line>
+‚™‚‚•‚Ž‚‡‚…‚’ ‚‚‚’‚‚”‚ˆ‚…‚’D<line>
+‚g‚… ‚Œ‚‚–‚…‚“ ‚ˆ‚‰‚“<line>
+‚‚‚‚‚‚„‚‚•‚’D<line>
+:end<line>
+<end>
+
+
+//POINTER #16 @ $2C5A4C - STRING #16 @ $643624
+
+#WRITE(GBA,$2C5A4C)
+‚s‚ˆ‚… ‚„‚…‚Œ‚‰‚Ž‚‘‚•‚…‚Ž‚”<line>
+‚‚Œ‚„‚…‚’ ‚‚‚’‚‚”‚ˆ‚…‚’D<line>
+‚g‚…f‚“ ‚‡‚•‚”‚“‚™ ‚‚Ž‚„<line>
+‚‚’‚…‚”‚”‚™ ‚“‚‚‚’‚”D<line>
+:end<line>
+<end>
+
+
+//POINTER #17 @ $2C5A70 - STRING #17 @ $64367C
+
+#WRITE(GBA,$2C5A70)
+‚` ‚Œ‚…‚”‚”‚…‚’ ‚‚„‚„‚’‚…‚“‚“‚…‚„<line>
+‚”‚ ‚i‚…‚Œ‚Œ‚‚”‚ ‚”‚ ‚‚‚‹‚…<line>
+‚‚‚…‚Ž‚„‚“D<line>
+:end<line>
+<end>
+
+
+//POINTER #18 @ $2C5A94 - STRING #18 @ $6436C0
+
+#WRITE(GBA,$2C5A94)
+‚` ‚Œ‚…‚”‚”‚…‚’ ‚‚„‚„‚’‚…‚“‚“‚…‚„ƒŒ<line>
+‚”‚ ‚f‚…‚Œ‚Œ‚‚”‚ ‚”‚ ‚‚‚‹‚…<line>
+‚‚‚…‚Ž‚„‚“D<line>
+:end<line>
+<end>
+
+
+//POINTER #19 @ $2C5AB8 - STRING #19 @ $643708
+
+#WRITE(GBA,$2C5AB8)
+‚i‚…‚Œ‚Œ‚‚”‚f‚“ ‚’‚…‚“‚‚‚Ž‚“‚…<line>
+‚”‚ ‚f‚…‚Œ‚Œ‚‚”‚f‚“ ‚Œ‚…‚”‚”‚…‚’D<line>
+:end<line>
+<end>
+
+
+//POINTER #20 @ $2C5ADC - STRING #20 @ $64374C
+
+#WRITE(GBA,$2C5ADC)
+‚f‚…‚Œ‚Œ‚‚”‚f‚“ ‚’‚…‚“‚‚‚Ž‚“‚…<line>
+‚”‚ ‚i‚…‚Œ‚Œ‚‚”‚f‚“ ‚Œ‚…‚”‚”‚…‚’D<line>
+:end<line>
+<end>
+
+
+//POINTER #21 @ $2C5B00 - STRING #21 @ $6437A0
+
+#WRITE(GBA,$2C5B00)
+‚` ‚‚‚…‚Œ‚Œ ‚‚‚“‚“‚…‚„<line>
+‚„‚‚—‚Ž ‚”‚ˆ‚’‚‚•‚‡‚ˆ<line>
+‚‡‚…‚Ž‚…‚’‚‚”‚‰‚‚Ž‚“D<line>
+:end<line>
+<end>
+
+
+//POINTER #22 @ $2C5B24 - STRING #22 @ $6437E4
+
+#WRITE(GBA,$2C5B24)
+‚g‚‚Ž‚…‚™C<line>
+‚n‚Œ‚„ ‚l‚‚Ž ‚f‚’‚‰‚š‚š‚Œ‚™f‚“<line>
+‚†‚‚–‚‚’‚‰‚”‚… ‚†‚‚‚„D<line>
+:end<line>
+<end>
+
+
+//POINTER #23 @ $2C5B48 - STRING #23 @ $643824
+
+#WRITE(GBA,$2C5B48)
+‚r‚ˆ‚… ‚Š‚‚‰‚Ž‚…‚„ ‚”‚ˆ‚…<line>
+‚“‚…‚‚’‚ƒ‚ˆ ‚†‚‚’ ‚o‚•‚’‚“‚…‚Œ‚™<line>
+‚†‚‚’ ‚”‚ˆ‚… ‚“‚‚‹‚… ‚‚† ‚ˆ‚…‚’<line>
+‚‚ƒ‚ƒ‚…‚“‚“‚‚’‚‰‚…‚“D<line>
+:end<line>
+<end>
+
+
+//POINTER #24 @ $2C5B6C - STRING #24 @ $643880
+
+#WRITE(GBA,$2C5B6C)
+‚s‚ˆ‚… ‚‹‚…‚™<line>
+‚”‚ˆ‚‚” ‚•‚Ž‚Œ‚‚ƒ‚‹‚“<line>
+‚o‚•‚’‚“‚…‚Œ‚™f‚“ ‚ƒ‚…‚Œ‚ŒD<line>
+:end<line>
+<end>
+
+
+//POINTER #25 @ $2C5B90 - STRING #25 @ $6438E0
+
+#WRITE(GBA,$2C5B90)
+‚n‚Ž‚… ‚‚† ‚”‚ˆ‚… ‚S<line>
+‚‚‰‚…‚ƒ‚…‚“ ‚‚† ‚”‚ˆ‚…<line>
+‚„‚…‚“‚”‚’‚‚™‚…‚„ ‚“‚”‚‚”‚•‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #26 @ $2C5BB4 - STRING #26 @ $64392C
+
+#WRITE(GBA,$2C5BB4)
+‚n‚Ž‚… ‚‚† ‚”‚ˆ‚… ‚S<line>
+‚‚‰‚…‚ƒ‚…‚“ ‚‚† ‚”‚ˆ‚…<line>
+‚„‚…‚“‚”‚’‚‚™‚…‚„ ‚“‚”‚‚”‚•‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #27 @ $2C5BD8 - STRING #27 @ $643978
+
+#WRITE(GBA,$2C5BD8)
+‚n‚Ž‚… ‚‚† ‚”‚ˆ‚… ‚S<line>
+‚‚‰‚…‚ƒ‚…‚“ ‚‚† ‚”‚ˆ‚…<line>
+‚„‚…‚“‚”‚’‚‚™‚…‚„ ‚“‚”‚‚”‚•‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #28 @ $2C5BFC - STRING #28 @ $6439C4
+
+#WRITE(GBA,$2C5BFC)
+‚n‚Ž‚… ‚‚† ‚”‚ˆ‚… ‚S<line>
+‚‚‰‚…‚ƒ‚…‚“ ‚‚† ‚”‚ˆ‚…<line>
+‚„‚…‚“‚”‚’‚‚™‚…‚„ ‚“‚”‚‚”‚•‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #29 @ $2C5C20 - STRING #29 @ $643A10
+
+#WRITE(GBA,$2C5C20)
+‚` ‚‚…‚‚‚‚…‚’ ‚‚†<line>
+‚”‚ˆ‚… ‚r‚‘‚•‚‰‚’‚”‚“<line>
+‚—‚ˆ‚ ‚Œ‚‰‚‹‚…‚“ ‚”‚ˆ‚•‚Ž‚„‚…‚’D<line>
+:end<line>
+<end>
+
+
+//POINTER #30 @ $2C5C44 - STRING #30 @ $643A64
+
+#WRITE(GBA,$2C5C44)
+‚` ‚‚…‚‚‚‚…‚’ ‚‚†<line>
+‚”‚ˆ‚… ‚r‚‘‚•‚‰‚’‚”‚“<line>
+‚—‚ˆ‚f‚“ ‚‡‚‚‚„ ‚‚”<line>
+‚‡‚™‚‚Ž‚‚“‚”‚‰‚ƒ‚“D<line>
+:end<line>
+<end>
+
+
+//POINTER #31 @ $2C5C68 - STRING #31 @ $643AB8
+
+#WRITE(GBA,$2C5C68)
+‚` ‚‚…‚‚‚‚…‚’ ‚‚†<line>
+‚”‚ˆ‚… ‚r‚‘‚•‚‰‚’‚”‚“<line>
+‚—‚ˆ‚ ‚ƒ‚‚Žf‚” ‚“‚”‚‚<line>
+‚“‚Ž‚…‚…‚š‚‰‚Ž‚‡D<line>
+:end<line>
+<end>
+
+
+//POINTER #32 @ $2C5C8C - STRING #32 @ $643B10
+
+#WRITE(GBA,$2C5C8C)
+‚` ‚‚…‚‚‚‚…‚’ ‚‚†<line>
+‚”‚ˆ‚… ‚r‚‘‚•‚‰‚’‚”‚“<line>
+‚—‚ˆ‚ ‚Œ‚‚–‚…‚“ ‚‚‚‹‚…|‚•‚D<line>
+:end<line>
+<end>
+
+
+//POINTER #33 @ $2C5CB0 - STRING #33 @ $643B64
+
+#WRITE(GBA,$2C5CB0)
+‚r‚‘‚•‚‰‚’‚” ”‚P<line>
+‚Œ‚‰‚‹‚…‚“ ‚”‚ˆ‚…‚“‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #34 @ $2C5CD4 - STRING #34 @ $643BA8
+
+#WRITE(GBA,$2C5CD4)
+‚r‚‘‚•‚‰‚’‚” ”‚Q<line>
+‚Œ‚‰‚‹‚…‚“ ‚”‚ˆ‚…‚“‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #35 @ $2C5CF8 - STRING #35 @ $643BE8
+
+#WRITE(GBA,$2C5CF8)
+‚b‚‚•‚Œ‚„ ‚”‚ˆ‚‰‚“ ‚ƒ‚•‚’‚…<line>
+‚r‚‘‚•‚‰‚’‚” ”‚Rf‚“ ‚ƒ‚‚Œ‚„H<line>
+:end<line>
+<end>
+
+
+//POINTER #36 @ $2C5D1C - STRING #36 @ $643C40
+
+#WRITE(GBA,$2C5D1C)
+‚r‚‘‚•‚‰‚’‚” ”‚S<line>
+‚Œ‚‰‚‹‚…‚“ ‚”‚ˆ‚‰‚“D<line>
+:end<line>
+<end>
+
+
+//POINTER #37 @ $2C5D40 - STRING #37 @ $643C84
+
+#WRITE(GBA,$2C5D40)
+‚s‚ˆ‚… ‚‹‚…‚™ ‚™‚‚•<line>
+‚Ž‚…‚…‚„ ‚”‚ ‚•‚Ž‚Œ‚‚ƒ‚‹<line>
+‚”‚ˆ‚… ‚ƒ‚…‚Œ‚Œ ‚„‚‚‚’D<line>
+:end<line>
+<end>
+
+
+//POINTER #38 @ $2C5D64 - STRING #38 @ $643CBC
+
+#WRITE(GBA,$2C5D64)
+‚s‚’‚™ ‚‡‚‚‰‚Ž‚‡<line>
+‚“‚‚‚…‚—‚ˆ‚…‚’‚… ‚™‚‚•<line>
+‚ˆ‚‚–‚…‚Žf‚” ‚‚‚…‚…‚Ž ‚‚‚‚Œ‚…<line>
+‚”‚ ‚‚‚…‚†‚‚’‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #39 @ $2C5D88 - STRING #39 @ $643D00
+
+#WRITE(GBA,$2C5D88)
+‚` ‚‚‚‚’‚’‚…‚Œ ‚Œ‚‚–‚…‚„ ‚‚‚™<line>
+‚”‚ˆ‚… ‚a‚‚’‚’‚…‚Œ ‚r‚‘‚•‚‰‚„‚“<line>
+‚”‚ˆ‚‚” ‚—‚‚“ ‚‹‚…‚‚” ‚—‚‚’‚<line>
+‚‚‚™ ‚”‚ˆ‚…‚‰‚’ ‚Œ‚…‚‚„‚…‚’D<line>
+:end<line>
+<end>
+
+
+//POINTER #40 @ $2C5DAC - STRING #40 @ $643D5C
+
+#WRITE(GBA,$2C5DAC)
+‚s‚ˆ‚…‚’‚…f‚“ ‚ h<c d>‚k‚<c 4>h<line>
+‚—‚’‚‰‚”‚”‚…‚Ž ‚‚Ž ‚”‚ˆ‚‰‚“ ‚‚…‚‚D<line>
+:end<line>
+<end>
+
+
+//POINTER #41 @ $2C5DD0 - STRING #41 @ $643DB8
+
+#WRITE(GBA,$2C5DD0)
+‚s‚ˆ‚…‚’‚…f‚“ ‚ h<c d>‚b<c 4>h<line>
+‚—‚’‚‰‚”‚”‚…‚Ž ‚‚Ž ‚”‚ˆ‚‰‚“ ‚‚…‚‚D<line>
+:end<line>
+<end>
+
+
+//POINTER #42 @ $2C5DF4 - STRING #42 @ $643E14
+
+#WRITE(GBA,$2C5DF4)
+‚s‚ˆ‚…‚’‚…f‚“ ‚ h<c d>‚l<c 4>h<line>
+‚—‚’‚‰‚”‚”‚…‚Ž ‚‚Ž ‚”‚ˆ‚‰‚“ ‚‚…‚‚D<line>
+:end<line>
+<end>
+
+
+//POINTER #43 @ $2C5E18 - STRING #43 @ $643E6C
+
+#WRITE(GBA,$2C5E18)
+‚` ‚r‚•‚•‚•‚•‚•‚•‚‚…‚’<line>
+‚†‚’‚‚“‚”‚™ ‚“‚Ž‚‚—‚‚‚ŽI<line>
+:end<line>
+<end>
+
+
+//POINTER #44 @ $2C5E3C - STRING #44 @ $643EB0
+
+#WRITE(GBA,$2C5E3C)
+‚s‚ˆ‚‰‚“ ‚Œ‚…‚”‚“ ‚™‚‚• ‚”‚‚Œ‚‹<line>
+‚”‚ ‚‚…‚‚‚Œ‚… ‚”‚ˆ‚‚”<line>
+‚‚’‚… ‚†‚‚’ ‚‚—‚‚™D<line>
+‚h‚”f‚“ ‚‡‚’‚‚—‚‰‚Ž‚‡ ‚ˆ‚‚‰‚’I<line>
+:end<line>
+<end>
+
+
+//POINTER #45 @ $2C5E60 - STRING #45 @ $643F00
+
+#WRITE(GBA,$2C5E60)
+‚` ‚–‚‚ƒ‚ƒ‚‰‚Ž‚…<line>
+‚”‚ˆ‚‚” ‚ƒ‚‚Ž ‚ƒ‚•‚’‚…<line>
+‚”‚ˆ‚… ‚r‚”‚‚ƒ‚ˆ‚… ‚u‚‰‚’‚•‚“D<line>
+:end<line>
+<end>
+
+
+//POINTER #46 @ $2C5E84 - STRING #46 @ $643F4C
+
+#WRITE(GBA,$2C5E84)
+‚` ‚–‚‚ƒ‚ƒ‚‰‚Ž‚…<line>
+‚”‚ˆ‚‚” ‚ƒ‚‚Ž ‚ƒ‚•‚’‚…<line>
+‚”‚ˆ‚… ‚r‚”‚‚ƒ‚ˆ‚… ‚u‚‰‚’‚•‚“D<line>
+:end<line>
+<end>
+
+
+//POINTER #47 @ $2C5EA8 - STRING #47 @ $643F98
+
+#WRITE(GBA,$2C5EA8)
+‚` ‚–‚‚ƒ‚ƒ‚‰‚Ž‚…<line>
+‚”‚ˆ‚‚” ‚ƒ‚‚Ž ‚ƒ‚•‚’‚…<line>
+‚”‚ˆ‚… ‚r‚”‚‚ƒ‚ˆ‚… ‚u‚‰‚’‚•‚“D<line>
+:end<line>
+<end>
+
+
+//POINTER #48 @ $2C5ECC - STRING #48 @ $643FE0
+
+#WRITE(GBA,$2C5ECC)
+‚` ‚Œ‚…‚”‚”‚…‚’ ‚—‚’‚‰‚”‚”‚…‚Ž ‚”‚<line>
+‚‰‚Ž‚†‚‚’‚ ‚‚”‚ˆ‚…‚’‚“ ‚‚†<line>
+‚d‚ƒ‚ˆ‚‰‚‡‚™‚‚™‚f‚“<line>
+‚“‚ƒ‚ˆ‚…‚‚…‚“D<line>
+:end<line>
+<end>
+
+
+//POINTER #49 @ $2C5EF0 - STRING #49 @ $644038
+
+#WRITE(GBA,$2C5EF0)
+‚s‚ˆ‚… ‚‹‚…‚™ ‚”‚<line>
+‚k‚•‚‚‰f‚“ ‚ƒ‚…‚Œ‚ŒD<line>
+:end<line>
+<end>
+
+
+//POINTER #50 @ $2C5F14 - STRING #50 @ $64408C
+
+#WRITE(GBA,$2C5F14)
+‚x‚‚•f‚Œ‚Œ ‚Ž‚…‚…‚„ ‚”‚ˆ‚…<line>
+‚r‚ˆ‚…‚Œ‚Œ‚‚•‚”‚…‚’ ‚”‚ ‚“‚…‚…<line>
+‚—‚ˆ‚‚”f‚“ ‚’‚…‚ƒ‚‚’‚„‚…‚„<line>
+‚‚Ž ‚”‚ˆ‚‰‚“ ‚”‚‚‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #51 @ $2C5F38 - STRING #51 @ $6440DC
+
+#WRITE(GBA,$2C5F38)
+‚x‚‚•f‚Œ‚Œ ‚Ž‚…‚…‚„ ‚”‚ˆ‚…<line>
+‚r‚ˆ‚…‚Œ‚Œ‚‚•‚”‚…‚’ ‚”‚ ‚“‚…‚…<line>
+‚—‚ˆ‚‚”f‚“ ‚’‚…‚ƒ‚‚’‚„‚…‚„<line>
+‚‚Ž ‚”‚ˆ‚‰‚“ ‚”‚‚‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #52 @ $2C5F5C - STRING #52 @ $64412C
+
+#WRITE(GBA,$2C5F5C)
+‚x‚‚•f‚Œ‚Œ ‚Ž‚…‚…‚„ ‚”‚ˆ‚…<line>
+‚r‚ˆ‚…‚Œ‚Œ‚‚•‚”‚…‚’ ‚”‚ ‚“‚…‚…<line>
+‚—‚ˆ‚‚”f‚“ ‚’‚…‚ƒ‚‚’‚„‚…‚„<line>
+‚‚Ž ‚”‚ˆ‚‰‚“ ‚”‚‚‚…D<line>
+:end<line>
+<end>
+
+
+//POINTER #53 @ $2C5F80 - STRING #53 @ $64417C
+
+#WRITE(GBA,$2C5F80)
+‚` ‚‹‚…‚™ ‚Ž‚…‚…‚„‚…‚„ ‚”‚<line>
+‚•‚Ž‚Œ‚‚ƒ‚‹ ‚l‚‚…f‚“ ‚ƒ‚…‚Œ‚ŒD<line>
+:end<line>
+<end>
+
+
+//POINTER #54 @ $2C5FA4 - STRING #54 @ $6441B4
+
+#WRITE(GBA,$2C5FA4)
+‚` ‚‹‚…‚™ ‚Ž‚…‚…‚„‚…‚„ ‚”‚<line>
+‚•‚Ž‚Œ‚‚ƒ‚‹ ‚l‚‚…f‚“ ‚ƒ‚…‚Œ‚ŒD<line>
+:end<line>
+<end>
+
+
+//POINTER #55 @ $2C5FC8 - STRING #55 @ $6441EC
+
+#WRITE(GBA,$2C5FC8)
+‚` ‚‹‚…‚™ ‚Ž‚…‚…‚„‚…‚„ ‚”‚<line>
+‚•‚Ž‚Œ‚‚ƒ‚‹ ‚l‚‚…f‚“ ‚ƒ‚…‚Œ‚ŒD<line>
+:end<line>
+<end>
+
+
+//POINTER #56 @ $2C5FEC - STRING #56 @ $644228
+
+#WRITE(GBA,$2C5FEC)
+‚` ‚‹‚…‚™ ‚Ž‚…‚…‚„‚…‚„ ‚”‚<line>
+‚•‚Ž‚Œ‚‚ƒ‚‹ ‚l‚‚…f‚“ ‚ƒ‚…‚Œ‚ŒD<line>
+:end<line>
+<end>
+
+
+//POINTER #57 @ $2C6010 - STRING #57 @ $644264
+
+#WRITE(GBA,$2C6010)
+‚s‚ˆ‚… ‚Š‚‚’ ‚ƒ‚‚‚‚‚‚Œ‚… ‚‚†<line>
+‚‹‚…‚…‚‚‰‚Ž‚‡ ‚n‚‡‚•‚’‚<line>
+‚“‚…‚‚Œ‚…‚„ ‚‰‚Ž‚“‚‰‚„‚… ‚‚† ‚‰‚”D<line>
+:end<line>
+<end>
+

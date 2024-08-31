@@ -1,0 +1,491 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Accessory Descriptions (Pointer)
+
+//POINTER #0 @ $2C6E90 - STRING #0 @ $63B540
+
+#W32($2C6E90)
+//テンカイシリーズ　その１<line>
+テンカイヘイシが<line>
+よくかぶっている　ぼうし<line>
+:end<line>
+<end>
+
+
+//POINTER #1 @ $2C6E94 - STRING #1 @ $63B590
+
+#W32($2C6E94)
+//ママが　つくって<line>
+くれたぽしぇっとだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #2 @ $2C6E98 - STRING #2 @ $63B5C0
+
+#W32($2C6E98)
+//これをかけると<line>
+あたまが　よくなった・・・<line>
+ような気がするね<line>
+:end<line>
+<end>
+
+
+//POINTER #3 @ $2C6E9C - STRING #3 @ $63B608
+
+#W32($2C6E9C)
+//これで<line>
+スケボンもだいじょうぶ！<line>
+トリートさんの　おすすめメット<line>
+:end<line>
+<end>
+
+
+//POINTER #4 @ $2C6EA0 - STRING #4 @ $63B654
+
+#W32($2C6EA0)
+//テンカイシリーズ　その２<line>
+なつまつりでは<line>
+みんなはいてるよ<line>
+:end<line>
+<end>
+
+
+//POINTER #5 @ $2C6EA4 - STRING #5 @ $63B698
+
+#W32($2C6EA4)
+//じしんのときも<line>
+これで　あんしん<line>
+あたまをまもってくれるよ<line>
+:end<line>
+<end>
+
+
+//POINTER #6 @ $2C6EA8 - STRING #6 @ $63B6DC
+
+#W32($2C6EA8)
+//スタフィーが<line>
+だいすきなグラサンだよ<line>
+おしゃれだね<line>
+:end<line>
+<end>
+
+
+//POINTER #7 @ $2C6EAC - STRING #7 @ $63B718
+
+#W32($2C6EAC)
+//やきゅうセット　その１<line>
+スタフィーチームの<line>
+とくべつせいだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #8 @ $2C6EB0 - STRING #8 @ $63B760
+
+#W32($2C6EB0)
+//こまったときの　かみだのみ！<line>
+でも　なんで<line>
+おでこなのかな・・・<line>
+:end<line>
+<end>
+
+
+//POINTER #9 @ $2C6EB4 - STRING #9 @ $63B7AC
+
+#W32($2C6EB4)
+//うわさじゃ<line>
+ラブリーさんも<line>
+あいようしてるとか・・・？<line>
+:end<line>
+<end>
+
+
+//POINTER #10 @ $2C6EB8 - STRING #10 @ $63B7EC
+
+#W32($2C6EB8)
+//ゆうめいな<line>
+ぼうけんかが<line>
+もっていたムチだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #11 @ $2C6EBC - STRING #11 @ $63B824
+
+#W32($2C6EBC)
+//かっこいい上に<line>
+あせまで　ぬぐってくれて<line>
+いっせきにちょう<line>
+:end<line>
+<end>
+
+
+//POINTER #12 @ $2C6EC0 - STRING #12 @ $63B868
+
+#W32($2C6EC0)
+//かわいい<line>
+うさぎのみみがついた<line>
+ヘアバンドだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #13 @ $2C6EC4 - STRING #13 @ $63B8A0
+
+#W32($2C6EC4)
+//ちょっと<line>
+イソくさい　かおりだよ・・・<line>
+:end<line>
+<end>
+
+
+//POINTER #14 @ $2C6EC8 - STRING #14 @ $63B8D0
+
+#W32($2C6EC8)
+//ちょっと<line>
+おんなのこっぽい<line>
+かわいいヘアバンドだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #15 @ $2C6ECC - STRING #15 @ $63B90C
+
+#W32($2C6ECC)
+//みちもひろばも<line>
+これでスイスイ<line>
+でも　じこには気をつけてね<line>
+:end<line>
+<end>
+
+
+//POINTER #16 @ $2C6ED0 - STRING #16 @ $63B950
+
+#W32($2C6ED0)
+//ぬくぬくけがわとあわせれば<line>
+さむさたいさくは<line>
+カンペキだね<line>
+:end<line>
+<end>
+
+
+//POINTER #17 @ $2C6ED4 - STRING #17 @ $63B994
+
+#W32($2C6ED4)
+//このなつの　しんしょくだよ<line>
+セクシーなかんじに<line>
+なれるかな？<line>
+:end<line>
+<end>
+
+
+//POINTER #18 @ $2C6ED8 - STRING #18 @ $63B9DC
+
+#W32($2C6ED8)
+//たんていセット　その１<line>
+しりつたんていの<line>
+ぼうしだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #19 @ $2C6EDC - STRING #19 @ $63BA1C
+
+#W32($2C6EDC)
+//うちゅうセット　その２<line>
+うちゅうふくと<line>
+いっしょに　つけてね<line>
+:end<line>
+<end>
+
+
+//POINTER #20 @ $2C6EE0 - STRING #20 @ $63BA64
+
+#W32($2C6EE0)
+//せんごくセット　その２<line>
+かざりでテキを<line>
+おびえさせるよ<line>
+:end<line>
+<end>
+
+
+//POINTER #21 @ $2C6EE4 - STRING #21 @ $63BAA4
+
+#W32($2C6EE4)
+//どんなちいさなモノも<line>
+みのがさないよ！<line>
+:end<line>
+<end>
+
+
+//POINTER #22 @ $2C6EE8 - STRING #22 @ $63BAD4
+
+#W32($2C6EE8)
+//ダンディなヒゲは<line>
+おんなのこたちの<line>
+ハートを　ゲットするよ<line>
+:end<line>
+<end>
+
+
+//POINTER #23 @ $2C6EEC - STRING #23 @ $63BB18
+
+#W32($2C6EEC)
+//まちむすめセット　その１<line>
+せいそなかんじの<line>
+カツラだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #24 @ $2C6EF0 - STRING #24 @ $63BB58
+
+#W32($2C6EF0)
+//とのさまセット　その２<line>
+あくだいかんには<line>
+ならないでね<line>
+:end<line>
+<end>
+
+
+//POINTER #25 @ $2C6EF4 - STRING #25 @ $63BB98
+
+#W32($2C6EF4)
+//テンカイシリーズ　その３<line>
+ウォーツァルトの<line>
+すいせんギターだ<line>
+:end<line>
+<end>
+
+
+//POINTER #26 @ $2C6EF8 - STRING #26 @ $63BBE0
+
+#W32($2C6EF8)
+//のんびりした<line>
+きもちになれる<line>
+ねいろの　ウクレレだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #27 @ $2C6EFC - STRING #27 @ $63BC20
+
+#W32($2C6EFC)
+//かいすいよくには　やっぱりコレ<line>
+すごーく　リラックスできるよ<line>
+:end<line>
+<end>
+
+
+//POINTER #28 @ $2C6F00 - STRING #28 @ $63BC68
+
+#W32($2C6F00)
+//まっくろなシルクハットは<line>
+パーティーで<line>
+だいかつやくだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #29 @ $2C6F04 - STRING #29 @ $63BCAC
+
+#W32($2C6F04)
+//きしセット　その１<line>
+むかしの　きしの<line>
+かぶとのレプリカだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #30 @ $2C6F08 - STRING #30 @ $63BCF0
+
+#W32($2C6F08)
+//おまつりに　かぶって行ったら<line>
+きっと　たのしくなれるよ<line>
+:end<line>
+<end>
+
+
+//POINTER #31 @ $2C6F0C - STRING #31 @ $63BD30
+
+#W32($2C6F0C)
+//つよいひざしから<line>
+あたまを　まもってくれる<line>
+こうかがあるよ<line>
+:end<line>
+<end>
+
+
+//POINTER #32 @ $2C6F10 - STRING #32 @ $63BD74
+
+#W32($2C6F10)
+//７０ねんだいを　かんじさせる<line>
+はじけた　かつらだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #33 @ $2C6F14 - STRING #33 @ $63BDB0
+
+#W32($2C6F14)
+//けんどうは　とくいかな？<line>
+気あいじゅうぶんな<line>
+しないだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #34 @ $2C6F18 - STRING #34 @ $63BDF4
+
+#W32($2C6F18)
+//ヒーローセット　その１<line>
+海のヒーローに<line>
+ヘンシンだ！<line>
+:end<line>
+<end>
+
+
+//POINTER #35 @ $2C6F1C - STRING #35 @ $63BE34
+
+#W32($2C6F1C)
+//ピカピカひかる<line>
+メッキのかんむり<line>
+どんなふくと　あわせてみる？<line>
+:end<line>
+<end>
+
+
+//POINTER #36 @ $2C6F20 - STRING #36 @ $63BE7C
+
+#W32($2C6F20)
+//これで　まいばん<line>
+いいユメが<line>
+みられるかな・・・？<line>
+:end<line>
+<end>
+
+
+//POINTER #37 @ $2C6F24 - STRING #37 @ $63BEB8
+
+#W32($2C6F24)
+//ままごとセット　その１<line>
+おままごとには<line>
+かかせないよ！<line>
+:end<line>
+<end>
+
+
+//POINTER #38 @ $2C6F28 - STRING #38 @ $63BEF8
+
+#W32($2C6F28)
+//デビルセット　その１<line>
+スタフィーがあくまに<line>
+なっちゃった！？<line>
+:end<line>
+<end>
+
+
+//POINTER #39 @ $2C6F2C - STRING #39 @ $63BF40
+
+#W32($2C6F2C)
+//かいけつセット　その１<line>
+せいぎのみかたの<line>
+ぼうしだよ！<line>
+:end<line>
+<end>
+
+
+//POINTER #40 @ $2C6F30 - STRING #40 @ $63BF80
+
+#W32($2C6F30)
+//かせいじんセット　その１<line>
+かせいじんって・・・<line>
+ほんとにこんなの？<line>
+:end<line>
+<end>
+
+
+//POINTER #41 @ $2C6F34 - STRING #41 @ $63BFCC
+
+#W32($2C6F34)
+//コントで　よくみかけるかつらだね<line>
+ツッコミには　気をつけて<line>
+:end<line>
+<end>
+
+
+//POINTER #42 @ $2C6F38 - STRING #42 @ $63C010
+
+#W32($2C6F38)
+//めだつこと<line>
+うけあいのかつら<line>
+ファンが　できるかも！？<line>
+:end<line>
+<end>
+
+
+//POINTER #43 @ $2C6F3C - STRING #43 @ $63C050
+
+#W32($2C6F3C)
+//プラスチックせいだから<line>
+においはしないよ<line>
+:end<line>
+<end>
+
+
+//POINTER #44 @ $2C6F40 - STRING #44 @ $63C084
+
+#W32($2C6F40)
+//おでこの「中」のもじが<line>
+まぶしい　４０００ねんの<line>
+でんとうかつら<line>
+:end<line>
+<end>
+
+
+//POINTER #45 @ $2C6F44 - STRING #45 @ $63C0D0
+
+#W32($2C6F44)
+//欠番<line>
+:end<line>
+<end>
+
+
+//POINTER #46 @ $2C6F48 - STRING #46 @ $63C0E0
+
+#W32($2C6F48)
+//パーティーのわだいは<line>
+ひとりじめだよ！<line>
+:end<line>
+<end>
+
+
+//POINTER #47 @ $2C6F4C - STRING #47 @ $63C110
+
+#W32($2C6F4C)
+//パーティーグッズの<line>
+ていばんだね<line>
+みんな　おおうけ！！？<line>
+:end<line>
+<end>
+
+
+//POINTER #48 @ $2C6F50 - STRING #48 @ $63C154
+
+#W32($2C6F50)
+//ラブリーさんも使ってる<line>
+ちょうこうきゅう<line>
+メイクセットだよ<line>
+:end<line>
+<end>
+
+
+//POINTER #49 @ $2C6F54 - STRING #49 @ $63C198
+
+#W32($2C6F54)
+//ちょっとだけこわそうに<line>
+みえちゃうカツラだよ<line>
+:end<line>
+<end>
+

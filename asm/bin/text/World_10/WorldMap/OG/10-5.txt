@@ -1,0 +1,14 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $74
+
+//[x 0]<line>
+[y 2]<line>
+『げきりゅうのたき』　１０-５<line>
+[x auto]<line>
+[y 20]<line>
+かいぞくプチオーグラ１０ごうの<line>
+ヒミツをさぐれ！<line>
+<end>
+

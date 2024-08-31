@@ -1,0 +1,13 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $AF
+
+//:func 22 -1<line>
+<c d>『ろうやのカギ』<c 0>は<line>
+みつけましたか？<line>
+みつけたら　ヤリイカさんの<line>
+ところへ　行こう！<line>
+:end<line>
+<end>
+

@@ -1,0 +1,44 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		1-1-1
+//Block Range: $0 - $2F6
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+:if 1101 go 10<line>
+:flagon 1101<line>
+:func 22 -1<line>
+<s 2><rname><diamond>Ｍｏｅ<line>
+Ｆｉｎａｌｌｙ ｒｅｍｅｍｂｅｒ ｓｏｍｅ ｏｆ ｙｏｕｒ ａｂｉｌｉｔｉｅｓ， Ｓｔａｒｆ？<line>
+Ｓｈｅｅｓｈ， ｙｏｕ’ｒｅ ａｓ ｍｕｃｈ ｏｆ ａ ｐａｉｎ ａｓ ｅｖｅｒ．．．<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｉ’ｍ ｓｕｒｅ ｔｈｅｒｅ’ｌｌ ｂｅ ｆｏｌｋｓ ｗｈｏ’ｌｌ ｔｅａｃｈ ｙｏｕ<line>
+ｅｖｅｎ ｍｏｒｅ ａｂｉｌｉｔｉｅｓ ａｌｏｎｇ ｔｈｅ ｗａｙ．．．<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｓｏ ｙｏｕ ｂｅｔｔｅｒ ｌｉｓｔｅｎ ｔｏ ｗｈａｔ ｔｈｅｙ ｔｅｌｌ ｙａ！<line>
+<wait>:obj 1 5<line>
+<rname><diamond>Ｍｏｅ<line>
+Ａｎｄ ｊｕｓｔ ｌｉｋｅ ｌａｓｔ ｔｉｍｅ，<line>
+ｉｆ ｙａ ｈａｖｅ ｑｕｅｓｔｉｏｎｓ ａｔ ａｎｙ ｐｏｉｎｔ．．．<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｊｕｓｔ ｔａｌｋ ｔｏ ｔｈｉｓ ｃｏｏｌ ａｎｄ ｒｅｌｉａｂｌｅ ｃｌａｍ！<line>
+Ｇｏｔ ｉｔ？<line>
+:end<line>
+<wait>:10<line>
+:func 22 -1<line>
+<rname><diamond>Ｍｏｅ<line>
+Ｊｕｓｔ ｌｉｋｅ ｌａｓｔ ｔｉｍｅ，<line>
+ｉｆ ｙａ ｈａｖｅ ｑｕｅｓｔｉｏｎｓ ａｔ ａｎｙ ｐｏｉｎｔ．．．<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｊｕｓｔ ｔａｌｋ ｔｏ ｔｈｉｓ ｃｏｏｌ ａｎｄ ｒｅｌｉａｂｌｅ ｃｌａｍ！<line>
+Ｇｏｔ ｉｔ？<line>
+:end<line>
+<end>
+

@@ -1,0 +1,75 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Beastiary Locations (Pointer)
+
+//POINTER #0 @ $2CA628 - STRING #0 @ $2CA568
+
+#W32($2CA628)
+//ロブのどうくつ<end>
+
+
+//POINTER #1 @ $2CA62C - STRING #1 @ $2CA578
+
+#W32($2CA62C)
+//はじまりの海<end>
+
+
+//POINTER #2 @ $2CA630 - STRING #2 @ $2CA588
+
+#W32($2CA630)
+//カメカメだいち<end>
+
+
+//POINTER #3 @ $2CA634 - STRING #3 @ $2CA598
+
+#W32($2CA634)
+//ツルツル氷ざん<end>
+
+
+//POINTER #4 @ $2CA638 - STRING #4 @ $2CA5A8
+
+#W32($2CA638)
+//タイボクのもり<end>
+
+
+//POINTER #5 @ $2CA63C - STRING #5 @ $2CA5B8
+
+#W32($2CA63C)
+//まっくらどうくつ<end>
+
+
+//POINTER #6 @ $2CA640 - STRING #6 @ $2CA5CC
+
+#W32($2CA640)
+//ヤッホーこうざん<end>
+
+
+//POINTER #7 @ $2CA644 - STRING #7 @ $2CA5E0
+
+#W32($2CA644)
+//テンカイ<end>
+
+
+//POINTER #8 @ $2CA648 - STRING #8 @ $2CA5EC
+
+#W32($2CA648)
+//レッシーこ<end>
+
+
+//POINTER #9 @ $2CA64C - STRING #9 @ $2CA5F8
+
+#W32($2CA64C)
+//げきりゅうのたき<end>
+
+
+//POINTER #10 @ $2CA650 - STRING #10 @ $2CA60C
+
+#W32($2CA650)
+//オーグラじょう<end>
+
+
+//POINTER #11 @ $2CA654 - STRING #11 @ $2CA61C
+
+#W32($2CA654)
+//のりもの<end>
+

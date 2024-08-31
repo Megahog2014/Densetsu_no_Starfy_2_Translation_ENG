@@ -1,0 +1,293 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Photo Names (Pointer)
+
+//POINTER #0 @ $2C7774 - STRING #0 @ $2C74D0
+
+#ACTIVETBL(MinifontPhoto)
+
+#WRITE(GBA,$2C7774)
+ÇlÇèÇÖ<end>
+
+
+//POINTER #1 @ $2C7778 - STRING #1 @ $2C74DC
+
+#WRITE(GBA,$2C7778)
+<82D8><82D9><82DA><82DB><82DC><82DD><82DE><82DF><end>
+
+
+//POINTER #2 @ $2C777C - STRING #2 @ $2C74EC
+
+#WRITE(GBA,$2C777C)
+ÇlÇÖÇíÇçÇÅÇâÇÑ<end>
+
+
+//POINTER #3 @ $2C7780 - STRING #3 @ $2C74F8
+
+#WRITE(GBA,$2C7780)
+ÇgÇÖÇíÇçÇÅÇé<end>
+
+
+//POINTER #4 @ $2C7784 - STRING #4 @ $2C7504
+
+#WRITE(GBA,$2C7784)
+ÇkÇèÇñÇÖÇåÇô<end>
+
+
+//POINTER #5 @ $2C7788 - STRING #5 @ $2C7510
+
+#WRITE(GBA,$2C7788)
+ÇqÇïÇÇÇô<end>
+
+
+//POINTER #6 @ $2C778C - STRING #6 @ $2C751C
+//Old Man Mechani
+#WRITE(GBA,$2C778C)
+<82D8><82D9><82DA><82DB><82E0><82E1><82E2><82E3><end>
+
+
+//POINTER #7 @ $2C7790 - STRING #7 @ $2C752C
+//Tortamama
+#WRITE(GBA,$2C7790)
+<82E4><82E5><82E6><82E7><82E8><82E9><end>
+
+
+//POINTER #8 @ $2C7794 - STRING #8 @ $2C7538
+//Turtle Kids
+#WRITE(GBA,$2C7794)
+<82EA><82EB><82ED><82F0><82F1><8340><end>
+
+
+//POINTER #9 @ $2C7798 - STRING #9 @ $2C7548
+//Bad Turtle Kids
+#WRITE(GBA,$2C7798)
+<8341><8342><82EA><82EB><82ED><82F0><82F1><8340><end>
+
+
+//POINTER #10 @ $2C779C - STRING #10 @ $2C7558
+
+#WRITE(GBA,$2C779C)
+ÇfÇÅÇáÇÅÇéÇçÇè<end>
+
+
+//POINTER #11 @ $2C77A0 - STRING #11 @ $2C7564
+//The Jellato Siblings
+#WRITE(GBA,$2C77A0)
+<8349><834A><834B><834C><834D><834E><834F><8350><end>
+
+
+//POINTER #12 @ $2C77A4 - STRING #12 @ $2C7574
+
+#WRITE(GBA,$2C77A4)
+ÇsÇèÇíÇâÇîÇè<end>
+
+
+//POINTER #13 @ $2C77A8 - STRING #13 @ $2C7580
+
+#WRITE(GBA,$2C77A8)
+ÇrÇÅÇñÇÅÇãÇè<end>
+
+
+//POINTER #14 @ $2C77AC - STRING #14 @ $2C758C
+//Hirao and Hirarin
+#WRITE(GBA,$2C77AC)
+<8351><8352><8353><8354><8355><8356><8357><8358><end>
+
+
+//POINTER #15 @ $2C77B0 - STRING #15 @ $2C75A0
+
+#WRITE(GBA,$2C77B0)
+ÇbÇèÇÅÇåÇÇÇâÇÖÇì<end>
+
+
+//POINTER #16 @ $2C77B4 - STRING #16 @ $2C75AC
+
+#WRITE(GBA,$2C77B4)
+ÇnÇèÇãÇâÇÑÇì<end>
+
+
+//POINTER #17 @ $2C77B8 - STRING #17 @ $2C75B8
+//Orisu and Korisu
+#WRITE(GBA,$2C77B8)
+<8359><835A><835B><835C><835D><835E><835F><8360><end>
+
+
+//POINTER #18 @ $2C77BC - STRING #18 @ $2C75C8
+
+#WRITE(GBA,$2C77BC)
+ÇrÇàÇâÇíÇïÇãÇâÇî<end>
+
+
+//POINTER #19 @ $2C77C0 - STRING #19 @ $2C75D4
+
+#WRITE(GBA,$2C77C0)
+ÇjÇÅÇçÇèÇéÇÖ<end>
+
+
+//POINTER #20 @ $2C77C4 - STRING #20 @ $2C75E0
+//Old Man Grizzly
+#WRITE(GBA,$2C77C4)
+<8361><8362><8363><8364><8365><8366><8367><8343><end>
+
+
+//POINTER #21 @ $2C77C8 - STRING #21 @ $2C75EC
+
+#WRITE(GBA,$2C77C8)
+ÇuÇâÇñÇÅ<end>
+
+
+//POINTER #22 @ $2C77CC - STRING #22 @ $2C75F4
+
+#WRITE(GBA,$2C77CC)
+ÇlÇèÇèÇé<end>
+
+
+//POINTER #23 @ $2C77D0 - STRING #23 @ $2C75FC
+
+#WRITE(GBA,$2C77D0)
+ÇoÇïÇíÇìÇåÇÖÇô<end>
+
+
+//POINTER #24 @ $2C77D4 - STRING #24 @ $2C7608
+
+#WRITE(GBA,$2C77D4)
+ÇvÇèÇöÇÅÇíÇî<end>
+
+
+//POINTER #25 @ $2C77D8 - STRING #25 @ $2C7618
+
+#WRITE(GBA,$2C77D8)
+ÇbÇàÇïÇîÇÅ<end>
+
+
+//POINTER #26 @ $2C77DC - STRING #26 @ $2C7624
+//The Barrel Squids
+#WRITE(GBA,$2C77DC)
+<8368><8369><836A><836B><836C><836D><836E><836F><end>
+
+
+//POINTER #27 @ $2C77E0 - STRING #27 @ $2C7638
+
+#WRITE(GBA,$2C77E0)
+ÇpÇïÇâÇÑÇèÇéÇéÇÅ<end>
+
+
+//POINTER #28 @ $2C77E4 - STRING #28 @ $2C7644
+//The Crab Family
+#WRITE(GBA,$2C77E4)
+<8370><8371><8372><8373><8374><8375><8376><8377><end>
+
+
+//POINTER #29 @ $2C77E8 - STRING #29 @ $2C7654
+//The Fat Cat Family
+#WRITE(GBA,$2C77E8)
+<8378><8379><837A><837B><837C><837D><837E><8380><end>
+
+
+//POINTER #30 @ $2C77EC - STRING #30 @ $2C7664
+//Professoar
+#WRITE(GBA,$2C77EC)
+<8381><8382><8383><8384><8385><8386><8387><end>
+
+
+//POINTER #31 @ $2C77F0 - STRING #31 @ $2C7670
+
+#WRITE(GBA,$2C77F0)
+ÇsÇïÇîÇóÇÖÇÖÇî<end>
+
+
+//POINTER #32 @ $2C77F4 - STRING #32 @ $2C767C
+
+#WRITE(GBA,$2C77F4)
+ÇsÇÅÇâÇÇÇåÇèÇéÇÑ<end>
+
+
+//POINTER #33 @ $2C77F8 - STRING #33 @ $2C768C
+
+#WRITE(GBA,$2C77F8)
+ÇgÇèÇíÇïÇé<end>
+
+
+//POINTER #34 @ $2C77FC - STRING #34 @ $2C7698
+//Pufftop Soldier
+#WRITE(GBA,$2C77FC)
+<8388><8389><838A><838B><838C><838D><838F><8392><end>
+
+
+//POINTER #35 @ $2C7800 - STRING #35 @ $2C76A8
+//Dragobrows
+#WRITE(GBA,$2C7800)
+<8393><8740><8741><8742><8743><8744><8945><end>
+
+
+//POINTER #36 @ $2C7804 - STRING #36 @ $2C76B4
+//The Squirts
+#WRITE(GBA,$2C7804)
+<896A><899F><89A4><89BA><89F1><89FC><end>
+
+
+//POINTER #37 @ $2C7808 - STRING #37 @ $2C76C4
+//Pufftop Kids
+#WRITE(GBA,$2C7808)
+<8A43><8A4F><8B43><8B9F><8BC8><8BDF><8CB3><end>
+
+
+//POINTER #38 @ $2C780C - STRING #38 @ $2C76D4
+
+#WRITE(GBA,$2C780C)
+ÇiÇÖÇóÇÖÇåÇåÇô<end>
+
+
+//POINTER #39 @ $2C7810 - STRING #39 @ $2C76E0
+
+#WRITE(GBA,$2C7810)
+ÇqÇÖÇìÇìÇâÇÖ<end>
+
+
+//POINTER #40 @ $2C7814 - STRING #40 @ $2C76EC
+
+#WRITE(GBA,$2C7814)
+ÇeÇïÇéÇÅÇöÇèÇï<end>
+
+
+//POINTER #41 @ $2C7818 - STRING #41 @ $2C76F8
+
+#WRITE(GBA,$2C7818)
+ÇiÇÅÇóÇäÇâÇíÇè<end>
+
+
+//POINTER #42 @ $2C781C - STRING #42 @ $2C7708
+//Lovely's Sisters
+#WRITE(GBA,$2C781C)
+<8CFB><8D73><8DA1><8DB6><8E67><8E71><8E76><end>
+
+
+//POINTER #43 @ $2C7820 - STRING #43 @ $2C7718
+
+#WRITE(GBA,$2C7820)
+ÇeÇåÇïÇÜÇÜÇô<end>
+
+
+//POINTER #44 @ $2C7824 - STRING #44 @ $2C7724
+//The Kunoichi
+#WRITE(GBA,$2C7824)
+<8E7E><8E84><8E9A><8EA9><8F5C><8F6F><8FAD><end>
+
+
+//POINTER #45 @ $2C7828 - STRING #45 @ $2C7734
+//Master Croak
+#WRITE(GBA,$2C7828)
+<8FE3><9053><906C><90E6><9085><90B3><90B6><end>
+
+
+//POINTER #46 @ $2C782C - STRING #46 @ $2C7740
+
+#WRITE(GBA,$2C782C)
+ÇkÇïÇçÇâ<end>
+
+
+//POINTER #47 @ $2C7830 - STRING #47 @ $2C7750
+//Joe and Shmoe
+#WRITE(GBA,$2C7830)
+<91AB><91E5><926D><9286><92B7><9356><9396><end>
+

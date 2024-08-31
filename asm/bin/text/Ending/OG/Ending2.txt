@@ -1,0 +1,98 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $5E6
+
+//[x auto]<line>
+オーグラを　ふたたび『ツボ』に<line>
+ふうじこめることができた<line>
+スタフィーたち・・・<line>
+:func 4<line>
+:c<line>
+<wait>おたからも　いくつかみつかって<line>
+めでたし　めでたし？<line>
+さあさあ　テンカイに　かえりましょう<line>
+:func 4<line>
+:c<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+:func 5 0 18<line>
+:func 2 8<line>
+<wait>:func 3 0<line>
+<wait>[x 0]<line>
+<rname><diamond>パパスタ<line>
+「おお！　スタフィーよ！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「どうじゃ？　おたからは<line>
+　みつかったか？」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「ふむふむ・・うーむ・・」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「どうやら　まだ　ぜんぶは<line>
+　あつめ゜きっておらんようじゃな・・」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「コラ！　まだ　のこってるじゃねえか<line>
+:func 2 40<line>
+　さっさと　あつめにいくぞ！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「なに？　『もう　ボク　つかれた<line>
+　よぉー』だとぉーーー？」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「あまえんな！　オラ！・・・<line>
+:func 2 48<line>
+　・・・って・・イテェーーー！」<line>
+:func 3 0<line>
+<wait>:func 2 64<line>
+:func 3 0<line>
+:c<line>
+<redname><diamond>オーグラ<line>
+「グワハハハ　バカナヤツラメーー！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>オーグラ<line>
+「イイコトキイタゾ！　ワシガ　サキニ<line>
+　オタカラ　ゼンブアツメテヤルー！」<line>
+:func 2 68<line>
+:func 3 0<line>
+:c<line>
+<redname><diamond>プチオーグラたち<line>
+:func 2 72<line>
+「アハハハ！　バーカ　バーカ！<line>
+　オタカラ　イタダキー！」<line>
+:func 4<line>
+:c<line>
+<wait>[w 30]<line>
+:func 2 80<line>
+:func 3 0<line>
+<rname><diamond>キョロスケ<line>
+「・・バッ・・バッカヤロー！<line>
+　オメェのせいだぞ！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「オラオラ！　さっさとついてこい！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+:func 2 88<line>
+「アイツらより　先に　おたから<line>
+　みつけんだよ！　オラオラー！」<line>
+:func 3 0<line>
+:func 4<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+:exit<line>
+<end>
+

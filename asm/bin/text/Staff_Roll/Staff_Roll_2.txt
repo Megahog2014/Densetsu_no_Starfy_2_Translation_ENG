@@ -1,0 +1,381 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Staff Roll 2
+//Block Range: $0 - $1794
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+:sd<line>
+:func 3 2 0<$09><$09><$09><$09><$09><$09>// Fade In<line>
+:func 5 0 1<$09><$09><$09><$09><$09><$09>// Frame In<line>
+[w 40]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+[x 5]<line>
+<line>
+<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+       ‚s‚ˆ‚… ‚k‚…‚‡‚…‚Ž‚„‚‚’‚™<line>
+            ‚r‚”‚‚’‚†‚™ ‚Q<line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+<line>
+        ‚r‚”‚‚†‚† ‚b‚’‚…‚„‚‰‚”‚“<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+<linealt>
+<line>
+<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 20]<line>
+:func 6<$09><$09><$09><$09><$09><$09><$09>// Frame Out<line>
+[w 40]<line>
+:func 5 1 0<$09><$09><$09><$09><$09><$09>// Frame In<line>
+[w 40]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<line>
+<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+<c b>          ‚b‚‚Ž‚ƒ‚…‚‚”‚‰‚‚Ž<c 0><line>
+ f‚r‚”‚‚ƒ‚ˆ‚… ‚k‚‚–‚…‚’ ‚r‚‚”‚‚‹‚<line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+   h‚q‚‰‚‡‚ˆ‚”Hh ‚s‚‚‹‚‚“‚‚‡‚<line>
+<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+<line>
+<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 5]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<line>
+<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+<c b>                ‚k‚…‚‚„<line>
+          ‚o‚’‚‚‡‚’‚‚‚‚…‚’<c 0><line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+         ‚j‚…‚“‚‚”‚ ‚d‚‡‚‚‚‰<line>
+<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+<line>
+<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 20]<line>
+:func 6<$09><$09><$09><$09><$09><$09><$09>// Frame Out<line>
+[w 40]<line>
+:func 5 2 2<$09><$09><$09><$09><$09><$09>// Frame In<line>
+[w 40]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<c b>         ‚o‚’‚‚‡‚’‚‚‚‚…‚’‚“<c 0><line>
+h‚l‚…‚‚” ‚l‚‚Ž‚‰‚‚ƒh ‚e‚•‚’‚•‚‹‚‚—‚<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+         <star>‚g‚‰‚“‚‚‚‚‚•<star><line>
+        ‚d‚‚‚‰‚‹‚ ‚m‚‚‡‚•‚ƒ‚ˆ‚‰<line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+             h‚j‚‰‚”‚‚Ž‚<line>
+     ‚‚† ‚”‚ˆ‚… ‚m‚…‚— ‚v‚‚’‚Œ‚„h<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+       ‚t‚Œ‚”‚’‚‚“<star>‚g‚‰‚’‚‚“‚ˆ‚‰<line>
+          ‚e‚…‚Ž ‚h‚‹‚…‚Ž‚‚‡‚<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 5]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<line>
+<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+<line>
+<c b>        ‚k‚…‚‚„ ‚c‚…‚“‚‰‚‡‚Ž‚…‚’<c 0><line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+           h‚r‚‚‚… ‚‡‚•‚™<line>
+        ‚Ž‚‚‚…‚„ ‚r‚ˆ‚‰‚Ž‚‚‹‚‰h<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+<line>
+<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 20]<line>
+:func 6<$09><$09><$09><$09><$09><$09><$09>// Frame Out<line>
+[w 40]<line>
+:func 5 3 0<$09><$09><$09><$09><$09><$09>// Frame In<line>
+[w 40]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<c b>           ‚c‚…‚“‚‰‚‡‚Ž‚…‚’‚“<c 0><line>
+    ‚`‚”‚“‚•‚ƒ‚ˆ‚‰ ‚d‚ƒ‚ˆ‚‰‚‡‚™‚‚™‚<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+          ‚c‚‚‚„‚Œ‚‰‚Ž‚‡ ‚d‚’‚‰<line>
+       ‚`‚‹‚‰‚’‚ ‚m‚‚Ž‚‚š‚•‚‹‚‰<line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+   ‚x‚•‚•‚‰‚ƒ‚ˆ‚‰‚’‚<heart>‚s‚‚Ž‚„‚…‚’‚•<line>
+   ‚l‚‚‚‚‹‚‚‚•<star>‚j‚‚š‚•‚’‚•<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+     ‚b‚ˆ‚‰‚…‚‚‰ ‚s‚‚Ž‚‰‚f‚•‚ƒ‚ƒ‚ˆ‚‰<line>
+<line>
+<line>
+<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 5]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<line>
+<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+<c b>   ‚o‚‚ƒ‚‹‚‚‡‚… • ‚a‚‚˜ ‚`‚’‚”<line>
+         ‚h‚Œ‚Œ‚•‚“‚”‚’‚‚”‚‰‚‚Ž‚“<c 0><line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+    ‚x‚‚“‚•‚‹‚ ‚s‚‚‹‚‚ˆ‚‚“‚ˆ‚‰<line>
+ h‚r‚”‚‚‡ ‚a‚…‚…‚”‚Œ‚…h ‚x‚‚“‚ˆ‚‰‚„‚<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+<line>
+<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 20]<line>
+:func 6<$09><$09><$09><$09><$09><$09><$09>// Frame Out<line>
+[w 40]<line>
+:func 5 4 2<$09><$09><$09><$09><$09><$09>// Frame In<line>
+[w 40]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<line>
+<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+<c b>             ‚l‚‚Ž‚•‚‚Œ<c 0><line>
+ ‚r‚‚ƒ‚ˆ‚‰‚‹‚<star>‚m‚‚‹‚‚‚‰‚”‚ƒ‚ˆ‚™<line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+     h‚s‚ˆ‚‚Ž‚‹‚“Ih ‚h‚”‚‚•‚“‚“‚•<line>
+   ‚l‚‚“‚‚™‚•‚‹‚‰ ‚n‚‹‚‚‚‹‚‚„‚<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+<line>
+<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 5]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<line>
+<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+<line>
+<c b>               ‚l‚•‚“‚‰‚ƒ<c 0><line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+    h‚o‚‚‰‚Ž‚”‚™ ‚g‚‚”h ‚h‚—‚‚‚<line>
+<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+<line>
+<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 20]<line>
+:func 6<$09><$09><$09><$09><$09><$09><$09>// Frame Out<line>
+[w 40]<line>
+:func 5 5 0<$09><$09><$09><$09><$09><$09>// Frame In<line>
+[w 40]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<c b>       ‚r‚‚…‚ƒ‚‰‚‚Œ ‚s‚ˆ‚‚Ž‚‹‚“<c 0><line>
+      ‚r‚…‚ƒ‚”‚‰‚‚Ž ‚l‚‚Ž‚‚‡‚…‚’<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+            ‚x‚‚‚‚‚‚”‚<line>
+     ‚`‚ƒ‚ˆ‚‚‹‚ ‚g‚‚’‚•‚ˆ‚‚Ž‚<line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+        ‚j‚…‚‰‚‹‚<heart>‚m‚‰‚‰‚š‚•‚‚<line>
+             ‚‚Ž‚„ ‚”‚ˆ‚…<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+      ‚r‚•‚‚…‚’ ‚l‚‚’‚‰‚ ‚b‚Œ‚•‚‚<line>
+<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 5]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<line>
+<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+<c b>           ‚c‚‰‚’‚…‚ƒ‚”‚‚’‚“<c 0><line>
+       ‚y‚‚Ž‚‡‚™‚•‚’‚<star>‚h‚‚‚‰<line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+        ‚`‚š‚•‚•‚“‚ ‚s‚‚Š‚‰‚‚<line>
+<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+<line>
+<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 20]<line>
+:func 6<$09><$09><$09><$09><$09><$09><$09>// Frame Out<line>
+[w 40]<line>
+:func 5 6 2<$09><$09><$09><$09><$09><$09>// Frame In<line>
+[w 40]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<line>
+<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+<c b>          ‚o‚’‚‚„‚•‚ƒ‚…‚’‚“<c 0><line>
+            ‚x‚‚“‚•‚ˆ‚‰‚’‚<line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+     ‚”‚ˆ‚… ‚r‚‚‚‰‚Œ‚…‚„ ‚b‚ˆ‚‰‚Œ‚„<line>
+    ‚`‚“‚“‚‰‚“‚”‚‚Ž‚” ‚l‚‚Ž‚‚‡‚…‚’<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+            ‚x‚‚‚‚‡‚‚‚‰<line>
+<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 5]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<line>
+<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 ss–Ú<line>
+<c b>    ‚f‚…‚Ž‚…‚’‚‚Œ ‚o‚’‚‚„‚•‚ƒ‚…‚’‚“<c 0><line>
+   ‚g‚…‚‚„ ‚c‚‰‚’‚…‚ƒ‚”‚‚’ ‚h‚š‚•‚“‚ˆ‚‰<line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+    ‚d‚˜‚…‚ƒ‚•‚”‚‰‚–‚… ‚c‚‰‚’‚…‚ƒ‚”‚‚’<line>
+             ‚j‚‚Ž‚„‚‚•<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+<line>
+<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 20]<line>
+:func 6<$09><$09><$09><$09><$09><$09><$09>// Frame Out<line>
+[w 40]<line>
+:func 5 7 0<$09><$09><$09><$09><$09><$09>// Frame In<line>
+[w 40]<line>
+:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<line>
+<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+<line>
+<c b>   ‚d‚˜‚…‚ƒ‚•‚”‚‰‚–‚… ‚o‚’‚‚„‚•‚ƒ‚…‚’<c 0><line>
+:func 11 2<$09><$09><$09><$09><$09><$09>// 5, 6 s–Ú<line>
+      ‚o‚’‚…‚“‚‰‚„‚…‚Ž‚” ‚h‚—‚‚”‚<line>
+<line>
+:func 11 3<$09><$09><$09><$09><$09><$09>// 7, 8 s–Ú<line>
+<line>
+<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer Clear<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:c<line>
+<wait>[w 20]<line>
+:func 6<$09><$09><$09><$09><$09><$09><$09>// Frame Out<line>
+[w 40]<line>
+:func 5 8 2<$09><$09><$09><$09><$09><$09>// Frame In<line>
+[w 40]<line>
+:func 0 0<$09><$09><$09><$09><$09><$09>// Action Flag 00<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:func 0 10<$09><$09><$09><$09><$09><$09>// Action Flag 10<line>
+<wait>[w 20]<line>
+:func 6<$09><$09><$09><$09><$09><$09><$09>// Frame Out<line>
+[w 40]<line>
+:func 5 9 0<$09><$09><$09><$09><$09><$09>// Frame In<line>
+[w 40]<line>
+:func 0 1<$09><$09><$09><$09><$09><$09>// Action Flag 01<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:func 0 10<$09><$09><$09><$09><$09><$09>// Action Flag 10<line>
+<wait>[w 20]<line>
+:func 6<$09><$09><$09><$09><$09><$09><$09>// Frame Out<line>
+[w 40]<line>
+:func 5 10 1<$09><$09><$09><$09><$09>// Frame In<line>
+[w 40]<line>
+:func 0 2<$09><$09><$09><$09><$09><$09>// Action Flag 02<line>
+[w 60]<line>
+[w 60]<line>
+[w 60]<line>
+:func 4<line>
+:func 0 10<$09><$09><$09><$09><$09><$09>// Action Flag 10<line>
+<wait>:func 11 0<$09><$09><$09><$09><$09><$09>// 1, 2 s–Ú<line>
+<line>
+<line>
+:func 11 1<$09><$09><$09><$09><$09><$09>// 3, 4 s–Ú<line>
+<line>
+:func 0 6<$09><$09><$09><$09><$09><$09>// Action Flag 06<line>
+@@‚s‚ˆ‚… ‚d‚Ž‚„I<line>
+:func 11 2<line>
+:func 11 4<$09><$09><$09><$09><$09><$09>// Buffer clear<line>
+<wait>:func 2 2 0<$09><$09><$09><$09><$09><$09>// Fade Out<line>
+:func 0 3<$09><$09><$09><$09><$09><$09>// Action Flag 03<line>
+[x 12]<line>
+[y 28]<line>
+:func 10 0<$09><$09><$09><$09><$09><$09>// Text ˆêŠ‡•`‰æŠJŽn<line>
+‚s‚ˆ‚‰‚“ ‚“‚”‚‚’‚™ ‚ˆ‚‚“ ‚’‚…‚‚ƒ‚ˆ‚…‚„ ‚‰‚”f‚“ ‚ƒ‚‚Ž‚ƒ‚Œ‚•‚“‚‰‚‚ŽII<line>
+‚g‚‚–‚… ‚™‚‚• ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚…‚„ ‚‚Œ‚Œ ‚”‚ˆ‚… ‚r‚”‚•‚†‚†C ‚r‚ˆ‚…‚…‚” ‚l‚•‚“‚‰‚ƒC<line>
+‚o‚ˆ‚‚”‚‚“C ‚‚Ž‚„ ‚o‚‰‚ƒ‚”‚•‚’‚… ‚a‚‚‚‹ ‚…‚Ž‚”‚’‚‰‚…‚“H<line>
+‚s‚ˆ‚… ‚†‚•‚ŽC ‚ƒ‚ˆ‚…‚…‚’‚†‚•‚ŒC ‚‚Ž‚„ ‚“‚Œ‚‰‚‡‚ˆ‚”‚Œ‚™ ‚“‚‚„<line>
+‚“‚”‚‚’‚™ ‚‚† ‚r‚”‚‚’‚†‚™ ‚‚Ž‚„ ‚ˆ‚‰‚“ ‚†‚’‚‰‚…‚Ž‚„‚“ ‚‰‚“‚Žf‚”<line>
+‚‚–‚…‚’ ‚™‚…‚”I<line>
+‚r‚”‚‚™ ‚”‚•‚Ž‚…‚„ ‚†‚‚’ ‚”‚ˆ‚… ‚Ž‚…‚˜‚”<line>
+‚‰‚Ž‚“‚”‚‚Œ‚Œ‚‚…‚Ž‚” ‚‚† ‚”‚ˆ‚… ‚“‚…‚’‚‰‚…‚“I<line>
+:func 10 1<$09><$09><$09><$09><$09><$09>// Text ˆêŠ‡•`‰æI—¹<line>
+:func 0 7<$09><$09><$09><$09><$09><$09>// Fade ’† Palette Animation<line>
+:func 3 2 0<$09><$09><$09><$09><$09><$09>// Fade In<line>
+:func 0 4<$09><$09><$09><$09><$09><$09>// Action Flag 04<line>
+[w 60]<line>
+<wait>:func 0 8<$09><$09><$09><$09><$09><$09>// Fade ’† Palette Animation<line>
+:func 2 2 0<$09><$09><$09><$09><$09><$09>// Fade Out<line>
+:func 0 5<$09><$09><$09><$09><$09><$09>// Action Flag 05<line>
+:exit<$09><$09><$09><$09><$09><$09><$09>// Text I—¹<line>
+<end>
+

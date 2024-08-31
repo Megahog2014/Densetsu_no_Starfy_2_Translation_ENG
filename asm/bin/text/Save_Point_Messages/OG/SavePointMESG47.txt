@@ -1,0 +1,13 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $AF
+
+//:func 22 -1<line>
+ながれの　はげしいたきが<line>
+たくさん　あるよ<line>
+より　きょうりょくにならないと<line>
+わたれないかも・・・<line>
+:end<line>
+<end>
+

@@ -1,0 +1,101 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $4EF
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+:sd<line>
+:func 12 5 101<line>
+:func 13<line>
+:func 11 2<line>
+:obj 1 6<line>
+:obj 1 10 3 3<line>
+:se<line>
+:if 1408 go 1<line>
+:obj 1 2 1<line>
+:func 18 1 76<line>
+:flagon 1408<line>
+:func 7 255 0 0<line>
+:func 8 0 19<line>
+:obj 1 8<line>
+:obj 1 7 170 120 60<line>
+:func 9<line>
+:obj 1 7 170 136 60<line>
+:func 9<line>
+[w 30]<line>
+:obj 1 7 170 8 60<line>
+<linealt>:func 9<line>
+:obj 1 7 170 248 60<line>
+:func 9<line>
+:obj 1 7 90 192 100<line>
+:func 9<line>
+:obj 1 7 160 128 100<line>
+:func 9<line>
+:obj 1 7 160 64 60<line>
+:func 9<line>
+:obj 1 7 160 192 60<line>
+:func 9<line>
+:obj 1 9<line>
+:obj 1 7 90 0 100<line>
+:func 9<line>
+:obj 1 7 80 64 60<line>
+:func 9<line>
+:obj 1 7 122 64 40<line>
+:func 9<line>
+:obj 1 10 3 1<line>
+:func 8 0 99<line>
+:func 7<line>
+:func 18 7<line>
+<rname><diamond>Ｐｕｃｈｉ Ｏｇｕｒａ ＃１<line>
+Ｓｏ！ Ｔｈａｔ ｌｏｓｅｒ ｃｌａｍ’ｓ<line>
+ｐａｒｔｎｅｒ’ｓ ｆｉｎａｌｌｙ ｈｅｒｅ！<line>
+:c<line>
+<redname><diamond>Ｋｏｎｋ<line>
+Ｉ ｗｏｎ’ｔ ｌｏｓｅ ｔｏ ｙｏｕ ｌｉｋｅ ｂｅｆｏｒｅ， Ｋｏｎｋ！<line>
+Ｐｒｅｐａｒｅ ｙｏｕｒｓｅｌｆ Ｋｏｎｋ！<line>
+:c<line>
+<redname><diamond>Ｐｕｃｈｉ Ｏｇｕｒａ ＃１<line>
+Ｙｅａｈ， ｙｏｕ ｔｅｌｌ ｈｉｍ， Ｋｏｎｋ！<line>
+Ｎｏｗ ｃｏｍｅ ｏｎ， ｌｅｔ’ｓ ｄｏ ｔｈｉｓ！<line>
+:obj 1 10 3 2<line>
+[w 40]<line>
+:c<line>
+<wait>:sd<line>
+:func 18 7<line>
+:func 4<line>
+:func 2 2<line>
+:func 8 0 0<line>
+:func 8 0 99<line>
+:exit<line>
+<wait>:1<line>
+:obj 1 11 3 60 -8<line>
+:obj 1 2 1<line>
+:obj 1 7 80 128 20<line>
+[w 100]<line>
+:obj 1 10 3 1<line>
+<rname><diamond>Ｋｏｎｋ<line>
+Ｋｏｎｋ　Ｋｏｎｋ　Ｋｏｎｋ！<line>
+Ｎｏ　ｍａｔｔｅｒ　ｈｏｗ　ｍａｎｙ　ｔｉｍｅｓ　ｙｏｕ　ｃｏｍｅ　ｂａｃｋ，<line>
+ｎｏｔｈｉｎｇ’ｌｌ　ｃｈａｎｇｅ　Ｋｏｎｇ！<line>
+:c<line>
+<redname><diamond>Ｐｕｃｈｉ Ｏｇｕｒａ ＃１<line>
+Ａｈａｈａｈａ！　Ｙｅａｈ，<line>
+ｗｅ’ｌｌ　ｋｅｅｐ　ｋｎｏｃｋｉｎｇ　ｙｏｕ　ｆｌａｔ！<line>
+Ｌｅｔ’ｓ　ｇｏ，　Ｋｏｎｋ！<line>
+:obj 1 10 3 2<line>
+[w 40]<line>
+:c<line>
+<wait>:sd<line>
+:func 4<line>
+:func 2 2<line>
+:exit<line>
+<end>
+

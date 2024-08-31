@@ -1,0 +1,13 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $AF
+
+//:func 22 -1<line>
+ウォーツァルトを<line>
+さらうなんて・・・<line>
+プチオーグラ６ごうの<line>
+らんぼうは　ゆるせないよ！<line>
+:end<line>
+<end>
+

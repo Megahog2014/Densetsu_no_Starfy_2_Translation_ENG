@@ -1,0 +1,64 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 2
+//Block Range: $0 - $3D2
+
+//[y auto]<line>
+[x auto]<line>
+[w 80]<line>
+<s 5>オーグラは とじこめられた<line>
+ツボの中で・・・<line>
+[w 200]<line>
+<wait>ながいあいだ だっしゅつの<line>
+ほうほうを かんがえて<line>
+いました・・<line>
+[w 200]<line>
+ <progressalt><line>
+<wait>[y 14]<line>
+[x 2]<line>
+<rname><diamond>オーグラ<line>
+「ウヌヌ・・ココカラ・・ダセー！」<line>
+[w 200]<line>
+<progress><rname><diamond>オーグラ<line>
+「クソー！ アノ イマイマシイ<line>
+  スタフィーオヤコメー！」<line>
+[w 200]<line>
+<progress><rname><diamond>オーグラ<line>
+「イッタイ ドウシタモノカ・・・<line>
+  ・・・ブツブツ・・・」<line>
+[w 200]<line>
+<redname><diamond>オーグラ<line>
+「ウーム・・・<line>
+  ・・ン？！・・オヤコ？」<line>
+[w 200]<line>
+<progress><rname><diamond>オーグラ<line>
+「ソウダ コノテガ アッタカ・・・<line>
+  グハハハハ！」<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>オーグラ<line>
+「ホジ・・ホジ・・ホジ・・」<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>オーグラ<line>
+「ヨーシ！ デハ オマエタチヲ<line>
+ 『プチオーグラ』ト ナヅケヨウ」<line>
+[w 200]<line>
+<redname><diamond>オーグラ<line>
+「チイサイ オマエタチナラ<line>
+  ツボカラ デルノモ ヨウイナハズ」<line>
+[w 200]<line>
+<redname><diamond>オーグラ<line>
+「イケー！ ワガ コドモタチヨ！」<line>
+[w 200]<line>
+<redname><diamond>オーグラ<line>
+「アラシヲ オコシ ワシヲ<line>
+  ココカラ ダスノダーー！」<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>プチオーグラたち<line>
+「ラジャーーー！」<line>
+[w 200]<line>
+ <progressalt><line>
+<end>
+

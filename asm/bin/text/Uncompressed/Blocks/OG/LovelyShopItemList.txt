@@ -1,0 +1,503 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Lovely's Shop Choices (Pointer)
+
+//POINTER #0 @ $2D3C4C - STRING #0 @ $2D3620
+
+#W32($2D3C4C)
+//キョロスケ　　　<end>
+
+
+//POINTER #1 @ $2D3C58 - STRING #1 @ $2D3634
+
+#W32($2D3C58)
+//ロブじいさん　　<end>
+
+
+//POINTER #2 @ $2D3C64 - STRING #2 @ $2D3648
+
+#W32($2D3C64)
+//マーメイド　　　<end>
+
+
+//POINTER #3 @ $2D3C70 - STRING #3 @ $2D365C
+
+#W32($2D3C70)
+//ヤドカリタ　　　<end>
+
+
+//POINTER #4 @ $2D3C7C - STRING #4 @ $2D3670
+
+#W32($2D3C7C)
+//ラブリー　　　　<end>
+
+
+//POINTER #5 @ $2D3C88 - STRING #5 @ $2D3684
+
+#W32($2D3C88)
+//ハデヒラリ　　　<end>
+
+
+//POINTER #6 @ $2D3C94 - STRING #6 @ $2D3698
+
+#W32($2D3C94)
+//メカニじいさん　<end>
+
+
+//POINTER #7 @ $2D3CA0 - STRING #7 @ $2D36AC
+
+#W32($2D3CA0)
+//カメール　　　　<end>
+
+
+//POINTER #8 @ $2D3CAC - STRING #8 @ $2D36C0
+
+#W32($2D3CAC)
+//カメッコたち１　<end>
+
+
+//POINTER #9 @ $2D3CB8 - STRING #9 @ $2D36D4
+
+#W32($2D3CB8)
+//カメッコたち２　<end>
+
+
+//POINTER #10 @ $2D3CC4 - STRING #10 @ $2D36E8
+
+#W32($2D3CC4)
+//ガガンモ　　　　<end>
+
+
+//POINTER #11 @ $2D3CD0 - STRING #11 @ $2D36FC
+
+#W32($2D3CD0)
+//クリオレたち　　<end>
+
+
+//POINTER #12 @ $2D3CDC - STRING #12 @ $2D3710
+
+#W32($2D3CDC)
+//はらまき　　　　<end>
+
+
+//POINTER #13 @ $2D3CE8 - STRING #13 @ $2D3724
+
+#W32($2D3CE8)
+//ヒーローメット　<end>
+
+
+//POINTER #14 @ $2D3CF4 - STRING #14 @ $2D3738
+
+#W32($2D3CF4)
+//ヒーロースーツ　<end>
+
+
+//POINTER #15 @ $2D3D00 - STRING #15 @ $2D374C
+
+#W32($2D3D00)
+//ナイトキャップ　<end>
+
+
+//POINTER #16 @ $2D3D0C - STRING #16 @ $2D3760
+
+#W32($2D3D0C)
+//パジャマ　　　　<end>
+
+
+//POINTER #17 @ $2D3D18 - STRING #17 @ $2D3774
+
+#W32($2D3D18)
+//シルクハット　　<end>
+
+
+//POINTER #18 @ $2D3D24 - STRING #18 @ $2D3788
+
+#W32($2D3D24)
+//ぼんたん　　　　<end>
+
+
+//POINTER #19 @ $2D3D30 - STRING #19 @ $2D379C
+
+#W32($2D3D30)
+//トリート　　　　<end>
+
+
+//POINTER #20 @ $2D3D3C - STRING #20 @ $2D37B0
+
+#W32($2D3D3C)
+//サブァコ　　　　<end>
+
+
+//POINTER #21 @ $2D3D48 - STRING #21 @ $2D37C4
+
+#W32($2D3D48)
+//ヒラオとヒラリン<end>
+
+
+//POINTER #22 @ $2D3D54 - STRING #22 @ $2D37D8
+
+#W32($2D3D54)
+//コンビー　　　　<end>
+
+
+//POINTER #23 @ $2D3D60 - STRING #23 @ $2D37EC
+
+#W32($2D3D60)
+//ウキッズ　　　　<end>
+
+
+//POINTER #24 @ $2D3D6C - STRING #24 @ $2D3800
+
+#W32($2D3D6C)
+//オリスとコリス　<end>
+
+
+//POINTER #25 @ $2D3D78 - STRING #25 @ $2D3814
+
+#W32($2D3D78)
+//ニャンジャ　　　<end>
+
+
+//POINTER #26 @ $2D3D84 - STRING #26 @ $2D3828
+
+#W32($2D3D84)
+//カモーネ　　　　<end>
+
+
+//POINTER #27 @ $2D3D90 - STRING #27 @ $2D383C
+
+#W32($2D3D90)
+//クマじい　　　　<end>
+
+
+//POINTER #28 @ $2D3D9C - STRING #28 @ $2D3850
+
+#W32($2D3D9C)
+//ビバ　　　　　　<end>
+
+
+//POINTER #29 @ $2D3DA8 - STRING #29 @ $2D3864
+
+#W32($2D3DA8)
+//ムーン　　　　　<end>
+
+
+//POINTER #30 @ $2D3DB4 - STRING #30 @ $2D3878
+
+#W32($2D3DB4)
+//おたま　　　　　<end>
+
+
+//POINTER #31 @ $2D3DC0 - STRING #31 @ $2D388C
+
+#W32($2D3DC0)
+//エプロン　　　　<end>
+
+
+//POINTER #32 @ $2D3DCC - STRING #32 @ $2D38A0
+
+#W32($2D3DCC)
+//アフロヅラ　　　<end>
+
+
+//POINTER #33 @ $2D3DD8 - STRING #33 @ $2D38B4
+
+#W32($2D3DD8)
+//デビルのつの　　<end>
+
+
+//POINTER #34 @ $2D3DE4 - STRING #34 @ $2D38C8
+
+#W32($2D3DE4)
+//デビルのふく　　<end>
+
+
+//POINTER #35 @ $2D3DF0 - STRING #35 @ $2D38DC
+
+#W32($2D3DF0)
+//タキシード　　　<end>
+
+
+//POINTER #36 @ $2D3DFC - STRING #36 @ $2D38F0
+
+#W32($2D3DFC)
+//かいけつハット　<end>
+
+
+//POINTER #37 @ $2D3E08 - STRING #37 @ $2D3904
+
+#W32($2D3E08)
+//セクシードレス　<end>
+
+
+//POINTER #38 @ $2D3E14 - STRING #38 @ $2D3918
+
+#W32($2D3E14)
+//ミツガサゴ　　　<end>
+
+
+//POINTER #39 @ $2D3E20 - STRING #39 @ $2D392C
+
+#W32($2D3E20)
+//ウォーツァルト　<end>
+
+
+//POINTER #40 @ $2D3E2C - STRING #40 @ $2D3940
+
+#W32($2D3E2C)
+//チュータ　　　　<end>
+
+
+//POINTER #41 @ $2D3E38 - STRING #41 @ $2D3954
+
+#W32($2D3E38)
+//オオタルイカたち<end>
+
+
+//POINTER #42 @ $2D3E44 - STRING #42 @ $2D3968
+
+#W32($2D3E44)
+//ガイドンナ　　　<end>
+
+
+//POINTER #43 @ $2D3E50 - STRING #43 @ $2D397C
+
+#W32($2D3E50)
+//カンニンオヤコ　<end>
+
+
+//POINTER #44 @ $2D3E5C - STRING #44 @ $2D3990
+
+#W32($2D3E5C)
+//ナマズオヤコ　　<end>
+
+
+//POINTER #45 @ $2D3E68 - STRING #45 @ $2D39A4
+
+#W32($2D3E68)
+//コルンドル　　　<end>
+
+
+//POINTER #46 @ $2D3E74 - STRING #46 @ $2D39B8
+
+#W32($2D3E74)
+//コドルン　　　　<end>
+
+
+//POINTER #47 @ $2D3E80 - STRING #47 @ $2D39CC
+
+#W32($2D3E80)
+//タイブロンド　　<end>
+
+
+//POINTER #48 @ $2D3E8C - STRING #48 @ $2D39E0
+
+#W32($2D3E8C)
+//ホルーン　　　　<end>
+
+
+//POINTER #49 @ $2D3E98 - STRING #49 @ $2D39F4
+
+#W32($2D3E98)
+//テンカイヘイシ　<end>
+
+
+//POINTER #50 @ $2D3EA4 - STRING #50 @ $2D3A08
+
+#W32($2D3EA4)
+//ミイラふく　　　<end>
+
+
+//POINTER #51 @ $2D3EB0 - STRING #51 @ $2D3A1C
+
+#W32($2D3EB0)
+//ももひき　　　　<end>
+
+
+//POINTER #52 @ $2D3EBC - STRING #52 @ $2D3A30
+
+#W32($2D3EBC)
+//かせいじんぼうし<end>
+
+
+//POINTER #53 @ $2D3EC8 - STRING #53 @ $2D3A44
+
+#W32($2D3EC8)
+//かせいじんのふく<end>
+
+
+//POINTER #54 @ $2D3ED4 - STRING #54 @ $2D3A58
+
+#W32($2D3ED4)
+//はくい　　　　　<end>
+
+
+//POINTER #55 @ $2D3EE0 - STRING #55 @ $2D3A6C
+
+#W32($2D3EE0)
+//きんにくマシーン<end>
+
+
+//POINTER #56 @ $2D3EEC - STRING #56 @ $2D3A80
+
+#W32($2D3EEC)
+//はげヅラ　　　　<end>
+
+
+//POINTER #57 @ $2D3EF8 - STRING #57 @ $2D3A94
+
+#W32($2D3EF8)
+//モヒカンヅラ　　<end>
+
+
+//POINTER #58 @ $2D3F04 - STRING #58 @ $2D3AA8
+
+#W32($2D3F04)
+//マユドラゴ　　　<end>
+
+
+//POINTER #59 @ $2D3F10 - STRING #59 @ $2D3ABC
+
+#W32($2D3F10)
+//ヤリイカーズ　　<end>
+
+
+//POINTER #60 @ $2D3F1C - STRING #60 @ $2D3AD0
+
+#W32($2D3F1C)
+//テンカイコドモ　<end>
+
+
+//POINTER #61 @ $2D3F28 - STRING #61 @ $2D3AE4
+
+#W32($2D3F28)
+//ジュエリー　　　<end>
+
+
+//POINTER #62 @ $2D3F34 - STRING #62 @ $2D3AF8
+
+#W32($2D3F34)
+//レッシー　　　　<end>
+
+
+//POINTER #63 @ $2D3F40 - STRING #63 @ $2D3B0C
+
+#W32($2D3F40)
+//フナゾウ　　　　<end>
+
+
+//POINTER #64 @ $2D3F4C - STRING #64 @ $2D3B20
+
+#W32($2D3F4C)
+//ジョージロー　　<end>
+
+
+//POINTER #65 @ $2D3F58 - STRING #65 @ $2D3B34
+
+#W32($2D3F58)
+//ラブラブリン　　<end>
+
+
+//POINTER #66 @ $2D3F64 - STRING #66 @ $2D3B48
+
+#W32($2D3F64)
+//フカフカ　　　　<end>
+
+
+//POINTER #67 @ $2D3F70 - STRING #67 @ $2D3B5C
+
+#W32($2D3F70)
+//オギョンたち　　<end>
+
+
+//POINTER #68 @ $2D3F7C - STRING #68 @ $2D3B70
+
+#W32($2D3F7C)
+//ゲキョじい　　　<end>
+
+
+//POINTER #69 @ $2D3F88 - STRING #69 @ $2D3B84
+
+#W32($2D3F88)
+//ヤコウカガミ　　<end>
+
+
+//POINTER #70 @ $2D3F94 - STRING #70 @ $2D3B98
+
+#W32($2D3F94)
+//チョロスケたち　<end>
+
+
+//POINTER #71 @ $2D3FA0 - STRING #71 @ $2D3BAC
+
+#W32($2D3FA0)
+//うんちぼうし　　<end>
+
+
+//POINTER #72 @ $2D3FAC - STRING #72 @ $2D3BC0
+
+#W32($2D3FAC)
+//チュンぼうし　　<end>
+
+
+//POINTER #73 @ $2D3FB8 - STRING #73 @ $2D3BD4
+
+#W32($2D3FB8)
+//ダンボール　　　<end>
+
+
+//POINTER #74 @ $2D3FC4 - STRING #74 @ $2D3BE8
+
+#W32($2D3FC4)
+//もじゃもじゃ　　<end>
+
+
+//POINTER #75 @ $2D3FD0 - STRING #75 @ $2D3BFC
+
+#W32($2D3FD0)
+//はなメガネ　　　<end>
+
+
+//POINTER #76 @ $2D3FDC - STRING #76 @ $2D3C10
+
+#W32($2D3FDC)
+//かんぺきメイク　<end>
+
+
+//POINTER #77 @ $2D3FE8 - STRING #77 @ $2D3C24
+
+#W32($2D3FE8)
+//ぼーそーふく　　<end>
+
+
+//POINTER #78 @ $2D3FF4 - STRING #78 @ $2D3C38
+
+#W32($2D3FF4)
+//しょうぶパンツ　<end>
+
+
+//BLOCK #001 NAME:		Lovely's Shop Choices (After all items Purchased)(Pointer)
+
+//POINTER #0 @ $2D4080 - STRING #0 @ $2D4000
+
+#W32($2D4080)
+//くちべにとれてる　　　タダ　<end>
+
+
+//POINTER #1 @ $2D4084 - STRING #1 @ $2D4020
+
+#W32($2D4084)
+//かおいろわるい　　　　タダ　<end>
+
+
+//POINTER #2 @ $2D4088 - STRING #2 @ $2D4040
+
+#W32($2D4088)
+//かみがたおかしい　　　タダ　<end>
+
+
+//POINTER #3 @ $2D408C - STRING #3 @ $2D4060
+
+#W32($2D408C)
+//とってもステキ　　　　タダ　<end>
+

@@ -1,0 +1,284 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Lovely's Shop Dialogue (Pointer)
+
+//POINTER #0 @ $2D41AC - STRING #0 @ $2D4090
+
+#W32($2D41AC)
+//せっかく　きてくれたけど<linealt>
+つぎの　しょうひんは　まだまだ<linealt>
+まだまだ　はいらないのん<end>
+
+
+//POINTER #1 @ $2D41B0 - STRING #1 @ $2D40E4
+
+#W32($2D41B0)
+//いやーん　ごめんなさーい<linealt>
+さっき　あたらしい　しょうひんを<linealt>
+ちゅうもんした　ところなのん<end>
+
+
+//POINTER #2 @ $2D41B4 - STRING #2 @ $2D413C
+
+#W32($2D41B4)
+//うふん<c 6><heart><c 0>　もうちょっとよぉん<c 6><heart><c 0><linealt>
+もう　すこーーしだけすれば<linealt>
+しんしょうひんが　はいるわぁん<end>
+
+
+//BLOCK #001 NAME:		Lovely's Shop Dialogue (Pointer)
+
+//POINTER #0 @ $2D42A0 - STRING #0 @ $2D41B8
+
+#W32($2D42A0)
+//もっともっと　しんじゅを<linealt>
+ためてから　もういちど<linealt>
+きてみてねん　まってるわぁん<end>
+
+
+//POINTER #1 @ $2D42A4 - STRING #1 @ $2D4208
+
+#W32($2D42A4)
+//せっかくだから　もっと<linealt>
+しんじゅを　あつめておいたら<linealt>
+どうかしらん？<end>
+
+
+//POINTER #2 @ $2D42A8 - STRING #2 @ $2D424C
+
+#W32($2D42A8)
+//だから　がんばって<linealt>
+もう　ちょーーっとだけ<linealt>
+しんじゅを　あつめてみてねん<c 6><heart><c 0><end>
+
+
+//BLOCK #002 NAME:		Lovely's Shop Dialogue (Pointer)
+
+//POINTER #0 @ $2D43C4 - STRING #0 @ $2D42AC
+
+#W32($2D43C4)
+//あらん　うりきれちゃったわん<linealt>
+それが　おしまいの<linealt>
+しょうひんねぇん<end>
+
+
+//POINTER #1 @ $2D43C8 - STRING #1 @ $2D42F0
+
+#W32($2D43C8)
+//あらぁん　そんな　さみしそうな<linealt>
+カオ　しなくてもいいのよん<c 6><heart><c 0><end>
+
+
+//POINTER #2 @ $2D43CC - STRING #2 @ $2D4338
+
+#W32($2D43CC)
+//もうすこししたら　あたらしい<linealt>
+しなものが　ついかされるから<end>
+
+
+//POINTER #3 @ $2D43D0 - STRING #3 @ $2D4374
+
+#W32($2D43D0)
+//それまでに　がんばって<linealt>
+しんじゅを　あつめてねん<linealt>
+ウフフフフ・・・・<c 6><heart><c 0><end>
+
+
+//BLOCK #003 NAME:		Lovely's Shop Dialogue (Pointer)
+
+//POINTER #0 @ $2D491C - STRING #0 @ $2D43DC
+
+#W32($2D491C)
+//いらっしゃいませえん<c 6><heart><c 0><linealt>
+ゆっくりえらんでいってねん<wait>　で<linealt>
+　　　　　　いいのかしらん？<end>
+
+
+//POINTER #1 @ $13978C - STRING #1 @ $2D3548
+
+#W32($13978C)
+//『<end>
+
+
+//POINTER #2 @ $139798 - STRING #2 @ $2D354C
+
+#W32($139798)
+//』<end>
+
+
+//POINTER #3 @ $2D4928 - STRING #3 @ $2D4418
+
+#W32($2D4928)
+//　で<linealt>
+　　　　　　いいのかしらん？<end>
+
+
+//POINTER #4 @ $2D492C - STRING #4 @ $2D443C
+
+#W32($2D492C)
+//あらん　ざんねんねぇん<linealt>
+しんじゅが　たりないわん<wait>これは　もう　かったでしょ？<linealt>
+おバカさんねぇん<end>
+
+
+//POINTER #5 @ $2D4930 - STRING #5 @ $2D446C
+
+#W32($2D4930)
+//これは　もう　かったでしょ？<linealt>
+おバカさんねぇん<end>
+
+
+//POINTER #6 @ $2D4934 - STRING #6 @ $2D449C
+
+#W32($2D4934)
+//ありがとー<c 6><heart><heart><heart><c 0><linealt>
+ちゅーしたげる　ちゅー<end>
+
+
+//POINTER #7 @ $2D4938 - STRING #7 @ $2D44D0
+
+#W32($2D4938)
+//なによ！　ひやかしは<linealt>
+やめて　ちょうだいよ！！<end>
+
+
+//POINTER #8 @ $2D493C - STRING #8 @ $2D4500
+
+#W32($2D493C)
+//あらん？　もう<linealt>
+行っちゃうのん？<wait>いやあああん<linealt>
+かえっちゃうのん？<wait>いやぁん　さみしいわん<linealt>
+またきてねぇん<end>
+
+
+//POINTER #9 @ $2D4940 - STRING #9 @ $2D4520
+
+#W32($2D4940)
+//いやあああん<linealt>
+かえっちゃうのん？<wait>いやぁん　さみしいわん<linealt>
+またきてねぇん<end>
+
+
+//POINTER #10 @ $2D4944 - STRING #10 @ $2D4540
+
+#W32($2D4944)
+//いやぁん　さみしいわん<linealt>
+またきてねぇん<end>
+
+
+//POINTER #11 @ $2D4948 - STRING #11 @ $2D4568
+
+#W32($2D4948)
+//ぜったい　またきてねん<linealt>
+いつでも　まってるわぁん<wait>やっぱり　まだ<linealt>
+アタシといっしょにいたいのねん<c 6><heart><c 0><end>
+
+
+//POINTER #12 @ $2D494C - STRING #12 @ $2D4598
+
+#W32($2D494C)
+//やっぱり　まだ<linealt>
+アタシといっしょにいたいのねん<c 6><heart><c 0><end>
+
+
+//POINTER #13 @ $2D4950 - STRING #13 @ $2D45D4
+
+#W32($2D4950)
+//ウフフフ　ゆーーーーっくり<linealt>
+していってねぇん<c 6><heart><c 0><wait>あら　すごぉい<c 6><heart><c 0><linealt>
+これが　さいごのしょうひんよん<linealt>
+ぜんぶかっちゃったのねぇん<end>
+
+
+//POINTER #14 @ $2D4954 - STRING #14 @ $2D460C
+
+#W32($2D4954)
+//あら　すごぉい<c 6><heart><c 0><linealt>
+これが　さいごのしょうひんよん<linealt>
+ぜんぶかっちゃったのねぇん<end>
+
+
+//POINTER #15 @ $2D4958 - STRING #15 @ $2D4664
+
+#W32($2D4958)
+//いっぱい　かってくれたから<linealt>
+おまけに　これ<linealt>
+ア<c 6><heart><c 0>ゲ<c 6><heart><c 0>ルぅん<c 6><heart><heart><heart><heart><c 0><end>
+
+
+//POINTER #16 @ $2D495C - STRING #16 @ $2D46C4
+
+#W32($2D495C)
+//いやん　もう<linealt>
+うるものが　ないわぁん<linealt>
+ソールドアウトってやつぅん？<end>
+
+
+//POINTER #17 @ $2D4960 - STRING #17 @ $2D4708
+
+#W32($2D4960)
+//あらん　がっかりしたカオしないで<linealt>
+いつでも　あそびにきて<linealt>
+ちょうだいねぇん？<end>
+
+
+//POINTER #18 @ $2D4964 - STRING #18 @ $2D4754
+
+#W32($2D4964)
+//ちょーっとだけ　イイコトが<linealt>
+あるかもしれないわよん<linealt>
+ウフフフフ・・・・<c 6><heart><c 0><end>
+
+
+//POINTER #19 @ $2D4968 - STRING #19 @ $2D47A8
+
+#W32($2D4968)
+//あらぁん　あそびにきて<linealt>
+くれたのねぇん？　うれしいわん<end>
+
+
+//POINTER #20 @ $2D496C - STRING #20 @ $2D47E0
+
+#W32($2D496C)
+//<linealt>
+いやーん<end>
+
+
+//POINTER #21 @ $2D4970 - STRING #21 @ $2D47EC
+
+#W32($2D4970)
+//いやあねぇん　アタシったら<linealt>
+チャームポイントなのにん<wait>うふん　こいわずらいで<linealt>
+やつれちゃったのよぉん<end>
+
+
+//POINTER #22 @ $2D4974 - STRING #22 @ $2D4820
+
+#W32($2D4974)
+//うふん　こいわずらいで<linealt>
+やつれちゃったのよぉん<end>
+
+
+//POINTER #23 @ $2D4978 - STRING #23 @ $2D4850
+
+#W32($2D4978)
+//あーん　アタシってば<linealt>
+ブロンドにあうわぁ<wait>ウフフフフ<c 6><heart><c 0>　もう<c 6><heart><c 0>　いやん<c 6><heart><heart><c 0><linealt>
+ウフフフフフフフフフ<c 6><heart><heart><heart><heart><heart><c 0><wait>うっさいわね！　なんかいも<linealt>
+同じこと　いうんじゃないわよ！<end>
+
+
+//POINTER #24 @ $2D497C - STRING #24 @ $2D4878
+
+#W32($2D497C)
+//ウフフフフ<c 6><heart><c 0>　もう<c 6><heart><c 0>　いやん<c 6><heart><heart><c 0><linealt>
+ウフフフフフフフフフ<c 6><heart><heart><heart><heart><heart><c 0><wait>うっさいわね！　なんかいも<linealt>
+同じこと　いうんじゃないわよ！<end>
+
+
+//POINTER #25 @ $2D4980 - STRING #25 @ $2D48E0
+
+#W32($2D4980)
+//うっさいわね！　なんかいも<linealt>
+同じこと　いうんじゃないわよ！<end>
+

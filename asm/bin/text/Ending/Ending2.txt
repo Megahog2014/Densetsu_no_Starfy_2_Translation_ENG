@@ -1,0 +1,110 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $5E6
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+[x 49]<line>
+Ｓｔａｒｆｙ ａｎｄ Ｍｏｅ ｗｅｒｅ ｏｎｃｅ ａｇａｉｎ<line>
+[x 54]<line>
+ａｂｌｅ ｔｏ ｓｅａｌ Ｏｇｕｒａ ｉｎ ｔｈｅ ｊａｒ．．．<line>
+:func 4<line>
+:c<line>
+[x 30]<line>
+<wait>Ｂｕｔ ｗｉｔｈ ｔｈｅ ｎｕｍｂｅｒ ｏｆ ｔｒｅａｓｕｒｅｓ<line>
+[x 30]<line>
+ｔｈｅｙ’ｖｅ ｆｏｕｎｄ， ｉｓ ｔｈｅ ｓｔｏｒｙ ｔｒｕｌｙ ｏｖｅｒ？<line>
+[x 30]<line>
+Ｃｏｍｅ ｏｎ， ｌｅｔ’ｓ ｈｕｒｒｙ ｂａｃｋ ｔｏ Ｐｕｆｆｔｏｐ．．．<line>
+:func 4<line>
+:c<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+:func 5 0 18<line>
+:func 2 8<line>
+<wait>:func 3 0<line>
+<wait>[x 0]<line>
+<rname><diamond>Ｐａｐａ Ｓｔａｒ<line>
+Ｏｈ！ Ｓｔａｒｆｙ！<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
+Ｓｏ，<line>
+Ｈａｖｅ ｙｏｕ ｆｏｕｎｄ ａｌｌ ｏｆ ｔｈｅ ｔｒｅａｓｕｒｅｓ？<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
+Ｌｅｔ’ｓ ｓｅｅ．．． Ｈｍ．．．<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
+Ｉｔ ｌｏｏｋｓ ｌｉｋｅ ｙｏｕ ｈａｖｅｎ’ｔ<line>
+ｃｏｌｌｅｃｔｅｄ ｅｖｅｒｙ ｔｒｅａｓｕｒｅ ｙｅｔ．．．<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｗｈａｔ！？ Ｔｈｅｒｅ ａｒｅ ｓｔｉｌｌ ｓｏｍｅ ｌｅｆｔ！？<line>
+:func 2 40<line>
+Ｔｈｅｎ ｗｅ ｇｏｔｔａ ｇｏ ｇｅｔ’ｅｍ！ Ｌｅｔ’ｓ ｇｏ！！！<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｗｈａｔ’ｓ ｔｈａｔ？<line>
+”Ｉ’ｍ ｒｅａｌｌｙ ｔｉｒｅｄ！”．．．！？<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｄｏｎ’ｔ ｂｅ ｓｔｕｐｉｄ！ Ｎｏｗ ｃｏｍｅ ｏｎｅ！！！<line>
+:func 2 48<line>
+．．．Ｗｈ－ＯＷ！！！<line>
+:func 3 0<line>
+<wait>:func 2 64<line>
+:func 3 0<line>
+:c<line>
+<redname><diamond>Ｏｇｕｒａ<line>
+Ｇｗａｈａｈａｈａｈａ！ Ｙｏｕ ｆｏｏｌｓ！<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｏｇｕｒａ<line>
+Ｉ ｈｅａｒｄ ｓｏｍｅｔｈｉｎｇ ｇｒｅａｔ！ Ｉ’ｌｌ ｃｏｌｌｅｃｔ<line>
+ｅｖｅｒｙ ｓｉｎｇｌｅ ｏｎｅ ｏｆ ｔｈｏｓｅ ｔｒｅａｓｕｒｅｓ！<line>
+:func 2 68<line>
+:func 3 0<line>
+:c<line>
+<redname><diamond>Ｐｕｃｈｉ Ｏｇｕｒａ<line>
+:func 2 72<line>
+Ａｈａｈａｈａ！ Ｄｕｍｍｉｅｓ！ Ｉｄｉｏｔｓ！<line>
+Ｗｅ’ｒｅ ｔａｋｉｎｇ ｔｈｅ ｔｒｅａｓｕｒｅ～！<line>
+:func 4<line>
+:c<line>
+<wait>[w 30]<line>
+:func 2 80<line>
+:func 3 0<line>
+<rname><diamond>Ｍｏｅ<line>
+．．．Ｙｏｕ．．． Ｙｏｕ Ｂｌｏｃｋｈｅａｄ！<line>
+Ｌｏｏｋ ａｔ ｗｈａｔ ｙｏｕ ｄｉｄ！<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｃ’ｍｏｎ！ Ｗｅ ｇｏｔｔａ ｇｏ ＮＯＷ！<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｍｏｅ<line>
+:func 2 88<line>
+Ｗｅ ｈａｖｅ ｔｏ ｆｉｎｄ ｔｈｏｓｅ ｔｒｅａｓｕｒｅｓ<line>
+ｂｅｆｏｒｅ ｔｈｏｓｅ ｇｕｙｓ ｄｏ！ Ｌｅｔ’ｓ ＧＯ！！！<line>
+:func 3 0<line>
+:func 4<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+:exit<line>
+<end>
+

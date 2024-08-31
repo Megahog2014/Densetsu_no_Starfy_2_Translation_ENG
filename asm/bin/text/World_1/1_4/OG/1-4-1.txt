@@ -1,0 +1,100 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $634
+
+//:sd<line>
+:flagon 1400<line>
+:obj 2 6<line>
+:func 6 1 1<line>
+:obj 2 10 3 1<line>
+:obj 1 5 1<line>
+:func 8 0 19<line>
+:func 7 255 0 0<line>
+:func 18 1 76<line>
+:se<line>
+:func 22 -1<line>
+<rname><diamond>キョロスケ<line>
+「お・・おわわわ・・<line>
+　なんだ？　なんだ？」<line>
+:c<line>
+<wait>:func 4<line>
+:obj 2 8<line>
+:obj 2 7 256 128 40<line>
+:func 9<line>
+:obj 2 7 220 0 40<line>
+:func 9<line>
+:obj 2 7 220 128 40<line>
+:func 9<line>
+:obj 2 7 180 40 40<line>
+:func 9<line>
+<rname><diamond>ボンボーン<line>
+「ボボボボーン！　今日も<line>
+　いいてんきだボーン！」<line>
+:c<line>
+<wait>:obj 1 5 0<line>
+:func 8 0 99<line>
+<rname><diamond>キョロスケ<line>
+「あーー！！　オメェは<line>
+　あのときのーー！」<line>
+:c<line>
+<redname><diamond>ボンボーン<line>
+「おおう！　このまえの<line>
+　かっこわるい　ハマグリ<line>
+　みっけボーン！」<line>
+<redname><diamond>ボンボーン<line>
+「ハデヒラリに　ふられた<line>
+　イケてない　ハマグリだ<line>
+　ボボボボーン！」<line>
+:c<line>
+<wait>:obj 1 5 4<line>
+<rname><diamond>プチオーグラ１ごう<line>
+「あはは！　ふられた！<line>
+　ふられたー！　あはははーー！」<line>
+<redname><diamond>プチオーグラ１ごう<line>
+「やーい！　やーい！　モテない<line>
+　ハマグリー！　くやしかったら<line>
+　ここまできてみろーだ！！」<line>
+:c<line>
+<wait>:func 4<line>
+:obj 2 7 100 0 40<line>
+:func 9<line>
+:func 18 7<line>
+:func 7<line>
+:obj 1 5<line>
+:obj 1 5 2<line>
+<rname><diamond>キョロスケ<line>
+「まっ・・まてコラーーー！<line>
+　クソー！　あの　うずまきヤロー<line>
+　だきゃ　ぜってーゆるさねー！」<line>
+<redname><diamond>キョロスケ<line>
+「っていうか　まだ　ふられてねーぞ！<line>
+　『今は　友だちでいましょうね』って<line>
+　いわれただけだ！・・チクショー！」<line>
+<wait>:obj 1 9 2<line>
+<rname><diamond>キョロスケ<line>
+「オラ！　スタフィー！　オメェも<line>
+　ボケーっと　つったってねえで<line>
+　さっさと　ついてこい！」<line>
+<redname><diamond>キョロスケ<line>
+「アイツら　とっつかまえて<line>
+　コテンパンにしてやる！」<line>
+:c<line>
+<wait>:func 4<line>
+:obj 1 9 2 1<line>
+:obj 1 7 200 240 50<line>
+[w 60]<line>
+:sd<line>
+:func 2 2<line>
+:func 18 7<line>
+:obj 2 2<line>
+:obj 1 5<line>
+:obj 1 2<line>
+:func 10<line>
+:func 7<line>
+:func 8 0 99<line>
+:func 11 0<line>
+:func 3 2<line>
+:exit<line>
+<end>
+

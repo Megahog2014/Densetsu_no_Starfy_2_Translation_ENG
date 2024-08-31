@@ -1,0 +1,106 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $798
+
+//:if 1310 go 1<line>
+:sd<line>
+:func 1 1<line>
+:func 6 1 1<line>
+:obj 2 4<line>
+:se<line>
+:func 22 -2<line>
+<rname><diamond>ラブリー<line>
+「あらーん！　いらっしゃーい！<line>
+　おひさしぶりじゃなーい！<line>
+　あなたたち・・」<line>
+:c<line>
+<wait>:obj 1 4<line>
+<rname><diamond>キョロスケ<line>
+「うわ！　出たっ！<line>
+　やっぱり　あの　はなしかたは<line>
+　オメェだセったのか・・・」<line>
+<redname><diamond>キョロスケ<line>
+「オメェは　たしか　『氷の海』に<line>
+　すんでいたんじゃねえのか？」<line>
+:c<line>
+<wait>:obj 2 4<line>
+<rname><diamond>ラブリー<line>
+「いやーん！　キョロちゃん<line>
+　おぼえてくれてたのねん・・ウフ<line>
+　おねえさん　ちゅーしたげる！」<line>
+:c<line>
+<wait>:obj 1 4<line>
+<rname><diamond>キョロスケ<line>
+「uうわー！　ちゅーはいらん！<line>
+　ちゅーは！<line>
+　で？　ここで　なにやってんだ？」<line>
+:c<line>
+<wait>:obj 2 4<line>
+<rname><diamond>ラブリー<line>
+「さいきん　ここに　ひっこしてきて<line>
+　<c d>『おみせ』<c 0>はじめたのよおん」<line>
+<redname><diamond>ラブリー<line>
+「かわい子ちゃんの　<c d>『しゃしん』<c 0>も<line>
+　いっぱいあ<$A0>るから　<c d>『しんじゅ』<c 0>を<line>
+　もっていたら　かっていってねえん」<line>
+<redname><diamond>ラブリー<line>
+「いっぱい　かってくれたら<line>
+　おねえさん　ちゅーしたげる<line>
+　からねん・・ウフ」<line>
+:c<line>
+<wait>:obj 1 4<line>
+<rname><diamond>キョロスケ<line>
+「うーん　ちゅーはいらんが<line>
+　かわい子ちゃんの　しゃしんは<line>
+<linealt>　気になる・・」<line>
+:c<line>
+<wait>:obj 2 4<line>
+<rname><diamond>ラブリー<line>
+「<c d>『おみせ』には『マップがめん』から<c 0><line>
+　<c d>入れる<c 0>からねん」<line>
+<redname><diamond>ラブリー<line>
+「あ！　そうそう！<line>
+　さいかいの　きねんに<line>
+　うしろのトビラは　あけておくわん」<line>
+:flagon 1310<line>
+:func 18 1 74<line>
+<redname><diamond>ラブリー<line>
+「いいもの　みつかると<line>
+　いいわねん<line>
+　じゃ　まってるわよん」<line>
+:c<line>
+<wait>:obj 1 9 2<line>
+:obj 1 4<line>
+<rname><diamond>キョロスケ<line>
+「・・ってことだ　スタフィー！」<line>
+<redname><diamond>キョロスケ<line>
+「しんじゅが　あつまったら<line>
+　おみせで　しゃしんや<line>
+　いろんなものが　かえるぞ」<line>
+<redname><diamond>キョロスケ<line>
+「なるべく　かわい子ちゃんの<line>
+　しゃしんを　いっぱい<line>
+　かっとけよ！　んじゃあな！」<line>
+:c<line>
+<wait>:sd<line>
+:func 4<line>
+:func 2 2<line>
+:obj 1 2 0<line>
+:func 1 0<line>
+:func 3 2<line>
+:exit<line>
+<wait>:1<line>
+:func 22 -1<line>
+<rname><diamond>ラブリー<line>
+「<c d>『しんじゅ』<c 0>をあつめて<line>
+　いろんなものを　いっぱい<line>
+　かっていってねん」<line>
+<redname><diamond>ラブリー<line>
+「<c d>『おみせ』には『マップがめん』から<c 0><line>
+　<c d>入れる<c 0>から　よろしくねん<line>
+　・・ウフ」<line>
+:c<line>
+:end<line>
+<end>
+

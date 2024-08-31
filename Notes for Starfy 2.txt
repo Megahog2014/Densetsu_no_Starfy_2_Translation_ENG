@@ -1,0 +1,162 @@
+Notes about Starfy 2
+To those who are reading this, take in mind (20) represents space in ascii value in hex
+Text format is Shift JIS
+Most text that are found are compressed via LZSS
+MUST RECOMPRESS TO USE SCENES
+
+Lovely's shop dialogue and Pause menu Hints surprisingly doesn't use compression
+
+:end and :exit Possibly stops the text?
+
+00 00 = Termination code = <endscene>
+
+:sd starts the scene itself sometimes and :se starts sending text
+Must copy :if statements as well!
+
+<c(20)＃> = This changes the color of the text that is entered after it! The Pound key represents the value the can be insterted to change the color.
+To choose the color, you would pick out an available color from the pallete slots. There are 16 in total but you must remember the game sees them as hex data. After selecting the slot you would like to use, take the slot number in Hex (I'll choose 5 in this example) and subtract it by 1. The resulting answer is the
+value you use to select that slots color. <c(20)5>
+											   (35)
+:c = scrolls and clears
+Often used to switch to another character's name.
+
+00 07 = <redname> Can be turned off bad turning 07 to 20   ALSO, IT'S ONLY AVAILABLE TO NON ASCII VALUED CHARACTERS FOR IN GAME CONVERSATIONS!
+
+0D 0A = <line> Next line
+
+:0bj #(20)#(20)# = activates animation in scene for prompted character! (Take notes on which animation number plays for which character, It is very crucial!)
+
+:if #### go ## = If a calculated value matches what is described in file,
+
+the game will jump to a block of data with the designated label!
+
+For example, if a value matches with the :if statement like :if 1101, they would go to a designated jump, like :10 for example.
+
+Usually at the designated Jump value, there is a plot of text data for an another area right next to it!
+
+:func depending on func number it uses, it activates both a music change and properly activates the text! Better not to change it!
+
+:flagon to be determined!
+
+<s(20)#> = text speed (1 is the fastest and 9 is the slowest (so far)) Only seen in the Intro and in level conversations!
+
+Intro (and possibly Ending) commands
+
+[y(20)auto] = controls the vertical position of the text line
+[x(20)auto] = controls the horizontal position of the text line
+[w(20)#] = controls how long to wait after a line of text shows up (Basically LINE-> time set from w ->LINE)
+00 08 = a progression flag for some cutscenes (Sometimes just 08 as well)
+
+There are three fonts that are used in Starfy 2 that are all 2bpp
+
+Conversation Font 083878C0 or 0838788C Font is 16x13 Characters are pushed to the left 3 pixels in game
+The game renders the text as 13x13
+
+Intro Font 083E5EF0 or 083E5F24 Font is 16x13 Characters are pushed to the left by 3 pixels in game
+The game renders the text as 13x13
+
+Unused Ascii font 083FF322 or 083FF30A Font is 8x12 Characters are pushed to the left by 2 pixels in game
+The game renders the text as 6*12
+
+Minifont 0868B994 or 0868B9A4 Font is 8x8
+
+Title Screen logo has 104 tiles!
+
+
+
+Example of conversation 1　by Normmatt
+:if 9400 go 1
+:func 22 -1
+:sd
+:func 6 1 0
+:flagon 9400
+:se
+�◆キョロスケ
+「おい　オメェ　このへんは
+　おまるボートと
+　ギンジだらけだ」
+ �◆キョロスケ
+「まよわねえように　
+　ちゅういしろよ！」
+:end
+
+Example of Conversation 2
+:sd
+:func 3 2 1
+:se
+(00)(07)◆ロブじいさん
+:obj 0 4
+「おお！　やは
+りここにきたな！
+　おまえたち・・　すべては
+　テンカイ王より　きいておるぞ」
+:c
+(00)(07)◆キョロスケ
+:obj 1 4
+「お！　さすがじゃねえか！
+　じゃあ　さっそく　くわしい
+　じょうほうを　おしえてくれよ」
+:c
+(00)(07)◆ロブじいさん
+:obj 0 4
+「まあまあ　あわてるでない！
+　今のスタフィーでは　じゅんびが
+　ふじゅうぶんじゃ」
+(00)(07)◆ロブじいさん
+「今のままでは　ワルモノたちに
+　カンタンに　やられてしまうのが
+　オチじゃろうて・・・」
+:c
+(00)(07)◆キョロスケ
+:obj 1 4
+「なにぃー！　おい！スタフィー！」
+(00)(07)◆キョロスケ
+「オメェ　まさか　ぜんかいおぼえ
+た
+　アクション　ぜんぶ
+　わすれたんじゃねえだろな！」
+(00):obj 1 0 5
+(07)◆キョロスケ
+「バッカヤロー！　なに『平和ボケ』
+　してんだオメェ！」
+:c
+(00)(07)◆ロブじいさん
+:obj 0 4
+「まあまあ・・しかたないではないか
+　では　今回も　また　カンバンを
+　たてておいてやったから・・」
+(00)(07)◆ロブじいさん
+「カンバンの　まえにたち　
+　<c d>『上ボタン』<c 1>で　よみながら
+　アクションを　思い出すがよい」
+(00)(07)◆ロブじいさん
+「それから　<c d>しんじゅ★は　５コ<c 1>
+　<c d>あつめると　元気が　ひとつ<c 1>
+　<c d>かいふくする<c 1>のは知っておるな？」
+:c
+(00)(07)◆キョロスケ
+:obj 1 4
+「ケッ！　つきあってらんねーな
+・・ったく！　オレさまは
+　先に行くぞ！　さっさとこいよ！」
+:c
+(00)(07)◆ロブじいさん
+:obj 0 4
+「がんばるんじゃぞ！
+　では　ワシも　先で　
+　まっておるからな」
+.:sd
+:func 2 2 1
+:se
+:exit
+(00)(00)(00)(00)
+
+Do not change any values before the names, it will cause the text not to show up!
+
+Helpful tip for translating Lovely's Shop
+At 02000030 in the memory, it holds how many pearls you currently have.
+the format is 3412 because most games in the time of release are coded in little-endian.
+So let's say you need 50 pearls, well you put in 3200.
+Results are immediate when playing in stage. However, you'd have to exit out Lovely's Shop and re-enter to see the changes.
+
+The shop uses 2 pointers for minifonts.

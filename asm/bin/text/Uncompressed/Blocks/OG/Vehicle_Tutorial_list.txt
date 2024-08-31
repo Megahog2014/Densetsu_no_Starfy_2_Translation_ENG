@@ -1,0 +1,67 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Vehicle Tutorial Signs list (Pointer)
+
+//POINTER #0 @ $2C52C0 - STRING #0 @ $652428
+
+#W32($2C52C0)
+//ききゅう<line>
+:end<line>
+<end>
+
+
+//POINTER #1 @ $2C52C4 - STRING #1 @ $65243C
+
+#W32($2C52C4)
+//ききゅう改<line>
+:end<line>
+<end>
+
+
+//POINTER #2 @ $2C52C8 - STRING #2 @ $652450
+
+#W32($2C52C8)
+//スケボン<line>
+:end<line>
+<end>
+
+
+//POINTER #3 @ $2C52CC - STRING #3 @ $652464
+
+#W32($2C52CC)
+//スケボン改<line>
+:end<line>
+<end>
+
+
+//POINTER #4 @ $2C52D0 - STRING #4 @ $652478
+
+#W32($2C52D0)
+//リューン<line>
+:end<line>
+<end>
+
+
+//POINTER #5 @ $2C52D4 - STRING #5 @ $65248C
+
+#W32($2C52D4)
+//リューン改<line>
+:end<line>
+<end>
+
+
+//POINTER #6 @ $2C52D8 - STRING #6 @ $6524A0
+
+#W32($2C52D8)
+//きぐるみコアラ<line>
+:end<line>
+<end>
+
+
+//POINTER #7 @ $2C52DC - STRING #7 @ $6524B8
+
+#W32($2C52DC)
+//きぐるみヤンキー<line>
+:end<line>
+<end>
+

@@ -1,0 +1,14 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $AF
+
+//:if 8312 go 2<line>
+:func 22 -1<line>
+<c d>『ヤリイカーズ』<c 0>は<line>
+<c d>『４人』<c 0>とも　みつけましたか？<line>
+みつけたら　ヤリイカさんのもとへ<line>
+つれていってあげよう！<line>
+:end<line>
+<wait>:2<line>
+:func 

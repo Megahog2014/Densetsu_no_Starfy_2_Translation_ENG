@@ -1,0 +1,12 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $AF
+
+//:func 22 -1<line>
+カメッコたちに　まほうをかけた<line>
+ワルモノをおいかけて　どんどん<line>
+先に　すすんで行こう！<line>
+:end<line>
+<end>
+

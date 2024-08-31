@@ -1,0 +1,12 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $AF
+
+//:func 22 -1<line>
+<c d>『ヒゲウィルス』<c 0>のきょうふ！<line>
+<c d>『ヒゲワクチン』<c 0>を<line>
+てにいれて！！<line>
+:end<line>
+<end>
+

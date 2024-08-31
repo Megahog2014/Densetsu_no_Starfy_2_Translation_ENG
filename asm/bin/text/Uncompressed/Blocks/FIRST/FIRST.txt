@@ -1,0 +1,19 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:  Uncompressed Data
+//Block Range: $0 - $2F6
+
+#VAR(Story, TABLE)
+#VAR(Minifont, TABLE)
+#VAR(MinifontPhoto, TABLE)
+#ADDTBL("STARFY2MINIENG.TBL", Minifont)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ADDTBL("STARFY2MINIPHOTOENG.TBL", MinifontPhoto)
+
+#ACTIVETBL(Story)
+
+#VAR(GBA, CUSTOMPOINTER)
+#CREATEPTR(GBA, "LINEAR", $-08000000, 32)
+
+#JMP($01000000)
+

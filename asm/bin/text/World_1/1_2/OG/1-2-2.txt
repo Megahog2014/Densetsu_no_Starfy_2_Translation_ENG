@@ -1,0 +1,19 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $E6
+
+//:sd<line>
+:func 6 1<line>
+:se<line>
+:func 22 -1<line>
+<rname><diamond>キョロスケ<line>
+「みどりのヤツは　<c d>４０ぴき<c 0><line>
+　ぜんぶ　たいじできたか？」<line>
+<redname><diamond>キョロスケ<line>
+「今まで　とおってきたみちも<line>
+　ひきかえしたりしてみて<line>
+　すみずみまで　さがせよ！」<line>
+:end<line>
+<end>
+

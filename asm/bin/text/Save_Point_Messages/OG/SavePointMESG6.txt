@@ -1,0 +1,12 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $72
+
+//:func 22 -1<line>
+しかけの　しくみは　わかったかな？<line>
+わからなくなったら　キョロスケが<line>
+ヒントを　くれるよ！<line>
+:end<line>
+<end>
+

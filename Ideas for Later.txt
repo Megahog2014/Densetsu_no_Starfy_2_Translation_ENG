@@ -1,0 +1,7 @@
+Ideas for later.
+
+To deal with the Photoscreen for the Alt Patch
+For the list in photo screen,
+make a duplicate of the Story font,
+and modify the font size, then edit the font.
+After that remember to repoint that minifont to the modified story font. 

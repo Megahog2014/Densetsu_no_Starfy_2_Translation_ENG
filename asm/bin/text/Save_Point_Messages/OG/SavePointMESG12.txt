@@ -1,0 +1,20 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $10A
+
+//:if 3412 go 1<line>
+:func 22 -1<line>
+カメッコたちは<c d>『３びき』<c 0>とも<line>
+つかまえましたか？<line>
+つかまえかたが　わからなかったら<line>
+キョロスケに　ききに行こう<line>
+:end<line>
+<wait>:1<line>
+:func 22 -1<line>
+カメッコたちを　あやつっていた<line>
+ワルモノを　おって　つぎの<line>
+ばしょに　いそごう！<line>
+:end<line>
+<end>
+

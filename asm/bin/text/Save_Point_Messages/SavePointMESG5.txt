@@ -1,0 +1,11 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $5A
+
+:func 22 -1<line>
+<line>
+Ｈｅｌｐ　Ｒｕｂｙ　ｆｉｎｄ　ｈｅｒ　<c d>ｆｕｒｎｉｔｕｒｅ<c 0>．<line>
+:end<line>
+<end>
+

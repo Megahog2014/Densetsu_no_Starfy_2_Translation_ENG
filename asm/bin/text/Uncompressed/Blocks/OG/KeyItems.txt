@@ -1,0 +1,467 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Key Items (Pointer)
+
+//POINTER #0 @ $2C5808 - STRING #0 @ $643134
+
+#W32($2C5808)
+//まるのカギ<line>
+:end<line>
+<end>
+
+
+//POINTER #1 @ $2C582C - STRING #1 @ $643174
+
+#W32($2C582C)
+//さんかくのカギ<line>
+:end<line>
+<end>
+
+
+//POINTER #2 @ $2C5850 - STRING #2 @ $6431B8
+
+#W32($2C5850)
+//しかくのカギ<line>
+:end<line>
+<end>
+
+
+//POINTER #3 @ $2C5874 - STRING #3 @ $6431FC
+
+#W32($2C5874)
+//バラのかびん<line>
+:end<line>
+<end>
+
+
+//POINTER #4 @ $2C5898 - STRING #4 @ $643248
+
+#W32($2C5898)
+//バラのどびん<line>
+:end<line>
+<end>
+
+
+//POINTER #5 @ $2C58BC - STRING #5 @ $643294
+
+#W32($2C58BC)
+//ヒマワリのかびん<line>
+:end<line>
+<end>
+
+
+//POINTER #6 @ $2C58E0 - STRING #6 @ $6432E4
+
+#W32($2C58E0)
+//さんごのテーブル<line>
+:end<line>
+<end>
+
+
+//POINTER #7 @ $2C5904 - STRING #7 @ $643330
+
+#W32($2C5904)
+//ちゃぶだい<line>
+:end<line>
+<end>
+
+
+//POINTER #8 @ $2C5928 - STRING #8 @ $643380
+
+#W32($2C5928)
+//べんきょうづくえ<line>
+:end<line>
+<end>
+
+
+//POINTER #9 @ $2C594C - STRING #9 @ $6433CC
+
+#W32($2C594C)
+//かいがらのいす<line>
+:end<line>
+<end>
+
+
+//POINTER #10 @ $2C5970 - STRING #10 @ $643418
+
+#W32($2C5970)
+//ざぶとん<line>
+:end<line>
+<end>
+
+
+//POINTER #11 @ $2C5994 - STRING #11 @ $643468
+
+#W32($2C5994)
+//やすいいす<line>
+:end<line>
+<end>
+
+
+//POINTER #12 @ $2C59B8 - STRING #12 @ $6434B0
+
+#W32($2C59B8)
+//カメッコレーダー<line>
+:end<line>
+<end>
+
+
+//POINTER #13 @ $2C59DC - STRING #13 @ $643500
+
+#W32($2C59DC)
+//カメッコレーダー２<line>
+:end<line>
+<end>
+
+
+//POINTER #14 @ $2C5A00 - STRING #14 @ $643560
+
+#W32($2C5A00)
+//カメッコいもうと<line>
+:end<line>
+<end>
+
+
+//POINTER #15 @ $2C5A24 - STRING #15 @ $6435B4
+
+#W32($2C5A24)
+//カメッコじなん<line>
+:end<line>
+<end>
+
+
+//POINTER #16 @ $2C5A48 - STRING #16 @ $643608
+
+#W32($2C5A48)
+//カメッコちょうなん<line>
+:end<line>
+<end>
+
+
+//POINTER #17 @ $2C5A6C - STRING #17 @ $643668
+
+#W32($2C5A6C)
+//おてがみ１<line>
+:end<line>
+<end>
+
+
+//POINTER #18 @ $2C5A90 - STRING #18 @ $6436AC
+
+#W32($2C5A90)
+//おてがみ２<line>
+:end<line>
+<end>
+
+
+//POINTER #19 @ $2C5AB4 - STRING #19 @ $6436F4
+
+#W32($2C5AB4)
+//おへんじ１<line>
+:end<line>
+<end>
+
+
+//POINTER #20 @ $2C5AD8 - STRING #20 @ $643738
+
+#W32($2C5AD8)
+//おへんじ２<line>
+:end<line>
+<end>
+
+
+//POINTER #21 @ $2C5AFC - STRING #21 @ $643784
+
+#W32($2C5AFC)
+//ニャンジャのスズ<line>
+:end<line>
+<end>
+
+
+//POINTER #22 @ $2C5B20 - STRING #22 @ $6437C8
+
+#W32($2C5B20)
+//クマじいのハチミツ<line>
+:end<line>
+<end>
+
+
+//POINTER #23 @ $2C5B44 - STRING #23 @ $643814
+
+#W32($2C5B44)
+//ムーン<line>
+:end<line>
+<end>
+
+
+//POINTER #24 @ $2C5B68 - STRING #24 @ $643864
+
+#W32($2C5B68)
+//てつごうしのカギ<line>
+:end<line>
+<end>
+
+
+//POINTER #25 @ $2C5B8C - STRING #25 @ $6438C4
+
+#W32($2C5B8C)
+//どうぞうのはへん<line>
+:end<line>
+<end>
+
+
+//POINTER #26 @ $2C5BB0 - STRING #26 @ $643910
+
+#W32($2C5BB0)
+//どうぞうのはへん<line>
+:end<line>
+<end>
+
+
+//POINTER #27 @ $2C5BD4 - STRING #27 @ $64395C
+
+#W32($2C5BD4)
+//どうぞうのはへん<line>
+:end<line>
+<end>
+
+
+//POINTER #28 @ $2C5BF8 - STRING #28 @ $6439A8
+
+#W32($2C5BF8)
+//どうぞうのはへん<line>
+:end<line>
+<end>
+
+
+//POINTER #29 @ $2C5C1C - STRING #29 @ $6439F4
+
+#W32($2C5C1C)
+//ヤリイカーズ１ごう<line>
+:end<line>
+<end>
+
+
+//POINTER #30 @ $2C5C40 - STRING #30 @ $643A48
+
+#W32($2C5C40)
+//ヤリイカーズ２ごう<line>
+:end<line>
+<end>
+
+
+//POINTER #31 @ $2C5C64 - STRING #31 @ $643A9C
+
+#W32($2C5C64)
+//ヤリイカーズ３ごう<line>
+:end<line>
+<end>
+
+
+//POINTER #32 @ $2C5C88 - STRING #32 @ $643AF4
+
+#W32($2C5C88)
+//ヤリイカーズ４ごう<line>
+:end<line>
+<end>
+
+
+//POINTER #33 @ $2C5CAC - STRING #33 @ $643B4C
+
+#W32($2C5CAC)
+//かみなりぱんつ<line>
+:end<line>
+<end>
+
+
+//POINTER #34 @ $2C5CD0 - STRING #34 @ $643B90
+
+#W32($2C5CD0)
+//たいそうタイツ<line>
+:end<line>
+<end>
+
+
+//POINTER #35 @ $2C5CF4 - STRING #35 @ $643BD4
+
+#W32($2C5CF4)
+//カゼグスリ<line>
+:end<line>
+<end>
+
+
+//POINTER #36 @ $2C5D18 - STRING #36 @ $643C24
+
+#W32($2C5D18)
+//おけしょうセット<line>
+:end<line>
+<end>
+
+
+//POINTER #37 @ $2C5D3C - STRING #37 @ $643C6C
+
+#W32($2C5D3C)
+//ろうやのカギ<line>
+:end<line>
+<end>
+
+
+//POINTER #38 @ $2C5D60 - STRING #38 @ $643CAC
+
+#W32($2C5D60)
+//カギ<line>
+:end<line>
+<end>
+
+
+//POINTER #39 @ $2C5D84 - STRING #39 @ $643CF0
+
+#W32($2C5D84)
+//タル<line>
+:end<line>
+<end>
+
+
+//POINTER #40 @ $2C5DA8 - STRING #40 @ $643D44
+
+#W32($2C5DA8)
+//ヒントメモ１<line>
+:end<line>
+<end>
+
+
+//POINTER #41 @ $2C5DCC - STRING #41 @ $643DA0
+
+#W32($2C5DCC)
+//ヒントメモ２<line>
+:end<line>
+<end>
+
+
+//POINTER #42 @ $2C5DF0 - STRING #42 @ $643DFC
+
+#W32($2C5DF0)
+//ヒントメモ３<line>
+:end<line>
+<end>
+
+
+//POINTER #43 @ $2C5E14 - STRING #43 @ $643E58
+
+#W32($2C5E14)
+//ゆきだるま<line>
+:end<line>
+<end>
+
+
+//POINTER #44 @ $2C5E38 - STRING #44 @ $643E9C
+
+#W32($2C5E38)
+//ケータイ<line>
+:end<line>
+<end>
+
+
+//POINTER #45 @ $2C5E5C - STRING #45 @ $643EE8
+
+#W32($2C5E5C)
+//ヒゲワクチン<line>
+:end<line>
+<end>
+
+
+//POINTER #46 @ $2C5E80 - STRING #46 @ $643F34
+
+#W32($2C5E80)
+//ヒゲワクチン<line>
+:end<line>
+<end>
+
+
+//POINTER #47 @ $2C5EA4 - STRING #47 @ $643F80
+
+#W32($2C5EA4)
+//ヒゲワクチン<line>
+:end<line>
+<end>
+
+
+//POINTER #48 @ $2C5EC8 - STRING #48 @ $643FCC
+
+#W32($2C5EC8)
+//みっしょ<line>
+:end<line>
+<end>
+
+
+//POINTER #49 @ $2C5EEC - STRING #49 @ $644020
+
+#W32($2C5EEC)
+//ろうやのカギ<line>
+:end<line>
+<end>
+
+
+//POINTER #50 @ $2C5F10 - STRING #50 @ $644074
+
+#W32($2C5F10)
+//シェルテープ<line>
+:end<line>
+<end>
+
+
+//POINTER #51 @ $2C5F34 - STRING #51 @ $6440C4
+
+#W32($2C5F34)
+//シェルテープ<line>
+:end<line>
+<end>
+
+
+//POINTER #52 @ $2C5F58 - STRING #52 @ $644114
+
+#W32($2C5F58)
+//シェルテープ<line>
+:end<line>
+<end>
+
+
+//POINTER #53 @ $2C5F7C - STRING #53 @ $644164
+
+#W32($2C5F7C)
+//クローバーキー<line>
+:end<line>
+<end>
+
+
+//POINTER #54 @ $2C5FA0 - STRING #54 @ $6441A0
+
+#W32($2C5FA0)
+//ハートキー<line>
+:end<line>
+<end>
+
+
+//POINTER #55 @ $2C5FC4 - STRING #55 @ $6441D8
+
+#W32($2C5FC4)
+//ダイヤキー<line>
+:end<line>
+<end>
+
+
+//POINTER #56 @ $2C5FE8 - STRING #56 @ $644210
+
+#W32($2C5FE8)
+//スペードキー<line>
+:end<line>
+<end>
+
+
+//POINTER #57 @ $2C600C - STRING #57 @ $64424C
+
+#W32($2C600C)
+//ふしぎなツボ<line>
+:end<line>
+<end>
+

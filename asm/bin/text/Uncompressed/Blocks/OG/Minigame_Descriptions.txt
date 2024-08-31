@@ -1,0 +1,53 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Minigame Descriptions (Pointer)
+
+//POINTER #0 @ $2C32D4 - STRING #0 @ $357F04
+
+#W32($2C32D4)
+//ふってくるばくだんが<line>
+下に　おちるまえに<line>
+うちこわそう<line>
+:end<line>
+<end>
+
+
+//POINTER #1 @ $2C32D8 - STRING #1 @ $357F44
+
+#W32($2C32D8)
+//同じ　いろの<line>
+ブロックを　３つ<line>
+ならべて　けそう<line>
+:end<line>
+<end>
+
+
+//POINTER #2 @ $2C32DC - STRING #2 @ $357F80
+
+#W32($2C32DC)
+//しろいねずみを<line>
+おとさないように<line>
+わたらせよう<line>
+:end<line>
+<end>
+
+
+//POINTER #3 @ $2C32E0 - STRING #3 @ $357FB8
+
+#W32($2C32E0)
+//おとうとたちが<line>
+下に　おちるまえに<line>
+ふきあげよう<line>
+:end<line>
+<end>
+
+
+//POINTER #4 @ $2C32E4 - STRING #4 @ $357FF4
+
+#W32($2C32E4)
+//スタフィーを　テキに<line>
+ぶつけないようにして<line>
+はたを　とっていこう<line>
+:end<line>
+<end>
+

@@ -1,0 +1,105 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $73A
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+:if 1406 go 2<line>
+:if 1407 go 1<line>
+:sd<line>
+:flagon 1407<line>
+:func 1 2<line>
+:func 6 1<line>
+:obj 1 4<line>
+:se<line>
+:func 22 -1<line>
+<rname><diamond>‚l‚‚…<line>
+‚c‚‚Ž‚‡‚‰‚”I ‚s‚ˆ‚‚“‚… ‚”‚—‚ ‚‚’‚… ‚”‚ˆ‚’‚‚•‚‡‚ˆ ‚”‚ˆ‚‰‚“ ‚„‚‚‚’C<line>
+‚‚‚•‚” ‚—‚… ‚ƒ‚‚Žf‚” ‚‚‚…‚Ž ‚‰‚” ‚—‚‰‚”‚ˆ‚‚•‚” <c d>‚R ‚‹‚…‚™‚“<c 0>I<line>
+:c<line>
+<wait>:obj 1 9 2 1<line>
+:obj 2 2 1<line>
+:func 18 1 65<line>
+<rname><diamond>‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P<line>
+‚`‚ˆ‚‚ˆ‚‚ˆ‚I ‚r‚”‚•‚‚‰‚„` ‚h‚„‚‰‚‚”`I<line>
+‚r‚•‚‚…‚’ ‚Œ‚‚‚…|‚ ‚ƒ‚Œ‚‚‚‚‚‚‚`I<line>
+:c<line>
+<redname><diamond>‚j‚‚Ž‚‹<line>
+‚h‚† ‚™‚‚• ‚„‚‚Žf‚” ‚ˆ‚•‚’‚’‚™ ‚•‚C<line>
+‚hf‚Œ‚Œ ‚“‚”‚…‚‚Œ ‚q‚•‚‚‚™ ‚‚—‚‚™ ‚‚‡‚‚‰‚ŽC ‚j‚‚‚‚‚Ž‚‹I<line>
+:c<line>
+<wait>:obj 1 5 2<line>
+:obj 1 4<line>
+<rname><diamond>‚l‚‚…<line>
+‚s‚ˆ‚‚“‚… ‚Œ‚‰‚”‚”‚Œ‚…|I ‚s‚ˆ‚… ‚f‚’‚…‚‚” ‚l‚‚… ‚‰‚“ ‚‚Ž‚™‚”‚ˆ‚‰‚Ž‚‡<line>
+‚‚‚•‚” ‚l‚’D ‚t‚Ž‚‚‚‚•‚Œ‚‚’C ‚hf‚Œ‚Œ ‚“‚ˆ‚‚— ‚™‚‚•I<line>
+<wait>:obj 1 5<line>
+<rname><diamond>‚l‚‚…<line>
+‚m‚C ‚”‚ˆ‚‚”f‚“ ‚Ž‚‚” ‚‰‚‚‚‚’‚”‚‚Ž‚”DDD<line>
+‚g‚‚— ‚„‚‚’‚… ‚ˆ‚… ‚’‚…‚†‚…‚’ ‚”‚ ‚l‚“D‚q‚•‚‚‚™ ‚“‚ ‚ƒ‚‚“‚•‚‚Œ‚Œ‚™I<line>
+<redname><diamond>‚l‚‚…<line>
+‚d‚–‚…‚Ž ‚h ‚ˆ‚‚–‚…‚Žf‚” ‚ƒ‚‚Œ‚Œ‚…‚„ ‚ˆ‚…‚’ ‚Š‚•‚“‚”<line>
+h‚q‚•‚‚‚™h ‚™‚…‚”DDD–‚‚•‚‚‚‚Œ‚… ‚‚•‚‚‚‚Œ‚…–<line>
+<wait>:obj 1 9 2<line>
+<rname><diamond>‚l‚‚…<line>
+‚g‚…‚™C ‚r‚”‚‚’‚†I ‚g‚•‚’‚’‚™ ‚•‚ ‚‚Ž‚„ ‚†‚‰‚Ž‚„ ‚”‚ˆ‚‚“‚… ‚‹‚…‚™‚“<line>
+‚“‚ ‚—‚… ‚ƒ‚‚Ž ‚„‚ ‚“‚‚‚…‚”‚ˆ‚‰‚Ž‚‡ ‚‚‚‚‚•‚” ‚”‚ˆ‚‰‚“ ‚„‚‚‚’I<line>
+<redname><diamond>‚l‚‚…<line>
+‚s‚ˆ‚…‚™ ‚‡‚‚”‚”‚ ‚‚‚… ‚‚’‚‚•‚Ž‚„ ‚ˆ‚…‚’‚… ‚“‚‚‚…‚—‚ˆ‚…‚’‚…I<line>
+‚e‚‰‚Ž‚„ ‚”‚ˆ‚… ‚‹‚…‚™‚“ ‚”‚ˆ‚‚” <c d>‚‚‚”‚ƒ‚ˆ ‚”‚ˆ‚… ‚‚‚”‚”‚…‚’‚“<c 0><line>
+<c d>‚‚Ž ‚”‚ˆ‚… ‚Œ‚‚ƒ‚‹‚“<c 0> ‚‚Œ‚’‚…‚‚„‚™C ‚“‚ˆ‚…‚…‚“‚ˆI<line>
+:c<line>
+<wait>:sd<line>
+<linealt>:func 4<line>
+:func 2 2<line>
+:obj 1 9 2<line>
+:obj 1 5<line>
+:func 10<line>
+:func 1 0<line>
+:func 3 2<line>
+:exit<line>
+<wait>:1<line>
+:sd<line>
+:func 6 1<line>
+:se<line>
+:func 22 -1<line>
+<rname><diamond>‚l‚‚…<line>
+‚e‚‰‚Ž‚„ ‚”‚ˆ‚… ‚‹‚…‚™‚“ ‚”‚ˆ‚‚” ‚‚‚”‚ƒ‚ˆ ‚”‚ˆ‚… ‚Œ‚‚ƒ‚‹‚“f ‚‚‚”‚”‚…‚’‚Ž‚“<line>
+‚“‚ ‚—‚… ‚ƒ‚‚Ž ‚‚‚…‚Ž ‚”‚ˆ‚‰‚“ ‚„‚‚‚’C ‚‚Œ‚’‚…‚‚„‚™I<line>
+‚r‚ˆ‚…‚…‚“‚ˆI<line>
+:end<line>
+<wait>:2<line>
+:sd<line>
+:func 6 1<line>
+:se<line>
+:func 22 -1<line>
+<rname><diamond>‚l‚‚…<line>
+‚c‚ ‚™‚‚• ‚’‚…‚‚…‚‚‚‚…‚’ ‚”‚ˆ‚‚”<line>
+‚“‚‚‰‚Ž‚Ž‚‰‚Ž‚‡ ‚‰‚„‚‰‚‚”f‚“ ‚—‚…‚‚‹ ‚‚‚‰‚Ž‚”C ‚r‚”‚‚’‚†fH<line>
+<redname><diamond>‚l‚‚…<line>
+‚h‚”f‚“ ‚ˆ‚‰‚“ ‚ˆ‚…‚‚„I ‚`‚‰‚ ‚†‚‚’ ‚ˆ‚‰‚“ ‚ˆ‚…‚‚„I<line>
+‚m‚‚— ‚‡‚ ‚‚Ž‚„ ‚‚‚…‚‚” ‚ˆ‚‰‚ ‚“‚…‚Ž‚“‚…‚Œ‚…‚“‚“I<line>
+<redname><diamond>‚l‚‚…<line>
+‚n‚ˆC ‚’‚‰‚‡‚ˆ‚”I ‚i‚•‚“‚” ‚‚Ž‚… ‚‚‚’‚… ‚”‚ˆ‚‰‚Ž‚‡C<line>
+‚‚Ž‚„ ‚™‚‚•f‚Œ‚Œ ‚’‚…‚‚Œ‚Œ‚™ ‚Œ‚‰‚‹‚… ‚”‚ˆ‚‰‚“DDD<line>
+<redname><diamond>‚l‚‚…<line>
+<c d>‚h‚† ‚™‚‚• ‚‚‚…‚‚” ‚‚•‚Œ‚”‚‰‚‚Œ‚… ‚…‚Ž‚…‚‚‰‚…‚“ ‚‰‚Ž ‚ ‚’‚‚—C<c 0><line>
+<c d>‚™‚‚• ‚ƒ‚‚Ž ‚‹‚Ž‚‚ƒ‚‹ ‚”‚ˆ‚… ‚‚…‚‚’‚Œ‚“ ‚’‚‰‚‡‚ˆ‚” ‚‚•‚” ‚‚† f‚…‚<c 0>I<line>
+<redname><diamond>‚l‚‚…<line>
+‚`‚Ž‚„ ‚‰‚† ‚™‚‚•f‚’‚… ‚‘‚•‚‰‚ƒ‚‹ ‚…‚Ž‚‚•‚‡‚ˆC<line>
+<c d>‚™‚‚• ‚ƒ‚‚Ž ‚‡‚…‚” ‚“‚‚‚… ‚‚‚‰‚‡ ‚‚…‚‚’‚Œ‚“ ‚‚•‚” ‚‚† f‚…‚ ‚”‚‚<c 0>I<line>
+<redname><diamond>‚l‚‚…<line>
+‚l‚‚‹‚… ‚“‚•‚’‚… ‚™‚‚•f‚’‚… ‚‚Œ‚—‚‚™‚“ ‚’‚…‚‚„‚™<line>
+‚”‚ ‚†‚‰‚‡‚ˆ‚” ‚‚” ‚†‚•‚Œ‚Œ ‚“‚”‚’‚…‚Ž‚‡‚”‚ˆD<line>
+:end<line>
+:end<line>
+<end>
+

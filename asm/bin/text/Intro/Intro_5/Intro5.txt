@@ -1,0 +1,51 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 5
+//Block Range: $0 - $272
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+[y 2]<line>
+[x 2]<line>
+<s 5><rname><diamond>Ｍｏｅ<line>
+Ａｇｈ， ｍｙ ａｃｈｉｎ’ ｓｈｅｌｌ．．． Ｏｗ ｏｗ ｏｗ．．．<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>Ｍｏｅ<line>
+Ｙｏｕ ｂｌｏｃｋｈｅａｄ！<line>
+Ｔｈａｎｋｓ ｔｏ ｙｏｕ， Ｉ ｆｅｌｌ ｆｒｏｍ Ｐｕｆｆｔｏｐ ｔｏｏ！<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>Ｍｏｅ<line>
+Ｏｈ， ｓｔｏｐ ｃｒｙｉｎｇ！ Ｓｔｏｐ ｉｔ！<line>
+Ｓｏ ａｎｎｏｙｉｎｇ．．．<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>Ｍｏｅ<line>
+Ｇｕｅｓｓ Ｉ ｄｏｎ’ｔ ｈａｖｅ ａ ｃｈｏｉｃｅ．．． Ａｌｒｉｇｈｔ，<line>
+Ｉ’ｌｌ ｔａｇ ａｌｏｎｇ ａｇａｉｎ， ｓｏ ｓｔｏｐ ｃｒｙｉｎｇ！<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>Ｍｏｅ<line>
+Ｔｈｅｒｅ ｍｉｇｈｔ ｂｅ ｔｒｅａｓｕｒｅ ａｎｄ ｃｕｔｅ ｇｉｒｌｓ<line>
+ｉｎ ｉｔ ｆｏｒ ｍｅ ａｇａｉｎ．．． ＊ｍｕｍｂｌｅ ｍｕｍｂｌｅ＊<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>Ｍｏｅ<line>
+Ａｌｒｉｇｈｔ， ｆｉｒｓｔ ｔｈｉｎｇｓ ｆｉｒｓｔ， ｌｅｔ’ｓ ｇｏ ｓｅｅ<line>
+Ｏｌｄ Ｍａｎ Ｌｏｂｂｅｒ！<line>
+<linealt>[w 200]<line>
+<redname><diamond>Ｍｏｅ<line>
+Ｔｈａｔ ｏｌｄ ｔｉｍｅｒ ａｌｗａｙｓ ｋｎｏｗｓ ｗｈａｔ ｔｏ ｄｏ<line>
+ｗｈｅｎ ｙｏｕ’ｒｅ ｉｎ ａ ｂｉｎｄ！ Ｃ’ｍｏｎ， ｌｅｔ’ｓ ｇｏ！<line>
+[w 200]<line>
+ <progressalt><line>
+<end>
+

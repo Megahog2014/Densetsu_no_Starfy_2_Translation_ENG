@@ -1,0 +1,122 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $6D9
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+[x 49]<line>
+Ｓｔａｒｆｙ ａｎｄ Ｍｏｅ ｗｅｒｅ ｏｎｃｅ ａｇａｉｎ<line>
+[x 54]<line>
+ａｂｌｅ ｔｏ ｓｅａｌ Ｏｇｕｒａ ｉｎ ｔｈｅ ｊａｒ．．．<line>
+:func 4<line>
+:c<line>
+[x 30]<line>
+<wait>Ａｎｄ ｎｏｗ ｔｈａｔ ｔｈｅｙ’ｖｅ ｆｏｕｎｄ ａｌｌ ｔｈｅ<line>
+[x 30]<line>
+ｔｒｅａｓｕｒｅｓ， ｔｈｅ ｓｔｏｒｙ ｉｓ ｎｏｗ ｔｒｕｌｙ ｏｖｅｒ．<line>
+[x 30]<line>
+Ｎｏｗ ｗｈｙ ｄｏｎ’ｔ ｗｅ ｈｅａｄ ｂａｃｋ ｔｏ Ｐｕｆｆｔｏｐ？<line>
+:func 4<line>
+:c<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+:func 5 0 18<line>
+:func 2 8<line>
+<linealt>
+<wait>:func 3 0<line>
+<wait>[x 0]<line>
+<rname><diamond>Ｐａｐａ Ｓｔａｒ<line>
+Ｏｈ！ Ｓｔａｒｆｙ！<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
+Ｙｏｕ’ｖｅ ｆｉｎａｌｌｙ ｃｏｌｌｅｃｔｅｄ ａｌｌ ｏｆ<line>
+ｔｈｅ ｔｒｅａｓｕｒｅｓ．．． Ａｔ ｌｏｎｇ ｌａｓｔ．．．<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
+Ａｌｒｉｇｈｔ， ｅｖｅｒｙｏｎｅ！<line>
+Ｉｔ ｉｓ ｔｉｍｅ ｆｏｒ ａ ｃｅｌｅｂｒａｔｉｏｎ！<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
+Ｇｅｔ ｔｈｅ ｐｒｅｐｅｒａｔｉｏｎｓ ｉｎ ｏｒｄｅｒ！<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
+Ｎｏｔ ｏｎｌｙ ｔｏ ｃｅｌｅｂｒａｔｅ ｐｅａｃｅ ｏｎｃｅ<line>
+ａｇａｉｎ ｒｅｔｕｒｎｉｎｇ ｔｏ Ｐｕｆｆｔｏｐ．．．<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
+Ｂｕｔ ｔｏ ｃｏｎｇｒａｔｕｌａｔｅ Ｓｔａｒｆｙ ａｎｄ Ｍｏｅ，<line>
+ｆｏｒ ｃｏｌｌｅｃｔｉｎｇ ａｌｌ ｏｆ ｔｈｅ ｔｒｅａｓｕｒｅｓ ｔｏｏ！<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
+Ｉｔ ａｌｌ ｄｅｓｅｒｖｅｓ ｏｕｒ ｕｔｍｏｓｔ ｐｒａｉｓｅ！<line>
+Ｎｏｗ， ｌｅｔ ｕｓ ｈａｖｅ ａ ｇｒａｎｄ ｃｅｌｅｂｒａｔｉｏｎ！<line>
+:func 4<line>
+:c<line>
+<redname><diamond>Ｐｕｆｆｔｏｐ Ｓｏｌｄｉｅｒｓ<line>
+ＨＯＯＲＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＹ！！！<line>
+:func 4<line>
+:c<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+:func 5 0 36<line>
+<wait>:func 2 32<line>
+:func 3 0<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+<wait>:func 5 0 37<line>
+:func 2 48<line>
+:func 3 0<line>
+<wait>[x 15]<line>
+．．．＊ｓｉｇｈ＊．．．<line>
+Ｉｔ ｗａｓ ｓｕｐｅｒ ｆｕｎ ａｄｖｅｎｔｕｒｉｎ’ ｗｉｔｈ ｙａ ａｇａｉｎ，<line>
+Ｓｔａｒｆｙ．．．<line>
+:func 4<line>
+:c<line>
+<wait>Ｂｕｔ ｙ’ｋｎｏｗ．．．<line>
+Ｆａｍｉｌｙ’ｓ ａ ｒｅａｌ ｎｉｃｅ ｔｈｉｎｇ．．．<line>
+Ｅｖｅｎ ｔｈｏｕｇｈ ｍｙ Ｍａ ａｎｄ Ｐｏｐｓ ａｉｎ’ｔ<line>
+ｈｅｒｅ ａｎｙｍｏｒｅ．．．<line>
+:func 4<line>
+:c<line>
+<wait>Ｉ’ｖｅ ｓｔｉｌｌ ｇｏｔ ｍｙ ｓｉｂｌｉｎｇｓ．<line>
+Ａｎｄ ｓｏ ｔｈｅｙ ｃａｎ ｌｉｖｅ<line>
+ｎｉｃｅ ａｎｄ ｃｏｎｆｏｒｔａｂｌｅ ｌｉｖｅｓ，<line>
+Ｉ’ｍ ｇｏｎｎａ ｇｅｔ ｓｕｐｅｒ ｒｉｃｈ ｏｎｅ ｄａｙ．．．<line>
+:func 4<line>
+:c<line>
+<wait>Ｙｏｕ’ｒｅ ａ ｒｅａｌ ｌｕｃｋｙ ｇｕｙ Ｓｔａｒｆｙ．<line>
+Ｍａｋｅ ｓｕｒｅ ｔｏ ｔａｋｅ ｇｏｏｄ ｃａｒｅ ｏｆ ｙｏｕｒ ｆｏｌｋｓ．<line>
+Ｉ’ｌｌ ｃｏｍｅ ｂａｃｋ ｔｏ ｖｉｓｉｔ ｓｏｍｅｔｉｍｅ．．．<line>
+:func 4<line>
+:c<line>
+<wait>Ｏ－ｏｈ ｙｅａｈ！．．．<line>
+Ａ－Ａｎｄ ｎｅｘｔ ｔｉｍｅ， ｔｈｅｒｅ<line>
+Ｂｅｔｔｅｒ ｂｅ ｍｏｒｅ ｔｒｅａｓｕｒｅ ｉｎ ｉｔ ｆｏｒ ｍｅ！<line>
+Ｈｅｈ．．．Ｈｅｈ ｈｅｈ ｈｅｈ．．．<line>
+:func 4<line>
+:c<line>
+<wait>Ｓ－Ｓｅｅｙａ ｌａｔｅｒ， Ｓｔａｒｆｙ！<line>
+Ｍｙ ｏｎｌｙ ｆｒｉｅｎｄ．．．<line>
+Ｔａｋｅ ｃａｒｅ ｏｆ ｙｏｕｒｓｅｌｆ．．．<line>
+Ａｄｉｏｓ．．．<line>
+:func 2 80<line>
+:func 3 0<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+:exit<line>
+<end>
+

@@ -1,0 +1,42 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 5
+//Block Range: $0 - $272
+
+//[y 2]<line>
+[x 2]<line>
+<s 5><rname><diamond>キョロスケ<line>
+「あっつ・・・イテテテ・・・」<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>キョロスケ<line>
+「バカヤロー！ オメェのせいで<line>
+  オレさままで おちただろうが！」<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>キョロスケ<line>
+「あー！ もう！ なくな！<line>
+  なくな！ うっとうしい・・」<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>キョロスケ<line>
+「しゃーねえなあ じゃあ また<line>
+  ついていってやっから なくな！」<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>キョロスケ<line>
+「今回も おたからや かわいい子が<line>
+  いるかもしんねえしな・・ボソッ」<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>キョロスケ<line>
+「よし とりあえず ロブんトコ<line>
+  行くぞ！」<line>
+<linealt>[w 200]<line>
+<redname><diamond>キョロスケ<line>
+「こまったときは あのじいさんに<line>
+  かぎるしな！ オラついてこいよ！」<line>
+[w 200]<line>
+ <progressalt><line>
+<end>
+

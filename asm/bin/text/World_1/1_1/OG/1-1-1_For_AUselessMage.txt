@@ -1,0 +1,42 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 2
+//Block Range: $0 - $2F6
+
+//:if 1101 go 10<line>
+:flagon 1101<line>
+:func 22 -1<line>
+<s 2><rname><diamond>キョロスケ<line>
+「どうだ？　少しは　アクション<line>
+　思い出せたか？・・・ったく・・<line>
+　あいかわらず　あしでまといめ・・」<line>
+<redname><diamond>キョロスケ<line>
+「これからも　いろんなヤツらから<line>
+　ワザを　おしえてもらえる<line>
+　はずだから轣E・・」<line>
+<redname><diamond>キョロスケ<line>
+「しっかり　はなしをきいて<line>
+　おくんだぞ」<line>
+<wait>:obj 1 5<line>
+<rname><diamond>キョロスケ<line>
+「で　ぜんかいと　同じく<line>
+　とちゅうで　わからないことが<line>
+　あったら・・・」<line>
+<redname><diamond>キョロスケ<line>
+「この『かっこよくて　たよりになる』<line>
+　オレさまに　はなしかけろ！I<line>
+　わかったな？」<line>
+:end<line>
+<wait>:10<line>
+:func 22 -1<line>
+<rname><diamond>キョロスケ<line>
+「ぜんかいと　同じく<line>
+　とちゅうで　わからないことが<line>
+　あったら・・・」<line>
+<redname><diamond>キョロスケ<line>
+「この『かっこよくて　たよりになる』<line>
+　オレさまに　はなしかけろ！<line>
+　わかったな？」<line>
+:end<line>
+<end>
+

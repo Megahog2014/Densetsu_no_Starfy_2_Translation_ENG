@@ -1,0 +1,27 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 3
+//Block Range: $0 - $15E
+
+//[y 2]<line>
+[x 2]<line>
+<s 5><rname><diamond>オーグラ<line>
+「グハハハ！ ヤット ソトニ<line>
+  デラレタゾ！」<line>
+[w 200]<line>
+<redname><diamond>オーグラ<line>
+「スタフィーメ！ ヨクモ イママデ<line>
+  トジコメテクレタナ」<line>
+[w 200]<line>
+<redname><diamond>オーグラ<line>
+「ヨーシ！ オカエシニ オマエノ<line>
+  カアチャンハ イタダイテイク！」<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>オーグラ<line>
+「クヤシカッタラ トリカエシニ<line>
+  キテミロ！ グハハハ！」<line>
+[w 200]<line>
+ <progressalt><line>
+<end>
+

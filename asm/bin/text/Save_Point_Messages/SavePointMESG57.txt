@@ -1,0 +1,13 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $AF
+
+//:func 22 -1<line>
+ついに　オーグラとたいけつ！<line>
+今までのチカラを　フルに<line>
+使って　しょうりを<line>
+つかもう！<line>
+:end<line>
+<end>
+

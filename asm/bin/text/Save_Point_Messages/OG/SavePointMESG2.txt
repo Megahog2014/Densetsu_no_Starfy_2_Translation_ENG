@@ -1,0 +1,13 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $86
+
+//:func 22 -1<line>
+<c d>『スピンアタック』<c 0>には<line>
+もう　なれましたか？<line>
+いろんなものに　アタックして<line>
+そうさに　なれておこう！<line>
+:end<line>
+<end>
+

@@ -1,0 +1,102 @@
+List of Uncompressed Text to extract:
+
+Post game Hint (Pause Hints Screen) (Extracted, awaiting translations)
+Location:08640F28
+Pointer:08107A8C
+
+Stuff Room description (Pause Hints Screen)
+Location:08644290
+Pointer:08107B34
+
+Key Items Description (Pause Screen)
+Location: 086442E8
+Pointer: 08107B48
+
+Key Items List (Done)
+Location:
+Pointer:
+
+Descriptions for Key Items (Done)
+Location:
+Pointer:
+
+Vehicle Tutorial Sign Description (Pause Screen)
+Location:08644340
+Pointer:08107B5C
+
+Tutorial Sign Description (Pause Screen)
+Location:086443C0
+Pointer:08107BA8
+
+Moe's House Dialogue (Done)
+Pointer Tree location:082D3424 to 082D3450
+
+Beastiary Locations (Done)
+Location:082CA568
+Pointer Tree location:082CA628
+
+Beastiary Names (Done)
+Location: 082CA678
+Pointer Tree location:082CB218 (Seperated by 8 bytes)
+
+Beastiary Comments (Done)
+Location: 082CBD60
+Pointer Tree Location: 082D29F8
+
+Possibly another Beastiary names (Maybe Unused)
+082BFC60
+Pointer Tree location:
+
+Sound Test Track Names (Done)
+082D4ADC
+Pointer Tree Location:082D4E14
+
+Minigame descriptions (Extracted... needs translations)
+08357F04
+Pointer Tree location:082C32D4
+
+Minigame Control Descriptions (Extracted... Needs Translations)
+location:08358040
+Pointer Tree Location:082C32E8
+
+Lovely's Shop Dialogue (Finished)
+082D43DC
+Pointer Tree Location:082D491C
+
+Lovely's Item List (Done)
+082D3620
+Pointer Tree Location:082D3C4C
+
+Photo name list (Finished)
+082C74D0
+Pointer Tree Location:082C7774
+
+Outfits List (Finished)
+0863C38C
+Pointer Tree Location:082C6C28
+
+Outfit Descriptions (Finished)
+0863C834
+Pointer Tree Location:082C6CF8
+
+Accessories Names (Finished)
+0863B0A4
+Pointer Tree Location:082C6DC0
+
+Accessories Descriptions (Finished)
+0863B540
+Pointer Tree Location:082C6E90
+
+nothing sign for Outfits and Accessories (Done)
+Location:082C6B28
+Pointers:0810A8D8 and 0810AA34
+
+List of Sign Tutorials (Pause Screen) (Done)
+Location:0863C1EC
+Pointers:082C52E0
+
+List of Vehicle Tutorial signs (Pause Screen) (Done)
+Location:08652428
+Pointers:082C52C0
+
+

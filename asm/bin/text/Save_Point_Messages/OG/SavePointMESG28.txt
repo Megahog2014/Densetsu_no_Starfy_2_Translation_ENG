@@ -1,0 +1,12 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $AF
+
+//:func 22 -1<line>
+あばれんぼうのプチオーグラ６ごう！<line>
+キョロスケは　すっごく<line>
+キライみたい・・・なんでかな？<line>
+:end<line>
+<end>
+

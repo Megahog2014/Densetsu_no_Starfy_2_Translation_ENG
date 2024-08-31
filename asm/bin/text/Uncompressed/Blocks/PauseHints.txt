@@ -1,0 +1,1040 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Pause Screen Hints (Pointer) Part 1
+
+//POINTER #0 @ $107A8C - STRING #0 @ $640F28
+
+#ACTIVETBL(Story)
+
+#WRITE(GBA,$107A8C)
+‚o‚’‚…‚“‚“ ‚”‚ˆ‚… <c d>‚r‚”‚‚’‚” ‚a‚•‚”‚”‚‚Ž<c 1> ‚—‚ˆ‚‰‚Œ‚… <c d>‚ˆ‚‚Œ‚„‚‰‚Ž‚‡<line>
+‚”‚ˆ‚… ‚r‚…‚Œ‚…‚ƒ‚” ‚a‚•‚”‚”‚‚Ž<c 1> ‚”‚ ‚…‚˜‚‰‚” ‚”‚ˆ‚… ‚“‚”‚‚‡‚…<line>
+‚—‚ˆ‚‰‚Œ‚… ‚‹‚…‚…‚‚‰‚Ž‚‡ ‚…‚–‚…‚’‚™‚”‚ˆ‚‰‚Ž‚‡ ‚™‚‚•f‚–‚… ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚…‚„D<line>
+:end<line>
+<end>
+
+
+//BLOCK #001 NAME:		Pause Screen Hints (Pointer) Part 2 (87 pointers)
+
+//POINTER #0 @ $2C6208 - STRING #0 @ $640FB0
+
+#WRITE(GBA,$2C6208)
+<line>
+‚e‚‚Œ‚Œ‚‚— ‚”‚ˆ‚… ‚”‚’‚‚‰‚Œ ‚‚† ‚r‚”‚•‚†‚†<line>
+‚l‚‚‚ ‚r‚”‚‚’ ‚Œ‚…‚†‚” ‚†‚‚’ ‚™‚‚• ‚”‚ ‚“‚‚–‚… ‚ˆ‚…‚’I<line>
+<line>
+:end<line>
+<end>
+
+
+//BLOCK #002 NAME:		Pause Screen Hints Part 3 (Pointer)
+
+//POINTER #0 @ $2C6210 - STRING #0 @ $64103C
+
+#WRITE(GBA,$2C6210)
+<line>
+‚c‚…‚Œ‚‰‚–‚…‚’ ‚i‚…‚Œ‚Œ‚‚”‚f‚“ <c d>‚Œ‚…‚”‚”‚…‚’‚“<c 1> ‚”‚<line>
+‚i‚…‚Œ‚Œ‚‚”‚ ‚‚Ž‚„ ‚f‚…‚Œ‚Œ‚‚”‚D<line>
+:end<line>
+<end>
+
+
+//BLOCK #003 NAME:		Pause Screen Hints Part 4 (Pointer)
+
+//POINTER #0 @ $2C6218 - STRING #0 @ $641094
+
+#WRITE(GBA,$2C6218)
+<line>
+‚l‚‚‹‚… ‚™‚‚•‚’ ‚—‚‚™ ‚‚‚‚ƒ‚‹ ‚”‚ ‚i‚…‚Œ‚Œ‚‚”‚ ‚‚Ž‚„<line>
+‚‡‚‰‚–‚… ‚”‚ˆ‚…‚ ‚i‚…‚Œ‚Œ‚‚”‚ ‚‚Ž‚„ ‚f‚…‚Œ‚Œ‚‚”‚f‚“ <c d>‚’‚…‚“‚‚‚Ž‚“‚…‚“<c 1>D<line>
+<line>
+:end<line>
+<end>
+
+
+//BLOCK #004 NAME:		Pause Screen Hints Part 5 (Pointer)
+
+//POINTER #0 @ $2C6238 - STRING #0 @ $64114C
+
+#WRITE(GBA,$2C6238)
+‚k‚‚‚‹‚“ ‚Œ‚‰‚‹‚… ‚™‚‚•f‚–‚… ‚‡‚‚”‚”‚…‚Ž ‚”‚ˆ‚… ‚ˆ‚‚Ž‚‡ ‚‚†<line>
+‚”‚ˆ‚… ‚r‚…‚ ‚r‚‹‚‚”‚…‚’I<line>
+‚x‚‚•f‚Œ‚Œ ‚‚‚… ‚‚‚‚Œ‚… ‚”‚ ‚‚ƒ‚ƒ‚…‚“‚“ ‚‚’‚…‚‚“<line>
+‚™‚‚• ‚ƒ‚‚•‚Œ‚„‚Žf‚” ‚‚‚…‚†‚‚’‚…D<line>
+:end<line>
+<end>
+
+
+//BLOCK #005 NAME:		Pause Screen Hints Part 6 (Pointer)
+
+//POINTER #0 @ $2C6258 - STRING #0 @ $6411A4
+
+#WRITE(GBA,$2C6258)
+‚i‚‚‰‚Ž ‚”‚ˆ‚… <c d>‚a‚Œ‚‰‚‚ ‚q‚‚ƒ‚…<c 1><line>
+‚‚Ž‚„ ‚—‚‰‚Ž ‚”‚ˆ‚… ‚†‚‰‚’‚“‚” ‚‚Œ‚‚ƒ‚… ‚‚’‚‰‚š‚…I<line>
+‚r‚‚•‚Ž‚„‚“ ‚Œ‚‰‚‹‚… ‚‰‚”f‚Œ‚Œ ‚‚‚… ‚—‚…‚Œ‚Œ ‚—‚‚’‚”‚ˆ ‚”‚ˆ‚… ‚…‚†‚†‚‚’‚”I<line>
+:end<line>
+<end>
+
+
+//BLOCK #006 NAME:		Pause Screen Hints Part 7 (Pointer)
+
+//POINTER #0 @ $2C6278 - STRING #0 @ $641208
+
+#WRITE(GBA,$2C6278)
+‚s‚ˆ‚‚“‚… ‚’‚…‚„ ‚“‚”‚‚”‚•‚…‚“ ‚“‚‚‰‚” ‚†‚‰‚’‚…<line>
+‚—‚ˆ‚…‚Ž ‚™‚‚• ‚ˆ‚‰‚” ‚”‚ˆ‚…‚ ‚—‚‰‚”‚ˆ ‚ ‚r‚”‚‚’ ‚r‚‚‰‚ŽD<line>
+‚t‚“‚… ‚”‚ˆ‚‚” ‚”‚ ‚‚…‚Œ‚” ‚”‚ˆ‚… ‚‰‚ƒ‚… ‚‚Ž‚„ ‚‚’‚…‚“‚“ ‚†‚‚’‚—‚‚’‚„D<line>
+:end<line>
+<end>
+
+
+//BLOCK #007 NAME:		Pause Screen Hints Part 8 (Pointer)
+
+//POINTER #0 @ $2C6290 - STRING #0 @ $641278
+
+#WRITE(GBA,$2C6290)
+‚e‚‰‚Ž‚„ ‚ ‚—‚‚™ ‚”‚ ‚•‚Ž‚†‚’‚…‚…‚š‚… ‚l‚‚…I<line>
+:end<line>
+<end>
+
+
+//BLOCK #008 NAME:		Pause Screen Hints Part 9 (Pointer)
+
+//POINTER #0 @ $2C6298 - STRING #0 @ $6412B0
+
+#WRITE(GBA,$2C6298)
+‚s‚ˆ‚… ‚b‚‚‚Œ‚‚‚‰‚…‚“ ‚‚’‚… ‚“‚ƒ‚‚”‚”‚…‚’‚…‚„ ‚‚‚‚‚•‚”<line>
+‚‰‚Ž ‚R ‚„‚‰‚†‚†‚…‚’‚…‚Ž‚” ‚‚’‚…‚‚“D<line>
+‚e‚‰‚Ž‚„ ‚”‚ˆ‚…‚ ‚“‚ ‚™‚‚• ‚ƒ‚‚Ž<line>
+‚‚‚‹‚… ‚”‚ˆ‚… ‚ˆ‚‚” ‚“‚‚’‚‰‚Ž‚‡‚“ ‚ˆ‚‚”‚”‚…‚’D<line>
+:end<line>
+<end>
+
+
+//BLOCK #009 NAME:		Pause Screen Hints Part 10 (Pointer)
+
+//POINTER #0 @ $2C62B8 - STRING #0 @ $641310
+
+#WRITE(GBA,$2C62B8)
+<line>
+‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚U ‚j‚‰‚„‚Ž‚‚‚‚…‚„ ‚v‚‚š‚‚’‚”I<line>
+‚`‚†‚”‚…‚’ ‚ˆ‚‰‚I<line>
+:end<line>
+<end>
+
+
+//BLOCK #010 NAME:		Pause Screen Hints Part 11 (Pointer)
+
+//POINTER #0 @ $2C62D0 - STRING #0 @ $64135C
+
+#WRITE(GBA,$2C62D0)
+‚s‚ˆ‚… <c d>‚h‚Ž‚„‚‚‚’ ‚b‚‚–‚…<c 1> ‚‰‚“ ‚†‚•‚Œ‚Œ ‚‚†<line>
+‚’‚‰‚„‚„‚Œ‚…‚“ ‚‚Ž‚„ ‚‡‚‰‚‚‚‰‚ƒ‚‹‚“I<line>
+‚s‚’‚™ ‚‚“‚‹‚‰‚Ž‚‡ ‚l‚‚… ‚†‚‚’ ‚ˆ‚…‚Œ‚ ‚‰‚† ‚™‚‚•<line>
+‚…‚–‚…‚’ ‚‡‚…‚” ‚Œ‚‚“‚” ‚‚’ ‚“‚”‚•‚‚‚…‚„D<line>
+:end<line>
+<end>
+
+
+//BLOCK #011 NAME:		Pause Screen Hints Part 12 (Pointer)
+
+//POINTER #0 @ $2C62F0 - STRING #0 @ $6413D8
+
+#WRITE(GBA,$2C62F0)
+‚b‚ˆ‚•‚”‚ ‚‰‚“‚Žf‚” ‚†‚…‚…‚Œ‚‰‚Ž‚‡ ‚—‚…‚Œ‚ŒI<line>
+‚f‚ ‚†‚‰‚Ž‚„ ‚a‚‰‚‡ ‚a‚‚’‚’‚…‚Œ ‚r‚‘‚•‚‰‚„<line>
+‚‚Ž‚„ ‚‚“‚‹ ‚ˆ‚‰‚ ‚—‚ˆ‚‚” ‚”‚ ‚„‚I<line>
+:end<line>
+<end>
+
+
+//BLOCK #012 NAME:		Pause Screen Hints Part 13 (Pointer)
+
+//POINTER #0 @ $2C62F8 - STRING #0 @ $641434
+
+#WRITE(GBA,$2C62F8)
+‚c‚…‚Œ‚‰‚–‚…‚’ ‚”‚ˆ‚… <c d>‚‚‚‚’‚’‚…‚Œ<c 1> ‚”‚ ‚b‚ˆ‚•‚”‚D<line>
+:end<line>
+<end>
+
+
+//BLOCK #013 NAME:		Pause Screen Hints Part 14 (Pointer)
+
+//POINTER #0 @ $2C6318 - STRING #0 @ $641470
+
+#WRITE(GBA,$2C6318)
+<line>
+‚h‚” ‚Œ‚‚‚‹‚“ ‚Œ‚‰‚‹‚… ‚„‚…‚“‚”‚’‚‚™‚‰‚Ž‚‡ ‚”‚ˆ‚…‚“‚… ‚„‚‚”‚”‚…‚„ ‚‚‰‚Œ‚Œ‚‚’‚“<line>
+‚‚‚…‚Ž‚“ ‚”‚ˆ‚… ‚‚‚”‚ˆ ‚“‚‚‚…‚—‚ˆ‚…‚’‚…DDD<line>
+:end<line>
+<end>
+
+
+//BLOCK #014 NAME:		Pause Screen Hints Part 15 (Pointer)
+
+//POINTER #0 @ $2C6338 - STRING #0 @ $6414BC
+
+#WRITE(GBA,$2C6338)
+‚x‚‚•f‚Œ‚Œ ‚ˆ‚‚–‚… ‚”‚ ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚” ‚”‚ˆ‚… ‚”‚ˆ‚’‚…‚…<line>
+<c d>‚g‚‰‚Ž‚” ‚l‚…‚‚‚“<c 1> ‚”‚ ‚‡‚…‚” ‚”‚ˆ‚… ‚‚‚“‚“‚—‚‚’‚„<line>
+‚”‚ˆ‚‚” ‚‚‚…‚Ž‚“ ‚”‚ˆ‚… ‚“‚ˆ‚•‚”‚”‚…‚’‚“D<line>
+:end<line>
+<end>
+
+
+//BLOCK #015 NAME:		Pause Screen Hints Part 16 (Pointer)
+
+//POINTER #0 @ $2C6340 - STRING #0 @ $641528
+
+#WRITE(GBA,$2C6340)
+<line>
+‚f‚ ‚ƒ‚‚”‚ƒ‚ˆ ‚”‚ˆ‚‚” ‚‚‚’‚‚‡‚‡‚‚’‚”C<line>
+‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚UI<line>
+:end<line>
+<end>
+
+
+//BLOCK #016 NAME:		Pause Screen Hints Part 17 (Pointer)
+
+//POINTER #0 @ $2C6348 - STRING #0 @ $641564
+
+#WRITE(GBA,$2C6348)
+<line>
+‚f‚ ‚ƒ‚‚”‚ƒ‚ˆ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚UI<line>
+‚h‚“ ‚”‚ˆ‚…‚’‚… ‚ ‚‚‚”‚”‚…‚’‚Ž ‚”‚ ‚”‚ˆ‚… ‚—‚‚™ ‚ˆ‚… ‚‚‚–‚…‚“DDDH<line>
+<line>
+:end<line>
+<end>
+
+
+//BLOCK #017 NAME:		Pause Screen Hints Part 18 (Pointer)
+
+//POINTER #0 @ $2C6350 - STRING #0 @ $6415D0
+
+#WRITE(GBA,$2C6350)
+<line>
+‚s‚‰‚‚… ‚”‚ ‚ƒ‚ˆ‚‚“‚… ‚„‚‚—‚Ž ‚‚Ž‚„ ‚„‚…‚†‚…‚‚”<line>
+‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚UI<line>
+:end<line>
+<end>
+
+
+//BLOCK #018 NAME:		Pause Screen Hints Part 19 (Pointer)
+
+//POINTER #0 @ $2C6368 - STRING #0 @ $641608
+
+#WRITE(GBA,$2C6368)
+‚r‚‚‚“‚ˆ ‚”‚—‚ <c d>‚‚‚‚•‚Œ‚„‚…‚’‚“<c 1> ‚‚‡‚‚‰‚Ž‚“‚” ‚…‚‚ƒ‚ˆ ‚‚”‚ˆ‚…‚’<line>
+‚”‚ ‚‡‚…‚” ‚’‚‰‚„ ‚‚† ‚”‚ˆ‚…‚I<line>
+‚t‚“‚… ‚”‚ˆ‚‚” ‚”‚ ‚“‚‚–‚… ‚‚Ž‚™‚‚Ž‚… ‚”‚’‚‚‚‚…‚„ ‚•‚Ž‚„‚…‚’ ‚‚Ž‚…<line>
+‚‚’ ‚‚‚…‚Ž ‚”‚ˆ‚… ‚—‚‚™ ‚†‚‚’‚—‚‚’‚„I<line>
+:end<line>
+<end>
+
+
+//BLOCK #019 NAME:		Pause Screen Hints Part 20 (Pointer)
+
+//POINTER #0 @ $2C6388 - STRING #0 @ $641690
+
+#WRITE(GBA,$2C6388)
+‚e‚‰‚Ž‚„ ‚“‚‚‚…‚”‚ˆ‚‰‚Ž‚‡ ‚”‚ˆ‚‚” ‚ƒ‚‚Ž ‚‚‚…<line>
+‚•‚“‚…‚„ ‚‚“ ‚ <c d>‚‚Œ‚‚”‚†‚‚’‚<c 1> ‚‚Ž‚„<line>
+‚”‚‚‹‚… ‚‰‚” ‚‚‚‚ƒ‚‹ ‚”‚ ‚”‚ˆ‚… ‚s‚•‚”‚—‚…‚…‚”‚“I<line>
+:end<line>
+<end>
+
+
+//BLOCK #020 NAME:		Pause Screen Hints Part 21 (Pointer)
+
+//POINTER #0 @ $2C63A8 - STRING #0 @ $6416F0
+
+#WRITE(GBA,$2C63A8)
+‚t‚“‚… ‚s‚‚‰‚‚‚Œ‚‚Ž‚„f‚“ <c d>‚‚‰‚ƒ‚”‚•‚’‚…‚“<c 1><line>
+‚”‚ ‚†‚‰‚Ž‚„ <c d>‚ˆ‚‰‚„‚„‚…‚Ž ‚„‚‚‚’‚“<c 1>I<line>
+‚`‚“‚‹ ‚l‚‚… ‚†‚‚’ ‚‚„‚–‚‰‚ƒ‚…<line>
+‚—‚ˆ‚…‚Ž‚…‚–‚…‚’ ‚™‚‚• ‚†‚…‚…‚Œ ‚“‚”‚•‚ƒ‚‹I<line>
+:end<line>
+<end>
+
+
+//BLOCK #021 NAME:		Pause Screen Hints Part 22 (Pointer)
+
+//POINTER #0 @ $2C63C8 - STRING #0 @ $64177C
+
+#WRITE(GBA,$2C63C8)
+‚e‚‰‚Ž‚„ ‚ ‚—‚‚™ ‚”‚ ‚“‚”‚‚<line>
+‚”‚ˆ‚‚” ‚‚‚ƒ‚ˆ‚‰‚Ž‚… ‚†‚’‚‚ ‚†‚‰‚’‚‰‚Ž‚‡ ‚‰‚”f‚“ ‚‚‚…‚‚I<line>
+<c d>‚l‚‚…f‚“ ‚“‚”‚’‚‚Ž‚‡‚… ‚‰‚„‚…‚ ‚‚‰‚‡‚ˆ‚” ‚Š‚•‚“‚” ‚—‚‚’‚‹DDD<c 1><line>
+:end<line>
+<end>
+
+
+//BLOCK #022 NAME:		Pause Screen Hints Part 23 (Pointer)
+
+//POINTER #0 @ $2C63E0 - STRING #0 @ $64180C
+
+#WRITE(GBA,$2C63E0)
+‚h‚‡‚Ž‚‚’‚… ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚V ‚†‚‚’ ‚Ž‚‚—D<line>
+‚b‚Œ‚‰‚‚‚ ‚”‚ˆ‚‰‚“ ‚‚‚•‚Ž‚”‚‚‰‚Ž ‚‚Ž‚„<line>
+‚“‚…‚” ‚™‚‚•‚’ ‚“‚‰‚‡‚ˆ‚”‚“ ‚‚Ž ‚’‚…‚‚ƒ‚ˆ‚‰‚Ž‚‡ ‚o‚•‚†‚†‚”‚‚I<line>
+:end<line>
+<end>
+
+
+//BLOCK #023 NAME:		Pause Screen Hints Part 24 (Pointer)
+
+//POINTER #0 @ $2C63E8 - STRING #0 @ $64186C
+
+#WRITE(GBA,$2C63E8)
+‚l‚‚‹‚… ‚‰‚” ‚”‚ ‚”‚ˆ‚… ‚”‚‚ ‚‚† ‚”‚ˆ‚‰‚“ ‚‚’‚…‚<line>
+‚—‚ˆ‚‰‚Œ‚… ‚„‚‚„‚‡‚‰‚Ž‚‡ ‚”‚ˆ‚… <c d>‚‚‚‚‚‚‚“<c 1> ‚”‚ˆ‚‚”<line>
+‚o‚•‚ƒ‚ˆ ‚n‚‡‚•‚’‚ ”‚V ‚”‚ˆ‚’‚‚—‚“ ‚‚” ‚™‚‚•I<line>
+:end<line>
+<end>
+
+
+//BLOCK #024 NAME:		Pause Screen Hints Part 25 (Pointer)
+
+//POINTER #0 @ $2C63F0 - STRING #0 @ $6418E0
+
+#WRITE(GBA,$2C63F0)
+‚t‚“‚… ‚”‚ˆ ‚‰‚Ž‚†‚ ‚l‚‚… ‚‚Ž‚„ ‚g‚‚’‚•‚Ž ‚‡‚‚–‚… ‚”‚ ‚™‚‚•<line>
+‚”‚ ‚†‚‰‚Ž‚„ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚Vf‚“ ‚—‚…‚‚‹‚‚‚‰‚Ž‚”<line>
+‚‚Ž‚„ ‚”‚…‚‚ƒ‚ˆ ‚ˆ‚‰‚ ‚ ‚Œ‚…‚“‚“‚‚ŽI<line>
+:end<line>
+<end>
+
+
+//BLOCK #025 NAME:		Pause Screen Hints Part 26 (Pointer)
+
+//POINTER #0 @ $2C6408 - STRING #0 @ $641958
+
+#WRITE(GBA,$2C6408)
+<line>
+‚q‚…‚“‚“‚‰‚…f‚“ ‚‡‚‚Ž‚… ‚‚‰‚“‚“‚‰‚Ž‚‡I<line>
+‚f‚ ‚†‚‰‚Ž‚„ ‚ˆ‚‰‚I<line>
+:end<line>
+<end>
+
+
+//BLOCK #026 NAME:		Pause Screen Hints Part 27 (Pointer)
+
+//POINTER #0 @ $2C6410 - STRING #0 @ $641990
+
+#WRITE(GBA,$2C6410)
+‚s‚ˆ‚‚” ‚”‚ˆ‚’‚…‚‚”‚…‚Ž‚‰‚Ž‚‡ ‚Œ‚…‚”‚”‚…‚’ ‚‚…‚Ž‚”‚‰‚‚Ž‚…‚„<line>
+‚“‚‚‚…‚”‚ˆ‚‰‚Ž‚‡ ‚‚‚‚‚•‚” ‚”‚ˆ‚… <c d>‚“‚‚Ž‚„‚‚‚‚’<c 1>D<line>
+‚g‚…‚‚„ ‚”‚ˆ‚…‚’‚…C ‚‚’‚‚Ž‚”‚I<line>
+:end<line>
+<end>
+
+
+//BLOCK #027 NAME:		Pause Screen Hints Part 28 (Pointer)
+
+//POINTER #0 @ $2C6418 - STRING #0 @ $6419DC
+
+#WRITE(GBA,$2C6418)
+‚`‚†‚”‚…‚’ ‚‚’‚‚‚‰‚“‚‰‚Ž‚‡ ‚”‚ ‚“‚‚–‚… ‚q‚…‚“‚“‚‰‚…f‚“ ‚„‚‚•‚‡‚ˆ‚”‚…‚’C<line>
+‚ˆ‚… ‚‡‚‚–‚… ‚™‚‚• ‚“‚‚‚… ‚”‚’‚…‚‚“‚•‚’‚… ‚‚“ ‚”‚ˆ‚‚Ž‚‹‚“D<line>
+‚a‚’‚‰‚Ž‚‡ ‚ˆ‚‰‚“ ‚„‚‚•‚‡‚ˆ‚”‚…‚’ ‚ˆ‚‚‚…I<line>
+:end<line>
+<end>
+
+
+//BLOCK #028 NAME:		Pause Screen Hints Part 29 (5 Pointers)
+
+//POINTER #0 @ $2C6428 - STRING #0 @ $641A38
+
+#WRITE(GBA,$2C6428)
+‚f‚ ‚†‚‰‚Ž‚„ ‚q‚…‚“‚“‚‰‚…f‚“ ‚‹‚‰‚„‚Ž‚‚‚‚…‚„ ‚„‚‚•‚‡‚ˆ‚”‚…‚’I<line>
+:end<line>
+<end>
+
+
+//BLOCK #029 NAME:		Pause Screen Hints Part 30 (Pointer)
+
+//POINTER #0 @ $2C6430 - STRING #0 @ $641A78
+
+#WRITE(GBA,$2C6430)
+‚f‚ ‚‚“‚‹ ‚‚’‚‚•‚Ž‚„ ‚‚‚‚‚•‚” ‚q‚…‚“‚“‚‰‚…f‚“ ‚„‚‚•‚‡‚ˆ‚”‚…‚’D<line>
+<c d>‚R ‚‚…‚‚‚Œ‚…<c 1> ‚“‚ˆ‚‚•‚Œ‚„ ‚‡‚‰‚–‚… ‚™‚‚•<line>
+‚…‚Ž‚‚•‚‡‚ˆ ‚‰‚Ž‚†‚‚’‚‚‚”‚‰‚‚ŽD<line>
+:end<line>
+<end>
+
+
+//BLOCK #030 NAME:		Pause Screen Hints Part 31 (Pointer)
+
+//POINTER #0 @ $2C6450 - STRING #0 @ $641AD4
+
+#WRITE(GBA,$2C6450)
+‚e‚Œ‚•‚†‚†‚™f‚“ ‚ˆ‚…‚‚„f‚“ ‚†‚…‚…‚Œ‚‰‚Ž‚‡ ‚†‚•‚š‚š‚™I<line>
+‚f‚ ‚†‚‰‚Ž‚„ ‚“‚‚‚…‚”‚ˆ‚‰‚Ž‚‡ ‚”‚ˆ‚‚”f‚Œ‚Œ<line>
+‚ˆ‚…‚Œ‚ ‚”‚ˆ‚…‚ ‚ƒ‚‚‚Œ ‚„‚‚—‚ŽI<line>
+:end<line>
+<end>
+
+
+//BLOCK #031 NAME:		Pause Screen Hints Part 32 (Pointer)
+
+//POINTER #0 @ $2C6458 - STRING #0 @ $641B24
+
+#WRITE(GBA,$2C6458)
+‚v‚‰‚”‚ˆ ‚”‚ˆ‚… ‚j‚‚‚Œ‚ ‚b‚‚“‚”‚•‚‚… ‚‰‚Ž ‚”‚‚—C<line>
+‚™‚‚• ‚ƒ‚‚Ž ‚“‚ƒ‚‚Œ‚… ‚•‚ ‚ˆ‚‰‚‡‚ˆ ‚‚’‚…‚‚“<line>
+‚™‚‚• ‚ƒ‚‚•‚Œ‚„‚Žf‚” ‚‚‚…‚†‚‚’‚…I<line>
+:end<line>
+<end>
+
+
+//BLOCK #032 NAME:		Pause Screen Hints Part 33 (Pointer)
+
+//POINTER #0 @ $2C6490 - STRING #0 @ $641B78
+
+#WRITE(GBA,$2C6490)
+‚m‚‚— ‚”‚ˆ‚‚” ‚q‚…‚“‚“‚‰‚… ‚‚‚–‚…‚„ ‚”‚ˆ‚‚” ‚‚‚‚•‚Œ‚„‚…‚’ ‚†‚‚’ ‚™‚‚•C<line>
+‚™‚‚• ‚ƒ‚‚Ž ‚‡‚ ‚”‚ ‚Ž‚…‚— ‚‚Œ‚‚ƒ‚…‚“<line>
+‚‚Ž‚„ ‚ƒ‚‚”‚ƒ‚ˆ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚XD<line>
+:end<line>
+<end>
+
+
+//BLOCK #033 NAME:		Pause Screen Hints Part 34 (Pointer)
+
+//POINTER #0 @ $2C64B0 - STRING #0 @ $641BE4
+
+#WRITE(GBA,$2C64B0)
+‚o‚…‚‚‚Œ‚… ‚ˆ‚‚–‚… ‚‚‚…‚…‚Ž ‚‰‚Ž‚†‚…‚ƒ‚”‚…‚„ ‚—‚‰‚”‚ˆ<line>
+‚”‚ˆ‚… <c d>f‚r‚”‚‚ƒ‚ˆ‚… ‚u‚‰‚’‚•‚“<c 1>I<line>
+‚f‚ ‚†‚‰‚Ž‚„ <c d>f‚r‚”‚‚ƒ‚ˆ‚…|‚ƒ‚ƒ‚‰‚Ž‚…‚“<c 1><line>
+‚“‚ ‚™‚‚• ‚ƒ‚‚Ž ‚ƒ‚•‚’‚… ‚”‚ˆ‚…‚I<line>
+<line>
+:end<line>
+<end>
+
+
+//BLOCK #034 NAME:		Pause Screen Hints Part 35 (Pointer)
+
+//POINTER #0 @ $2C64D0 - STRING #0 @ $641C58
+
+#WRITE(GBA,$2C64D0)
+‚d‚ƒ‚ˆ‚‰‚‡‚™‚‚™‚ ‚‚Ž‚„ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P‚Of‚“ ‚…‚–‚‰‚Œ ‚‚Œ‚‚Ž‚“<line>
+‚‚’‚… ‚—‚’‚‰‚”‚”‚…‚Ž ‚‚Ž ‚”‚ˆ‚‰‚“ <c d>‚“‚…‚ƒ‚’‚…‚” ‚‚…‚“‚“‚‚‡‚…<c 1>D<line>
+‚c‚…‚Œ‚‰‚–‚…‚’ ‚”‚ˆ‚‰‚“ ‚”‚ ‚”‚ˆ‚… ‚‚”‚ˆ‚…‚’ ‚j‚•‚Ž‚‚‰‚ƒ‚ˆ‚‰I<line>
+:end<line>
+<end>
+
+
+//BLOCK #035 NAME:		Pause Screen Hints Part 36 (Pointer)
+
+//POINTER #0 @ $2C64F0 - STRING #0 @ $641CC8
+
+#WRITE(GBA,$2C64F0)
+<line>
+‚l‚‚“‚”‚…‚’ ‚”‚ˆ‚… ‚“‚…‚ƒ‚’‚…‚” ‚‚’‚” ‚‚†<line>
+‚l‚‚“‚”‚…‚’ ‚b‚’‚‚‚‹f‚“ ‚c‚‚Š‚F ‚”‚ˆ‚… <c d>‚t‚Œ‚”‚’‚ ‚r‚”‚‚’ ‚r‚‚‰‚Ž<c 1>I<line>
+:end<line>
+<end>
+
+
+//BLOCK #036 NAME:		Pause Screen Hints Part 37 (2 Pointers)
+
+//POINTER #0 @ $2C6510 - STRING #0 @ $641D1C
+
+#WRITE(GBA,$2C6510)
+<line>
+‚d‚ƒ‚ˆ‚‰‚‡‚™‚‚™‚f‚“ ‚•‚ ‚”‚ ‚“‚‚‚…‚”‚ˆ‚‰‚Ž‚‡DDD<line>
+‚x‚‚• ‚ˆ‚‚–‚… ‚”‚ ‚—‚‚’‚Ž ‚”‚ˆ‚… ‚j‚•‚Ž‚‚‰‚ƒ‚ˆ‚‰I<line>
+:end<line>
+<end>
+
+
+//BLOCK #037 NAME:		Pause Screen Hints Part 38 (Pointer)
+
+//POINTER #0 @ $2C6528 - STRING #0 @ $641D74
+
+#WRITE(GBA,$2C6528)
+‚t‚“‚… ‚”‚ˆ‚… ‚“‚ˆ‚•‚”‚”‚…‚’‚“ ‚”‚ ‚ƒ‚‚”‚ƒ‚ˆ ‚”‚ˆ‚‚”<line>
+‚“‚•‚‚…‚’ ‚†‚‚“‚” <c d>‚b‚ˆ‚‚Ž‚‚‚‡‚™‚<c 1>I<line>
+‚`‚“‚‹ ‚l‚‚… ‚†‚‚’ ‚ ‚ˆ‚‰‚Ž‚” ‚‰‚† ‚™‚‚• ‚Ž‚…‚…‚„ ‚‚Ž‚…I<line>
+:end<line>
+<end>
+
+
+//BLOCK #038 NAME:		Pause Screen Hints Part 39 (Pointer)
+
+//POINTER #0 @ $2C6530 - STRING #0 @ $641DF4
+
+#WRITE(GBA,$2C6530)
+‚s‚ˆ‚… ‚‚‚‚‚‚‚“ ‚‚’‚‚•‚Ž‚„ ‚”‚ˆ‚… ‚j‚•‚Ž‚‚‰‚ƒ‚ˆ‚‰f‚“ ‚ˆ‚‚‚…<line>
+‚‚’‚… ‚“‚…‚” ‚”‚ ‚‚‚Œ‚‚—I<line>
+‚x‚‚• ‚ˆ‚‚–‚… ‚”‚ ‚—‚‚’‚Ž ‚”‚ˆ‚…‚C ‚‚Ž‚„ ‚†‚‚“‚”I<line>
+:end<line>
+<end>
+
+
+//BLOCK #039 NAME:		Pause Screen Hints Part 40 (Pointer)
+
+//POINTER #0 @ $2C6538 - STRING #0 @ $641E40
+
+#WRITE(GBA,$2C6538)
+‚b‚ˆ‚‚“‚… ‚‚†‚”‚…‚’ ‚”‚ˆ‚… ‚—‚‰‚ƒ‚‹‚…‚„ ‚‚…‚’‚ƒ‚ˆ‚‚Ž‚”C<line>
+<c d>‚d‚ƒ‚ˆ‚‰‚‡‚™‚‚™‚<c 1>C ‚‚Ž‚„ ‚“‚”‚‚ ‚ˆ‚‰‚ ‚†‚’‚‚<line>
+‚„‚…‚”‚‚Ž‚‚”‚‰‚Ž‚‡ ‚”‚ˆ‚‚“‚… ‚‚‚‚‚‚‚“I<line>
+:end<line>
+<end>
+
+
+//BLOCK #040 NAME:		Pause Screen Hints Part 41 (Pointer)
+
+//POINTER #0 @ $2C6540 - STRING #0 @ $641EA4
+
+#WRITE(GBA,$2C6540)
+‚c‚‚„‚‡‚… ‚”‚ˆ‚… ‚“‚ˆ‚•‚’‚‰‚‹‚…‚Ž‚“ ‚‚Ž‚„ ‚ƒ‚‚”‚ƒ‚ˆ ‚d‚ƒ‚ˆ‚‰‚‡‚™‚‚™‚I<line>
+:end<line>
+<end>
+
+
+//BLOCK #041 NAME:		Pause Screen Hints Part 42 (2 Pointers)
+
+//POINTER #0 @ $2C6558 - STRING #0 @ $641EEC
+
+#WRITE(GBA,$2C6558)
+‚s‚ˆ‚‚” ‚…‚˜‚‚Œ‚‚“‚‰‚‚Ž ‚“‚…‚Ž‚” ‚™‚‚• ‚†‚Œ‚™‚‰‚Ž‚‡I<line>
+‚k‚…‚”f‚“ ‚‡‚ ‚Œ‚‚‚‹ ‚†‚‚’ ‚l‚‚…I<line>
+:end<line>
+<end>
+
+
+//BLOCK #042 NAME:		Pause Screen Hints Part 43 (Pointer)
+
+//POINTER #0 @ $2C6560 - STRING #0 @ $641F30
+
+#WRITE(GBA,$2C6560)
+‚e‚‰‚Ž‚„ ‚”‚ˆ‚… <c d>‚b‚…‚Œ‚Œ ‚j‚…‚™<c 1> ‚‚Ž‚„ ‚“‚‚–‚… ‚k‚•‚‚‰I<line>
+‚k‚‰‚“‚”‚…‚Ž ‚”‚ ‚—‚ˆ‚‚” ‚“‚ˆ‚… ‚“‚‚™‚“ ‚”‚ ‚•‚Ž‚–‚…‚‰‚Œ<line>
+‚”‚ˆ‚… ‚“‚…‚ƒ‚’‚…‚”‚“ ‚”‚ ‚‚‚…‚Ž‚‰‚Ž‚‡ ‚”‚ˆ‚… ‚„‚‚‚’‚“I<line>
+:end<line>
+<end>
+
+
+//BLOCK #043 NAME:		Pause Screen Hints Part 44 (2 Pointers)
+
+//POINTER #0 @ $2C6568 - STRING #0 @ $641FC0
+
+#WRITE(GBA,$2C6568)
+‚f‚ ‚†‚‰‚Ž‚„ ‚”‚ˆ‚… ‚†‚’‚‰‚…‚Ž‚„ ‚™‚‚•f‚–‚…<line>
+‚‚‚…‚…‚Ž ‚“‚…‚‚…‚’‚‚”‚…‚„ ‚†‚’‚‚C ‚l‚‚…D<line>
+:end<line>
+<end>
+
+
+//BLOCK #044 NAME:		Pause Screen Hints Part 45 (Pointer)
+
+//POINTER #0 @ $2C6580 - STRING #0 @ $641FFC
+
+#WRITE(GBA,$2C6580)
+‚e‚‚Œ‚Œ‚‚— ‚”‚ˆ‚… ‚”‚’‚‚‰‚Œ ‚‚† <c d>‚‹‚…‚Œ‚ ‚’‚‚Œ‚Œ‚“<c 1> ‚”‚ ‚†‚‰‚Ž‚„ ‚l‚‚…I<line>
+:end<line>
+<end>
+
+
+//BLOCK #045 NAME:		Pause Screen Hints Part 46 (Pointer)
+
+//POINTER #0 @ $2C6590 - STRING #0 @ $642054
+
+#WRITE(GBA,$2C6590)
+<line>
+‚b‚ˆ‚‚“‚… ‚‚†‚”‚…‚’ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P‚O ‚—‚ˆ‚‰‚Œ‚… ‚‚–‚‚‰‚„‚‰‚Ž‚‡<line>
+‚”‚ˆ‚… ‚’‚‚‰‚Ž ‚‚† ‚‚‚’‚ƒ‚•‚‚‰‚Ž‚…‚†‚‰‚“‚ˆ ‚ˆ‚… ‚”‚ˆ‚’‚‚—‚“ ‚‚” ‚™‚‚•I<line>
+:end<line>
+<end>
+
+
+//BLOCK #046 NAME:		Pause Screen Hints Part 47 (Pointer)
+
+//POINTER #0 @ $2C6598 - STRING #0 @ $6420A8
+
+#WRITE(GBA,$2C6598)
+‚c‚…‚†‚…‚‚” ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P‚OI<line>
+:end<line>
+<end>
+
+
+//BLOCK #047 NAME:		Pause Screen Hints Part 48 (12 Pointers)
+
+//POINTER #0 @ $2C65A8 - STRING #0 @ $6420D8
+
+#WRITE(GBA,$2C65A8)
+‚q‚…‚‚„ ‚”‚ˆ‚… ‚“‚‰‚‡‚Ž‚“ ‚”‚ ‚’‚…‚‚…‚‚‚‚…‚’ ‚™‚‚•‚’ ‚`‚‚‚‰‚Œ‚‰‚”‚‰‚…‚“<line>
+‚“‚ ‚™‚‚• ‚ƒ‚‚Ž ‚“‚‚–‚… ‚l‚‚‚ ‚r‚”‚‚’I<line>
+:end<line>
+<end>
+
+
+//BLOCK #048 NAME:		Pause Screen Hints Part 49 (12 Pointers)
+
+//POINTER #0 @ $2C65B0 - STRING #0 @ $642134
+
+#WRITE(GBA,$2C65B0)
+<line>
+‚q‚…‚‚‚’‚” ‚‚‚‚ƒ‚‹ ‚”‚ ‚g‚…‚’‚‚‚Ž ‚‚†‚”‚…‚’ ‚™‚‚•f‚–‚…<line>
+‚‚‚…‚‚”‚…‚Ž ‚‚Œ‚Œ <c d>‚S‚O<c 1> ‚‚† ‚”‚ˆ‚‚“‚… ‚‡‚’‚…‚…‚Ž ‚ƒ‚’‚…‚‚”‚•‚’‚…‚“D<line>
+:end<line>
+<end>
+
+
+//BLOCK #049 NAME:		Pause Screen Hints Part 50 (Pointer)
+
+//POINTER #0 @ $2C6660 - STRING #0 @ $642190
+
+#WRITE(GBA,$2C6660)
+‚t‚“‚… ‚”‚ˆ‚… ‚‰‚Ž‚†‚ ‚†‚’‚‚ ‚”‚ˆ‚… ‚‚‚‚‚ˆ‚Œ‚…‚”<line>
+‚”‚ ‚†‚‰‚Ž‚„ ‚”‚ˆ‚… ‚“‚ˆ‚‚I<line>
+‚h‚† ‚™‚‚•f‚’‚… ‚‰‚Ž ‚ ‚‚‚‰‚Ž‚„C ‚‚“‚‹ ‚l‚‚… ‚†‚‚’ ‚ ‚ˆ‚‰‚Ž‚”I<line>
+:end<line>
+<end>
+
+
+//BLOCK #050 NAME:		Pause Screen Hints Part 51 (Pointer)
+
+//POINTER #0 @ $2C6680 - STRING #0 @ $6421F0
+
+#WRITE(GBA,$2C6680)
+‚e‚‰‚Ž‚„ ‚”‚ˆ‚… <c d>‚R ‚‹‚…‚™‚“<c 1> ‚”‚ˆ‚‚” ‚‚‚…‚Ž ‚”‚ˆ‚… ‚a‚‚“‚“ ‚c‚‚‚’I<line>
+:end<line>
+<end>
+
+
+//BLOCK #051 NAME:		Pause Screen Hints Part 52 (Pointer)
+
+//POINTER #0 @ $2C66A0 - STRING #0 @ $642234
+
+#WRITE(GBA,$2C66A0)
+‚f‚ ‚†‚‰‚Ž‚„ ‚”‚ˆ‚… <c d>‚R ‚‚‰‚…‚ƒ‚…‚“<c 1> ‚‚† ‚†‚•‚’‚Ž‚‰‚”‚•‚’‚…<line>
+‚q‚•‚‚‚™ ‚Œ‚‚“‚”I<line>
+‚h‚† ‚™‚‚• ‚„‚‚Žf‚” ‚‹‚Ž‚‚— ‚—‚ˆ‚‚” ‚”‚ ‚„‚C ‚‚“‚‹ ‚l‚‚…I<line>
+:end<line>
+<end>
+
+
+//BLOCK #052 NAME:		Pause Screen Hints Part 53 (Pointer)
+
+//POINTER #0 @ $2C66C0 - STRING #0 @ $6422AC
+
+#WRITE(GBA,$2C66C0)
+‚t‚“‚… ‚”‚ˆ‚… ‚“‚—‚‰‚”‚ƒ‚ˆ‚…‚“ ‚”‚ ‚‚‚…‚’‚‚”‚… ‚”‚ˆ‚… ‚—‚‚”‚…‚’<line>
+‚‚Ž‚„ ‚†‚‰‚Ž‚„ ‚”‚ˆ‚… ‚”‚’‚…‚‚“‚•‚’‚… ‚ƒ‚ˆ‚…‚“‚”I<line>
+‚`‚“‚‹ ‚l‚‚… ‚”‚ ‚‡‚‰‚–‚… ‚™‚‚•<line>
+‚ ‚ˆ‚‰‚Ž‚” ‚‰‚† ‚™‚‚• ‚‡‚…‚” ‚ƒ‚‚Ž‚†‚•‚“‚…‚„I<line>
+:end<line>
+<end>
+
+
+//BLOCK #053 NAME:		Pause Screen Hints Part 54 (Pointer)
+
+//POINTER #0 @ $2C66D0 - STRING #0 @ $642328
+
+#WRITE(GBA,$2C66D0)
+<line>
+‚k‚…‚”f‚“ ‚‡‚ ‚‚…‚…‚” ‚”‚ˆ‚… <c d>‚a‚Œ‚‰‚‚<c 1> ‚’‚…‚“‚…‚‚’‚ƒ‚ˆ‚…‚’C<line>
+‚n‚Œ‚„ ‚l‚‚Ž ‚l‚…‚ƒ‚ˆ‚‚Ž‚‰I<line>
+:end<line>
+<end>
+
+
+//BLOCK #054 NAME:		Pause Screen Hints Part 55 (Pointer)
+
+//POINTER #0 @ $2C66D8 - STRING #0 @ $642388
+
+#WRITE(GBA,$2C66D8)
+<line>
+‚k‚…‚”f‚“ ‚ˆ‚…‚Œ‚ ‚‚•‚” ‚n‚Œ‚„ ‚l‚‚Ž ‚l‚…‚ƒ‚ˆ‚‚Ž‚‰<line>
+‚‚‚™ ‚”‚’‚™‚‰‚Ž‚‡ ‚‚•‚” ‚ˆ‚‰‚“ ‚a‚Œ‚‰‚‚I<line>
+:end<line>
+<end>
+
+
+//BLOCK #055 NAME:		Pause Screen Hints Part 56 (Pointer)
+
+//POINTER #0 @ $2C66F8 - STRING #0 @ $6423D8
+
+#WRITE(GBA,$2C66F8)
+‚b‚ˆ‚‚“‚… ‚‚†‚”‚…‚’ ‚”‚ˆ‚‚” ‚‚’‚‚Ž‚‹‚“‚”‚…‚’C<line>
+‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚QI<line>
+‚a‚… ‚ƒ‚‚’‚…‚†‚•‚Œ ‚‚† ‚”‚ˆ‚… ‚—‚‚”‚…‚’ ‚ƒ‚•‚’‚’‚…‚Ž‚”‚“I<line>
+:end<line>
+<end>
+
+
+//BLOCK #056 NAME:		Pause Screen Hints Part 57 (Pointer)
+
+//POINTER #0 @ $2C6710 - STRING #0 @ $642430
+
+#WRITE(GBA,$2C6710)
+<line>
+‚v‚ˆ‚f‚“ ‚”‚ˆ‚… ‚‚Ž‚… ‚ƒ‚’‚™‚‰‚Ž‚‡ ‚“‚ ‚Œ‚‚•‚„‚Œ‚™H<line>
+‚j‚…‚…‚ ‚‚‚–‚‰‚Ž‚‡ ‚”‚ ‚†‚‰‚Ž‚„ ‚‚•‚”I<line>
+:end<line>
+<end>
+
+
+//BLOCK #057 NAME:		Pause Screen Hints Part 58 (Pointer)
+
+//POINTER #0 @ $2C6730 - STRING #0 @ $642478
+
+#WRITE(GBA,$2C6730)
+‚r‚‰‚“‚”‚•‚’‚” ‚’‚‚Ž ‚‚—‚‚™I<line>
+‚p‚•‚‰‚ƒ‚‹C ‚—‚… ‚ˆ‚‚–‚… ‚”‚ ‚ƒ‚‚”‚ƒ‚ˆ ‚ˆ‚…‚’I<line>
+:end<line>
+<end>
+
+
+//BLOCK #058 NAME:		Pause Screen Hints Part 59 (Pointer)
+
+//POINTER #0 @ $2C6748 - STRING #0 @ $6424BC
+
+#WRITE(GBA,$2C6748)
+‚t‚“‚… ‚”‚ˆ‚… ‚”‚•‚’‚”‚Œ‚… ‚’‚‚„‚‚’ ‚”‚<line>
+‚ƒ‚‚”‚ƒ‚ˆ ‚”‚ˆ‚… ‚s‚•‚’‚”‚Œ‚… ‚‹‚‰‚„‚“<line>
+‚‚Ž‚„ ‚‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚…‚ ‚‚‚‚ƒ‚‹ ‚”‚ ‚l‚‚…D<line>
+:end<line>
+<end>
+
+
+//BLOCK #059 NAME:		Pause Screen Hints Part 60 (Pointer)
+
+//POINTER #0 @ $2C6760 - STRING #0 @ $642518
+
+#WRITE(GBA,$2C6760)
+‚t‚“‚… ‚”‚ˆ‚… ‚”‚•‚’‚”‚Œ‚… ‚’‚‚„‚‚’ ‚”‚<line>
+‚ƒ‚‚”‚ƒ‚ˆ ‚”‚ˆ‚… ‚s‚•‚’‚”‚Œ‚… ‚‹‚‰‚„‚“<line>
+‚‚Ž‚„ ‚‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚…‚ ‚‚‚‚ƒ‚‹ ‚”‚ ‚l‚‚…D<line>
+:end<line>
+<end>
+
+
+//BLOCK #060 NAME:		Pause Screen Hints Part 61 (Pointer)
+
+//POINTER #0 @ $2C6780 - STRING #0 @ $642574
+
+#WRITE(GBA,$2C6780)
+<line>
+‚s‚‚‹‚… ‚„‚‚—‚Ž ‚”‚ˆ‚… ‚‚‚‚„ ‚‡‚•‚™ ‚—‚ˆ‚ ‚”‚•‚’‚Ž‚…‚„<line>
+‚”‚ˆ‚… ‚s‚•‚’‚”‚Œ‚… ‚j‚‰‚„‚“ ‚‰‚Ž‚”‚ ‚„‚…‚Œ‚‰‚Ž‚‘‚•‚…‚Ž‚”‚“I<line>
+:end<line>
+<end>
+
+
+//BLOCK #061 NAME:		Pause Screen Hints Part 62 (Pointer)
+
+//POINTER #0 @ $2C6798 - STRING #0 @ $6425B4
+
+#WRITE(GBA,$2C6798)
+‚v‚‰‚”‚ˆ ‚”‚ˆ‚… ‚—‚‚”‚…‚’ ‚„‚’‚‚‰‚Ž‚…‚„C<line>
+‚—‚… ‚ƒ‚‚Žf‚” ‚‚‚–‚… ‚†‚‚’‚—‚‚’‚„I<line>
+‚s‚‚‹‚… ‚‚•‚” ‚”‚ˆ‚… <c d>‚ƒ‚‚’‚‹<c 1> ‚‚Ž‚„<line>
+‚‚‚‹‚… ‚”‚ˆ‚… ‚—‚‚”‚…‚’ ‚†‚Œ‚‚— ‚‚‡‚‚‰‚ŽI<line>
+:end<line>
+<end>
+
+
+//BLOCK #062 NAME:		Pause Screen Hints Part 63 (Pointer)
+
+//POINTER #0 @ $2C67B8 - STRING #0 @ $642638
+
+#WRITE(GBA,$2C67B8)
+‚r‚ˆ‚•‚’‚‰‚‹‚‰‚” ‚ƒ‚‚Žf‚” ‚“‚—‚‰‚C<line>
+‚“‚ ‚”‚ˆ‚…‚™ ‚‚“‚‹‚…‚„ ‚•‚“ ‚”‚ ‚‡‚ ‚•‚Ž‚„‚…‚’‚—‚‚”‚…‚’<line>
+‚‚Ž‚„ ‚‡‚…‚” ‚”‚ˆ‚…‚‰‚’ <c d>‚‚‚…‚Œ‚Œ<c 1> ‚‚‚‚ƒ‚‹I<line>
+:end<line>
+<end>
+
+
+//BLOCK #063 NAME:		Pause Screen Hints Part 64 (Pointer)
+
+//POINTER #0 @ $2C67C0 - STRING #0 @ $642698
+
+#WRITE(GBA,$2C67C0)
+‚t‚“‚… ‚”‚ˆ‚… ‚”‚…‚ƒ‚ˆ‚Ž‚‰‚‘‚•‚… ‚r‚ˆ‚•‚’‚‰‚‹‚‰‚” ‚”‚‚•‚‡‚ˆ‚” ‚™‚‚•C<line>
+‚”‚ˆ‚… <c d>‚`‚‰‚’ ‚i‚•‚‚<c 1>C ‚”‚ ‚‡‚…‚” ‚‚‚“‚” ‚”‚ˆ‚… ‚’‚‚‚<line>
+‚—‚‰‚”‚ˆ ‚”‚ˆ‚… ‚“‚‰‚‡‚Ž ‚‰‚Ž ‚‰‚”I<line>
+:end<line>
+<end>
+
+
+//BLOCK #064 NAME:		Pause Screen Hints Part 65 (Pointer)
+
+//POINTER #0 @ $2C67E0 - STRING #0 @ $64272C
+
+#WRITE(GBA,$2C67E0)
+‚t‚“‚… ‚”‚ˆ‚… <c d>‚‚‚‚‚‚‚“<c 1> ‚”‚ ‚„‚…‚“‚”‚’‚‚™ ‚”‚ˆ‚… <c d>‚‚‚Œ‚‚ƒ‚‹‚“<c 1><line>
+‚‰‚Ž ‚™‚‚•‚’ ‚—‚‚™ ‚”‚ ‚’‚…‚‚ƒ‚ˆ ‚”‚ˆ‚… ‚‚‚‚”‚”‚‚I<line>
+‚s‚ˆ‚… ‚”‚’‚‰‚ƒ‚‹ ‚‰‚“ ‚”‚ ‚‡‚ ‚†‚‚’ ‚”‚ˆ‚… ‚‚‚•‚’‚‰‚…‚„ ‚‚‚‚‚‚‚“I<line>
+:end<line>
+<end>
+
+
+//BLOCK #065 NAME:		Pause Screen Hints Part 66 (Pointer)
+
+//POINTER #0 @ $2C67F0 - STRING #0 @ $6427C4
+
+#WRITE(GBA,$2C67F0)
+<line>
+‚g‚…‚‚„ ‚‰‚Ž‚“‚‰‚„‚… ‚n‚Œ‚„ ‚l‚‚Ž ‚f‚’‚‰‚š‚š‚Œ‚™f‚“ <c d>‚“‚”‚‚’‚‚‡‚… ‚’‚‚‚<c 1><line>
+‚‚Ž‚„ ‚‡‚ ‚‡‚…‚” ‚ˆ‚‰‚ ‚“‚‚‚… <c d>‚ˆ‚‚Ž‚…‚™<c 1>I<line>
+:end<line>
+<end>
+
+
+//BLOCK #066 NAME:		Pause Screen Hints Part 67 (Pointer)
+
+//POINTER #0 @ $2C6810 - STRING #0 @ $642830
+
+#WRITE(GBA,$2C6810)
+‚v‚ˆ‚‰‚Œ‚… ‚‚Ž‚… <c d>‚“‚—‚‰‚”‚ƒ‚ˆ<c 1> ‚‰‚“ ‚“‚”‚‰‚Œ‚Œ ‚Œ‚‰‚”C<line>
+‚‚‚‹‚… ‚”‚ˆ‚… ‚‚”‚ˆ‚…‚’ <c d>‚“‚—‚‰‚”‚ƒ‚ˆ‚…‚“<c 1> ‚Œ‚‰‚‡‚ˆ‚” ‚•‚<line>
+‚‚‚™ ‚“‚‚‰‚Ž‚Ž‚‰‚Ž‚‡ ‚‰‚Ž‚”‚ ‚‰‚”I<line>
+:end<line>
+<end>
+
+//BLOCK #066 NAME:		Pause Screen Hints Part 68 (Pointer)
+
+//POINTER #0 @ $2C6820 - STRING #0 @ $6428BC
+
+#WRITE(GBA,$2C6820)
+<line>
+‚i‚•‚“‚” ‚Œ‚‰‚‹‚… ‚‚‚…‚†‚‚’‚…C ‚‚‰‚ ‚†‚‚’ ‚”‚ˆ‚… ‚‚‚•‚’‚‰‚…‚„ <c d>‚‚‚‚‚‚‚“<c 1><line>
+‚”‚ ‚„‚…‚“‚”‚’‚‚™ ‚‚Œ‚Œ ‚”‚ˆ‚… <c d>‚‚‚Œ‚‚ƒ‚‹‚“<c 1> ‚‚Ž‚„ ‚‚‚–‚… ‚†‚‚’‚—‚‚’‚„I<line>
+:end<line>
+<end>
+
+//BLOCK #066 NAME:		Pause Screen Hints Part 69 (Pointer)
+
+//POINTER #0 @ $2C6830 - STRING #0 @ $642940
+#WRITE(GBA,$2C6830)
+‚f‚‚”‚ˆ‚…‚’ ‚“‚‚‚… <c d>‚“‚”‚‰‚ƒ‚‹‚“<c 1> ‚”‚<line>
+‚‚‚‹‚… ‚ <c d>‚‚‚•‚Ž‚„‚Œ‚…<c 1> ‚†‚‚’ ‚u‚‰‚–‚I<line>
+‚l‚‚‹‚‰‚Ž‚‡ ‚‚‚•‚Ž‚„‚Œ‚…‚“ ‚ƒ‚Œ‚‚“‚…‚’ ‚”‚ ‚ˆ‚…‚’<line>
+‚‚…‚‚Ž‚“ ‚ ‚“‚ˆ‚‚’‚”‚…‚’ ‚”‚’‚‰‚I<line>
+:end<line>
+<end>
+
+//BLOCK #066 NAME:		Pause Screen Hints Part 70 (Pointer)
+
+//POINTER #0 @ $2C6840 - STRING #0 @ $6429C4
+#WRITE(GBA,$2C6840)
+<c d>‚r‚”‚‚’ ‚r‚‚‰‚Ž<c 1> ‚‰‚Ž‚”‚ ‚”‚ˆ‚… <c d>‚“‚—‚‰‚”‚ƒ‚ˆ<c 1> ‚”‚ ‚“‚”‚‚<line>
+‚”‚ˆ‚… <c d>‚ƒ‚•‚’‚’‚…‚Ž‚”<c 1> ‚†‚‚’ ‚ ‚“‚ˆ‚‚’‚” ‚”‚‰‚‚…D<line>
+‚t‚“‚… ‚—‚ˆ‚‚” ‚”‚‰‚‚… ‚™‚‚• ‚ˆ‚‚–‚… ‚”‚ ‚ˆ‚•‚’‚’‚™ ‚‚Ž‚—‚‚’‚„‚“I<line>
+:end<line>
+<end>
+
+
+//BLOCK #067 NAME:		Pause Screen Hints Part 71 (Pointer)
+
+//POINTER #0 @ $2C6858 - STRING #0 @ $642A4C
+
+#WRITE(GBA,$2C6858)
+<line>
+‚s‚‚‹‚… ‚‚•‚” ‚”‚ˆ‚… <c d>‚ƒ‚‚’‚‹<c 1> ‚‚Œ‚•‚‡‚‡‚‰‚Ž‚‡ ‚•‚ ‚”‚ˆ‚… ‚—‚‚”‚…‚’<line>
+‚“‚ ‚™‚‚• ‚ƒ‚‚Ž ‚“‚”‚‚™ ‚ˆ‚‚” ‚‚Ž ‚o‚•‚ƒ‚ˆ‚‰ ”‚Tf‚“ ‚”‚’‚‚‰‚ŒI<line>
+:end<line>
+<end>
+
+
+//BLOCK #068 NAME:		Pause Screen Hints Part 72 (2 Pointers)
+
+//POINTER #0 @ $2C6860 - STRING #0 @ $642AB8
+
+#WRITE(GBA,$2C6860)
+<line>
+‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚Tf‚“ ‚‹‚‰‚„‚Ž‚‚‚‚…‚„ <c d>‚o‚•‚’‚“‚Œ‚…‚™<c 1>I<line>
+‚k‚…‚”f‚“ ‚“‚‚–‚… ‚ˆ‚‰‚ ‚”‚‚‡‚…‚”‚ˆ‚…‚’ ‚—‚‰‚”‚ˆ ‚l‚‚‚ŽI<line>
+:end<line>
+<end>
+
+
+//BLOCK #069 NAME:		Pause Screen Hints Part 73 (Pointer)
+
+//POINTER #0 @ $2C6868 - STRING #0 @ $642B30
+
+#WRITE(GBA,$2C6868)
+‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚Tf‚“ ‚‚•‚” ‚ ‚ƒ‚•‚’‚“‚… ‚‚Ž ‚”‚ˆ‚… ‚„‚‚‚’I<line>
+‚t‚“‚‰‚Ž‚‡ ‚l‚‚…f‚“ ‚ˆ‚‰‚Ž‚”C <c d>‚„‚…‚†‚…‚‚” ‚”‚ˆ‚… ‚…‚Ž‚…‚‚‰‚…‚“<line>
+‚‰‚Ž ‚”‚ˆ‚… ‚’‚‰‚‡‚ˆ‚” ‚‚’‚„‚…‚’<c 1> ‚“‚ ‚™‚‚• ‚ƒ‚‚Ž ‚‚‚…‚Ž ‚‰‚”I<line>
+:end<line>
+<end>
+
+
+//BLOCK #070 NAME:		Pause Screen Hints Part 74 (Pointer)
+
+//POINTER #0 @ $2C6878 - STRING #0 @ $642BBC
+
+#WRITE(GBA,$2C6878)
+<line>
+‚r‚”‚…‚‚Œ ‚”‚ˆ‚… <c d>‚b‚…‚Œ‚Œ ‚j‚…‚™<c 1> ‚†‚’‚‚ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚T<line>
+‚“‚ ‚—‚… ‚ƒ‚‚Ž ‚‚‚…‚Ž ‚o‚•‚’‚“‚Œ‚…‚™f‚“ ‚‚’‚‰‚“‚‚Ž ‚„‚‚‚’I<line>
+:end<line>
+<end>
+
+
+//BLOCK #071 NAME:		Pause Screen Hints Part 75 (Pointer)
+
+//POINTER #0 @ $2C6880 - STRING #0 @ $642C30
+
+#WRITE(GBA,$2C6880)
+<line>
+‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚T ‚’‚‚Ž ‚‚—‚‚™I<line>
+‚b‚ˆ‚‚“‚… ‚‚†‚”‚…‚’ ‚ˆ‚…‚’ ‚‚Ž‚„ ‚“‚…‚”‚”‚Œ‚… ‚”‚ˆ‚‰‚Ž‚‡‚“I<line>
+:end<line>
+<end>
+
+
+//BLOCK #072 NAME:		Pause Screen Hints Part 76 (Pointer)
+
+//POINTER #0 @ $2C6898 - STRING #0 @ $642C7C
+
+#WRITE(GBA,$2C6898)
+‚f‚‚”‚ˆ‚…‚’ ‚”‚ˆ‚… <c d>‚S ‚†‚’‚‚‡‚‚…‚Ž‚”‚“<c 1> ‚‚†<line>
+‚”‚ˆ‚… ‚„‚…‚“‚”‚’‚‚™‚…‚„ ‚“‚”‚‚”‚•‚… ‚‚Ž‚„<line>
+‚‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚…‚ ‚‚‚‚ƒ‚‹ ‚”‚ ‚”‚ˆ‚… ‚o‚•‚†‚†‚”‚‚ ‚r‚‚Œ‚„‚‰‚…‚’D<line>
+‚à‚Á‚Äs‚±‚¤<line>
+:end<line>
+<end>
+
+
+//BLOCK #073 NAME:		Pause Screen Hints Part 77 (Pointer)
+
+//POINTER #0 @ $2C68B8 - STRING #0 @ $642CF0
+
+#WRITE(GBA,$2C68B8)
+<line>
+‚b‚Œ‚…‚‚’ ‚”‚ˆ‚… <c d>‚”‚ˆ‚’‚…‚… ‚q‚‰‚„‚… ‚”‚’‚‰‚‚Œ‚“<c 1> ‚‚Ž‚„<line>
+‚‚…‚…‚” ‚‚‚‚ƒ‚‹ ‚•‚ ‚—‚‰‚”‚ˆ ‚”‚ˆ‚… ‚o‚•‚†‚†‚”‚‚ ‚r‚‚Œ‚„‚‰‚…‚’I<line>
+:end<line>
+<end>
+
+
+//BLOCK #074 NAME:		Pause Screen Hints Part 78 (Pointer)
+
+//POINTER #0 @ $2C68D8 - STRING #0 @ $642D48
+
+#WRITE(GBA,$2C68D8)
+<line>
+‚e‚‰‚Ž‚„ ‚”‚ˆ‚… <c d>‚†‚‚•‚’ ‚‚‰‚“‚“‚‰‚Ž‚‡ ‚‚…‚‚‚‚…‚’‚“ ‚‚† ‚”‚ˆ‚… ‚r‚‘‚•‚‰‚’‚”‚“<c 1><line>
+‚‚Ž‚„ ‚‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚…‚ ‚‚‚‚ƒ‚‹ ‚”‚ ‚a‚‚—‚“‚“D<line>
+:end<line>
+<end>
+
+
+//BLOCK #075 NAME:		Pause Screen Hints Part 79 (Pointer)
+
+//POINTER #0 @ $2C68F0 - STRING #0 @ $642D9C
+
+#WRITE(GBA,$2C68F0)
+‚s‚ˆ‚‰‚“ ‚„‚‚…‚“‚Žf‚” ‚Œ‚‚‚‹ ‚‡‚‚‚„I<line>
+‚s‚ˆ‚…‚’‚… ‚‰‚“ ‚Ž‚ ‚”‚‰‚‚… ‚”‚ ‚Œ‚‚“‚…I<line>
+‚j‚…‚…‚ ‚‚‚–‚‰‚Ž‚‡ ‚“‚ ‚™‚‚• ‚„‚‚Žf‚”<line>
+‚‡‚…‚” ‚ƒ‚’‚•‚“‚ˆ‚…‚„ ‚‚‚™ ‚”‚ˆ‚… ‚—‚‚Œ‚ŒI<line>
+:end<line>
+<end>
+
+
+//BLOCK #076 NAME:		Pause Screen Hints Part 80 (Pointer)
+
+//POINTER #0 @ $2C6910 - STRING #0 @ $642DF8
+
+#WRITE(GBA,$2C6910)
+‚c‚…‚Œ‚‰‚–‚…‚’ ‚”‚ˆ‚… ‚‰‚”‚…‚‚“ ‚™‚‚• ‚†‚‰‚Ž‚„ ‚”‚ ‚”‚ˆ‚… ‚r‚‘‚•‚‰‚’‚”‚“<line>
+‚“‚ ‚™‚‚• ‚ƒ‚‚Ž ‚‡‚…‚” ‚”‚ˆ‚… <c d>‚b‚…‚Œ‚Œ ‚j‚…‚™<c 1><line>
+‚‚Ž‚„ ‚ˆ‚‚Ž‚„ ‚‰‚” ‚‚–‚…‚’ ‚”‚ ‚a‚‚—‚“‚“D<line>
+:end<line>
+<end>
+
+
+//BLOCK #077 NAME:		Pause Screen Hints Part 81 (Pointer)
+
+//POINTER #0 @ $2C6930 - STRING #0 @ $642E78
+
+#WRITE(GBA,$2C6930)
+‚a‚…‚‚” ‚”‚ˆ‚… ‚‚‚‚„ ‚‡‚•‚™ ‚Š‚•‚“‚” ‚‚‚“‚” ‚ˆ‚…‚’‚…<line>
+‚“‚ ‚—‚… ‚ƒ‚‚Ž ‚ƒ‚ˆ‚‚’‚” ‚ ‚ƒ‚‚•‚’‚“‚… ‚†‚‚’‚­<line>
+‚n‚‡‚•‚’‚f‚“ ‚b‚‚“‚”‚Œ‚…I<line>
+:end<line>
+<end>
+
+
+//BLOCK #078 NAME:		Pause Screen Hints Part 82 (Pointer)
+
+//POINTER #0 @ $2C6948 - STRING #0 @ $642ECC
+
+#WRITE(GBA,$2C6948)
+<line>
+‚k‚‚‚‹ ‚†‚‚’ <c d>‚R ‚‚‚’‚… ‚r‚ˆ‚…‚Œ‚Œ ‚s‚‚‚…‚“<c 1><line>
+‚‚Ž‚„ ‚‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚…‚ ‚‚‚‚ƒ‚‹ ‚”‚ ‚l‚‚…D<line>
+:end<line>
+<end>
+
+
+//BLOCK #079 NAME:		Pause Screen Hints Part 83 (Pointer)
+
+//POINTER #0 @ $2C6968 - STRING #0 @ $642F28
+
+#WRITE(GBA,$2C6968)
+<line>
+‚g‚•‚’‚’‚™ ‚”‚ ‚”‚ˆ‚… ‚Ž‚…‚˜‚” ‚‚’‚…‚I<line>
+‚x‚‚• ‚ƒ‚‚Žf‚” ‚Œ‚…‚” ‚n‚‡‚•‚’‚f‚“ ‚‚‰‚Ž‚‰‚‚Ž‚“ ‚ƒ‚‚”‚ƒ‚ˆ ‚™‚‚•I<line>
+:end<line>
+<end>
+
+
+//BLOCK #080 NAME:		Pause Screen Hints Part 84 (Pointer)
+
+//POINTER #0 @ $2C6980 - STRING #0 @ $642F74
+
+#WRITE(GBA,$2C6980)
+<line>
+‚r‚‚‰‚Ž ‚‰‚Ž‚”‚ ‚”‚ˆ‚… ‚‚‚”‚”‚…‚’‚Ž|‚ƒ‚ˆ‚‚Ž‚‡‚‰‚Ž‚‡ ‚‚‚Œ‚‚ƒ‚‹<line>
+‚“‚ ‚”‚ˆ‚…‚™ ‚‚‚”‚ƒ‚ˆ ‚”‚ˆ‚… ‚‚Ž‚… ‚‚‚‚‚–‚… ‚”‚ˆ‚… ‚„‚‚‚’D<line>
+:end<line>
+<end>
+
+
+//BLOCK #081 NAME:		Pause Screen Hints Part 85 (Pointer)
+
+//POINTER #0 @ $2C69A0 - STRING #0 @ $642FC4
+
+#WRITE(GBA,$2C69A0)
+‚x‚‚•f‚–‚… ‚‡‚‚” ‚”‚ ‚†‚’‚…‚… ‚l‚‚… ‚†‚’‚‚ ‚”‚ˆ‚… ‚ƒ‚‚‡‚…I<line>
+‚v‚ˆ‚…‚Ž ‚™‚‚• ‚ˆ‚‚–‚… ‚”‚ˆ‚… ‚‹‚…‚™ ‚”‚ˆ‚‚” ‚‚‚”‚ƒ‚ˆ‚…‚“<line>
+‚”‚ˆ‚… ‚“‚ˆ‚‚‚… ‚‚† ‚”‚ˆ‚… ‚ƒ‚…‚Œ‚Œf‚“ ‚‹‚…‚™‚ˆ‚‚Œ‚…C<line>
+‚Š‚•‚‚ ‚‰‚Ž‚”‚ ‚‰‚” ‚”‚ ‚•‚Ž‚Œ‚‚ƒ‚‹ ‚‰‚”D<line>
+:end<line>
+<end>
+
+
+//BLOCK #082 NAME:		Pause Screen Hints Part 86 (Pointer)
+
+//POINTER #0 @ $2C69C0 - STRING #0 @ $64304C
+
+#WRITE(GBA,$2C69C0)
+‚s‚ ‚‚‚…‚Ž ‚”‚ˆ‚… ‚‚‚‰‚‡ ‚„‚‚‚’C<line>
+‚™‚‚•f‚Œ‚Œ ‚Ž‚…‚…‚„ ‚”‚ ‚†‚Œ‚‰‚ ‚”‚ˆ‚… ‚“‚—‚‰‚”‚ƒ‚ˆ‚…‚“<line>
+‚‚” ‚”‚ˆ‚… ‚…‚Ž‚„ ‚‚† <c d>‚‚Œ‚Œ ‚”‚ˆ‚’‚…‚… ‚‚‚“‚“‚‚‡‚…‚“<c 1>D<line>
+:end<line>
+<end>
+
+
+//BLOCK #083 NAME:		Pause Screen Hints Part 87 (Pointer)
+
+//POINTER #0 @ $2C69E0 - STRING #0 @ $643098
+
+#WRITE(GBA,$2C69E0)
+‚s‚ˆ‚‰‚“ ‚‰‚“ ‚‰‚”I ‚s‚ˆ‚… ‚†‚‰‚Ž‚‚Œ ‚“‚ˆ‚‚—‚„‚‚—‚ŽI<line>
+‚o‚‚™ ‚ƒ‚Œ‚‚“‚… ‚‚”‚”‚…‚Ž‚”‚‰‚‚Ž ‚”‚ ‚l‚‚…f‚“ ‚‚„‚–‚‰‚ƒ‚…<line>
+‚‚Ž‚„ ‚‡‚‰‚–‚… ‚‰‚” ‚‚Œ‚Œ ‚™‚‚•f‚–‚… ‚‡‚‚”III<line>
+:end<line>
+<end>
+

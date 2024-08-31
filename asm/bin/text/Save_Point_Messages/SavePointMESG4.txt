@@ -1,0 +1,11 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $AA
+
+:func 22 -1<line>
+<c d>‚e‚‰‚Ž‚„ ‚”‚ˆ‚’‚…‚… ‚‹‚…‚™‚“ ‚”‚ˆ‚‚” ‚ˆ‚‚–‚… ‚”‚ˆ‚… ‚“‚‚‚… ‚“‚ˆ‚‚‚… ‚‚“ ‚”‚ˆ‚… ‚Œ‚‚ƒ‚‹‚“<c 0>C<line>
+‚‚Ž‚„ ‚™‚‚•f‚Œ‚Œ ‚‚‚… ‚‚Ž ‚™‚‚•‚’ ‚—‚‚™ ‚”‚ ‚”‚‚‹‚… ‚„‚‚—‚Ž<line>
+‚”‚ˆ‚… ‚‚‰‚“‚ƒ‚ˆ‚‰‚…‚–‚‚•‚“ ‚j‚‚Ž‚‹ ‚‚Ž‚„ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ‚PI<line>
+:end<line>
+<end>

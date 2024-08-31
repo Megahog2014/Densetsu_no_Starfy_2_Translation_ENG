@@ -1,0 +1,13 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $4F
+
+//せまい　ところ<line>
+を　とおる<line>
+どうさじゃ！<line>
+しっかり<line>
+おぼえねば<line>
+いかんぞ！<line>
+<end>
+

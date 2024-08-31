@@ -1,0 +1,23 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $88
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+[x 2]<line>
+[y 2]<line>
+‚r‚k‚h‚o‚o‚d‚q‚x ‚f‚k‚`‚b‚h‚d‚q@‚S|‚W<line>
+[x 37]<line>
+[y 20]<line>
+‚i‚•‚‚C ‚i‚•‚‚C ‚i‚•‚‚ ‚a‚…‚†‚‚’‚… ‚x‚‚• ‚e‚‚Œ‚ŒI<line>
+ ‚i‚•‚‚C ‚i‚•‚‚C ‚i‚•‚‚ ‚`‚†‚”‚…‚’ ‚x‚‚• ‚e‚‚Œ‚ŒI<line>
+<end>
+

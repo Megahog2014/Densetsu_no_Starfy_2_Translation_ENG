@@ -1,0 +1,13 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $AF
+
+//:func 22 -1<line>
+タイブロンドの　『しゃしん』を<line>
+ヒントに　『かくしトビラ』を<line>
+みつけて　プチオーグラ７ごうを<line>
+おいかけよう！<line>
+:end<line>
+<end>
+

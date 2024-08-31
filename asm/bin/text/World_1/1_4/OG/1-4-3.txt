@@ -1,0 +1,95 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $4EF
+
+//:sd<line>
+:func 12 5 101<line>
+:func 13<line>
+:func 11 2<line>
+:obj 1 6<line>
+:obj 1 10 3 3<line>
+:se<line>
+:if 1408 go 1<line>
+:obj 1 2 1<line>
+:func 18 1 76<line>
+:flagon 1408<line>
+:func 7 255 0 0<line>
+:func 8 0 19<line>
+:obj 1 8<line>
+:obj 1 7 170 120 60<line>
+:func 9<line>
+:obj 1 7 170 136 60<line>
+:func 9<line>
+[w 30]<line>
+:obj 1 7 170 8 60<line>
+<linealt>:func 9<line>
+:obj 1 7 170 248 60<line>
+:func 9<line>
+:obj 1 7 90 192 100<line>
+:func 9<line>
+:obj 1 7 160 128 100<line>
+:func 9<line>
+:obj 1 7 160 64 60<line>
+:func 9<line>
+:obj 1 7 160 192 60<line>
+:func 9<line>
+:obj 1 9<line>
+:obj 1 7 90 0 100<line>
+:func 9<line>
+:obj 1 7 80 64 60<line>
+:func 9<line>
+:obj 1 7 122 64 40<line>
+:func 9<line>
+:obj 1 10 3 1<line>
+:func 8 0 99<line>
+:func 7<line>
+:func 18 7<line>
+<rname><diamond>プチオーグラ１ごう<line>
+「やっと　きたなー！<line>
+　モテない　ハマグリの<line>
+　あいぼうめー！」<line>
+:c<line>
+<redname><diamond>ボンボーン<line>
+「こんどは　このまえみたいには<line>
+　まけないボーン！<line>
+　かくごするボーン！」<line>
+:c<line>
+<redname><diamond>プチオーグラ１ごう<line>
+「よーし！　そのいきだ！<line>
+　じゃあ　ボンボーン！<line>
+　行くぞーー！」<line>
+:obj 1 10 3 2<line>
+[w 40]<line>
+:c<line>
+<wait>:sd<line>
+:func 18 7<line>
+:func 4<line>
+:func 2 2<line>
+:func 8 0 0<line>
+:func 8 0 99<line>
+:exit<line>
+<wait>:1<line>
+:obj 1 11 3 60 -8<line>
+:obj 1 2 1<line>
+:obj 1 7 80 128 20<line>
+[w 100]<line>
+:obj 1 10 3 1<line>
+<rname><diamond>ボンボーン<line>
+「ボボボボーン！<line>
+　なんかいやっても<line>
+　同じだボーン！」<line>
+:c<line>
+<redname><diamond>プチオーグラ１ごう<line>
+「あははは！　なんかいでも<line>
+　やっつけてやるー！<line>
+　行くぞ！　ボンボーン！」<line>
+:obj 1 10 3 2<line>
+[w 40]<line>
+:c<line>
+<wait>:sd<line>
+:func 4<line>
+:func 2 2<line>
+:exit<line>
+<end>
+

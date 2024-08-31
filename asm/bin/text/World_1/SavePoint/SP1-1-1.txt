@@ -1,0 +1,21 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 2
+//Block Range: $0 - $66
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+:func 22 -1<line>
+いろいろな　アクションを<line>
+おさらいして　これからの<line>
+ぼうけんに　そなえよう！<line>
+:end<line>
+<end>
+

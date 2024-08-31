@@ -1,0 +1,51 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 2
+//Block Range: $0 - $378
+
+//:sd<line>
+:flagon 1102<line>
+:func 1 1<line>
+:func 0<line>
+:func 18 1 58<line>
+:se<line>
+:func 22 -1<line>
+[w 30]<line>
+<rname><diamond>マーメイド<line>
+「あら！　スタフィー！<line>
+　おひさしぶりね！<line>
+　今回は　どうしたの？」<line>
+<redname><diamond>マーメイド<line>
+「・・・うん・・うん・・・<line>
+　あらー！　それはたいへん！<line>
+　早く　ママをたすキけに行かないと」<line>
+<redname><diamond>マーメイド<line>
+「じゃあ　今回も　私は<line>
+　スタフィーのぼうけんを<line>
+　たすけてあげる」<line>
+<redname><diamond>マーメイド<line>
+「<c d>カイガラに　ふれたら　セーブ！<c 0><line>
+　なにか　あっても　そのばしょから<line>
+　ぼうけんを　つづけられるよ」<line>
+<redname><diamond>マーメイド<line>
+「あ！　@そうそう！<line>
+　とちゅうで　ぼうけんを<line>
+　ちゅうだん　したいときは・・」<line>
+<redname><diamond>マーメイド<line>
+「<c d>スタートボタンを　押して<c 0><line>
+　<c d>ポーズをかけてから　でんげんを<c 0><line>
+　<c d>きる<c 0>・・・と・・・」<line>
+<redname><diamond>マーメイド<line>
+「ちゅうだんした　ばしょから<line>
+　ぼう、けんを　つづけられるよ<line>
+　じゃあ　がんばってね！」<line>
+:c<line>
+<wait>:sd<line>
+:func 4<line>
+:func 2 2<line>
+:func 0<line>
+[w 20]<line>
+:func 3 2<line>
+:exit<line>
+<end>
+

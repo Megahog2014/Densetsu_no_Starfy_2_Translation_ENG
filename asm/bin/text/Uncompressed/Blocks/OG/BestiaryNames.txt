@@ -1,0 +1,1418 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Beastiary Names (Pointer)
+
+//POINTER #0 @ $2CB218 - STRING #0 @ $2CA678
+
+#W32($2CB218)
+//ギョットー<end>
+
+
+//POINTER #1 @ $2CB224 - STRING #1 @ $2CA684
+
+#W32($2CB224)
+//ウキガメ<end>
+
+
+//POINTER #2 @ $2CB230 - STRING #2 @ $2CA690
+
+#W32($2CB230)
+//アッチー<end>
+
+
+//POINTER #3 @ $2CB23C - STRING #3 @ $2CA69C
+
+#W32($2CB23C)
+//ウーオ<end>
+
+
+//POINTER #4 @ $2CB248 - STRING #4 @ $2CA6A4
+
+#W32($2CB248)
+//チョッキー<end>
+
+
+//POINTER #5 @ $2CB254 - STRING #5 @ $2CA6B0
+
+#W32($2CB254)
+//プクカメ<end>
+
+
+//POINTER #6 @ $2CB260 - STRING #6 @ $2CA6BC
+
+#W32($2CB260)
+//ガイン<end>
+
+
+//POINTER #7 @ $2CB26C - STRING #7 @ $2CA6C4
+
+#W32($2CB26C)
+//トベウオ<end>
+
+
+//POINTER #8 @ $2CB278 - STRING #8 @ $2CA6D0
+
+#W32($2CB278)
+//ワサワサ<end>
+
+
+//POINTER #9 @ $2CB284 - STRING #9 @ $2CA6DC
+
+#W32($2CB284)
+//トオセンボン<end>
+
+
+//POINTER #10 @ $2CB290 - STRING #10 @ $2CA6EC
+
+#W32($2CB290)
+//ロブじいさん<end>
+
+
+//POINTER #11 @ $2CB29C - STRING #11 @ $2CA6FC
+
+#W32($2CB29C)
+//キョロスケ<end>
+
+
+//POINTER #12 @ $2CB2A8 - STRING #12 @ $2CA708
+
+#W32($2CB2A8)
+//マーメイド<end>
+
+
+//POINTER #13 @ $2CB2B4 - STRING #13 @ $2CA714
+
+#W32($2CB2B4)
+//ヤドカリタ<end>
+
+
+//POINTER #14 @ $2CB2C0 - STRING #14 @ $2CA720
+
+#W32($2CB2C0)
+//ラブリー<end>
+
+
+//POINTER #15 @ $2CB2CC - STRING #15 @ $2CA72C
+
+#W32($2CB2CC)
+//プチオーグラ１ごう<end>
+
+
+//POINTER #16 @ $2CB2D8 - STRING #16 @ $2CA740
+
+#W32($2CB2D8)
+//ボンボーン<end>
+
+
+//POINTER #17 @ $2CB2E4 - STRING #17 @ $2CA74C
+
+#W32($2CB2E4)
+//マンマルチョウ<end>
+
+
+//POINTER #18 @ $2CB2F0 - STRING #18 @ $2CA75C
+
+#W32($2CB2F0)
+//ゼリー<end>
+
+
+//POINTER #19 @ $2CB2FC - STRING #19 @ $2CA764
+
+#W32($2CB2FC)
+//モードキ<end>
+
+
+//POINTER #20 @ $2CB308 - STRING #20 @ $2CA770
+
+#W32($2CB308)
+//メラメラ<end>
+
+
+//POINTER #21 @ $2CB314 - STRING #21 @ $2CA77C
+
+#W32($2CB314)
+//ヒラパー<end>
+
+
+//POINTER #22 @ $2CB320 - STRING #22 @ $2CA788
+
+#W32($2CB320)
+//ピンピン<end>
+
+
+//POINTER #23 @ $2CB32C - STRING #23 @ $2CA794
+
+#W32($2CB32C)
+//ギロ<end>
+
+
+//POINTER #24 @ $2CB338 - STRING #24 @ $2CA79C
+
+#W32($2CB338)
+//ウインナー<end>
+
+
+//POINTER #25 @ $2CB344 - STRING #25 @ $2CA7A8
+
+#W32($2CB344)
+//ギョップ<end>
+
+
+//POINTER #26 @ $2CB350 - STRING #26 @ $2CA7B4
+
+#W32($2CB350)
+//ミューミュー<end>
+
+
+//POINTER #27 @ $2CB35C - STRING #27 @ $2CA7C4
+
+#W32($2CB35C)
+//ハデヒラリ<end>
+
+
+//POINTER #28 @ $2CB368 - STRING #28 @ $2CA7D0
+
+#W32($2CB368)
+//メカニじいさん<end>
+
+
+//POINTER #29 @ $2CB374 - STRING #29 @ $2CA7E0
+
+#W32($2CB374)
+//プチオーグラ２ごう<end>
+
+
+//POINTER #30 @ $2CB380 - STRING #30 @ $2CA7F4
+
+#W32($2CB380)
+//ペキンダックごう<end>
+
+
+//POINTER #31 @ $2CB38C - STRING #31 @ $2CA808
+
+#W32($2CB38C)
+//カギバンレイ<end>
+
+
+//POINTER #32 @ $2CB398 - STRING #32 @ $2CA818
+
+#W32($2CB398)
+//チンギョ<end>
+
+
+//POINTER #33 @ $2CB3A4 - STRING #33 @ $2CA824
+
+#W32($2CB3A4)
+//ノリノリ<end>
+
+
+//POINTER #34 @ $2CB3B0 - STRING #34 @ $2CA830
+
+#W32($2CB3B0)
+//クルーリー<end>
+
+
+//POINTER #35 @ $2CB3BC - STRING #35 @ $2CA83C
+
+#W32($2CB3BC)
+//モンジャミン<end>
+
+
+//POINTER #36 @ $2CB3C8 - STRING #36 @ $2CA84C
+
+#W32($2CB3C8)
+//サワワ<end>
+
+
+//POINTER #37 @ $2CB3D4 - STRING #37 @ $2CA854
+
+#W32($2CB3D4)
+//トラベラー<end>
+
+
+//POINTER #38 @ $2CB3E0 - STRING #38 @ $2CA860
+
+#W32($2CB3E0)
+//イカメット<end>
+
+
+//POINTER #39 @ $2CB3EC - STRING #39 @ $2CA86C
+
+#W32($2CB3EC)
+//トゲセンボン<end>
+
+
+//POINTER #40 @ $2CB3F8 - STRING #40 @ $2CA87C
+
+#W32($2CB3F8)
+//カメール<end>
+
+
+//POINTER #41 @ $2CB404 - STRING #41 @ $2CA888
+
+#W32($2CB404)
+//カメッコちょうなん<end>
+
+
+//POINTER #42 @ $2CB410 - STRING #42 @ $2CA89C
+
+#W32($2CB410)
+//カメッコじなん<end>
+
+
+//POINTER #43 @ $2CB41C - STRING #43 @ $2CA8AC
+
+#W32($2CB41C)
+//カメッコいもうと<end>
+
+
+//POINTER #44 @ $2CB428 - STRING #44 @ $2CA8C0
+
+#W32($2CB428)
+//ガガンモ<end>
+
+
+//POINTER #45 @ $2CB434 - STRING #45 @ $2CA8CC
+
+#W32($2CB434)
+//プチオーグラ３ごう<end>
+
+
+//POINTER #46 @ $2CB440 - STRING #46 @ $2CA8E0
+
+#W32($2CB440)
+//キレモス<end>
+
+
+//POINTER #47 @ $2CB44C - STRING #47 @ $2CA8EC
+
+#W32($2CB44C)
+//ワットビン<end>
+
+
+//POINTER #48 @ $2CB458 - STRING #48 @ $2CA8F8
+
+#W32($2CB458)
+//アンチィ<end>
+
+
+//POINTER #49 @ $2CB464 - STRING #49 @ $2CA904
+
+#W32($2CB464)
+//ミイミイ<end>
+
+
+//POINTER #50 @ $2CB470 - STRING #50 @ $2CA910
+
+#W32($2CB470)
+//アイスガイ<end>
+
+
+//POINTER #51 @ $2CB47C - STRING #51 @ $2CA91C
+
+#W32($2CB47C)
+//シャーミン<end>
+
+
+//POINTER #52 @ $2CB488 - STRING #52 @ $2CA928
+
+#W32($2CB488)
+//カチツキー<end>
+
+
+//POINTER #53 @ $2CB494 - STRING #53 @ $2CA934
+
+#W32($2CB494)
+//コーラス<end>
+
+
+//POINTER #54 @ $2CB4A0 - STRING #54 @ $2CA940
+
+#W32($2CB4A0)
+//マーボー<end>
+
+
+//POINTER #55 @ $2CB4AC - STRING #55 @ $2CA94C
+
+#W32($2CB4AC)
+//トベイウオ<end>
+
+
+//POINTER #56 @ $2CB4B8 - STRING #56 @ $2CA958
+
+#W32($2CB4B8)
+//ウーポン<end>
+
+
+//POINTER #57 @ $2CB4C4 - STRING #57 @ $2CA964
+
+#W32($2CB4C4)
+//トゲリーヌ<end>
+
+
+//POINTER #58 @ $2CB4D0 - STRING #58 @ $2CA970
+
+#W32($2CB4D0)
+//トゲリーノ<end>
+
+
+//POINTER #59 @ $2CB4DC - STRING #59 @ $2CA97C
+
+#W32($2CB4DC)
+//クリオレたち<end>
+
+
+//POINTER #60 @ $2CB4E8 - STRING #60 @ $2CA98C
+
+#W32($2CB4E8)
+//トリート<end>
+
+
+//POINTER #61 @ $2CB4F4 - STRING #61 @ $2CA998
+
+#W32($2CB4F4)
+//サブァコ<end>
+
+
+//POINTER #62 @ $2CB500 - STRING #62 @ $2CA9A4
+
+#W32($2CB500)
+//ヒラオ<end>
+
+
+//POINTER #63 @ $2CB50C - STRING #63 @ $2CA9AC
+
+#W32($2CB50C)
+//ヒラリン<end>
+
+
+//POINTER #64 @ $2CB518 - STRING #64 @ $2CA9B8
+
+#W32($2CB518)
+//ウキッズ<end>
+
+
+//POINTER #65 @ $2CB524 - STRING #65 @ $2CA9C4
+
+#W32($2CB524)
+//コンビー<end>
+
+
+//POINTER #66 @ $2CB530 - STRING #66 @ $2CA9D0
+
+#W32($2CB530)
+//プチオーグラ４ごう<end>
+
+
+//POINTER #67 @ $2CB53C - STRING #67 @ $2CA9D0
+
+#W32($2CB53C)
+//プチオーグラ４ごう<end>
+
+
+//POINTER #68 @ $2CB548 - STRING #68 @ $2CA9E4
+
+#W32($2CB548)
+//マンドゴーラ<end>
+
+
+//POINTER #69 @ $2CB554 - STRING #69 @ $2CA9F4
+
+#W32($2CB554)
+//コモリン<end>
+
+
+//POINTER #70 @ $2CB560 - STRING #70 @ $2CAA00
+
+#W32($2CB560)
+//モンジャック<end>
+
+
+//POINTER #71 @ $2CB56C - STRING #71 @ $2CAA10
+
+#W32($2CB56C)
+//ワネック<end>
+
+
+//POINTER #72 @ $2CB578 - STRING #72 @ $2CAA1C
+
+#W32($2CB578)
+//チョチン<end>
+
+
+//POINTER #73 @ $2CB584 - STRING #73 @ $2CAA28
+
+#W32($2CB584)
+//ドクロット<end>
+
+
+//POINTER #74 @ $2CB590 - STRING #74 @ $2CAA34
+
+#W32($2CB590)
+//ピヨチヨ<end>
+
+
+//POINTER #75 @ $2CB59C - STRING #75 @ $2CAA40
+
+#W32($2CB59C)
+//パールキーパー<end>
+
+
+//POINTER #76 @ $2CB5A8 - STRING #76 @ $2CAA50
+
+#W32($2CB5A8)
+//ピラーニャ<end>
+
+
+//POINTER #77 @ $2CB5B4 - STRING #77 @ $2CAA5C
+
+#W32($2CB5B4)
+//ヘビール<end>
+
+
+//POINTER #78 @ $2CB5C0 - STRING #78 @ $2CAA68
+
+#W32($2CB5C0)
+//オリス<end>
+
+
+//POINTER #79 @ $2CB5CC - STRING #79 @ $2CAA70
+
+#W32($2CB5CC)
+//コリス<end>
+
+
+//POINTER #80 @ $2CB5D8 - STRING #80 @ $2CAA78
+
+#W32($2CB5D8)
+//ニャンジャ<end>
+
+
+//POINTER #81 @ $2CB5E4 - STRING #81 @ $2CAA84
+
+#W32($2CB5E4)
+//カモーネ<end>
+
+
+//POINTER #82 @ $2CB5F0 - STRING #82 @ $2CAA90
+
+#W32($2CB5F0)
+//クマじい<end>
+
+
+//POINTER #83 @ $2CB5FC - STRING #83 @ $2CAA9C
+
+#W32($2CB5FC)
+//ビバ<end>
+
+
+//POINTER #84 @ $2CB608 - STRING #84 @ $2CAAA4
+
+#W32($2CB608)
+//ミツガサゴ<end>
+
+
+//POINTER #85 @ $2CB614 - STRING #85 @ $2CAAB0
+
+#W32($2CB614)
+//ムーン<end>
+
+
+//POINTER #86 @ $2CB620 - STRING #86 @ $2CAAB8
+
+#W32($2CB620)
+//プチオーグラ５ごう<end>
+
+
+//POINTER #87 @ $2CB62C - STRING #87 @ $2CAACC
+
+#W32($2CB62C)
+//ヌマーン<end>
+
+
+//POINTER #88 @ $2CB638 - STRING #88 @ $2CAAD8
+
+#W32($2CB638)
+//チック<end>
+
+
+//POINTER #89 @ $2CB644 - STRING #89 @ $2CAAE0
+
+#W32($2CB644)
+//メカミック<end>
+
+
+//POINTER #90 @ $2CB650 - STRING #90 @ $2CAAEC
+
+#W32($2CB650)
+//ワカゾー<end>
+
+
+//POINTER #91 @ $2CB65C - STRING #91 @ $2CAAF8
+
+#W32($2CB65C)
+//スケスケ<end>
+
+
+//POINTER #92 @ $2CB668 - STRING #92 @ $2CAB04
+
+#W32($2CB668)
+//グーフ<end>
+
+
+//POINTER #93 @ $2CB674 - STRING #93 @ $2CAB0C
+
+#W32($2CB674)
+//チクギョ<end>
+
+
+//POINTER #94 @ $2CB680 - STRING #94 @ $2CAB18
+
+#W32($2CB680)
+//タコメット<end>
+
+
+//POINTER #95 @ $2CB68C - STRING #95 @ $2CAB24
+
+#W32($2CB68C)
+//ブー<end>
+
+
+//POINTER #96 @ $2CB698 - STRING #96 @ $2CAB2C
+
+#W32($2CB698)
+//ワルサール<end>
+
+
+//POINTER #97 @ $2CB6A4 - STRING #97 @ $2CAB38
+
+#W32($2CB6A4)
+//ウツボーン<end>
+
+
+//POINTER #98 @ $2CB6B0 - STRING #98 @ $2CAB44
+
+#W32($2CB6B0)
+//ピラニャン<end>
+
+
+//POINTER #99 @ $2CB6BC - STRING #99 @ $2CAB50
+
+#W32($2CB6BC)
+//ビッグニック<end>
+
+
+//POINTER #100 @ $2CB6C8 - STRING #100 @ $2CAB60
+
+#W32($2CB6C8)
+//クー<end>
+
+
+//POINTER #101 @ $2CB6D4 - STRING #101 @ $2CAB68
+
+#W32($2CB6D4)
+//リク<end>
+
+
+//POINTER #102 @ $2CB6E0 - STRING #102 @ $2CAB70
+
+#W32($2CB6E0)
+//カイ<end>
+
+
+//POINTER #103 @ $2CB6EC - STRING #103 @ $2CAB78
+
+#W32($2CB6EC)
+//ホタルビ<end>
+
+
+//POINTER #104 @ $2CB6F8 - STRING #104 @ $2CAB84
+
+#W32($2CB6F8)
+//ウォーツァルト<end>
+
+
+//POINTER #105 @ $2CB704 - STRING #105 @ $2CAB94
+
+#W32($2CB704)
+//チュータ<end>
+
+
+//POINTER #106 @ $2CB710 - STRING #106 @ $2CABA0
+
+#W32($2CB710)
+//タルイカ<end>
+
+
+//POINTER #107 @ $2CB71C - STRING #107 @ $2CABAC
+
+#W32($2CB71C)
+//オオタルイカ<end>
+
+
+//POINTER #108 @ $2CB728 - STRING #108 @ $2CABBC
+
+#W32($2CB728)
+//プチオーグラ６ごう<end>
+
+
+//POINTER #109 @ $2CB734 - STRING #109 @ $2CABD0
+
+#W32($2CB734)
+//きぐるみ<end>
+
+
+//POINTER #110 @ $2CB740 - STRING #110 @ $2CABDC
+
+#W32($2CB740)
+//イッポン<end>
+
+
+//POINTER #111 @ $2CB74C - STRING #111 @ $2CABE8
+
+#W32($2CB74C)
+//ワルガオ<end>
+
+
+//POINTER #112 @ $2CB758 - STRING #112 @ $2CABF4
+
+#W32($2CB758)
+//ウーガ<end>
+
+
+//POINTER #113 @ $2CB764 - STRING #113 @ $2CABFC
+
+#W32($2CB764)
+//カサカサ<end>
+
+
+//POINTER #114 @ $2CB770 - STRING #114 @ $2CAC08
+
+#W32($2CB770)
+//ピタピタ<end>
+
+
+//POINTER #115 @ $2CB77C - STRING #115 @ $2CAC14
+
+#W32($2CB77C)
+//ビビビ<end>
+
+
+//POINTER #116 @ $2CB788 - STRING #116 @ $2CAC1C
+
+#W32($2CB788)
+//スマイム<end>
+
+
+//POINTER #117 @ $2CB794 - STRING #117 @ $2CAC28
+
+#W32($2CB794)
+//モー<end>
+
+
+//POINTER #118 @ $2CB7A0 - STRING #118 @ $2CAC30
+
+#W32($2CB7A0)
+//リドックス<end>
+
+
+//POINTER #119 @ $2CB7AC - STRING #119 @ $2CAC3C
+
+#W32($2CB7AC)
+//イソギン<end>
+
+
+//POINTER #120 @ $2CB7B8 - STRING #120 @ $2CAC48
+
+#W32($2CB7B8)
+//フラグラ<end>
+
+
+//POINTER #121 @ $2CB7C4 - STRING #121 @ $2CAC54
+
+#W32($2CB7C4)
+//デメカ<end>
+
+
+//POINTER #122 @ $2CB7D0 - STRING #122 @ $2CAC5C
+
+#W32($2CB7D0)
+//フォーク<end>
+
+
+//POINTER #123 @ $2CB7DC - STRING #123 @ $2CAC68
+
+#W32($2CB7DC)
+//ガイドンナ<end>
+
+
+//POINTER #124 @ $2CB7E8 - STRING #124 @ $2CAC74
+
+#W32($2CB7E8)
+//カンニンおやこ<end>
+
+
+//POINTER #125 @ $2CB7F4 - STRING #125 @ $2CAC84
+
+#W32($2CB7F4)
+//ナマズドン<end>
+
+
+//POINTER #126 @ $2CB800 - STRING #126 @ $2CAC90
+
+#W32($2CB800)
+//マナズーコ<end>
+
+
+//POINTER #127 @ $2CB80C - STRING #127 @ $2CAC9C
+
+#W32($2CB80C)
+//タイブロンド<end>
+
+
+//POINTER #128 @ $2CB818 - STRING #128 @ $2CACAC
+
+#W32($2CB818)
+//コルンドル<end>
+
+
+//POINTER #129 @ $2CB824 - STRING #129 @ $2CACB8
+
+#W32($2CB824)
+//コドルン<end>
+
+
+//POINTER #130 @ $2CB830 - STRING #130 @ $2CACC4
+
+#W32($2CB830)
+//ホルーン<end>
+
+
+//POINTER #131 @ $2CB83C - STRING #131 @ $2CACD0
+
+#W32($2CB83C)
+//プチオーグラ７ごう<end>
+
+
+//POINTER #132 @ $2CB848 - STRING #132 @ $2CACE4
+
+#W32($2CB848)
+//マンダーゼット<end>
+
+
+//POINTER #133 @ $2CB854 - STRING #133 @ $2CACF4
+
+#W32($2CB854)
+//ホタリーカ<end>
+
+
+//POINTER #134 @ $2CB860 - STRING #134 @ $2CAD00
+
+#W32($2CB860)
+//ボーギョ<end>
+
+
+//POINTER #135 @ $2CB86C - STRING #135 @ $2CAD0C
+
+#W32($2CB86C)
+//メダツカ<end>
+
+
+//POINTER #136 @ $2CB878 - STRING #136 @ $2CAD18
+
+#W32($2CB878)
+//バッタフライ<end>
+
+
+//POINTER #137 @ $2CB884 - STRING #137 @ $2CAD28
+
+#W32($2CB884)
+//マントワニ<end>
+
+
+//POINTER #138 @ $2CB890 - STRING #138 @ $2CAD34
+
+#W32($2CB890)
+//ラブィラブ<end>
+
+
+//POINTER #139 @ $2CB89C - STRING #139 @ $2CAD40
+
+#W32($2CB89C)
+//スカループ<end>
+
+
+//POINTER #140 @ $2CB8A8 - STRING #140 @ $2CAD4C
+
+#W32($2CB8A8)
+//スケルギョ<end>
+
+
+//POINTER #141 @ $2CB8B4 - STRING #141 @ $2CAD58
+
+#W32($2CB8B4)
+//スカルドン<end>
+
+
+//POINTER #142 @ $2CB8C0 - STRING #142 @ $2CAD64
+
+#W32($2CB8C0)
+//くしゃみせきぞう<end>
+
+
+//POINTER #143 @ $2CB8CC - STRING #143 @ $2CAD78
+
+#W32($2CB8CC)
+//イマダーメ<end>
+
+
+//POINTER #144 @ $2CB8D8 - STRING #144 @ $2CAD84
+
+#W32($2CB8D8)
+//テンカイヘイシ<end>
+
+
+//POINTER #145 @ $2CB8E4 - STRING #145 @ $2CAD94
+
+#W32($2CB8E4)
+//テンカイコドモ<end>
+
+
+//POINTER #146 @ $2CB8F0 - STRING #146 @ $2CADA4
+
+#W32($2CB8F0)
+//マユドラゴ<end>
+
+
+//POINTER #147 @ $2CB8FC - STRING #147 @ $2CADB0
+
+#W32($2CB8FC)
+//ヤリイカさん<end>
+
+
+//POINTER #148 @ $2CB908 - STRING #148 @ $2CADC0
+
+#W32($2CB908)
+//ヤリイカーズ１ごう<end>
+
+
+//POINTER #149 @ $2CB914 - STRING #149 @ $2CADD4
+
+#W32($2CB914)
+//ヤリイカーズ２ごう<end>
+
+
+//POINTER #150 @ $2CB920 - STRING #150 @ $2CADE8
+
+#W32($2CB920)
+//ヤリイカーズ３ごう<end>
+
+
+//POINTER #151 @ $2CB92C - STRING #151 @ $2CADFC
+
+#W32($2CB92C)
+//ヤリイカーズ４ごう<end>
+
+
+//POINTER #152 @ $2CB938 - STRING #152 @ $2CAE10
+
+#W32($2CB938)
+//ジュエリー<end>
+
+
+//POINTER #153 @ $2CB944 - STRING #153 @ $2CAE1C
+
+#W32($2CB944)
+//プチオーグラ８ごう<end>
+
+
+//POINTER #154 @ $2CB950 - STRING #154 @ $2CAE30
+
+#W32($2CB950)
+//ゆりかるご<end>
+
+
+//POINTER #155 @ $2CB95C - STRING #155 @ $2CAE3C
+
+#W32($2CB95C)
+//ウコンドリ<end>
+
+
+//POINTER #156 @ $2CB968 - STRING #156 @ $2CAE48
+
+#W32($2CB968)
+//サメット<end>
+
+
+//POINTER #157 @ $2CB974 - STRING #157 @ $2CAE54
+
+#W32($2CB974)
+//パトカリ<end>
+
+
+//POINTER #158 @ $2CB980 - STRING #158 @ $2CAE60
+
+#W32($2CB980)
+//アッコウ<end>
+
+
+//POINTER #159 @ $2CB98C - STRING #159 @ $2CAE6C
+
+#W32($2CB98C)
+//パラッソ<end>
+
+
+//POINTER #160 @ $2CB998 - STRING #160 @ $2CAE78
+
+#W32($2CB998)
+//アルカセーキ<end>
+
+
+//POINTER #161 @ $2CB9A4 - STRING #161 @ $2CAE88
+
+#W32($2CB9A4)
+//アルモント<end>
+
+
+//POINTER #162 @ $2CB9B0 - STRING #162 @ $2CAE94
+
+#W32($2CB9B0)
+//コルードン<end>
+
+
+//POINTER #163 @ $2CB9BC - STRING #163 @ $2CAEA0
+
+#W32($2CB9BC)
+//フキャ<end>
+
+
+//POINTER #164 @ $2CB9C8 - STRING #164 @ $2CAEA8
+
+#W32($2CB9C8)
+//ツルツラー<end>
+
+
+//POINTER #165 @ $2CB9D4 - STRING #165 @ $2CAEB4
+
+#W32($2CB9D4)
+//ウミウシ<end>
+
+
+//POINTER #166 @ $2CB9E0 - STRING #166 @ $2CAEC0
+
+#W32($2CB9E0)
+//ギンジ<end>
+
+
+//POINTER #167 @ $2CB9EC - STRING #167 @ $2CAEC8
+
+#W32($2CB9EC)
+//ブヨヨン<end>
+
+
+//POINTER #168 @ $2CB9F8 - STRING #168 @ $2CAED4
+
+#W32($2CB9F8)
+//フナゾウ<end>
+
+
+//POINTER #169 @ $2CBA04 - STRING #169 @ $2CAEE0
+
+#W32($2CBA04)
+//レッシー<end>
+
+
+//POINTER #170 @ $2CBA10 - STRING #170 @ $2CAEEC
+
+#W32($2CBA10)
+//ラブラブ<end>
+
+
+//POINTER #171 @ $2CBA1C - STRING #171 @ $2CAEF8
+
+#W32($2CBA1C)
+//ラブリン<end>
+
+
+//POINTER #172 @ $2CBA28 - STRING #172 @ $2CAF04
+
+#W32($2CBA28)
+//ジョージロー<end>
+
+
+//POINTER #173 @ $2CBA34 - STRING #173 @ $2CAF14
+
+#W32($2CBA34)
+//フカフカ<end>
+
+
+//POINTER #174 @ $2CBA40 - STRING #174 @ $2CAF20
+
+#W32($2CBA40)
+//プチオーグラ９ごう<end>
+
+
+//POINTER #175 @ $2CBA4C - STRING #175 @ $2CAF34
+
+#W32($2CBA4C)
+//ジイヤン<end>
+
+
+//POINTER #176 @ $2CBA58 - STRING #176 @ $2CAF40
+
+#W32($2CBA58)
+//ウロボット<end>
+
+
+//POINTER #177 @ $2CBA64 - STRING #177 @ $2CAF4C
+
+#W32($2CBA64)
+//シャッケ<end>
+
+
+//POINTER #178 @ $2CBA70 - STRING #178 @ $2CAF58
+
+#W32($2CBA70)
+//ドカズン<end>
+
+
+//POINTER #179 @ $2CBA7C - STRING #179 @ $2CAF64
+
+#W32($2CBA7C)
+//ランナン<end>
+
+
+//POINTER #180 @ $2CBA88 - STRING #180 @ $2CAF70
+
+#W32($2CBA88)
+//ロックン<end>
+
+
+//POINTER #181 @ $2CBA94 - STRING #181 @ $2CAF7C
+
+#W32($2CBA94)
+//ヅラッタ<end>
+
+
+//POINTER #182 @ $2CBAA0 - STRING #182 @ $2CAF88
+
+#W32($2CBAA0)
+//アンガー<end>
+
+
+//POINTER #183 @ $2CBAAC - STRING #183 @ $2CAF94
+
+#W32($2CBAAC)
+//チッキン<end>
+
+
+//POINTER #184 @ $2CBAB8 - STRING #184 @ $2CAFA0
+
+#W32($2CBAB8)
+//コソギョ<end>
+
+
+//POINTER #185 @ $2CBAC4 - STRING #185 @ $2CAFAC
+
+#W32($2CBAC4)
+//マルメ<end>
+
+
+//POINTER #186 @ $2CBAD0 - STRING #186 @ $2CAFB4
+
+#W32($2CBAD0)
+//ヒュルヒュル<end>
+
+
+//POINTER #187 @ $2CBADC - STRING #187 @ $2CAFC4
+
+#W32($2CBADC)
+//チョンマギョ<end>
+
+
+//POINTER #188 @ $2CBAE8 - STRING #188 @ $2CAFD4
+
+#W32($2CBAE8)
+//オギョン<end>
+
+
+//POINTER #189 @ $2CBAF4 - STRING #189 @ $2CAFE0
+
+#W32($2CBAF4)
+//オギャン<end>
+
+
+//POINTER #190 @ $2CBB00 - STRING #190 @ $2CAFEC
+
+#W32($2CBB00)
+//ゲキョじい<end>
+
+
+//POINTER #191 @ $2CBB0C - STRING #191 @ $2CAFF8
+
+#W32($2CBB0C)
+//ヤコウカガミ<end>
+
+
+//POINTER #192 @ $2CBB18 - STRING #192 @ $2CB008
+
+#W32($2CBB18)
+//ショロスケ<end>
+
+
+//POINTER #193 @ $2CBB24 - STRING #193 @ $2CB014
+
+#W32($2CBB24)
+//チョロスケ<end>
+
+
+//POINTER #194 @ $2CBB30 - STRING #194 @ $2CB020
+
+#W32($2CBB30)
+//エチギョヤ<end>
+
+
+//POINTER #195 @ $2CBB3C - STRING #195 @ $2CB02C
+
+#W32($2CBB3C)
+//ミジンゴウ<end>
+
+
+//POINTER #196 @ $2CBB48 - STRING #196 @ $2CB038
+
+#W32($2CBB48)
+//プチオーグラ１０ごう<end>
+
+
+//POINTER #197 @ $2CBB54 - STRING #197 @ $2CB038
+
+#W32($2CBB54)
+//プチオーグラ１０ごう<end>
+
+
+//POINTER #198 @ $2CBB60 - STRING #198 @ $2CB050
+
+#W32($2CBB60)
+//タツボー<end>
+
+
+//POINTER #199 @ $2CBB6C - STRING #199 @ $2CB05C
+
+#W32($2CBB6C)
+//ミーモン<end>
+
+
+//POINTER #200 @ $2CBB78 - STRING #200 @ $2CB068
+
+#W32($2CBB78)
+//マユコイーン<end>
+
+
+//POINTER #201 @ $2CBB84 - STRING #201 @ $2CB078
+
+#W32($2CBB84)
+//スカイスイマー<end>
+
+
+//POINTER #202 @ $2CBB90 - STRING #202 @ $2CB088
+
+#W32($2CBB90)
+//スプリンガー<end>
+
+
+//POINTER #203 @ $2CBB9C - STRING #203 @ $2CB098
+
+#W32($2CBB9C)
+//トラッパー<end>
+
+
+//POINTER #204 @ $2CBBA8 - STRING #204 @ $2CB0A4
+
+#W32($2CBBA8)
+//オーグラ<end>
+
+
+//POINTER #205 @ $2CBBB4 - STRING #205 @ $2CB0B0
+
+#W32($2CBBB4)
+//デスロール<end>
+
+
+//POINTER #206 @ $2CBBC0 - STRING #206 @ $2CB0BC
+
+#W32($2CBBC0)
+//サザーン<end>
+
+
+//POINTER #207 @ $2CBBCC - STRING #207 @ $2CB0C8
+
+#W32($2CBBCC)
+//バルン<end>
+
+
+//POINTER #208 @ $2CBBD8 - STRING #208 @ $2CB0D0
+
+#W32($2CBBD8)
+//ポトリ<end>
+
+
+//POINTER #209 @ $2CBBE4 - STRING #209 @ $2CB0D8
+
+#W32($2CBBE4)
+//ツノックル<end>
+
+
+//POINTER #210 @ $2CBBF0 - STRING #210 @ $2CB0E4
+
+#W32($2CBBF0)
+//プランクドン<end>
+
+
+//POINTER #211 @ $2CBBFC - STRING #211 @ $2CB0F4
+
+#W32($2CBBFC)
+//ガンドス<end>
+
+
+//POINTER #212 @ $2CBC08 - STRING #212 @ $2CB100
+
+#W32($2CBC08)
+//マルノコン<end>
+
+
+//POINTER #213 @ $2CBC14 - STRING #213 @ $2CB10C
+
+#W32($2CBC14)
+//メルトフィー<end>
+
+
+//POINTER #214 @ $2CBC20 - STRING #214 @ $2CB11C
+
+#W32($2CBC20)
+//ピリル<end>
+
+
+//POINTER #215 @ $2CBC2C - STRING #215 @ $2CB124
+
+#W32($2CBC2C)
+//エイビー<end>
+
+
+//POINTER #216 @ $2CBC38 - STRING #216 @ $2CB130
+
+#W32($2CBC38)
+//ガンマー<end>
+
+
+//POINTER #217 @ $2CBC44 - STRING #217 @ $2CB13C
+
+#W32($2CBC44)
+//コメルト<end>
+
+
+//POINTER #218 @ $2CBC50 - STRING #218 @ $2CB148
+
+#W32($2CBC50)
+//ビリナガシ<end>
+
+
+//POINTER #219 @ $2CBC5C - STRING #219 @ $2CB154
+
+#W32($2CBC5C)
+//ヒャッポー<end>
+
+
+//POINTER #220 @ $2CBC68 - STRING #220 @ $2CB160
+
+#W32($2CBC68)
+//テッポ<end>
+
+
+//POINTER #221 @ $2CBC74 - STRING #221 @ $2CB168
+
+#W32($2CBC74)
+//ヒラメイ<end>
+
+
+//POINTER #222 @ $2CBC80 - STRING #222 @ $2CB174
+
+#W32($2CBC80)
+//エンゼル<end>
+
+
+//POINTER #223 @ $2CBC8C - STRING #223 @ $2CB180
+
+#W32($2CBC8C)
+//メジロ<end>
+
+
+//POINTER #224 @ $2CBC98 - STRING #224 @ $2CB188
+
+#W32($2CBC98)
+//オガクレ<end>
+
+
+//POINTER #225 @ $2CBCA4 - STRING #225 @ $2CB194
+
+#W32($2CBCA4)
+//モック<end>
+
+
+//POINTER #226 @ $2CBCB0 - STRING #226 @ $2CB19C
+
+#W32($2CBCB0)
+//ブロッカ<end>
+
+
+//POINTER #227 @ $2CBCBC - STRING #227 @ $2CB1A8
+
+#W32($2CBCBC)
+//ホノウーオ<end>
+
+
+//POINTER #228 @ $2CBCC8 - STRING #228 @ $2CB1B4
+
+#W32($2CBCC8)
+//アイソウニ<end>
+
+
+//POINTER #229 @ $2CBCD4 - STRING #229 @ $2CB1C0
+
+#W32($2CBCD4)
+//ホタデン<end>
+
+
+//POINTER #230 @ $2CBCE0 - STRING #230 @ $2CB1CC
+
+#W32($2CBCE0)
+//シャンデー<end>
+
+
+//POINTER #231 @ $2CBCEC - STRING #231 @ $2CB1D8
+
+#W32($2CBCEC)
+//ジェルバリー<end>
+
+
+//POINTER #232 @ $2CBCF8 - STRING #232 @ $2CB1E8
+
+#W32($2CBCF8)
+//バリック<end>
+
+
+//POINTER #233 @ $2CBD04 - STRING #233 @ $2CB1F4
+
+#W32($2CBD04)
+//ジアップ<end>
+
+
+//POINTER #234 @ $2CBD10 - STRING #234 @ $2CB200
+
+#W32($2CBD10)
+//エレキラゲ<end>
+
+
+//POINTER #234 @ $2CBD1C - STRING #234 @ $2CB20C
+
+#W32($2CBD1C)
+//ジアッポ<end>

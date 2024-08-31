@@ -1,0 +1,11 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $5A
+
+//:func 22 -1<line>
+ハデヒラリの　なくなった<line>
+<c d>『かぐ』<c 0>を　さがしてあげよう<line>
+:end<line>
+<end>
+

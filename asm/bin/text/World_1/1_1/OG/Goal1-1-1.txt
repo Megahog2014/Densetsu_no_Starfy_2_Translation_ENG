@@ -1,0 +1,29 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $192
+
+//:sd<line>
+:func 3 2 2<line>
+:func 0 0<line>
+:se<line>
+たからばこの中には<line>
+グッズ<c d>『テンカイのぼうし』<c 1>が<line>
+入っていたよ！<line>
+:c<line>
+<wait>グッズをあつめていけば　きっと<line>
+ママスタに　あえるはず・・<line>
+さあさあ　どんどん　あつめて<line>
+行こう！<line>
+:c<line>
+<wait>グッズは　<c d>『ポーズがめん』<c 1>と<line>
+<c d>『マップがめん』<c 1>から行ける<line>
+<c d>『グッズがめん』<c 1>で　きせかえして<line>
+たのしもう！<line>
+:c<line>
+<wait>:sd<line>
+:func 1 0<line>
+:func 2 2 2<line>
+:exit<line>
+<end>
+

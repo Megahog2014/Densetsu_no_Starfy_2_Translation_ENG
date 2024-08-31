@@ -1,0 +1,10 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $1F
+
+//[x 26]<line>
+ƒJƒƒJƒ‚¾‚¢‚¿<line>
+:end<line>
+<end>
+

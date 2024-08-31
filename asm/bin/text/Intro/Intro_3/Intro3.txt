@@ -1,0 +1,36 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 3
+//Block Range: $0 - $15E
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+[y 2]<line>
+[x 2]<line>
+<s 5><rname><diamond>‚n‚‡‚•‚’‚<line>
+‚f‚—‚‚ˆ‚‚ˆ‚‚ˆ‚‚ˆ‚I<line>
+‚e‚‰‚Ž‚‚Œ‚Œ‚™C ‚hf‚ ‚†‚’‚…‚… ‚‚Ž‚ƒ‚… ‚‚‡‚‚‰‚ŽI<line>
+[w 200]<line>
+<redname><diamond>‚n‚‡‚•‚’‚<line>
+‚r‚”‚‚’‚†‚™I ‚g‚‚— ‚„‚‚’‚… ‚™‚‚• ‚“‚…‚‚Œ ‚‚…<line>
+‚‰‚Ž ‚”‚ˆ‚… ‚Š‚‚’ ‚•‚ ‚•‚Ž‚”‚‰‚Œ ‚Ž‚‚—I<line>
+[w 200]<line>
+<redname><diamond>‚n‚‡‚•‚’‚<line>
+‚hf‚–‚… ‚‡‚‚” ‚‰‚”I ‚s‚ ‚‚‚™ ‚™‚‚• ‚‚‚‚ƒ‚‹ ‚†‚‚’ ‚”‚ˆ‚‚”C<line>
+‚hf‚Œ‚Œ ‚‚‚… ‚”‚‚‹‚‰‚Ž‚‡ ‚™‚‚•‚’ ‚‚’‚…‚ƒ‚‰‚‚•‚“ ‚‚‚”‚ˆ‚…‚’I<line>
+[w 200]<line>
+ <progressalt><line>
+<redname><diamond>‚n‚‡‚•‚’‚<line>
+‚x‚‚•f‚’‚… ‚‚‚’‚… ‚”‚ˆ‚‚Ž ‚—‚…‚Œ‚ƒ‚‚‚… ‚”‚ ‚”‚’‚™ ‚‚Ž‚„<line>
+‚”‚‚‹‚… ‚ˆ‚…‚’ ‚‚‚‚ƒ‚‹ ‚‰‚† ‚™‚‚•f‚„ ‚Œ‚‰‚‹‚…I ‚f‚—‚‚ˆ‚‚ˆ‚‚ˆ‚I<line>
+[w 200]<line>
+ <progressalt><line>
+<end>
+

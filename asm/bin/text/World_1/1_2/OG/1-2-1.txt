@@ -1,0 +1,131 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $A32
+
+//:if 1252 go 3<line>
+:if 1241 go 2<line>
+:if 1251 go 1<line>
+:sd<line>
+:flagon 1251<line>
+:flagon 15000<line>
+:func 6 2 1<line>
+:func 1 1<line>
+:se<line>
+:func 22 -1<line>
+<rname><diamond>ヤドカリタ<line>
+:obj 1 4<line>
+「あー！　スタフィーとキョロスケ！<line>
+　ちょうどいいところに・・・<line>
+　ちょっときいてくれよう・・」<line>
+<redname><diamond>ヤドカリタ<line>
+「さっき　オーグラそっくりな<line>
+　わんぱくな子供が　このあたりで<line>
+　大あばれしてさあ・・」<line>
+<redname><diamond>ヤドカリタ<line>
+「おかげで　あちこちに　みどりの<line>
+　ヘンなヤツが　すみついて<line>
+　こまってるんだ・・・」<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+:obj 2 4<line>
+「ああ　そういや　ここに<line>
+　くるときに　たくさんいたなあ・・<line>
+　ジャマで　とおりづらかったぜ・・」<line>
+:c<line>
+<redname><diamond>ヤドカリタ<line>
+:obj 1 4<line>
+「そう！　それっ！<line>
+　たぶん　その　オーグラみたいな<line>
+　子供のいたずらだと思うんだけど」<line>
+<redname><diamond>ヤドカリタ<line>
+「なんとか　<c d>『スピンアタック』<c 0>で<line>
+　たいじしてきて　くれないかなあ」<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+:obj 2 4<line>
+「あー　ざんねんだが　そいつぁ<line>
+　ムリだぜ」<line>
+<redname><diamond>キョロスケ<line>
+「このドジは　まえ　おぼえた<line>
+　アクション　ぜんぶ　わすれてやがる<line>
+　からな！・・・ったく・・」<line>
+:c<line>
+<redname><diamond>ヤドカリタ<line>
+:obj 1 4<line>
+「えー！　じゃあ　もう１回<line>
+　スピンアタックを　おしえて<line>
+　あげるから　たのむよー」<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+:obj 2 4<line>
+「ふぁーっ・・めんどくさ・・<line>
+　オレさまは　先に行くぞ<line>
+　スタフィー　めんどうみてやれよ」<line>
+:c<line>
+<redname><diamond>ヤドカリタ<line>
+:obj 1 4<line>
+「上のほうに　<c d>『カJンバン』<c 0>たてて<line>
+　おいたから　スピンアタックの<line>
+　使いかたを　みておくといいよ」<line>
+<redname><diamond>ヤドカリタ<line>
+「みどりの　ヘンなヤツは　ぜんぶで<line>
+　<c d>４０ぴき<c 0>　いるからね」<line>
+<redname><diamond>ヤドカリタ<line>
+「あ！　そうそう！<line>
+　スピンアタックの　やりすぎで<line>
+　目が回っちゃったときは・・」<line>
+<redname><diamond>ヤドカリタ<line>
+「<c d><Dpad>ボタンを　ガチャガチャやる<c 0>と<line>
+　すばやく　かいふくできるよ！<line>
+　んじゃ！　よろしくねー！」<line>
+:c<line>
+<wait>:sd<line>
+:func 4<line>
+:func 2 2<line>
+:obj 2 2 0<line>
+:func 1 0<line>
+:func 3 2<line>
+:exit<line>
+<wait>:1<line>
+:func 22 -1<line>
+<rname><diamond>ヤドカリタ<line>
+「<c d>『スXピンアタック』<c 0>で　<c d>４０ぴき<c 0>の<line>
+　みどりの　ヘンなヤツを　たいじ<line>
+　してきてー」<line>
+<redname><diamond>ヤドカリタ<line>
+「スピンアタックの　やりすぎで<line>
+　目が回っちゃったときは・・」<line>
+<redname><diamond>ヤドカリタ<line>
+「<c d><Dpad>ボタンを　ガチャガチャやる<c 0>と<line>
+　すばやく　かいふくできるよ！」<line>
+:end<line>
+<wait>:2<line>
+:func 22 -2<line>
+<rname><diamond>ヤドカリタ<line>
+「うわーっ！　ありがとう！<line>
+　ぜんぶ　たいじして<line>
+　くれたんだね」<line>
+<redname><diamond>ヤドカリタ<line>
+「おれいに　ぼくの　となりにある<line>
+　トビラを　あけてあげるよ」<line>
+:flagon 1252<line>
+:func 18 1 74<line>
+<redname><diamond>ヤドカリタ<line>
+「その先で　めずらしいものを<line>
+　みつけたんだ！<line>
+　行ってみるといいよっ！」<line>
+:end<line>
+<wait>:3<line>
+:func 22 -1<line>
+<rname><diamond>ヤドカリタ<line>
+「ところで　<c d>『スピンアタック』<c 0>の<line>
+　かんかくは　もう<line>
+　思い出した？」<line>
+<redname><diamond>ヤドカリタ<line>
+「この先も　いろんなところで<line>
+　使うだろうから　ちゃん<$F1>と<line>
+　れんしゅうしておかなきゃねっ！」<line>
+:end<line>
+<end>
+

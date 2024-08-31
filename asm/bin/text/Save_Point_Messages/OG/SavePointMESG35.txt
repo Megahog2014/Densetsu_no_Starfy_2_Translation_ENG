@@ -1,0 +1,13 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $AF
+
+//:func 22 -1<line>
+<c d>『りゅうせいアタック』<c 0>は<line>
+しゅうとくしましたか？<line>
+この先　たくさん使うので　かならず<line>
+しゅうとくしておこう！<line>
+:end<line>
+<end>
+

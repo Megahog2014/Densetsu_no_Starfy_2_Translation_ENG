@@ -1,0 +1,110 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $6D9
+
+//[x auto]<line>
+オーグラを　ふたたび『ツボ』に<line>
+ふうじこめることができた<line>
+スタフィーたち・・・<line>
+:func 4<line>
+:c<line>
+<wait>おたからも　ぜんぶみつかって<line>
+めでたし　めでたし<line>
+さあさあ　テンカイに　かえりましょう<line>
+:func 4<line>
+:c<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+:func 5 0 18<line>
+:func 2 8<line>
+<linealt>
+<wait>:func 3 0<line>
+<wait>[x 0]<line>
+<rname><diamond>パパスタ<line>
+「おお！　スタフィーよ！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「ついに　おたからを　ぜんぶ<line>
+　あつめたようじゃな・・」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「よーし！　みなのもの！<line>
+　うたげじゃ！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「うたげの　@じゅんびをせい！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「テンカイに　ふたたび　平和が<line>
+　おとずれた　『いわい』と・・」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「おたからを　みごと　ぜんぶ　あつめ<line>
+　きった　スタフィーたちを・・」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「みなで　たたえようではないか！<line>
+　さあさあ　せいだいに　やるぞい！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>テンカイヘイシたち<line>
+「ワーーー！　ワーーー！」<line>
+:func 4<line>
+:c<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+:func 5 0 36<line>
+<wait>:func 2 32<line>
+:func 3 0<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+<wait>:func 5 0 37<line>
+:func 2 48<line>
+:func 3 0<line>
+<wait>[x auto]<line>
+・・・ふう・・・<line>
+今回も　なかなか　たのしかったぜ<line>
+スタフィー・・・<line>
+:func 4<line>
+:c<line>
+<wait>でもよぉ・・やっぱ　『かぞく』って<line>
+いいもんだな・・・<line>
+オレさまには　とうちゃんも<line>
+かあちゃんもいねえけど・・<line>
+:func 4<line>
+:c<line>
+<wait>のこされた　おとうとたちを<line>
+<linealt>
+『らく』させてやるためにも・・<line>
+ぜってぇ　かねもちになってやるって<line>
+きめたんだ・・<line>
+:func 4<line>
+:c<line>
+<wait>スタフィー　オメェはめぐまれもんだぜ<line>
+『かぞく』は　だいじにしろよ・・<line>
+また　あそびにきてやっからな・・<line>
+:func 4<line>
+:c<line>
+<wait>そっ・・そうだ！<line>
+こ・・こんどは　もっチと　おたからを<line>
+よういしとけよ・・エッ・・エヘヘ・・<line>
+:func 4<line>
+:c<line>
+<wait>じゃ・・じゃあな！<line>
+スタフィー！<line>
+たった１人の友よ・・<line>
+元気でくらせよ・・アバヨ・・<line>
+:func 2 80<line>
+:func 3 0<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+:exit<line>
+<end>
+

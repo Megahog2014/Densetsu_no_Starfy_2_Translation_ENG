@@ -1,0 +1,303 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Sea Jams List
+
+//POINTER #0 @ $2D4E14 - STRING #0 @ $2D4ADC
+
+#W32($2D4E14)
+//オープニングデモ<end>
+
+
+//POINTER #1 @ $2D4E18 - STRING #1 @ $2D4AF0
+
+#W32($2D4E18)
+//海のねいろ<end>
+
+
+//POINTER #2 @ $2D4E1C - STRING #2 @ $2D4AFC
+
+#W32($2D4E1C)
+//ファイルセレクト<end>
+
+
+//POINTER #3 @ $2D4E20 - STRING #3 @ $2D4B10
+
+#W32($2D4E20)
+//ロブのどうくつ<end>
+
+
+//POINTER #4 @ $2D4E24 - STRING #4 @ $2D4B20
+
+#W32($2D4E24)
+//はじまりの海<end>
+
+
+//POINTER #5 @ $2D4E28 - STRING #5 @ $2D4B30
+
+#W32($2D4E28)
+//カメカメだいち<end>
+
+
+//POINTER #6 @ $2D4E2C - STRING #6 @ $2D4B40
+
+#W32($2D4E2C)
+//ツルツル氷ざん<end>
+
+
+//POINTER #7 @ $2D4E30 - STRING #7 @ $2D4B50
+
+#W32($2D4E30)
+//タイボクのもり<end>
+
+
+//POINTER #8 @ $2D4E34 - STRING #8 @ $2D4B60
+
+#W32($2D4E34)
+//まっくらどうくつ<end>
+
+
+//POINTER #9 @ $2D4E38 - STRING #9 @ $2D4B74
+
+#W32($2D4E38)
+//ヤッホーこうざん<end>
+
+
+//POINTER #10 @ $2D4E3C - STRING #10 @ $2D4B88
+
+#W32($2D4E3C)
+//テンカイ<end>
+
+
+//POINTER #11 @ $2D4E40 - STRING #11 @ $2D4B94
+
+#W32($2D4E40)
+//レッシーこ<end>
+
+
+//POINTER #12 @ $2D4E44 - STRING #12 @ $2D4BA0
+
+#W32($2D4E44)
+//げきりゅうのたき<end>
+
+
+//POINTER #13 @ $2D4E48 - STRING #13 @ $2D4BB4
+
+#W32($2D4E48)
+//オーグラじょう<end>
+
+
+//POINTER #14 @ $2D4E4C - STRING #14 @ $2D4BC4
+
+#W32($2D4E4C)
+//オーグラへのみち<end>
+
+
+//POINTER #15 @ $2D4E50 - STRING #15 @ $2D4BD8
+
+#W32($2D4E50)
+//キョロスケのいえ<end>
+
+
+//POINTER #16 @ $2D4E54 - STRING #16 @ $2D4BEC
+
+#W32($2D4E54)
+//イベントクリア<end>
+
+
+//POINTER #17 @ $2D4E58 - STRING #17 @ $2D4BFC
+
+#W32($2D4E58)
+//ボスはちかいぞ<end>
+
+
+//POINTER #18 @ $2D4E5C - STRING #18 @ $2D4C0C
+
+#W32($2D4E5C)
+//ボスとたいけつだ<end>
+
+
+//POINTER #19 @ $2D4E60 - STRING #19 @ $2D4C20
+
+#W32($2D4E60)
+//バトル・ボス<end>
+
+
+//POINTER #20 @ $2D4E64 - STRING #20 @ $2D4C30
+
+#W32($2D4E64)
+//オーグラをたおせ<end>
+
+
+//POINTER #21 @ $2D4E68 - STRING #21 @ $2D4C44
+
+#W32($2D4E68)
+//ミニゲーム<end>
+
+
+//POINTER #22 @ $2D4E6C - STRING #22 @ $2D4C50
+
+#W32($2D4E6C)
+//ゲームオーバー１<end>
+
+
+//POINTER #23 @ $2D4E70 - STRING #23 @ $2D4C64
+
+#W32($2D4E70)
+//ゲームオーバー２<end>
+
+
+//POINTER #24 @ $2D4E74 - STRING #24 @ $2D4C78
+
+#W32($2D4E74)
+//ポーズ<end>
+
+
+//POINTER #25 @ $2D4E78 - STRING #25 @ $2D4C80
+
+#W32($2D4E78)
+//ゆうしゃロブ<end>
+
+
+//POINTER #26 @ $2D4E7C - STRING #26 @ $2D4C90
+
+#W32($2D4E7C)
+//きねんしゃしん<end>
+
+
+//POINTER #27 @ $2D4E80 - STRING #27 @ $2D4CA0
+
+#W32($2D4E80)
+//ききゅう<end>
+
+
+//POINTER #28 @ $2D4E84 - STRING #28 @ $2D4CAC
+
+#W32($2D4E84)
+//ヤンキーきぐるみ<end>
+
+
+//POINTER #29 @ $2D4E88 - STRING #29 @ $2D4CC0
+
+#W32($2D4E88)
+//リューン<end>
+
+
+//POINTER #30 @ $2D4E8C - STRING #30 @ $2D4CCC
+
+#W32($2D4E8C)
+//スケボン<end>
+
+
+//POINTER #31 @ $2D4E90 - STRING #31 @ $2D4CD8
+
+#W32($2D4E90)
+//コアラきぐるみ<end>
+
+
+//POINTER #32 @ $2D4E94 - STRING #32 @ $2D4CE8
+
+#W32($2D4E94)
+//エンディング１<end>
+
+
+//POINTER #33 @ $2D4E98 - STRING #33 @ $2D4CF8
+
+#W32($2D4E98)
+//エンディング２<end>
+
+
+//POINTER #34 @ $2D4E9C - STRING #34 @ $2D4D08
+
+#W32($2D4E9C)
+//エンディング３<end>
+
+
+//POINTER #35 @ $2D4EA0 - STRING #35 @ $2D4D18
+
+#W32($2D4EA0)
+//エンディング４<end>
+
+
+//POINTER #36 @ $2D4EA4 - STRING #36 @ $2D4D28
+
+#W32($2D4EA4)
+//ステージセレクト<end>
+
+
+//POINTER #37 @ $2D4EA8 - STRING #37 @ $2D4D3C
+
+#W32($2D4EA8)
+//ずかん<end>
+
+
+//POINTER #38 @ $2D4EAC - STRING #38 @ $2D4D44
+
+#W32($2D4EAC)
+//おたからだ！<end>
+
+
+//POINTER #39 @ $2D4EB0 - STRING #39 @ $2D4D54
+
+#W32($2D4EB0)
+//たからもの<end>
+
+
+//POINTER #40 @ $2D4EB4 - STRING #40 @ $2D4D60
+
+#W32($2D4EB4)
+//ミニゲームしゅう<end>
+
+
+//POINTER #41 @ $2D4EB8 - STRING #41 @ $2D4D74
+
+#W32($2D4EB8)
+//スタッフロール１<end>
+
+
+//POINTER #42 @ $2D4EBC - STRING #42 @ $2D4D88
+
+#W32($2D4EBC)
+//スタッフロール２<end>
+
+
+//POINTER #43 @ $2D4EC0 - STRING #43 @ $2D4D9C
+
+#W32($2D4EC0)
+//ラブリーのおみせ<end>
+
+
+//POINTER #44 @ $2D4EC4 - STRING #44 @ $2D4DB0
+
+#W32($2D4EC4)
+//スタフィーダンス<end>
+
+
+//POINTER #45 @ $2D4EC8 - STRING #45 @ $2D4DC4
+
+#W32($2D4EC8)
+//かいわがめん１<end>
+
+
+//POINTER #46 @ $2D4ECC - STRING #46 @ $2D4DD4
+
+#W32($2D4ECC)
+//かいわがめん２<end>
+
+
+//POINTER #47 @ $2D4ED0 - STRING #47 @ $2D4DE4
+
+#W32($2D4ED0)
+//かいわがめん３<end>
+
+
+//POINTER #48 @ $2D4ED4 - STRING #48 @ $2D4DF4
+
+#W32($2D4ED4)
+//かいわがめん４<end>
+
+
+//POINTER #49 @ $2D4ED8 - STRING #49 @ $2D4E04
+
+#W32($2D4ED8)
+//ステージクリア<end>
+

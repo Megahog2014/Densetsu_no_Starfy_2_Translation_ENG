@@ -1,0 +1,155 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $A1A
+
+//[x auto]<line>
+オーグラを　ふたたび『ツボ』に<line>
+ふうじこめることができた<line>
+スタフィーたち・・・<line>
+:func 4<line>
+:c<line>
+<wait>ママスタも　ぶじ　きゅうしゅつして<line>
+めでたし・・めでたし・・<line>
+さあさあ　テンカイに　かえりましょう<line>
+:func 4<line>
+:c<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+:func 5 0 18<line>
+:func 2 8<line>
+<wait>:func 3 0<line>
+<wait>[x 0]<line>
+<rname><diamond>パパスタ<line>
+「おお！　スタフィーよ！<line>
+　ようやったのう・・」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「まさか　オーグラが　じりきで<line>
+　だっしゅつしよるとは・・」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「これからは　もっと　ツボの<line>
+　あつかいに　気をつけねば・・」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「そーだぞ！　・・ったく<line>
+　たよりねえ　ヤツらだぜ・・」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「ぐむむ・・　じゃが　まあ<line>
+　みんなぶじで　なによりじゃ」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「・・ところで・・　オッサン！<line>
+　@今回も・・わかってんだろうな？」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「わかっておる！　わかっておる！<line>
+　おたからじゃろうが・・ったく・・」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「わかってんなら　よこせ！<line>
+　今すぐよこせ！　さあ　よこせ！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+:func 2 24<line>
+「しゃあないのう・・　ほれ！<line>
+　これが『たからのちず』じゃ」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「なんだ？　こりゃ？」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「おたからは　テンカイに<line>
+　あるんじゃねえのか？」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「おたからはのう・・スタ<$5E>フィーが<line>
+　うっかり　おとしよるから・・」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「すうねんまえから　海のあちこちに<line>
+　かくしておくことに　したんじゃ」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>パパスタ<line>
+「すまんが　その『たからのちず』を<line>
+　たよりに　さがしてくれい・・」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「エー！　なんだそりゃ！<line>
+　めんどくせーな！・・ったく・・」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「しゃあねえ・・おたからのためだ・・<line>
+:func 2 40<line>
+　オラ！　行くぞ！　スタフィー！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「なに？　『ママのもとを　はなれたく<line>
+　ない』だとぉーーー？」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「あまえんな！　オラ！・・・<line>
+:func 2 48<line>
+　・・・って・・イテェーーー！」<line>
+:func 3 0<line>
+<wait>:func 2 64<line>
+:func 3 0<line>
+:c<line>
+<redname><diamond>オーグラ<line>
+「グワハハハ　バカナヤツラメーー！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>オーグラ<line>
+「イイCコトキイタゾ！　ワシガ　サキニ<line>
+　オタカラ　ゼンブアツメテヤルー！」<line>
+:func 2 68<line>
+:func 3 0<line>
+:c<line>
+<redname><diamond>プチオーグラたち<line>
+:func 2 72<line>
+「アハハハ！　バーカ　バーカ！<line>
+　オタカラ　イタダキー！」<line>
+:func 4<line>
+:c<line>
+<wait>[w 30]<line>
+:func 2 80<line>
+:func 3 0<line>
+<rname><diamond>キョロスケ<line>
+「・・バッ・・バッカヤロー！<line>
+　オメェのせいだぞ！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+「オラオラ！　さっさとついてこい！」<line>
+:func 4<line>
+:c<line>
+<redname><diamond>キョロスケ<line>
+:func 2 88<line>
+「アイツらより　先に　おたから<line>
+　みつけんだよ！　オラオラー！」<line>
+:func 3 0<line>
+:func 4<line>
+:func 5 1 10<line>
+:func 1 0 2<line>
+:exit<line>
+<end>
+

@@ -1,0 +1,12 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Save Point Message
+//Block Range: $0 - $62
+
+//:func 22 -1<line>
+いよいよ　プチオーグラ２ごうと<line>
+たいけつだよ！<line>
+まけないで！　スタフィー！<line>
+:end<line>
+<end>
+

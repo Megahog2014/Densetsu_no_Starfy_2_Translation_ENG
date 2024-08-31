@@ -1,0 +1,29 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Shop Chests
+//Block Range: $0 - $7E
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+:c<line>
+:sd<line>
+:func 3 2 2<line>
+:func 0 0<line>
+:se<line>
+[y 22]<line>
+[x 48]<line>
+ÇxÇèÇï ÇÇÇèÇïÇáÇàÇî ÇÅ <c d>ÇoÇâÇéÇÉÇÖÅ|ÇéÇÖÇö<c 1>ÅI<line>
+:c<line>
+<wait>:sd<line>
+:func 1 0<line>
+:func 2 2 2<line>
+:exit<line>
+<end>
+

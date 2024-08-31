@@ -1,0 +1,14 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $88
+
+//[x 0]<line>
+[y 2]<line>
+『ツルツル氷ざん』　４―８<line>
+[x auto]<line>
+[y 20]<line>
+おちるまえに　ジャンプ！ジャンプ！<line>
+おちたあとで　ジャンプ！ジャンプ！<line>
+<end>
+

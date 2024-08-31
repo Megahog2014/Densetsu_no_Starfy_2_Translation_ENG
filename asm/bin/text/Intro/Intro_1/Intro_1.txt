@@ -1,0 +1,107 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 1
+//Block Range: $0 - $3CC
+
+#VAR(Intro, TABLE)
+#ADDTBL("STARFY2ENGINTRO.TBL", Intro)
+#ACTIVETBL(Intro)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+[y auto]<line>
+[x 21]<line>
+<s 2><line>
+Ａｂｏｖｅ ｔｈｅ ｓｅａ，<line>
+[y 15]<line>
+[x 132]<line>
+[w 10]<line>
+ｈｉｇｈ ｉｎ ｔｈｅ ｓｋｙ，<line>
+[w 50]<line>
+[x 31]<line>
+ｔｈｅｒｅ ｏｎｃｅ ｗａｓ ａ ｐｅａｃｅｆｕｌ<line>
+[x 28]<line>
+ｋｉｎｇｄｏｍ ａｔｏｐ ｏｆ ｔｈｅ ｃｌｏｕｄｓ<line>
+[x 73]<line>
+ｃａｌｌｅｄ Ｐｕｆｆｔｏｐ．<line>
+[y auto]<line>
+[x 62]<line>
+[w 200]<line>
+<wait>Ａ ｆｅｗ ｙｅａｒｓ ａｇｏ．．．<line>
+[w 200]<line>
+[x 22]<line>
+<progress>Ｔｈｅ ｃｌｕｍｓｙ ｐｒｉｎｃｅ ｏｆ Ｐｕｆｆｔｏｐ，<line>
+[w 10]<line>
+[x 110]<line>
+Ｓｔａｒｆｙ，<line>
+[w 10]<line>
+[x 21]<line>
+ｄｒｏｐｐｅｄ ａ ｖｅｒｙ ｉｍｐｏｒｔａｎｔ ｊａｒ．．．<Introcode><line>
+[w 200]<line>
+<progress><line>
+[y 20]<line>
+[x 19]<line>
+Ａｎｄ ｔｈｅ ｖｉｌｌｉａｎ ｗｈｏ ｗａｓ ｓｅａｌｅｄ<line>
+[x 40]<line>
+ｉｎｓｉｄｅ ｏｆ ｔｈｅ Ｊａｒ，<line>
+[w 10]<line>
+[y 34]<line>
+[x 165]<line>
+Ｏｇｕｒａ，<line>
+[w 10]<line>
+[x 80]<line>
+ｈａｓ ｒｅｔｕｒｎｅｄ．<line>
+[w 200]<line>
+[y 10]<line>
+[x 40]<line>
+<progress>Ｕｓｉｎｇ ｈｉｓ ｐｏｗｅｒｆｕｌ ｍａｇｉｃ，<line>
+[w 10]<line>
+[x 20]<line>
+Ｏｇｕｒａ ｃｏｎｊｕｒｅｄ ａ ｇｒｅａｔ ｓｔｏｒｍ<line>
+[w 10]<line>
+[x 50]<line>
+ｔｈａｔ ｗｒｅｃｋｅｄ Ｐｕｆｆｔｏｐ．．．<line>
+[w 100]<line>
+[x 27]<line>
+<progress>Ｈｏｗｅｖｅｒ，<line>
+[w 15]<line>
+[x 97]<line>
+[y 10]<line>
+ｄｕｅ ｔｏ ｔｈｅ ｅｆｆｏｒｔｓ<line>
+[w 10]<line>
+[x 38]<line>
+ｏｆ Ｓｔａｒｆｙ ａｎｄ ｈｉｓ ｆｒｉｅｎｄｓ，<line>
+[w 15]<line>
+[x 25]<line>
+ｔｈｅｙ ｗｅｒｅ ａｂｌｅ ｔｏ ｏｎｃｅ ａｇａｉｎ<line>
+[x 53]<line>
+ｓｅａｌ Ｏｇｕｒａ ｉｎ ｔｈｅ ｊａｒ．<line>
+[w 100]<line>
+[x 90]<line>
+<progress>Ａｆｔｅｒ ｔｈａｔ，<line>
+[w 10]<line>
+[x 28]<line>
+ｐｅａｃｅ ｒｅｔｕｒｎｅｄ ｔｏ Ｐｕｆｆｔｏｐ，<line>
+[w 10]<line>
+ａｎｄ ｅｖｅｒｙｏｎｅ ｌｉｖｅｄ ｈａｐｐｉｌｙ．．．<line>
+[w 100]<line>
+<wait>Ｈｏｗｅｖｅｒ，<line>
+[w 15]<line>
+[y 10]<line>
+[x 99]<line>
+ｔｈｉｓ ｔｉｍｅ ｏｆ ｐｅａｃｅ<line>
+[x 55]<line>
+ｉｓ ｏｎｃｅ ａｇａｉｎ ａｔ ｒｉｓｋ．．．<line>
+[w 200]<line>
+[x 33]<line>
+<wait>Ｓｔａｒｆｙ ａｎｄ ｔｈｅ ｏｔｈｅｒｓ ｈａｄ<line>
+[w 10]<line>
+[x 18]<line>
+ｎｏ ｗａｙ ｏｆ ｋｎｏｗｉｎｇ ａｔ ｔｈｅ ｔｉｍｅ．．．<line>
+[w 200]<line>
+ <progressalt><line>
+<end>
+

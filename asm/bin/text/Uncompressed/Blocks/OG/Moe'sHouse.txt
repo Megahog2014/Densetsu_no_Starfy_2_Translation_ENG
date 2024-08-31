@@ -1,0 +1,87 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Moe's House (Pointer)
+
+//POINTER #0 @ $2D3424 - STRING #0 @ $2D3228
+
+#W32($2D3424)
+//『ラブリーのおみせ』で　かった<linealt>
+しゃしんを　かんしょうするぞ<wait>いままで　みつけた<linealt>
+ミニゲームで　あそべるぞ！<end>
+
+
+//POINTER #1 @ $2D3428 - STRING #1 @ $2D3264
+
+#W32($2D3428)
+//いままで　みつけた<linealt>
+ミニゲームで　あそべるぞ！<end>
+
+
+//POINTER #2 @ $2D342C - STRING #2 @ $2D3294
+
+#W32($2D342C)
+//てにいれた『がくふ』の曲を<linealt>
+きくことが　できるぞ<wait>ゲーム中に　であったなかまや<linealt>
+テキを　とうろくしてあるぞ<wait>あつめた『たからもの』を<linealt>
+カクニンできるぞ<end>
+
+
+//POINTER #3 @ $2D3430 - STRING #3 @ $2D32C4
+
+#W32($2D3430)
+//ゲーム中に　であったなかまや<linealt>
+テキを　とうろくしてあるぞ<wait>あつめた『たからもの』を<linealt>
+カクニンできるぞ<end>
+
+
+//POINTER #4 @ $2D3434 - STRING #4 @ $2D32FC
+
+#W32($2D3434)
+//あつめた『たからもの』を<linealt>
+カクニンできるぞ<end>
+
+
+//POINTER #5 @ $2D3438 - STRING #5 @ $2D3328
+
+#W32($2D3438)
+//さいしょのエンディングを<linealt>
+みられるぞ！<end>
+
+
+//POINTER #6 @ $2D343C - STRING #6 @ $2D3350
+
+#W32($2D343C)
+//２しゅうめのエンディングを<linealt>
+みられるぞ！<wait>たからものを　すべてあつめた<linealt>
+エンディングを　みられるぞ！<end>
+
+
+//POINTER #7 @ $2D3440 - STRING #7 @ $2D3378
+
+#W32($2D3440)
+//たからものを　すべてあつめた<linealt>
+エンディングを　みられるぞ！<end>
+
+
+//POINTER #8 @ $2D3444 - STRING #8 @ $2D33B4
+
+#W32($2D3444)
+//このゲームを　つくった<linealt>
+スタッフを　みられるぞ！<wait>これは　オメェにゃまだはえーよ<linealt>
+もっと　ぼうけんしてからこい！<end>
+
+
+//POINTER #9 @ $2D3448 - STRING #9 @ $2D33B4
+
+#W32($2D3448)
+//このゲームを　つくった<linealt>
+スタッフを　みられるぞ！<wait>これは　オメェにゃまだはえーよ<linealt>
+もっと　ぼうけんしてからこい！<end>
+
+
+//POINTER #10 @ $2D344C - STRING #10 @ $2D33E4
+
+#W32($2D344C)
+//これは　オメェにゃまだはえーよ<linealt>
+もっと　ぼうけんしてからこい！<end>
+

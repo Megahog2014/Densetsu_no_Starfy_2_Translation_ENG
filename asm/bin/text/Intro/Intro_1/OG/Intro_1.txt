@@ -1,0 +1,64 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Intro 1
+//Block Range: $0 - $3CC
+
+[y auto]<line>
+[x auto]<line>
+<s 2>大きな 海の そらたかく<line>
+[w 60]<line>
+くもの上に 『テンカイ』と いう<line>
+[w 60]<line>
+平和な おうこくが ありました<line>
+[w 200]<line>
+<wait>さかのぼること すうねんまえ・・<line>
+[w 200]<line>
+<progress>テンカイの おっちょこちょいな<line>
+[w 10]<line>
+王子 『スタフィー』は<line>
+[w 10]<line>
+おしろ<Introcode>の だいじなツボを<line>
+[w 10]<line>
+おとしてしまい・・・<line>
+[w 200]<line>
+<progress>ツボに ふうじられていた<line>
+[w 10]<line>
+ワルモノ 『オーグラ』が<line>
+[w 10]<line>
+ふっかつしてしまいました<line>
+[w 200]<line>
+<progress>オーグラは つよい『まりょく』で<line>
+[w 10]<line>
+大あらしを おこし<line>
+[w 10]<line>
+テンカイを おそいましたがェ・・<line>
+[w 200]<line>
+<progress>スタフィーと なかまたちの<line>
+[w 10]<line>
+かつやくで ふたたび オーグラを<line>
+[w 10]<line>
+ツボに ふうじこめることが<line>
+[w 10]<line>
+できました・・・<line>
+[w 200]<line>
+<progress>そのご テンカイは<line>
+[w 10]<line>
+平和を とりもどし<line>
+[w 10]<line>
+みんなで たのしく<line>
+[w 10]<line>
+くらしていました・・・<line>
+[w 200]<line>
+<wait>しかし この 平和なじかんが<line>
+[w 10]<line>
+ふたたび おびやかされることに<line>
+[w 10]<line>
+なろうとは・・・<line>
+[w 200]<line>
+<wait>このころの スタフィーたちには<line>
+[w 10]<line>
+知るよしも なかったのです・・<line>
+[w 200]<line>
+ <progressalt><line>
+<end>
+

@@ -1,0 +1,40 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $16C
+
+#VAR(Story, TABLE)
+#ADDTBL("STARFY2ENG.TBL", Story)
+#ACTIVETBL(Story)
+
+#VAR(BIN, CUSTOMPOINTER)
+#CREATEPTR(BIN, "LINEAR", $-08000000, 32)
+
+#JMP(000000)
+
+:sd<line>
+:func 3 2 2<line>
+:func 0 0<line>
+:se<line>
+[y 18]<line>
+Ｉｎｓｉｄｅ ｔｈｅ ｔｒｅａｓｕｒｅ ｃｈｅｓｔ ｗａｓ．．．<line>
+ｓｏｍｅ <c d>Ｓｗｉｍｍｉｎｇ Ｔｒｕｎｋｓ<c 1>！<line>
+:c<line>
+<wait>Ｄｉｄ ｂｅａｔｉｎｇ Ｋｏｎｋ ｍａｋｅ<line>
+Ｍｏｅ ｆｅｅｌ ａ ｌｉｔｔｌｅ ｂｅｔｔｅｒ？<line>
+:c<line>
+[y 13]<line>
+<wait>Ｉｔ ｓｅｅｍｓ ａｓ ｉｆ ｔｈｅ Ｐｕｃｈｉ Ｏｇｕｒａｓ<line>
+ｗｉｌｌ ｂｅ ｗａｉｔｉｎｇ ｆｏｒ ｕｓ<line>
+ａｔ ｔｈｅ ｆｉｎａｌ ｓｔａｇｅ ｏｆ ａ ｗｏｒｌｄ．．．<line>
+:c<line>
+[y 18]<line>
+<wait>Ｌｅｔ’ｓ ｋｅｅｐ ｔｈｉｓ ｓｔｒｉｄｅ ａｎｄ<line>
+ｂｅａｔ ｔｈｅ ｒｅｓｔ ｏｆ ｔｈｅ Ｐｕｃｈｉ Ｏｇｕｒａ Ｇａｎｇ！<line>
+:c<line>
+<wait>:sd<line>
+:func 1 0<line>
+:func 2 2 2<line>
+:exit<line>
+<end>
+

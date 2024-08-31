@@ -1,0 +1,10 @@
+Answers for Food Puzzles
+
+First Puzzle
+Banana->Apple(Eggplant)->Eggplant(Melon)->Tomato(Pumpkin)
+
+Second Puzzle
+Eggplant(Melon)->Tofu(Persimmon)->Onion(Cucumber)->Nut(Apple)
+
+Third Puzzle
+Eggplant(Melon)->Tumeric(Shell)->Carrot(Squid)->Tomato(Pumpkin)

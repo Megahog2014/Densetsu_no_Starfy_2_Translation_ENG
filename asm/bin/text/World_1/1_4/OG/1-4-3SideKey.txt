@@ -1,0 +1,14 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $72
+
+//:func 22 -1<line>
+<c d>『さんかくのカギ』<c 0>を　みつけたよ！<line>
+:sd<line>
+:obj 1 3<line>
+:flagon 1402<line>
+:flagon 15501<line>
+:end<line>
+<end>
+

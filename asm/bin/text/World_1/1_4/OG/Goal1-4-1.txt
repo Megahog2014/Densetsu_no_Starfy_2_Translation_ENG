@@ -1,0 +1,31 @@
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		In Level Convo
+//Block Range: $0 - $16C
+
+//:sd<line>
+:func 3 2 2<line>
+:func 0 0<line>
+:se<line>
+たからばこの中には<line>
+グッズ<c d>『海パン』<c 1>が<line>
+入っていたよ！<line>
+:c<line>
+<wait>ボンボーンもこらしめたし　<line>
+キョロスケも　少しは<line>
+きがはれたかな？<line>
+:c<line>
+<wait>どうやら　ステージのさいごには<line>
+プチオーグラが　まちかまえている<line>
+みたいだね<line>
+:c<line>
+<wait>このちょうしで　この先も<line>
+どんどん　やっつけて<line>
+行こう！<line>
+:c<line>
+<wait>:sd<line>
+:func 1 0<line>
+:func 2 2 2<line>
+:exit<line>
+<end>
+
