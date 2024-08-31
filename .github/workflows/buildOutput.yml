@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: BuildRom
 
 # Controls when the workflow will run
 on:
@@ -26,7 +26,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Install vcredist2015
-        run: choco install vcredist2015
+        run: choco install vcredist-all
 
       # Runs a single command using the runners shell
       - name: Assemble and Upload rom
