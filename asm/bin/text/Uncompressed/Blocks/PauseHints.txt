@@ -433,6 +433,10 @@
 //POINTER #0 @ $2C6428 - STRING #0 @ $641A38
 
 #WRITE(GBA,$2C6428)
+#WRITE(GBA,$2C6438)
+#WRITE(GBA,$2C6470)
+#WRITE(GBA,$2C6478)
+#WRITE(GBA,$2C6488)
 ‚f‚ ‚†‚‰‚Ž‚„ ‚q‚…‚“‚“‚‰‚…f‚“ ‚‹‚‰‚„‚Ž‚‚‚‚…‚„ ‚„‚‚•‚‡‚ˆ‚”‚…‚’I<line>
 :end<line>
 <end>
@@ -529,6 +533,7 @@
 //POINTER #0 @ $2C6510 - STRING #0 @ $641D1C
 
 #WRITE(GBA,$2C6510)
+#WRITE(GBA,$2C6520)
 <line>
 ‚d‚ƒ‚ˆ‚‰‚‡‚™‚‚™‚f‚“ ‚•‚ ‚”‚ ‚“‚‚‚…‚”‚ˆ‚‰‚Ž‚‡DDD<line>
 ‚x‚‚• ‚ˆ‚‚–‚… ‚”‚ ‚—‚‚’‚Ž ‚”‚ˆ‚… ‚j‚•‚Ž‚‚‰‚ƒ‚ˆ‚‰I<line>
@@ -587,6 +592,7 @@
 //POINTER #0 @ $2C6558 - STRING #0 @ $641EEC
 
 #WRITE(GBA,$2C6558)
+#WRITE(GBA,$2C6548)
 ‚s‚ˆ‚‚” ‚…‚˜‚‚Œ‚‚“‚‰‚‚Ž ‚“‚…‚Ž‚” ‚™‚‚• ‚†‚Œ‚™‚‰‚Ž‚‡I<line>
 ‚k‚…‚”f‚“ ‚‡‚ ‚Œ‚‚‚‹ ‚†‚‚’ ‚l‚‚…I<line>
 :end<line>
@@ -610,6 +616,7 @@
 //POINTER #0 @ $2C6568 - STRING #0 @ $641FC0
 
 #WRITE(GBA,$2C6568)
+#WRITE(GBA,$2C6578)
 ‚f‚ ‚†‚‰‚Ž‚„ ‚”‚ˆ‚… ‚†‚’‚‰‚…‚Ž‚„ ‚™‚‚•f‚–‚…<line>
 ‚‚‚…‚…‚Ž ‚“‚…‚‚…‚’‚‚”‚…‚„ ‚†‚’‚‚C ‚l‚‚…D<line>
 :end<line>
@@ -653,6 +660,18 @@
 //POINTER #0 @ $2C65A8 - STRING #0 @ $6420D8
 
 #WRITE(GBA,$2C65A8)
+#WRITE(GBA,$2C65C0)
+#WRITE(GBA,$2C65D8)
+#WRITE(GBA,$2C65F0)
+#WRITE(GBA,$2C6608)
+#WRITE(GBA,$2C6620)
+#WRITE(GBA,$2C69F0)
+#WRITE(GBA,$2C6A08)
+#WRITE(GBA,$2C6A20)
+#WRITE(GBA,$2C6A38)
+#WRITE(GBA,$2C6A50)
+#WRITE(GBA,$2C6A68)
+<line>
 ‚q‚…‚‚„ ‚”‚ˆ‚… ‚“‚‰‚‡‚Ž‚“ ‚”‚ ‚’‚…‚‚…‚‚‚‚…‚’ ‚™‚‚•‚’ ‚`‚‚‚‰‚Œ‚‰‚”‚‰‚…‚“<line>
 ‚“‚ ‚™‚‚• ‚ƒ‚‚Ž ‚“‚‚–‚… ‚l‚‚‚ ‚r‚”‚‚’I<line>
 :end<line>
@@ -664,6 +683,17 @@
 //POINTER #0 @ $2C65B0 - STRING #0 @ $642134
 
 #WRITE(GBA,$2C65B0)
+#WRITE(GBA,$2C65C8)
+#WRITE(GBA,$2C65E0)
+#WRITE(GBA,$2C65F8)
+#WRITE(GBA,$2C6610)
+#WRITE(GBA,$2C6640)
+#WRITE(GBA,$2C69F8)
+#WRITE(GBA,$2C6A10)
+#WRITE(GBA,$2C6A28)
+#WRITE(GBA,$2C6A40)
+#WRITE(GBA,$2C6A58)
+#WRITE(GBA,$2C6A70)
 <line>
 ‚q‚…‚‚‚’‚” ‚‚‚‚ƒ‚‹ ‚”‚ ‚g‚…‚’‚‚‚Ž ‚‚†‚”‚…‚’ ‚™‚‚•f‚–‚…<line>
 ‚‚‚…‚‚”‚…‚Ž ‚‚Œ‚Œ <c d>‚S‚O<c 1> ‚‚† ‚”‚ˆ‚‚“‚… ‚‡‚’‚…‚…‚Ž ‚ƒ‚’‚…‚‚”‚•‚’‚…‚“D<line>
@@ -935,6 +965,7 @@
 //POINTER #0 @ $2C6860 - STRING #0 @ $642AB8
 
 #WRITE(GBA,$2C6860)
+#WRITE(GBA,$2C6870)
 <line>
 ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚Tf‚“ ‚‹‚‰‚„‚Ž‚‚‚‚…‚„ <c d>‚o‚•‚’‚“‚Œ‚…‚™<c 1>I<line>
 ‚k‚…‚”f‚“ ‚“‚‚–‚… ‚ˆ‚‰‚ ‚”‚‚‡‚…‚”‚ˆ‚…‚’ ‚—‚‰‚”‚ˆ ‚l‚‚‚ŽI<line>
@@ -1121,6 +1152,58 @@
 ‚s‚ˆ‚‰‚“ ‚‰‚“ ‚‰‚”I ‚s‚ˆ‚… ‚†‚‰‚Ž‚‚Œ ‚“‚ˆ‚‚—‚„‚‚—‚ŽI<line>
 ‚o‚‚™ ‚ƒ‚Œ‚‚“‚… ‚‚”‚”‚…‚Ž‚”‚‰‚‚Ž ‚”‚ ‚l‚‚…f‚“ ‚‚„‚–‚‰‚ƒ‚…<line>
 ‚‚Ž‚„ ‚‡‚‰‚–‚… ‚‰‚” ‚‚Œ‚Œ ‚™‚‚•f‚–‚… ‚‡‚‚”III<line>
+:end<line>
+<end>
+
+
+//GAME NAME:		Densetsu no Starfy 2
+
+//BLOCK #000 NAME:		Pause Screen Hints Part 88 (Pointer)
+
+//POINTER #0 @ $107B34 - STRING #0 @ $644290
+
+#WRITE(GBA,$107B34)
+<line>
+‚o‚’‚…‚“‚“ <A> ‚”‚ ‚‡‚ ‚”‚ ‚”‚ˆ‚… h‚r‚”‚•‚†‚†h ‚‚…‚Ž‚•D<line>
+‚x‚‚• ‚ƒ‚‚Ž ‚ƒ‚ˆ‚‚Ž‚‡‚… ‚r‚”‚‚’‚†‚™f‚“ ‚Œ‚‚‚‹D<line>
+:end<line>
+<end>
+
+
+//BLOCK #001 NAME:		Pause Screen Hints Part 89 (Pointer)
+
+//POINTER #0 @ $107B48 - STRING #0 @ $6442E8
+
+#WRITE(GBA,$107B48)
+‚o‚’‚…‚“‚“ <A> ‚”‚ ‚–‚‰‚…‚— ‚”‚ˆ‚… h‚j‚…‚™ ‚h‚”‚…‚‚“h ‚Œ‚‰‚“‚”D<line>
+‚x‚‚• ‚ƒ‚‚Ž ‚–‚‰‚…‚— ‚†‚‚•‚Ž‚„ ‚‰‚”‚…‚‚“ ‚‚Ž‚„<line>
+‚’‚…‚‚„ ‚”‚ˆ‚…‚‰‚’ ‚„‚…‚“‚ƒ‚’‚‰‚‚”‚‰‚‚ŽD<line>
+:end<line>
+<end>
+
+
+//BLOCK #002 NAME:		Pause Screen Hints Part 90 (Pointer)
+
+//POINTER #0 @ $107B5C - STRING #0 @ $644340
+
+#WRITE(GBA,$107B5C)
+‚o‚’‚…‚“‚“ <A> ‚”‚ ‚–‚‰‚…‚— ‚”‚ˆ‚… h‚u‚…‚ˆ‚‰‚ƒ‚Œ‚…h ‚Œ‚‰‚“‚”D<line>
+‚x‚‚• ‚ƒ‚‚Ž ‚“‚…‚… ‚ ‚Œ‚‰‚“‚” ‚‚† ‚’‚‰‚„‚…‚“<line>
+‚‚Ž‚„ ‚’‚…‚–‚‰‚…‚— ‚ˆ‚‚— ‚”‚ ‚•‚“‚… ‚”‚ˆ‚…‚D<line>
+‚o‚’‚…‚“‚“ <L> ‚‚’ <R> ‚”‚ ‚“‚ƒ‚’‚‚Œ‚Œ ‚•‚ ‚‚’ ‚„‚‚—‚Ž ‚ ‚‚‚‡‚…D<line>
+:end<line>
+<end>
+
+
+//BLOCK #003 NAME:		Pause Screen Hints Part 91 (Pointer)
+
+//POINTER #0 @ $107BA8 - STRING #0 @ $6443C0
+
+#WRITE(GBA,$107BA8)
+‚o‚’‚…‚“‚“ <A> ‚”‚ ‚–‚‰‚…‚— ‚”‚ˆ‚… h‚`‚ƒ‚”‚‰‚‚Ž‚“h ‚Œ‚‰‚“‚”D<line>
+‚x‚‚• ‚ƒ‚‚Ž ‚“‚…‚… ‚ ‚Œ‚‰‚“‚” ‚‚† ‚‚ƒ‚”‚‰‚‚Ž‚“<line>
+‚™‚‚•f‚–‚… ‚Œ‚…‚‚’‚Ž‚…‚„ ‚‚Ž ‚™‚‚•‚’ ‚‚„‚–‚…‚Ž‚”‚•‚’‚…D<line>
+‚o‚’‚…‚“‚“ <L> ‚‚’ <R> ‚”‚ ‚“‚ƒ‚’‚‚Œ‚Œ ‚•‚ ‚‚’ ‚„‚‚—‚Ž ‚ ‚‚‚‡‚…D<<line>
 :end<line>
 <end>
 
