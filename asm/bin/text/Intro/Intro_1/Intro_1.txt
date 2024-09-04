@@ -12,7 +12,7 @@
 
 #JMP(000000)
 
-[y auto]<line>
+[y <auto>]<line>
 [x 21]<line>
 <s 2><line>
 ‚`‚‚‚‚–‚… ‚”‚ˆ‚… ‚“‚…‚C<line>

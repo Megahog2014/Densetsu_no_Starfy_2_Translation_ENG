@@ -297,6 +297,10 @@ PausemenuBG:
 .align 4
 PausemenuOBJ:
 	.incbin asm/bin/graphics/pausemenu/2pausemenuOBJ.bin
+	
+.align 4
+PausemenuTilemap:
+	.incbin asm/bin/graphics/pausemenu/3pausemenuTilemap.bin
 
 .endarea
 
@@ -520,42 +524,42 @@ Food_Sign_Pal:
 .org 0x085EB2A6
 	.incbin asm/bin/graphics/minigamehud/OAM/6clearoam.bin
 
-;------PausemenuOBJ
+;----------PausemenuOBJ
 ;Hint pop in Animation (Uses 3 OAM sprite data blocks)
-;.org 0x0863D68A
-;	.incbin asm/bin/graphics/pausemenu/OAM/1hintanimoam.bin
+.org 0x0863D68A
+	.incbin asm/bin/graphics/pausemenu/OAM/1hintoam.bin
 
 ;Hint graphic (Uses 3 OAM sprite data blocks)
-;.org 0x0863D72A
-;	.incbin asm/bin/graphics/pausemenu/OAM/1hintoam.bin
+.org 0x0863D72A
+	.incbin asm/bin/graphics/pausemenu/OAM/1hintoam.bin
 
-;Stuff pop in Animation (Uses 3 OAM sprite data blocks)
-;.org 0x0863D88E
-;	.incbin asm/bin/graphics/pausemenu/OAM/2stuffanimoam.bin
+;Stuff pop in Animation (Uses 4 OAM sprite data blocks)
+.org 0x0863D88E
+	.incbin asm/bin/graphics/pausemenu/OAM/2stuffoam.bin
 
-;Stuff graphic (Uses 3 OAM sprite data blocks)
-;.org 0x0863D934
-;	.incbin asm/bin/graphics/pausemenu/OAM/2stuffoam.bin
+;Stuff graphic (Uses 4 OAM sprite data blocks)
+.org 0x0863D934
+	.incbin asm/bin/graphics/pausemenu/OAM/2stuffoam.bin
 
-;Key Items pop in animation (Uses 3 OAM sprite data blocks)
-;.org 0x0863DA8C
-;	.incbin asm/bin/graphics/pausemenu/OAM/3keyitemanimoam.bin
+;Key Items pop in animation (Uses 4 OAM sprite data blocks)
+.org 0x0863DA8C
+	.incbin asm/bin/graphics/pausemenu/OAM/3keyitemsoam.bin
 
 ;Key Items graphic (Uses 4 OAM sprite data blocks)
-;.org 0x0863DB38
-;	.incbin asm/bin/graphics/pausemenu/OAM/3keyitemsoam.bin
+.org 0x0863DB38
+	.incbin asm/bin/graphics/pausemenu/OAM/3keyitemsoam.bin
 
 ;Vehicle Pop in Animation (Uses 4 OAM sprite data blocks
-;.org 0x0863DC96
-;	.incbin asm/bin/graphics/pausemenu/OAM/4vehiclesignanimoam.bin
+.org 0x0863DC96
+	.incbin asm/bin/graphics/pausemenu/OAM/4vehiclesignoam.bin
 
 ;Vehicle Signs graphic (Uses 4 OAM sprite data blocks)
-;.org 0x0863DD3C
-;	.incbin asm/bin/graphics/pausemenu/OAM/4vehiclesignoam.bin
+.org 0x0863DD3C
+	.incbin asm/bin/graphics/pausemenu/OAM/4vehiclesignoam.bin
 
 ;Action pop in animation (Uses 5 OAM sprite data blocks)
 ;.org 0x0863DE94
-;	.incbin asm/bin/graphics/pausemenu/OAM/5actionsignanimoam.bin
+;	.incbin asm/bin/graphics/pausemenu/OAM/5actionsignoam.bin
 
 ;Action Signs graphic (Uses 5 OAM sprite data blocks)
 ;.org 0x0863DF46
@@ -821,6 +825,10 @@ Food_Sign_Pal:
 ;PauseMenuOBJ
 .org 0x08104A18
 	.word PausemenuOBJ
+	
+;PauseMenuTilemap
+.org 0x08104A08
+	.word PausemenuTilemap
 
 
 	
