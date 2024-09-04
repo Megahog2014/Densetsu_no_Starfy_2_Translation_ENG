@@ -25,9 +25,6 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      #- name: Install vcredist2015
-       # run: choco install vcredist140 --force
-
       # Runs a single command using the runners shell
       - name: Assemble and Upload rom
         run: ./assemble.bat
