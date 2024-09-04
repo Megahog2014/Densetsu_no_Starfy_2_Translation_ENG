@@ -39,7 +39,7 @@
 Ｓｔａｒｆｙ，<line>
 [<wait_time> <1><0>]<line>
 [<x_pos> <2><1>]<line>
-ｄｒｏｐｐｅｄ ａ ｖｅｒｙ ｉｍｐｏｒｔａｎｔ ｊａｒ．．．<Introcode><line>
+ｄｒｏｐｐｅｄ ａ ｖｅｒｙ ｉｍｐｏｒｔａｎｔ ｊａｒ．．．<introcode><line>
 [<wait_time> <2><0><0>]<line>
 <progress><line>
 [<y_pos> <2><0>]<line>
