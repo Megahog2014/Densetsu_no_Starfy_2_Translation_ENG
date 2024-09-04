@@ -48,14 +48,14 @@
 [<x_pos> <4><0>]<line>
 ｉｎｓｉｄｅ ｏｆ ｔｈｅ Ｊａｒ，<line>
 [<wait_time> <1><0>]<line>
-[<y_pos><3><4>]<line>
+[<y_pos> <3><4>]<line>
 [<x_pos> <1><6><5>]<line>
 Ｏｇｕｒａ，<line>
 [<wait_time> <1><0>]<line>
 [<x_pos> <8><0>]<line>
 ｈａｓ ｒｅｔｕｒｎｅｄ．<line>
 [<wait_time> <2><0><0>]<line>
-[<y_pos><1><0>]<line>
+[<y_pos> <1><0>]<line>
 [<x_pos> <4><0>]<line>
 <progress>Ｕｓｉｎｇ ｈｉｓ ｐｏｗｅｒｆｕｌ ｍａｇｉｃ，<line>
 [<wait_time> <1><0>]<line>
@@ -69,7 +69,7 @@
 <progress>Ｈｏｗｅｖｅｒ，<line>
 [<wait_time> <1><5>]<line>
 [<x_pos> <9><7>]<line>
-[<y_pos><1><0>]<line>
+[<y_pos> <1><0>]<line>
 ｄｕｅ ｔｏ ｔｈｅ ｅｆｆｏｒｔｓ<line>
 [<wait_time> <1><0>]<line>
 [<x_pos> <3><8>]<line>
