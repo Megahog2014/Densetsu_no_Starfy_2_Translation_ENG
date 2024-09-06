@@ -9872,7 +9872,7 @@ Right?<end>
 ‚”‚ˆ‚… ‚„‚…‚“‚”‚’‚‚™‚…‚„ ‚“‚”‚‚”‚•‚… ‚‚Ž‚„<line>
 ‚‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚…‚ ‚‚‚‚ƒ‚‹ ‚”‚ ‚”‚ˆ‚… ‚o‚•‚†‚†‚”‚‚ ‚r‚‚Œ‚„‚‰‚…‚’D<line>
 ‚à‚Á‚Äs‚±‚¤<line>
-:end<line>
+<:end><line>
 <end>
 
 

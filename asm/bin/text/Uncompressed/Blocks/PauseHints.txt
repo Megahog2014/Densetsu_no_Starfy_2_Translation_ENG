@@ -1017,7 +1017,6 @@
 ‚f‚‚”‚ˆ‚…‚’ ‚”‚ˆ‚… <textcolor_d>‚S ‚†‚’‚‚‡‚‚…‚Ž‚”‚“<textcolor_1> ‚‚†<line>
 ‚”‚ˆ‚… ‚„‚…‚“‚”‚’‚‚™‚…‚„ ‚“‚”‚‚”‚•‚… ‚‚Ž‚„<line>
 ‚‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚…‚ ‚‚‚‚ƒ‚‹ ‚”‚ ‚”‚ˆ‚… ‚o‚•‚†‚†‚”‚‚ ‚r‚‚Œ‚„‚‰‚…‚’D<line>
-‚à‚Á‚Äs‚±‚¤<line>
 <:end><line>
 <end>
 
