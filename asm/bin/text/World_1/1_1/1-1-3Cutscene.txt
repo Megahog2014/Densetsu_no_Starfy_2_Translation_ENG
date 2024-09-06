@@ -25,7 +25,7 @@
 ‚hf‚ ‚”‚‚‹‚‰‚Ž‚‡ ‚™‚‚•‚’ ‚‚‚”‚ˆ‚…‚’ ‚†‚‚’C<line>
 ‚†‚‚’ ‚‚—‚‚™ ‚†‚’‚‚ ‚™‚‚•I ‚f‚—‚‚ˆ‚‚ˆ‚‚ˆ‚‚ˆ‚I<line>
 [<wait_time> <1><8><0>]<line>
-<:func> 4<line>
+<:func> <4><line>
 <:c><line>
 <wait><:func> <0> <0><line>
 <rname><diamond>‚l‚‚‚ ‚r‚”‚‚’<line>

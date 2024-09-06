@@ -18,7 +18,7 @@
 <:se><line>
 [<y_pos> <1><8>]<line>
 Ｉｎｓｉｄｅ ｔｈｅ ｔｒｅａｓｕｒｅ ｃｈｅｓｔ ｗａｓ．．．<line>
-ａ <textcolor_d>Ｐｏｃｈｅｔｔｅ<c 1>！<line>
+ａ <textcolor_d>Ｐｏｃｈｅｔｔｅ<textcolor_1>！<line>
 <:c><line>
 <wait>Ｙｏｕ ｃａｎ ｎｏｗ ｇｏ ｔｏ Ｌｏｖｅｌｙ’ｓ Ｓｈｏｐ<line>
 ａｎｄ ｄｏ ａ ｂｕｎｃｈ ｏｆ ｓｈｏｐｐｉｎｇ！<line>

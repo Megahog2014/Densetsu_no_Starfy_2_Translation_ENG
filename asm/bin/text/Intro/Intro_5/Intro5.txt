@@ -14,7 +14,7 @@
 
 [<y_pos> <2>]<line>
 [<x_pos> <2>]<line>
-<<textspeed> 5><rname><diamond>Ｍｏｅ<line>
+<<textspeed> <5>><rname><diamond>Ｍｏｅ<line>
 Ａｇｈ， ｍｙ ａｃｈｉｎ’ ｓｈｅｌｌ．．． Ｏｗ ｏｗ ｏｗ．．．<line>
 [<wait_time> <2><0><0>]<line>
  <progressalt><line>

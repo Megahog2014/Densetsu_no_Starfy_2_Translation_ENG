@@ -34,7 +34,7 @@
 Ｔｈａｔ ｗａｓ ｔｈｅ ｌａｓｔ ｉｔｅｍ Ｉ ｈａｄ．<end>
 
 
-POINTER #1 @ $2D43C8 - STRING #1 @ $2D42F0
+//POINTER #1 @ $2D43C8 - STRING #1 @ $2D42F0
 
 #WRITE(GBA,$2D43C8)
 Ａｗｗｗ， ｄｏｎ’ｔ ｌｏｏｋ ｓｏ ｓａｄ， ｓｕｇａｒ．<textcolor_6><heart><textcolor_0><end>

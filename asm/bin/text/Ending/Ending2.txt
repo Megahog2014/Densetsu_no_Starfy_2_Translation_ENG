@@ -12,17 +12,17 @@
 
 #JMP(000000)
 
-[<x_pos <4><9>]<line>
+[<x_pos> <4><9>]<line>
 Ｓｔａｒｆｙ ａｎｄ Ｍｏｅ ｗｅｒｅ ｏｎｃｅ ａｇａｉｎ<line>
-[<x_pos <5><4>]<line>
+[<x_pos> <5><4>]<line>
 ａｂｌｅ ｔｏ ｓｅａｌ Ｏｇｕｒａ ｉｎ ｔｈｅ ｊａｒ．．．<line>
 <:func> <4><line>
 <:c><line>
-[<x_pos <3><0>]<line>
+[<x_pos> <3><0>]<line>
 <wait>Ｂｕｔ ｗｉｔｈ ｔｈｅ ｎｕｍｂｅｒ ｏｆ ｔｒｅａｓｕｒｅｓ<line>
-[<x_pos <3><0>]<line>
+[<x_pos> <3><0>]<line>
 ｔｈｅｙ’ｖｅ ｆｏｕｎｄ， ｉｓ ｔｈｅ ｓｔｏｒｙ ｔｒｕｌｙ ｏｖｅｒ？<line>
-[<x_pos <3><0>]<line>
+[<x_pos> <3><0>]<line>
 Ｃｏｍｅ ｏｎ， ｌｅｔ’ｓ ｈｕｒｒｙ ｂａｃｋ ｔｏ Ｐｕｆｆｔｏｐ．．．<line>
 <:func> <4><line>
 <:c><line>
@@ -31,7 +31,7 @@
 <:func> <5> <0> <1><8><line>
 <:func> <2> <8><line>
 <wait><:func> <3> <0><line>
-<wait>[<x_pos <0>]<line>
+<wait>[<x_pos> <0>]<line>
 <rname><diamond>Ｐａｐａ Ｓｔａｒ<line>
 Ｏｈ！ Ｓｔａｒｆｙ！<line>
 <:func> <4><line>

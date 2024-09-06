@@ -16,7 +16,7 @@
 [<y_pos> <2>]<line>
 ‚r‚g‚d‚k‚k‚s‚n‚o ‚h‚r‚k‚`‚m‚c‚r@‚R|‚P<line>
 [<x_pos> <7>]<line>
-[<y_pos> <2>6]<line>
+[<y_pos> <2><6>]<line>
 ‚h‚“ ‚`‚Œ‚Œ ‚s‚ˆ‚‚” ‚b‚’‚™‚‰‚Ž‚‡ ‚b‚‚‚‰‚Ž‚‡ ‚e‚’‚‚ ‚x‚‚•C ‚l‚“D ‚s‚•‚’‚”‚Œ‚…H<line>
 <end>
 

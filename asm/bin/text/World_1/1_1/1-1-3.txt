@@ -68,7 +68,7 @@
 <:func> <2> <2><line>
 [<wait_time> <2><0>]<line>
 <:func> <3> <2><line>
-:exit<line>
+<:exit><line>
 <wait>:<1><0><line>
 <:func> <2><2> <-><1><line>
 <rname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>

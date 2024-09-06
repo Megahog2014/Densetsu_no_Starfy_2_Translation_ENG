@@ -12,8 +12,8 @@
 
 #JMP(000000)
 
-[<x_pos <5><0>]<line>
+[<_pos> <5><0>]<line>
 ‚o‚t‚e‚e‚s‚n‚o<line>
-:end<line>
+<:end><line>
 <end>
 

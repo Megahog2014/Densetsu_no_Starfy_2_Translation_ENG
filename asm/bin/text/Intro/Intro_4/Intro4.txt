@@ -15,7 +15,7 @@
 [<y_pos> <2>]<line>
 [<x_pos> <2>]<line>
 <rname><diamond>Ｍｏｅ<line>
-<s 5>Ｗｈａｔ ｄｏ ｙａ ｔｈｉｎｋ ｙｏｕ’ｒｅ ｄｏｉｎ’， ｙｏｕ ｉｄｉｏｔ！？<line>
+<<textspeed> <5>>Ｗｈａｔ ｄｏ ｙａ ｔｈｉｎｋ ｙｏｕ’ｒｅ ｄｏｉｎ’， ｙｏｕ ｉｄｉｏｔ！？<line>
 Ｔｈｉｓ ｉｓ ｗａｙ ｔｏｏ ｒｉｓｋｙ！<line>
 [<wait_time> <2><0><0>]<line>
 <redname><diamond>Ｍｏｅ<line>

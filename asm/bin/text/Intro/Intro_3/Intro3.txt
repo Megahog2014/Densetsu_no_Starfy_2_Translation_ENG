@@ -17,20 +17,20 @@
 <<textspeed> <5>><rname><diamond>‚n‚‡‚•‚’‚<line>
 ‚f‚—‚‚ˆ‚‚ˆ‚‚ˆ‚‚ˆ‚I<line>
 ‚e‚‰‚Ž‚‚Œ‚Œ‚™C ‚hf‚ ‚†‚’‚…‚… ‚‚Ž‚ƒ‚… ‚‚‡‚‚‰‚ŽI<line>
-[<wait_speed> <2><0><0>]<line>
+[<wait_time> <2><0><0>]<line>
 <redname><diamond>‚n‚‡‚•‚’‚<line>
 ‚r‚”‚‚’‚†‚™I ‚g‚‚— ‚„‚‚’‚… ‚™‚‚• ‚“‚…‚‚Œ ‚‚…<line>
 ‚‰‚Ž ‚”‚ˆ‚… ‚Š‚‚’ ‚•‚ ‚•‚Ž‚”‚‰‚Œ ‚Ž‚‚—I<line>
-[<wait_speed> <2><0><0>]<line>
+[<wait_time> <2><0><0>]<line>
 <redname><diamond>‚n‚‡‚•‚’‚<line>
 ‚hf‚–‚… ‚‡‚‚” ‚‰‚”I ‚s‚ ‚‚‚™ ‚™‚‚• ‚‚‚‚ƒ‚‹ ‚†‚‚’ ‚”‚ˆ‚‚”C<line>
 ‚hf‚Œ‚Œ ‚‚‚… ‚”‚‚‹‚‰‚Ž‚‡ ‚™‚‚•‚’ ‚‚’‚…‚ƒ‚‰‚‚•‚“ ‚‚‚”‚ˆ‚…‚’I<line>
-[<wait_speed> <2><0><0>]<line>
+[<wait_time> <2><0><0>]<line>
  <progressalt><line>
 <redname><diamond>‚n‚‡‚•‚’‚<line>
 ‚x‚‚•f‚’‚… ‚‚‚’‚… ‚”‚ˆ‚‚Ž ‚—‚…‚Œ‚ƒ‚‚‚… ‚”‚ ‚”‚’‚™ ‚‚Ž‚„<line>
 ‚”‚‚‹‚… ‚ˆ‚…‚’ ‚‚‚‚ƒ‚‹ ‚‰‚† ‚™‚‚•f‚„ ‚Œ‚‰‚‹‚…I ‚f‚—‚‚ˆ‚‚ˆ‚‚ˆ‚I<line>
-[<wait_speed> <2><0><0>]<line>
+[<wait_time> <2><0><0>]<line>
  <progressalt><line>
 <end>
 
