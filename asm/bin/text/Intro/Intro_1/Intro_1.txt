@@ -103,5 +103,5 @@ is once again at risk...<line>
 no way of knowing at the time...<line>
 [<wait_time> <2><0><0>]<line>
  <progressalt><line>
-<en>
+<end>
 
