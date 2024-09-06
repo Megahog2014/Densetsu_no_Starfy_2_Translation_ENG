@@ -15,92 +15,92 @@
 [<y_pos> <auto>]<line>
 [<x_pos> <2><1>]<line>
 <<textspeed> <2>><line>
-Ａｂｏｖｅ ｔｈｅ ｓｅａ，<line>
+Above the sea,<line>
 [<y_pos> <1><5>]<line>
 [<x_pos> <1><3><2>]<line>
 [<wait_time> <1><0>]<line>
-ｈｉｇｈ ｉｎ ｔｈｅ ｓｋｙ，<line>
+high in the sky,<line>
 [<wait_time> <5><0>]<line>
 [<x_pos> <3><1>]<line>
-ｔｈｅｒｅ ｏｎｃｅ ｗａｓ ａ ｐｅａｃｅｆｕｌ<line>
+there once was a peaceful<line>
 [<x_pos> <2><8>]<line>
-ｋｉｎｇｄｏｍ ａｔｏｐ ｏｆ ｔｈｅ ｃｌｏｕｄｓ<line>
+kingdom atop of the clouds<line>
 [<x_pos> <7><3>]<line>
-ｃａｌｌｅｄ Ｐｕｆｆｔｏｐ．<line>
+called Pufftop.<line>
 [<y_pos> <auto>]<line>
 [<x_pos> <6><2>]<line>
 [<wait_time> <2><0><0>]<line>
-<wait>Ａ ｆｅｗ ｙｅａｒｓ ａｇｏ．．．<line>
+<wait>A few years ago...<line>
 [<wait_time> <2><0><0>]<line>
 [<x_pos> <2><2>]<line>
-<progress>Ｔｈｅ ｃｌｕｍｓｙ ｐｒｉｎｃｅ ｏｆ Ｐｕｆｆｔｏｐ，<line>
+<progress>The clumsy prince of Pufftop,<line>
 [<wait_time> <1><0>]<line>
 [<x_pos> <1><1><0>]<line>
-Ｓｔａｒｆｙ，<line>
+Starfy,<line>
 [<wait_time> <1><0>]<line>
 [<x_pos> <2><1>]<line>
-ｄｒｏｐｐｅｄ ａ ｖｅｒｙ ｉｍｐｏｒｔａｎｔ ｊａｒ．．．<introcode><line>
+dropped a very important jar...<introcode><line>
 [<wait_time> <2><0><0>]<line>
 <progress><line>
 [<y_pos> <2><0>]<line>
 [<x_pos> <1><9>]<line>
-Ａｎｄ ｔｈｅ ｖｉｌｌｉａｎ ｗｈｏ ｗａｓ ｓｅａｌｅｄ<line>
+And the villian who was sealed<line>
 [<x_pos> <4><0>]<line>
-ｉｎｓｉｄｅ ｏｆ ｔｈｅ Ｊａｒ，<line>
+inside of the Jar,<line>
 [<wait_time> <1><0>]<line>
 [<y_pos> <3><4>]<line>
 [<x_pos> <1><6><5>]<line>
-Ｏｇｕｒａ，<line>
+Ogura,<line>
 [<wait_time> <1><0>]<line>
 [<x_pos> <8><0>]<line>
-ｈａｓ ｒｅｔｕｒｎｅｄ．<line>
+has returned.<line>
 [<wait_time> <2><0><0>]<line>
 [<y_pos> <1><0>]<line>
 [<x_pos> <4><0>]<line>
-<progress>Ｕｓｉｎｇ ｈｉｓ ｐｏｗｅｒｆｕｌ ｍａｇｉｃ，<line>
+<progress>Using his powerful magic,<line>
 [<wait_time> <1><0>]<line>
 [<x_pos> <2><0>]<line>
-Ｏｇｕｒａ ｃｏｎｊｕｒｅｄ ａ ｇｒｅａｔ ｓｔｏｒｍ<line>
+Ogura conjured a great storm<line>
 [<wait_time> <1><0>]<line>
 [<x_pos> <5><0>]<line>
-ｔｈａｔ ｗｒｅｃｋｅｄ Ｐｕｆｆｔｏｐ．．．<line>
+that wrecked Pufftop...<line>
 [<wait_time> <1><0><0>]<line>
 [<x_pos> <2><7>]<line>
-<progress>Ｈｏｗｅｖｅｒ，<line>
+<progress>However,<line>
 [<wait_time> <1><5>]<line>
 [<x_pos> <9><7>]<line>
 [<y_pos> <1><0>]<line>
-ｄｕｅ ｔｏ ｔｈｅ ｅｆｆｏｒｔｓ<line>
+due to the efforts<line>
 [<wait_time> <1><0>]<line>
 [<x_pos> <3><8>]<line>
-ｏｆ Ｓｔａｒｆｙ ａｎｄ ｈｉｓ ｆｒｉｅｎｄｓ，<line>
+of Starfy and his friends,<line>
 [<wait_time> <1><5>]<line>
 [<x_pos> <2><5>]<line>
-ｔｈｅｙ ｗｅｒｅ ａｂｌｅ ｔｏ ｏｎｃｅ ａｇａｉｎ<line>
+they were able to once again<line>
 [<x_pos> <5><3>]<line>
-ｓｅａｌ Ｏｇｕｒａ ｉｎ ｔｈｅ ｊａｒ．<line>
+seal Ogura in the jar.<line>
 [<wait_time> <1><0><0>]<line>
 [<x_pos> <9><0>]<line>
-<progress>Ａｆｔｅｒ ｔｈａｔ，<line>
+<progress>After that,<line>
 [<wait_time> <1><0>]<line>
 [<x_pos> <2><8>]<line>
-ｐｅａｃｅ ｒｅｔｕｒｎｅｄ ｔｏ Ｐｕｆｆｔｏｐ，<line>
+peace returned to Pufftop,<line>
 [<wait_time> <1><0>]<line>
-ａｎｄ ｅｖｅｒｙｏｎｅ ｌｉｖｅｄ ｈａｐｐｉｌｙ．．．<line>
+and everyone lived happily...<line>
 [<wait_time> <1><0><0>]<line>
-<wait>Ｈｏｗｅｖｅｒ，<line>
+<wait>However,<line>
 [<wait_time> <1><5>]<line>
 [<y_pos> <1><0>]<line>
 [<x_pos> <9><9>]<line>
-ｔｈｉｓ ｔｉｍｅ ｏｆ ｐｅａｃｅ<line>
+this time of peace<line>
 [<x_pos> <5><5>]<line>
-ｉｓ ｏｎｃｅ ａｇａｉｎ ａｔ ｒｉｓｋ．．．<line>
+is once again at risk...<line>
 [<wait_time> <2><0><0>]<line>
 [<x_pos> <3><3>]<line>
-<wait>Ｓｔａｒｆｙ ａｎｄ ｔｈｅ ｏｔｈｅｒｓ ｈａｄ<line>
+<wait>Starfy and the others had<line>
 [<wait_time> <1><0>]<line>
 [<x_pos> <1><8>]<line>
-ｎｏ ｗａｙ ｏｆ ｋｎｏｗｉｎｇ ａｔ ｔｈｅ ｔｉｍｅ．．．<line>
+no way of knowing at the time...<line>
 [<wait_time> <2><0><0>]<line>
  <progressalt><line>
 <end>
