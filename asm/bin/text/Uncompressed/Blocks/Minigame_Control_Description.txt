@@ -10,7 +10,7 @@
 //まだ　みつかってない<line>
 //ミニゲームだよ<line>
 //ぼうけんをすすめよう<line>
-//:end<line>
+//<:end><line>
 //<end>
 
 
@@ -20,7 +20,7 @@
 //<A>：タマをはっしゃ<line>
 //<B>と<Dpad>：ハイスピード<line>
 //<Dpad>：左右いどう<line>
-//:end<line>
+//<:end><line>
 //<end>
 
 
@@ -29,7 +29,7 @@
 ////#WRITE(GBA,$2C32F0)
 //<A>：タマをはっしゃ<line>
 //<Dpad>：左右いどう<line>
-//:end<line>
+//<:end><line>
 //<end>
 
 
@@ -39,7 +39,7 @@
 //<A>：タマをはっしゃ<line>
 //<B>と<Dpad>：ハイスピード<line>
 //<Dpad>：左右いどう<line>
-//:end<line>
+//<:end><line>
 //<end>
 
 
@@ -49,7 +49,7 @@
 //<A>：いきをふんしゃ<line>
 //<B>と<Dpad>：ハイスピード<line>
 //<Dpad>：左右いどう<line>
-//:end<line>
+//<:end><line>
 //<end>
 
 
@@ -59,7 +59,7 @@
 //<A>：いきをふんしゃ<line>
 //<B>と<Dpad>：ハイスピード<line>
 //<Dpad>：左右いどう<line>
-//:end<line>
+//<:end><line>
 //<end>
 
 
@@ -69,6 +69,6 @@
 //まだ　みつかってない<line>
 //ミニゲームだよ<line>
 //ぼうけんをすすめよう<line>
-//:end<line>
+//<:end><line>
 //<end>
 

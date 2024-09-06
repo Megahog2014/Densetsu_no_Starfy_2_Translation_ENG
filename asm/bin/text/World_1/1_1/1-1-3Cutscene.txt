@@ -12,41 +12,41 @@
 
 #JMP(000000)
 
-:sd<line>
-:func 3 2 0<line>
-:func 3 1 3<line>
-:se<line>
+<:sd><line>
+<:func> <3> <2> <0><line>
+<:func> <3> <1> <3><line>
+<:se><line>
 <rname><diamond>Ｏｇｕｒａ<line>
 Ｇｗａｈａｈａｈａｈａ！<line>
 Ｓｅｒｖｅｓ ｙｏｕ ｒｉｇｈｔ， Ｓｔａｒｆｙ！<line>
-[w 180]<line>
-:func 4<line>
+[<wait_time> <1><8><0>]<line>
+<:func> <4><line>
 <redname><diamond>Ｏｇｕｒａ<line>
 Ｉ’ｍ ｔａｋｉｎｇ ｙｏｕｒ ｍｏｔｈｅｒ ｆａｒ，<line>
 ｆａｒ ａｗａｙ ｆｒｏｍ ｙｏｕ！ Ｇｗａｈａｈａｈａｈａ！<line>
-[w 180]<line>
-:func 4<line>
-:c<line>
-<wait>:func 0 0<line>
+[<wait_time> <1><8><0>]<line>
+<:func> 4<line>
+<:c><line>
+<wait><:func> <0> <0><line>
 <rname><diamond>Ｍａｍａ Ｓｔａｒ<line>
 Ｓ．．． Ｓｔａｒｆｙ．．． ｓａｖｅ ｍｅ．．．<line>
 Ｔｈ－ｔｈａｔ’ｓ ｉｔ！ Ｉｆ Ｉ ｌｅａｖｅ ｔｈｅｓｅ ｂｅｈｉｎｄ．．．<line>
-[w 180]<line>
-:func 4<line>
-<wait>:func 0 1<line>
+[<wait_time> <1><8><0>]<line>
+<:func> <4><line>
+<wait><:func> <0> <1><line>
 <rname><diamond>Ｍａｍａ Ｓｔａｒ<line>
-Ｉ’ｖｅ ｄｒｏｐｐｅｄ ｙｏｕｒ <c d>”Ｓｔｕｆｆ”<c 1>．．． Ｓｔａｒｆｙ！<line>
-[w 180]<line>
-:func 4<line>
+Ｉ’ｖｅ ｄｒｏｐｐｅｄ ｙｏｕｒ <textcolor_d>”Ｓｔｕｆｆ”<textcolor_1>．．． Ｓｔａｒｆｙ！<line>
+[<wait_time> <1><8><0>]<line>
+<:func> <4><line>
 <redname><diamond>Ｍａｍａ Ｓｔａｒ<line>
 Ｉ ｂｅｇ ｏｆ ｙｏｕ．．．<line>
 Ｐｌｅａｓｅ ｎｏｔｉｃｅ ｔｈｅｍ<line>
 ａｎｄ ｆｉｎｄ ｙｏｕｒ ｗａｙ ｔｏ Ｍａｍａ．．．<line>
-[w 180]<line>
-:sd<line>
-:func 4<line>
-:func 2 1 3<line>
-:func 2 2 0<line>
-:exit<line>
+[<wait_time> <1><8><0>]<line>
+<:sd><line>
+<:func> <4><line>
+<:func> <2> <1> <3><line>
+<:func> <2> <2> <0><line>
+<:exit><line>
 <end>
 

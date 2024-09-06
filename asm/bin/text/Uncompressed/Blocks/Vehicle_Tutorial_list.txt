@@ -8,7 +8,7 @@
 
 #WRITE(GBA,$2C52C0)
 ‚a‚Œ‚‰‚‚<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -16,7 +16,7 @@
 
 #WRITE(GBA,$2C52C4)
 ‚i‚…‚” ‚a‚Œ‚‰‚‚<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -24,7 +24,7 @@
 
 #WRITE(GBA,$2C52C8)
 ‚r‚…‚ ‚r‚‹‚‚”‚…‚’<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -32,7 +32,7 @@
 
 #WRITE(GBA,$2C52CC)
 ‚r‚‚‚’‚‰‚Žf ‚r‚…‚ ‚r‚‹‚‚”‚…‚’<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -40,7 +40,7 @@
 
 #WRITE(GBA,$2C52D0)
 ‚q‚™‚•‚Ž<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -48,7 +48,7 @@
 
 #WRITE(GBA,$2C52D4)
 ‚r‚•‚‚…‚’ ‚q‚™‚•‚Ž<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -56,7 +56,7 @@
 
 #WRITE(GBA,$2C52D8)
 ‚j‚‚‚Œ‚ ‚b‚‚“‚”‚•‚‚…<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -64,6 +64,6 @@
 
 #WRITE(GBA,$2C52DC)
 ‚g‚‚‚Œ‚‰‚‡‚‚”‚‚’ ‚b‚‚“‚”‚•‚‚…<line>
-:end<line>
+<:end><line>
 <end>
 

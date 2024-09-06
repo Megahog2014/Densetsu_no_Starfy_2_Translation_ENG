@@ -10,7 +10,7 @@
 //ふってくるばくだんが<line>
 //下に　おちるまえに<line>
 //うちこわそう<line>
-//:end<line>
+//<:end><line>
 //<end>
 
 
@@ -20,7 +20,7 @@
 //同じ　いろの<line>
 //ブロックを　３つ<line>
 //ならべて　けそう<line>
-//:end<line>
+//<:end><line>
 //<end>
 
 
@@ -30,7 +30,7 @@
 //しろいねずみを<line>
 //おとさないように<line>
 //わたらせよう<line>
-//:end<line>
+//<:end><line>
 //<end>
 
 
@@ -40,7 +40,7 @@
 //おとうとたちが<line>
 //下に　おちるまえに<line>
 //ふきあげよう<line>
-//:end<line>
+//<:end><line>
 //<end>
 
 
@@ -50,6 +50,6 @@
 //スタフィーを　テキに<line>
 //ぶつけないようにして<line>
 //はたを　とっていこう<line>
-//:end<line>
+//<:end><line>
 //<end>
 

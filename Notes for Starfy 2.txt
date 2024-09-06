@@ -13,7 +13,7 @@ Lovely's shop dialogue and Pause menu Hints surprisingly doesn't use compression
 :sd starts the scene itself sometimes and :se starts sending text
 Must copy :if statements as well!
 
-<c(20)＃> = This changes the color of the text that is entered after it! The Pound key represents the value the can be insterted to change the color.
+<c ＃> = This changes the color of the text that is entered after it! The Pound key represents the value the can be insterted to change the color.
 To choose the color, you would pick out an available color from the pallete slots. There are 16 in total but you must remember the game sees them as hex data. After selecting the slot you would like to use, take the slot number in Hex (I'll choose 5 in this example) and subtract it by 1. The resulting answer is the
 value you use to select that slots color. <c(20)5>
 											   (35)
@@ -24,7 +24,7 @@ Often used to switch to another character's name.
 
 0D 0A = <line> Next line
 
-:0bj #(20)#(20)# = activates animation in scene for prompted character! (Take notes on which animation number plays for which character, It is very crucial!)
+:0bj # # # = activates animation in scene for prompted character! (Take notes on which animation number plays for which character, It is very crucial!)
 
 :if #### go ## = If a calculated value matches what is described in file,
 
@@ -42,9 +42,10 @@ Usually at the designated Jump value, there is a plot of text data for an anothe
 
 Intro (and possibly Ending) commands
 
-[y(20)auto] = controls the vertical position of the text line
-[x(20)auto] = controls the horizontal position of the text line
-[w(20)#] = controls how long to wait after a line of text shows up (Basically LINE-> time set from w ->LINE)
+[y auto or ###] = controls the vertical position of the text line (<y_pos> in text files)
+[x auto or ###] = controls the horizontal position of the text line (<x_pos> in text files)
+[w ###] = controls how long to wait after a line of text shows up (Basically LINE-> time set from w ->LINE)
+(<wait_time> in text files)
 00 08 = a progression flag for some cutscenes (Sometimes just 08 as well)
 
 There are three fonts that are used in Starfy 2 that are all 2bpp

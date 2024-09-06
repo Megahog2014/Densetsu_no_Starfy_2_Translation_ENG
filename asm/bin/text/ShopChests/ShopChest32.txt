@@ -1,4 +1,4 @@
-//GAME NAME:		Densetsu no Starfy 2
+//GAME NAME:		Densetsu no Starf<y_pos> 2
 
 //BLOCK #000 NAME:		Shop Chests
 //Block Range: $0 - $86
@@ -12,20 +12,20 @@
 
 #JMP(000000)
 
-:c<line>
-:sd<line>
-:func 3 2 2<line>
-:func 0 0<line>
-:se<line>
-[y 18]<line>
-[x 30]<line>
+<:c><line>
+<:sd><line>
+<:func> <3> <2> <2><line>
+<:func> <0> <0><line>
+<:se><line>
+[<y_pos> <1><8>]<line>
+[<x_pos> <3><0>]<line>
 ‚x‚‚• ‚—‚…‚’‚… ‚‡‚‰‚–‚…‚ ‚“‚‚‚… ‚“‚ˆ‚…‚…‚” ‚‚•‚“‚‰‚ƒI<line>
-[x 42]<line>
-‚h‚”f‚“ ‚”‚‰‚”‚Œ‚…‚„F h<c d>‚r‚”‚‚†‚† ‚b‚’‚…‚„‚‰‚”‚“ ‚Q<c 1>h<line>
-:c<line>
-<wait>:sd<line>
-:func 1 0<line>
-:func 2 2 2<line>
-:exit<line>
+[<x_pos> <4><2>]<line>
+‚h‚”f‚“ ‚”‚‰‚”‚Œ‚…‚„F h<textcolor_d>‚r‚”‚‚†‚† ‚b‚’‚…‚„‚‰‚”‚“ ‚Q<textcolor_1>h<line>
+<:c><line>
+<wait><:sd><line>
+<:func> <1> <0><line>
+<:func> <2> <2> <2><line>
+<:exit><line>
 <end>
 

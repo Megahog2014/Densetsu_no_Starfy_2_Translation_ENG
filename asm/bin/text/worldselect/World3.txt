@@ -12,7 +12,7 @@
 
 #JMP(000000)
 
-[x 26]<line>
+[<x_pos <2><6>]<line>
 ‚r‚g‚d‚k‚k‚s‚n‚o ‚h‚r‚k‚`‚m‚c‚r<line>
 :end<line>
 <end>

@@ -12,35 +12,35 @@
 
 #JMP(000000)
 
-:if 1103 go 10<line>
-:sd<line>
-:flagon 1103<line>
-:func 1 1<line>
-:se<line>
-:func 22 -2<line>
+<:if> <1><1><0><3> <go> <1><0><line>
+<:sd><line>
+<:flagon> <1><1><0><3><line>
+<:func> <1> <1><line>
+<:se><line>
+<:func> <2><2> <-><2><line>
 <rname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>
 ‚v‚…‚Œ‚ŒC ‚—‚…‚Œ‚ŒC ‚—‚…‚Œ‚ŒI<line>
 ‚x‚‚• ‚“‚…‚…‚ ‚”‚ ‚ˆ‚‚–‚… ‚’‚…‚‚…‚‚‚‚…‚’‚…‚„ ‚™‚‚•‚’ ‚`‚‚‚‰‚Œ‚‰‚”‚‰‚…‚“DDD<line>
 <redname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>
 ‚i‚•‚“‚” ‚‚‚“‚” ‚‚… ‚‰‚“ ‚ ‚s‚’‚…‚‚“‚•‚’‚… ‚b‚ˆ‚…‚“‚”DDD<line>
 <redname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>
-‚h‚Ž‚“‚‰‚„‚… ‚‚† ‚—‚ˆ‚‰‚ƒ‚ˆ ‚‰‚“ <c d>h‚r‚”‚•‚†‚†h<c 0> ‚’‚…‚Œ‚‚”‚…‚„ ‚”‚ ‚o‚•‚†‚†‚”‚‚<line>
+‚h‚Ž‚“‚‰‚„‚… ‚‚† ‚—‚ˆ‚‰‚ƒ‚ˆ ‚‰‚“ <textcolor_d>h‚r‚”‚•‚†‚†h<textcolor_0> ‚’‚…‚Œ‚‚”‚…‚„ ‚”‚ ‚o‚•‚†‚†‚”‚‚<line>
 <redname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>
 ‚hf‚ ‚“‚•‚’‚… ‚”‚ˆ‚‚” ‚‚“ ‚n‚‡‚•‚’‚<line>
 ‚‚‚„‚… ‚‚—‚‚™ ‚—‚‰‚”‚ˆ ‚™‚‚•‚’ ‚‚‚”‚ˆ‚…‚’DDD<line>
 <redname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>
 ‚r‚ˆ‚… ‚„‚’‚‚‚‚…‚„ ‚”‚ˆ‚…‚“‚… ‚”‚’‚…‚‚“‚•‚’‚…‚“<line>
 ‚‰‚Ž ‚‚’‚„‚…‚’ ‚†‚‚’ ‚™‚‚• ‚”‚ ‚†‚‰‚Ž‚„ ‚ˆ‚…‚’D<line>
-:c<line>
-<wait>:sd<line>
-:func 4<line>
-:func 2 1 3<line>
-:func 2 2 0<line>
-:func 5 0<line>
-:func 10<line>
-:func 3 2 0<line>
-:func 3 1 3<line>
-:se<line>
+<:c><line>
+<wait><:sd><line>
+<:func> <4><line>
+<:func> <2> <1> <3><line>
+<:func> <2> <2> <0><line>
+<:func> <5> <0><line>
+<:func> <1><0><line>
+<:func> <3> <2> <0><line>
+<:func> <3> <1> <3><line>
+<:se><line>
 <rname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>
 ‚h‚† ‚™‚‚• ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚” ‚”‚ˆ‚…‚“‚… ‚”‚’‚…‚‚“‚•‚’‚…‚“C<line>
 ‚™‚‚•f‚Œ‚Œ ‚ƒ‚…‚’‚”‚‚‰‚Ž‚Œ‚™ ‚‚‚… ‚‚‚‚Œ‚… ‚”‚ ‚†‚‰‚Ž‚„<line>
@@ -54,34 +54,34 @@
 ‚‚Ž‚„ ‚“‚‚–‚‰‚Ž‚‡ ‚™‚‚•‚’ ‚‚‚”‚ˆ‚…‚’I<line>
 <redname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>
 ‚n‚Ž‚ƒ‚… ‚™‚‚• ‚ˆ‚‚–‚… ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚…‚„ ‚“‚‚‚… ‚r‚”‚•‚†‚†C<line>
-<c d>‚™‚‚• ‚ƒ‚‚Ž ‚‡‚ ‚”‚ ‚”‚ˆ‚… ‚r‚”‚•‚†‚† ‚l‚…‚Ž‚• ‚”‚ ‚‚•‚” ‚”‚ˆ‚…‚ ‚‚ŽD<c 0><line>
+<textcolor_d>‚™‚‚• ‚ƒ‚‚Ž ‚‡‚ ‚”‚ ‚”‚ˆ‚… ‚r‚”‚•‚†‚† ‚l‚…‚Ž‚• ‚”‚ ‚‚•‚” ‚”‚ˆ‚…‚ ‚‚ŽD<textcolor_0><line>
 <redname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>
 ‚x‚‚• ‚ƒ‚‚Ž ‚‚ƒ‚ƒ‚…‚“‚“ ‚”‚ˆ‚… ‚r‚”‚•‚†‚† ‚l‚…‚Ž‚• ‚–‚‰‚ ‚”‚ˆ‚…<line>
-<c d>‚o‚‚•‚“‚… ‚l‚…‚Ž‚• ‚‚Ž‚„ ‚”‚ˆ‚… ‚l‚‚ ‚r‚ƒ‚’‚…‚…‚ŽD<c 0><line>
+<textcolor_d>‚o‚‚•‚“‚… ‚l‚…‚Ž‚• ‚‚Ž‚„ ‚”‚ˆ‚… ‚l‚‚ ‚r‚ƒ‚’‚…‚…‚ŽD<textcolor_0><line>
 <redname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>
 ‚g‚•‚’‚’‚™ ‚‚Œ‚‚Ž‚‡ ‚Ž‚‚—I<line>
 ‚a‚•‚”C ‚‰‚† ‚™‚‚• ‚ˆ‚‚–‚… ‚‚Ž‚™ ‚‘‚•‚…‚“‚”‚‰‚‚Ž‚“C<line>
 ‚†‚…‚…‚Œ ‚†‚’‚…‚… ‚”‚ ‚‚“‚‹D<line>
-:c<line>
-<wait>:sd<line>
-:func 4<line>
-:func 2 2<line>
-[w 20]<line>
-:func 3 2<line>
+<:c><line>
+<wait><:sd><line>
+<:func> <4><line>
+<:func> <2> <2><line>
+[<wait_time> <2><0>]<line>
+<:func> <3> <2><line>
 :exit<line>
-<wait>:10<line>
-:func 22 -1<line>
+<wait>:<1><0><line>
+<:func> <2><2> <-><1><line>
 <rname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>
-‚b‚‚Œ‚Œ‚…‚ƒ‚” ‚o‚•‚†‚†‚”‚‚f‚“ <c d>‚r‚”‚•‚†‚†<c 0> ‚”‚ˆ‚‚” ‚™‚‚•f‚Œ‚Œ ‚†‚‰‚Ž‚„<line>
+‚b‚‚Œ‚Œ‚…‚ƒ‚” ‚o‚•‚†‚†‚”‚‚f‚“ <textcolor_d>‚r‚”‚•‚†‚†<textcolor_0> ‚”‚ˆ‚‚” ‚™‚‚•f‚Œ‚Œ ‚†‚‰‚Ž‚„<line>
 ‚‚Ž ‚™‚‚•‚’ ‚‚„‚–‚…‚Ž‚”‚•‚’‚… ‚‚Ž‚„ ‚‡‚…‚” ‚†‚’‚‚ ‚…‚Ž‚…‚‚‰‚…‚“DDD<line>
 <redname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>
 ‚`‚Ž‚„ ‚•‚“‚… ‚”‚ˆ‚…‚ ‚”‚ ‚†‚‰‚Ž‚„ ‚™‚‚•‚’ ‚‚‚”‚ˆ‚…‚’I<line>
 <redname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>
-‚x‚‚• ‚ƒ‚‚Ž ‚—‚…‚‚’ <c d>‚r‚”‚•‚†‚†<c 0> ‚™‚‚•f‚–‚… ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚…‚„<line>
-‚‚‚™ ‚‡‚‚‰‚Ž‚‡ ‚”‚ ‚”‚ˆ‚… <c d>‚r‚”‚•‚†‚† ‚r‚ƒ‚’‚…‚…‚Ž<c 0>D<line>
+‚x‚‚• ‚ƒ‚‚Ž ‚—‚…‚‚’ <textcolor_d>‚r‚”‚•‚†‚†<textcolor_0> ‚™‚‚•f‚–‚… ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚…‚„<line>
+‚‚‚™ ‚‡‚‚‰‚Ž‚‡ ‚”‚ ‚”‚ˆ‚… <textcolor_d>‚r‚”‚•‚†‚† ‚r‚ƒ‚’‚…‚…‚Ž<textcolor_0>D<line>
 <redname><diamond>‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<line>
-‚x‚‚• ‚ƒ‚‚Ž ‚‚ƒ‚ƒ‚…‚“‚“ ‚”‚ˆ‚… <c d>‚r‚”‚•‚†‚† ‚r‚ƒ‚’‚…‚…‚Ž<c 0><line>
-<c d>‚†‚’‚‚ ‚”‚ˆ‚… ‚o‚‚•‚“‚… ‚l‚…‚Ž‚• ‚‚’ ‚l‚‚ ‚r‚ƒ‚’‚…‚…‚ŽDDD<c 0><line>
-:end<line>
+‚x‚‚• ‚ƒ‚‚Ž ‚‚ƒ‚ƒ‚…‚“‚“ ‚”‚ˆ‚… <textcolor_d>‚r‚”‚•‚†‚† ‚r‚ƒ‚’‚…‚…‚Ž<textcolor_0><line>
+<textcolor_d>‚†‚’‚‚ ‚”‚ˆ‚… ‚o‚‚•‚“‚… ‚l‚…‚Ž‚• ‚‚’ ‚l‚‚ ‚r‚ƒ‚’‚…‚…‚ŽDDD<textcolor_0><line>
+<:end><line>
 <end>
 

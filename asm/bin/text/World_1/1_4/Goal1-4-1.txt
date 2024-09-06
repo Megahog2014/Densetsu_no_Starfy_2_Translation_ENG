@@ -12,29 +12,29 @@
 
 #JMP(000000)
 
-:sd<line>
-:func 3 2 2<line>
-:func 0 0<line>
-:se<line>
-[y 18]<line>
+<:sd><line>
+<:func> <3> <2> <2><line>
+<:func> <0> <0><line>
+<:se><line>
+[<y_pos> <1><8>]<line>
 Ｉｎｓｉｄｅ ｔｈｅ ｔｒｅａｓｕｒｅ ｃｈｅｓｔ ｗａｓ．．．<line>
-ｓｏｍｅ <c d>Ｓｗｉｍｍｉｎｇ Ｔｒｕｎｋｓ<c 1>！<line>
-:c<line>
+ｓｏｍｅ <textcolor_d>Ｓｗｉｍｍｉｎｇ Ｔｒｕｎｋｓ<textcolor_1>！<line>
+<:c><line>
 <wait>Ｄｉｄ ｂｅａｔｉｎｇ Ｋｏｎｋ ｍａｋｅ<line>
 Ｍｏｅ ｆｅｅｌ ａ ｌｉｔｔｌｅ ｂｅｔｔｅｒ？<line>
-:c<line>
-[y 13]<line>
+<:c><line>
+[<y_pos> <1><3>]<line>
 <wait>Ｉｔ ｓｅｅｍｓ ａｓ ｉｆ ｔｈｅ Ｐｕｃｈｉ Ｏｇｕｒａｓ<line>
 ｗｉｌｌ ｂｅ ｗａｉｔｉｎｇ ｆｏｒ ｕｓ<line>
 ａｔ ｔｈｅ ｆｉｎａｌ ｓｔａｇｅ ｏｆ ａ ｗｏｒｌｄ．．．<line>
-:c<line>
-[y 18]<line>
+<:c><line>
+[<y_pos> <1><8>]<line>
 <wait>Ｌｅｔ’ｓ ｋｅｅｐ ｔｈｉｓ ｓｔｒｉｄｅ ａｎｄ<line>
 ｂｅａｔ ｔｈｅ ｒｅｓｔ ｏｆ ｔｈｅ Ｐｕｃｈｉ Ｏｇｕｒａ Ｇａｎｇ！<line>
-:c<line>
-<wait>:sd<line>
-:func 1 0<line>
-:func 2 2 2<line>
-:exit<line>
+<:c><line>
+<wait><:sd><line>
+<:func> <1> <0><line>
+<:func> <2> <2> <2><line>
+<:exit><line>
 <end>
 

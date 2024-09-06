@@ -12,14 +12,14 @@
 
 #JMP(000000)
 
-:sd<line>
-:flagon 1102<line>
-:func 1 1<line>
-:func 0<line>
-:func 18 1 58<line>
-:se<line>
-:func 22 -1<line>
-[w 30]<line>
+<:sd><line>
+<:flagon> <1><1><0><2><line>
+<:func> <1> <1><line>
+<:func> <0><line>
+<:func> <1><8> <1> <5><8><line>
+<:se><line>
+<:func> <2><2> <-><1><line>
+[<wait_time> <3><0>]<line>
 <rname><diamond>Ｍｅｒｍａｉｄ<line>
 Ｏｈ， Ｓｔａｒｆｙ！ Ｌｏｎｇｔｉｍｅ ｎｏ ｓｅｅ！<line>
 Ｗｈａｔ’ｓ ｈａｐｐｅｎｉｎｇ ｔｈｉｓ ｔｉｍｅ ａｒｏｕｎｄ？<line>
@@ -30,26 +30,26 @@
 Ｉｎ ｔｈａｔ ｃａｓｅ， Ｉ’ｌｌ ｈｅｌｐ ｙｏｕ<line>
 ｏｎ ｙｏｕｒ ａｄｖｅｎｔｕｒｅ ｔｈｉｓ ｔｉｍｅ ｔｏｏ！<line>
 <redname><diamond>Ｍｅｒｍａｉｄ<line>
-<c d>Ｊｕｓｔ ｔｏｕｃｈ ｍｙ ｓｈｅｌｌ ｔｏ ｓａｖｅ！<c 0><line>
+<textcolor_d>Ｊｕｓｔ ｔｏｕｃｈ ｍｙ ｓｈｅｌｌ ｔｏ ｓａｖｅ！<textcolor_0><line>
 Ｔｈａｔ ｗａｙ ｉｆ ｓｏｍｅｔｈｉｎｇ ｇｏｅｓ ｗｒｏｎｇ， ｙｏｕ ｃａｎ<line>
 ｃｏｎｔｉｎｕｅ ｆｒｏｍ ｔｈｅｒｅ！<line>
 <redname><diamond>Ｍｅｒｍａｉｄ<line>
 Ａｈ！ Ｂｙ ｔｈｅ ｗａｙ， ｉｆ ｙｏｕ ｗａｎｎａ<line>
 ｔａｋｅ ａ ｂｒｅａｋ ｉｎ ｔｈｅ ｍｉｄｄｌｅ ｏｆ ａ ｓｔａｇｅ．．．<line>
 <redname><diamond>Ｍｅｒｍａｉｄ<line>
-<c d>Ｐｒｅｓｓ ｔｈｅ Ｓｔａｒｔ Ｂｕｔｔｏｎ ｔｏ ｐａｕｓｅ ｔｈｅ ｇａｍｅ<c 0><line>
-<c d>ａｎｄ ｔｈｅｎ ｔｕｒｎ ｉｔ ｏｆｆ．．．<c 0><line>
+<textcolor_d>Ｐｒｅｓｓ ｔｈｅ Ｓｔａｒｔ Ｂｕｔｔｏｎ ｔｏ ｐａｕｓｅ ｔｈｅ ｇａｍｅ<textcolor_0><line>
+<textcolor_d>ａｎｄ ｔｈｅｎ ｔｕｒｎ ｉｔ ｏｆｆ．．．<textcolor_0><line>
 <redname><diamond>Ｍｅｒｍａｉｄ<line>
 Ａｎｄ ｗｈｅｎ ｙｏｕ ｃｏｍｅ ｂａｃｋ，<line>
 ｙｏｕ ｃａｎ ｐｉｃｋ ｕｐ ｒｉｇｈｔ ｗｈｅｒｅ ｙｏｕ ｌｅｆｔ ｏｆｆ！<line>
 Ｉ’ｍ ｒｏｏｔｉｎｇ ｆｏｒ ｙｏｕ Ｓｔａｒｆｙ！<line>
-:c<line>
-<wait>:sd<line>
-:func 4<line>
-:func 2 2<line>
-:func 0<line>
-[w 20]<line>
-:func 3 2<line>
-:exit<line>
+<:c><line>
+<wait><:sd><line>
+<:func> <4><line>
+<:func> <2> <2><line>
+<:func> <0><line>
+[<wait_time> <2><0>]<line>
+<:func> <3> <2><line>
+<:exit><line>
 <end>
 

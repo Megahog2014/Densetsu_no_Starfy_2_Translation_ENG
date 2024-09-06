@@ -9,7 +9,7 @@
 #WRITE(GBA,$2C6CF8)
 ‚r‚‚‰‚Œ‚‚’ ‚•‚Ž‚‰‚†‚‚’‚ ‚Œ‚‚‚‹‚‰‚Ž‚‡<line>
 ‚„‚…‚“‚‰‚‡‚Ž‚“ ‚‚’‚… ‚–‚…‚’‚™ ‚‚‚‚•‚Œ‚‚’D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -19,7 +19,7 @@
 ‚x‚‚•f‚„ ‚“‚…‚… ‚”‚’‚•‚Ž‚‹‚“ ‚Œ‚‰‚‹‚… ‚”‚ˆ‚…‚“‚…<line>
 ‚‚Œ‚Œ ‚”‚ˆ‚… ‚”‚‰‚‚… ‚‚” ‚”‚ˆ‚… ‚‚‚…‚‚ƒ‚ˆ<line>
 ‚‰‚Ž ‚”‚ˆ‚… ‚“‚•‚‚‚…‚’D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -28,7 +28,7 @@
 #WRITE(GBA,$2C6D00)
 ‚q‚•‚‚‚™ ‚‡‚‚” ‚”‚ˆ‚‰‚“ ‚„‚’‚…‚“‚“ ‚†‚’‚‚<line>
 ‚ ‚†‚‚‚‚•‚“ ‚‚‚’‚‚Ž‚„ ‚‚•‚’‚–‚…‚™‚‚’D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -38,7 +38,7 @@
 ‚s‚ˆ‚‰‚“ ‚‚‚Ž‚”‚Œ‚… ‚ˆ‚‚“ ‚‚‚…‚…‚Ž ‚ˆ‚‚Ž‚„‚…‚„<line>
 ‚„‚‚—‚Ž ‚†‚‚’ ‚‡‚…‚Ž‚…‚’‚‚”‚‰‚‚Ž‚“ ‚‚†<line>
 ‚o‚•‚†‚†‚”‚‚f‚“ ‚o‚’‚‰‚Ž‚ƒ‚…‚“D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -48,7 +48,7 @@
 ‚h‚”f‚“ ‚Œ‚‰‚‹‚… ‚™‚‚•f‚’‚… ‚‚Ž ‚–‚‚ƒ‚‚”‚‰‚‚ŽI<line>
 ‚s‚ˆ‚‰‚“f‚„ ‚‡‚ ‚—‚…‚Œ‚Œ ‚—‚‰‚”‚ˆ ‚“‚‚‚…<line>
 ‚“‚•‚Ž‚‡‚Œ‚‚“‚“‚…‚“C ‚„‚‚Žf‚” ‚™‚‚• ‚”‚ˆ‚‰‚Ž‚‹H<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -58,7 +58,7 @@
 ‚x‚‚• ‚‡‚…‚” ‚”‚ˆ‚… ‚†‚…‚…‚Œ‚‰‚Ž‚‡ ‚”‚ˆ‚‚”<line>
 ‚™‚‚• ‚‡‚…‚” ‚“‚”‚’‚‚Ž‚‡‚…‚’ ‚—‚ˆ‚…‚Ž<line>
 ‚—‚…‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚‰‚“DDD<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -68,7 +68,7 @@
 ‚c‚‚…‚“ ‚”‚ˆ‚… ‚†‚‚‚„ ‚‚‚„‚… ‚—‚ˆ‚‰‚Œ‚…<line>
 ‚—‚…‚‚’‚‰‚Ž‚‡ ‚‚Ž ‚‚‚’‚‚Ž ‚”‚‚“‚”‚… ‚Œ‚‰‚‹‚…<line>
 ‚l‚‚‚f‚“ ‚ƒ‚‚‚‹‚‰‚Ž‚‡H<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -78,7 +78,7 @@
 ‚v‚…‚‚’ ‚”‚ˆ‚‰‚“ ‚†‚•‚’ ‚ƒ‚‚‚” ‚”‚<line>
 ‚“‚”‚‚™ ‚—‚‚’‚D ‚d‚–‚…‚Ž ‚‰‚Ž ‚”‚ˆ‚… <line>
 ‚ƒ‚‚Œ‚„‚…‚“‚” ‚‚Œ‚‚ƒ‚…‚“D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -88,7 +88,7 @@
 ‚x‚‚• ‚„‚‚Žf‚” ‚Ž‚…‚…‚„ ‚ ‚“‚‚…‚ƒ‚‰‚‚Œ<line>
 ‚‚ƒ‚ƒ‚‚“‚‰‚‚Ž ‚”‚ ‚—‚…‚‚’ ‚”‚ˆ‚…‚“‚…<line>
 ‚‡‚’‚…‚‚”|‚Œ‚‚‚‹‚‰‚Ž‚‡ ‚‚‚Ž‚”‚“I<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -98,7 +98,7 @@
 ‚o‚‚’‚” ‚Q ‚‚† ‚”‚ˆ‚… ‚a‚‚“‚…‚‚‚‚Œ‚Œ<line>
 ‚n‚•‚”‚†‚‰‚”D ‚h‚” ‚ˆ‚‚“ ‚s‚…‚‚ ‚r‚”‚‚’‚†‚™f‚“<line>
 ‚Œ‚‚‡‚ ‚‚Ž ‚‰‚”D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -108,7 +108,7 @@
 ‚`‚’‚… ‚™‚‚• ‚‡‚‚‚„ ‚‚” ‚Œ‚‰‚‚‚‚H<line>
 ‚x‚‚•f‚Œ‚Œ ‚—‚‚Ž‚Ž‚ ‚”‚’‚™ ‚—‚…‚‚’‚‰‚Ž‚‡<line>
 ‚s‚ˆ‚‰‚“ ‚”‚ˆ‚…‚ŽD<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -117,7 +117,7 @@
 #WRITE(GBA,$2C6D24)
 ‚s‚ˆ‚‰‚“ ‚„‚…‚Œ‚‰‚ƒ‚‚”‚… ‚‚•‚”‚†‚‰‚” ‚”‚‚‚‹<line>
 ‚‚–‚…‚’ ‚R ‚‚‚Ž‚”‚ˆ‚“ ‚”‚ ‚‚‚‹‚…D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -127,7 +127,7 @@
 ‚h‚”f‚“ ‚”‚ˆ‚… ‚‚‚…‚“‚” ‚”‚ˆ‚‰‚Ž‚‡ ‚”‚<line>
 ‚—‚…‚‚’ ‚—‚ˆ‚…‚Ž ‚‚Œ‚‚™‚‰‚Ž‚‡ ‚“‚‚‚’‚”‚“C<line>
 ‚‚‚•‚” ‚‰‚“‚Žf‚” ‚‰‚” ‚ ‚Œ‚‰‚”‚”‚Œ‚…DDD ‚”‚‚ƒ‚‹‚™H<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -137,7 +137,7 @@
 ‚s‚ˆ‚‰‚“ ‚‰‚“ ‚”‚ˆ‚… ‚‡‚‚Œ‚Œ‚‚Ž‚” ‚‚”‚”‚‰‚’‚… ‚‚†<line>
 ‚ ‚r‚•‚‚ ‚v‚’‚…‚“‚”‚Œ‚…‚’D ‚s‚ˆ‚‚” ‚‹‚…‚Œ‚<line>
 ‚—‚‚•‚Œ‚„ ‚‚‚‹‚… ‚“‚‚‚… ‚‡‚‚‚„ ‚“‚‚•‚I<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -146,7 +146,7 @@
 #WRITE(GBA,$2C6D30)
 ‚s‚ˆ‚‰‚“ ‚†‚•‚”‚•‚’‚‰‚“‚”‚‰‚ƒ ‚Œ‚‚‚‹<line>
 ‚‰‚“ ‚“‚•‚‚…‚’ ‚‚‚‚•‚Œ‚‚’I<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -155,7 +155,7 @@
 #WRITE(GBA,$2C6D34)
 ‚s‚ˆ‚…‚“‚… ‚ƒ‚Œ‚‚”‚ˆ‚…‚“ ‚—‚‰‚Œ‚Œ ‚‚‚‹‚… ‚™‚‚•<line>
 ‚†‚…‚…‚Œ ‚Œ‚‰‚‹‚… ‚ ‚‹‚•‚Ž‚‡|‚†‚• ‚‚‚“‚”‚…‚’I<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -165,7 +165,7 @@
 ‚s‚ˆ‚…‚“‚… ‚—‚‰‚Œ‚Œ ‚Œ‚…‚” ‚™‚‚• ‚“‚—‚‰‚<line>
 ‚“‚•‚‚…‚’ ‚†‚‚“‚”D ‚h‚“‚Žf‚” ‚”‚ˆ‚‚” ‚<line>
 ‚‚’‚ ‚“‚—‚‰‚‚‚…‚’f‚“ ‚„‚’‚…‚‚IH<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -175,7 +175,7 @@
 ‚o‚‚’‚” ‚P ‚‚† ‚”‚ˆ‚… ‚r‚…‚Ž‚‡‚‚‹‚•<line>
 ‚n‚•‚”‚†‚‰‚”D ‚r‚‚‚•‚’‚‚‰ ‚`‚’‚‚‚’ ‚‚‚‹‚…‚“<line>
 ‚™‚‚• ‚Œ‚‚‚‹ ‚“‚ ‚‚‚’‚‚–‚…I<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -185,7 +185,7 @@
 ‚o‚‚’‚” ‚P ‚‚† ‚”‚ˆ‚… ‚r‚‚‚ƒ‚… ‚n‚•‚”‚†‚‰‚”D<line>
 ‚r‚‚‚ƒ‚…‚“‚•‚‰‚”‚“ ‚‚’‚… ‚”‚ˆ‚… ‚Œ‚‚”‚…‚“‚”<line>
 ‚‚‰‚…‚ƒ‚… ‚‚† ‚”‚…‚ƒ‚ˆ‚Ž‚‚Œ‚‚‡‚™D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -195,7 +195,7 @@
 ‚v‚‰‚”‚ˆ ‚ ‚ˆ‚‚Ž‚„‚ˆ‚…‚Œ‚„ ‚†‚‚Ž ‚‚Ž‚„<line>
 ‚”‚ˆ‚‰‚“ ‚ƒ‚ˆ‚‰‚ƒ ‚g‚‚‚‚‰ ‚b‚‚‚”C<line>
 ‚™‚‚•f‚’‚… ‚‚Œ‚Œ ‚“‚…‚”I<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -204,7 +204,7 @@
 #WRITE(GBA,$2C6D48)
 ‚s‚ˆ‚‰‚“ ‚ƒ‚‚“‚”‚•‚‚… ‚—‚‚“ ‚‚‚„‚… ‚‚•‚”<line>
 ‚‚† ‚ ‚ƒ‚’‚‚“‚ˆ‚…‚„ ‚t‚e‚nD<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -214,7 +214,7 @@
 ‚o‚‚’‚” ‚Q ‚‚† ‚”‚ˆ‚… ‚c‚…‚”‚…‚ƒ‚”‚‰‚–‚…<line>
 ‚n‚•‚”‚†‚‰‚”D ‚b‚‚Ž ‚—‚…‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚‰‚“<line>
 ‚“‚‚Œ‚–‚… ‚‚™‚“‚”‚…‚’‚‰‚…‚“ ‚‰‚Ž‚“‚”‚‚Ž‚”‚Œ‚™IH<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -224,7 +224,7 @@
 ‚m‚‰‚Ž‚Š‚‚“ ‚—‚…‚‚’ ‚”‚ˆ‚‰‚“ ‚‹‚‰‚Ž‚„ ‚‚† ‚“‚•‚‰‚”C<line>
 ‚“‚ ‚‰‚”f‚“ ‚“‚•‚‚…‚’ ‚…‚‚“‚™ ‚”‚ ‚‚‚–‚…<line>
 ‚‚’‚‚•‚Ž‚„ ‚‰‚ŽI<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -234,7 +234,7 @@
 ‚s‚ˆ‚…‚“‚… ‚‚‚™ ‚‚‚… ‚”‚ˆ‚… ‚ƒ‚Œ‚‚”‚ˆ‚…‚“ ‚‚†<line>
 ‚ ‚”‚’‚‚•‚‚‚Œ‚… ‚‚‚‹‚‰‚Ž‚‡ ‚‚‰‚’‚‚”‚…C ‚‚‚•‚”<line>
 ‚„‚‚Žf‚” ‚™‚‚• ‚„‚ ‚‚Ž‚™‚”‚ˆ‚‰‚Ž‚‡ ‚‚‚‚„I<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -244,7 +244,7 @@
 ‚o‚‚’‚” ‚P ‚‚† ‚”‚ˆ‚… ‚c‚‚‰‚‚™‚ ‚n‚•‚”‚†‚‰‚”D<line>
 ‚s‚ˆ‚‰‚“ ‚j‚‰‚‚‚Ž‚ ‚‰‚“ ‚—‚‚Ž‚„‚…‚’‚†‚•‚Œ‚Œ‚™<line>
 ‚†‚Œ‚‚“‚ˆ‚™D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -254,7 +254,7 @@
 ‚o‚‚’‚” ‚Q ‚‚† ‚”‚ˆ‚… ‚s‚‚—‚Ž‚“‚‡‚‰‚’‚Œ<line>
 ‚n‚•‚”‚†‚‰‚”D ‚e‚…‚…‚Œ‚“ ‚Œ‚‰‚‹‚… ‚‚‚…‚‰‚Ž‚‡ ‚‰‚Ž<line>
 ‚ ‚‚…‚’‚‰‚‚„ ‚„‚’‚‚‚C ‚’‚‰‚‡‚ˆ‚”IH<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -263,7 +263,7 @@
 #WRITE(GBA,$2C6D60)
 ‚` ‚–‚…‚’‚™DDD ‚‚‚‚Œ‚„ ‚“‚—‚‰‚‚“‚•‚‰‚”D<line>
 ‚s‚ˆ‚‰‚“ ‚‰‚“‚Žf‚” ‚l‚‚‚f‚“DDD ‚‰‚“ ‚‰‚”H<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -272,7 +272,7 @@
 #WRITE(GBA,$2C6D64)
 ‚s‚ˆ‚‰‚“ ‚f‚‚’‚‡‚…‚‚•‚“ ‚„‚’‚…‚“‚“ ‚—‚‚“<line>
 ‚‚‚„‚… ‚—‚‰‚”‚ˆ ‚ ‚‚‚•‚Ž‚ƒ‚ˆ ‚‚† ‚Œ‚‚ƒ‚…D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -282,7 +282,7 @@
 ‚` ‚’‚…‚†‚‰‚Ž‚…‚„ ‚Œ‚‚‚‹‚‰‚Ž‚‡ ‚”‚•‚˜‚…‚„‚<line>
 ‚”‚ˆ‚‚” ‚—‚‚•‚Œ‚„ ‚‡‚ ‚—‚…‚Œ‚Œ ‚—‚‰‚”‚ˆ<line>
 ‚”‚ˆ‚… ‚s‚‚ ‚g‚‚”D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -291,7 +291,7 @@
 #WRITE(GBA,$2C6D6C)
 ‚s‚ˆ‚‰‚“ ‚‰‚“ ‚ ‚„‚‚ƒ‚”‚‚’f‚“ ‚t‚Ž‚‰‚†‚‚’‚<line>
 ‚s‚…‚Ž‚„ ‚”‚ ‚”‚ˆ‚… ‚‰‚Ž‚Š‚•‚’‚…‚„I<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -301,7 +301,7 @@
 ‚o‚‚’‚” ‚Q ‚‚† ‚”‚ˆ‚… ‚j‚Ž‚‰‚‡‚ˆ‚” ‚n‚•‚”‚†‚‰‚”D<line>
 ‚`‚Œ‚‚Ž‚‡ ‚”‚‰‚‚… ‚‚‡‚C ‚”‚ˆ‚…‚™ ‚•‚“‚…‚„<line>
 ‚”‚ ‚†‚‰‚‡‚ˆ‚” ‚‰‚Ž ‚‚’‚‚‚’ ‚Œ‚‰‚‹‚… ‚”‚ˆ‚‰‚“D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -310,7 +310,7 @@
 #WRITE(GBA,$2C6D74)
 ‚` ‚†‚‚’‚|‚†‚‰‚”‚”‚‰‚Ž‚‡ ‚—‚’‚…‚“‚”‚Œ‚‰‚Ž‚‡<line>
 ‚t‚Ž‚‰‚†‚‚’‚D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -320,7 +320,7 @@
 ‚s‚ˆ‚‰‚“ ‚‰‚“ ‚”‚ˆ‚… ‚‚‚…‚“‚” ‚”‚ˆ‚‰‚Ž‚‡ ‚†‚‚’<line>
 ‚Ž‚‰‚Ž‚Š‚‚“ ‚”‚ ‚—‚…‚‚’D ‚d‚–‚…‚Ž<line>
 ‚“‚ˆ‚•‚’‚‰‚‹‚…‚Ž‚“ ‚ƒ‚‚Žf‚” ‚‡‚…‚” ‚”‚ˆ‚’‚‚•‚‡‚ˆI<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -329,7 +329,7 @@
 #WRITE(GBA,$2C6D7C)
 ‚s‚ˆ‚…‚“‚… ‚‚‚Ž‚”‚“ ‚‚‚‹‚… ‚™‚‚• ‚Œ‚‚‚‹<line>
 ‚Œ‚‰‚‹‚… ‚ ‚„‚‚„ ‚‚Ž ‚ˆ‚‰‚“ ‚„‚‚™ ‚‚†‚†D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -339,7 +339,7 @@
 ‚v‚…‚‚’ ‚”‚ˆ‚‰‚“ ‚”‚ ‚‹‚…‚…‚ ‚™‚‚•‚’<line>
 ‚”‚•‚‚‚™ ‚—‚‚’‚ ‚„‚•‚’‚‰‚Ž‚‡ ‚”‚ˆ‚‚“‚…<line>
 ‚ƒ‚‚Œ‚„ ‚Ž‚‰‚‡‚ˆ‚”‚“D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -349,7 +349,7 @@
 ‚o‚‚’‚” ‚Q ‚‚† ‚”‚ˆ‚… ‚g‚…‚’‚… ‚n‚•‚”‚†‚‰‚”D<line>
 ‚d‚–‚…‚’‚™‚‚Ž‚… ‚—‚‚Ž‚”‚“ ‚ ‚“‚”‚’‚‚Ž‚‡<line>
 ‚ˆ‚…‚’‚D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -358,7 +358,7 @@
 #WRITE(GBA,$2C6D88)
 ‚s‚ˆ‚…‚“‚… ‚‚‚Š‚‚‚‚“ ‚‚‚”‚ƒ‚ˆ ‚—‚‰‚”‚ˆ<line>
 ‚”‚ˆ‚… ‚m‚‰‚‡‚ˆ‚”‚ƒ‚‚D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -368,7 +368,7 @@
 ‚s‚ˆ‚…‚“‚… ‚‚‚Ž‚”‚“ ‚ˆ‚‚–‚… ‚ ‚Œ‚‚” ‚‚†<line>
 ‚‚‚ƒ‚‹‚…‚”‚“C ‚“‚ ‚”‚ˆ‚…‚™f‚’‚… ‚–‚…‚’‚™<line>
 ‚•‚“‚…‚†‚•‚ŒD<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -378,7 +378,7 @@
 ‚o‚‚’‚” ‚Q ‚‚† ‚”‚ˆ‚… ‚o‚Œ‚‚™‚‰‚Ž‚‡ ‚g‚‚•‚“‚…<line>
 ‚n‚•‚”‚†‚‰‚”D ‚b‚‚Ž ‚™‚‚• ‚‚‚… ‚ ‚‡‚‚‚„<line>
 ‚ƒ‚‚‚‹H<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -388,7 +388,7 @@
 ‚o‚‚’‚” ‚Q ‚‚† ‚”‚ˆ‚… ‚c‚…‚–‚‰‚Œ ‚n‚•‚”‚†‚‰‚”D<line>
 ‚s‚ˆ‚…‚“‚… ‚ƒ‚Œ‚‚”‚ˆ‚…‚“ ‚Œ‚‚‚‹ ‚ ‚Œ‚‰‚”‚”‚Œ‚…<line>
 ‚‚•‚Ž‚‹‚‰‚“‚ˆD<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -398,7 +398,7 @@
 ‚o‚‚’‚” ‚Q ‚‚† ‚”‚ˆ‚… ‚r‚•‚‚…‚’‚‚‚Ž<line>
 ‚n‚•‚”‚†‚‰‚”D ‚c‚…‚†‚…‚‚” ‚…‚–‚‰‚Œ ‚•‚Ž‚„‚…‚’<line>
 ‚”‚ˆ‚… ‚‡‚•‚‰‚“‚… ‚‚† ‚„‚‚’‚‹‚Ž‚…‚“‚“D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -408,7 +408,7 @@
 ‚v‚‚•‚Œ‚„ ‚”‚ˆ‚‰‚“ ‚“‚Œ‚‰‚‡‚ˆ‚”‚Œ‚™ ‚“‚…‚˜‚™<line>
 ‚„‚’‚…‚“‚“ ‚‚‚‹‚… ‚…‚–‚…‚Ž ‚l‚‚…f‚“<line>
 ‚ˆ‚…‚‚’‚” ‚“‚‹‚‰‚ ‚ ‚‚‚…‚‚”IH<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -417,7 +417,7 @@
 #WRITE(GBA,$2C6DA0)
 ‚` ‚“‚ƒ‚ˆ‚‚‚Œ ‚“‚—‚‰‚‚“‚•‚‰‚” ‚”‚ˆ‚‚”<line>
 ‚…‚–‚…‚’‚™‚‚Ž‚… ‚—‚…‚‚’‚“D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -427,7 +427,7 @@
 ‚` ‚r‚•‚•‚•‚‚…‚’ ‚r‚ƒ‚‚’‚™ ‚‚•‚‚‚™<line>
 ‚‚•‚”‚†‚‰‚”D ‚r‚ƒ‚‚’‚… ‚…‚–‚…‚’‚™‚‚Ž‚…<line>
 ‚‚’‚‚•‚Ž‚„ ‚™‚‚•I<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -437,7 +437,7 @@
 ‚o‚‚’‚” ‚Q ‚‚† ‚”‚ˆ‚… ‚l‚‚’‚”‚‰‚‚Ž<line>
 ‚n‚•‚”‚†‚‰‚”D ‚h‚”f‚“ ‚‚Ž<line>
 ‚n‚ƒ‚”‚‚‚•‚“|‚Œ‚‚‚‹‚‰‚Ž‚‡ ‚l‚‚’‚”‚‰‚‚Ž<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -446,7 +446,7 @@
 #WRITE(GBA,$2C6DAC)
 ‚v‚…‚‚’ ‚”‚ˆ‚‰‚“ ‚…‚–‚…‚’‚™ ‚„‚‚™ ‚”‚<line>
 ‚‚‚…‚ƒ‚‚‚… ‚“‚•‚‚…‚’ ‚‚‚•‚†‚†I<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -456,7 +456,7 @@
 ‚h‚” ‚‡‚…‚”‚“ ‚‚’‚…‚”‚”‚™ ‚—‚‚’‚<line>
 ‚—‚ˆ‚…‚Ž ‚™‚‚• ‚“‚Œ‚…‚…‚ ‚‰‚Ž<line>
 ‚ ‚ƒ‚‚’‚„‚‚‚‚‚’‚„ ‚‚‚‚˜D<line
-:end<line>
+<:end><line>
 <end>
 
 
@@ -466,7 +466,7 @@
 ‚r‚•‚‚…‚’ ‚†‚Œ‚‚“‚ˆ‚™ ‚ƒ‚Œ‚‚”‚ˆ‚…‚“ ‚”‚ˆ‚‚”<line>
 ‚™‚‚• ‚“‚ˆ‚‚•‚Œ‚„ ‚—‚…‚‚’ ‚—‚‰‚”‚ˆ ‚<line>
 ‚‚‚‚‚‚„‚‚•‚’D<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -476,7 +476,7 @@
 ‚v‚…‚‚’ ‚”‚ˆ‚…‚“‚… ‚‚‚‚„ ‚‚‚‚™‚“<line>
 ‚—‚ˆ‚…‚Ž‚…‚–‚…‚’ ‚™‚‚• ‚—‚‚Ž‚”<line>
 ‚”‚ ‚—‚‰‚Ž ‚ ‚‚‚‚”‚”‚Œ‚…I<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -485,7 +485,7 @@
 #WRITE(GBA,$2C6DBC)
 ‚s‚ˆ‚‰‚“ ‚“‚”‚™‚Œ‚‰‚“‚ˆ ‚ƒ‚ˆ‚…‚“‚” ‚ˆ‚‚‰‚’ ‚—‚‚“<line>
 ‚‚‚„‚… ‚†‚’‚‚ ‚“‚…‚‚—‚…‚…‚„D<line>
-:end<line>
+<:end><line>
 <end>
 
 

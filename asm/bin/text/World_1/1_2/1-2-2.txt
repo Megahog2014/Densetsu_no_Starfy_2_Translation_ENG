@@ -12,17 +12,17 @@
 
 #JMP(000000)
 
-:sd<line>
-:func 6 1<line>
-:se<line>
-:func 22 -1<line>
+<:sd><line>
+<:func> <6> <1><line>
+<:se><line>
+<:func> <2><2> <-><1><line>
 <rname><diamond>‚l‚‚…<line>
 ‚g‚…‚™ ‚r‚”‚‚’‚†C ‚„‚‰‚„‚Š‚ ‚‡‚…‚” ‚’‚‰‚„ ‚‚† ‚‚Œ‚Œ<line>
-<c d>‚S‚O<c 0> ‚‚† ‚”‚ˆ‚‚“‚… ‚‡‚’‚…‚…‚Ž ‚”‚ˆ‚‰‚Ž‚‡‚“ ‚™‚…‚”H<line>
+<textcolor_d>‚S‚O<textcolor_0> ‚‚† ‚”‚ˆ‚‚“‚… ‚‡‚’‚…‚…‚Ž ‚”‚ˆ‚‰‚Ž‚‡‚“ ‚™‚…‚”H<line>
 <redname><diamond>‚l‚‚…<line>
 ‚x‚‚•f‚’‚… ‚‡‚‚Ž‚Ž‚ ‚ˆ‚‚–‚… ‚”‚ ‚Œ‚‚‚‹ ‚‰‚Ž<line>
 ‚…‚–‚…‚’‚™ ‚Ž‚‚‚‹ ‚‚Ž‚„ ‚ƒ‚’‚‚Ž‚Ž‚™C<line>
 ‚“‚ ‚‚‚‹‚… ‚“‚•‚’‚… ‚”‚ ‚‡‚ ‚‚‚‚ƒ‚‹ ‚”‚ˆ‚… ‚—‚‚™ ‚—‚… ‚ƒ‚‚‚…I<line>
-:end<line>
+<:end><line>
 <end>
 

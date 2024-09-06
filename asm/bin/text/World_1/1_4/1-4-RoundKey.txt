@@ -12,12 +12,12 @@
 
 #JMP(000000)
 
-:func 22 -1<line>
-‚x‚‚• ‚†‚‚•‚Ž‚„ ‚”‚ˆ‚… <c d>‚q‚‚•‚Ž‚„ ‚j‚…‚™<c 0>I<line>
-:sd<line>
-:obj 1 3<line>
-:flagon 1401<line>
-:flagon 15500<line>
-:end<line>
+<:func> <2><2> <-><1><line>
+‚x‚‚• ‚†‚‚•‚Ž‚„ ‚”‚ˆ‚… <textcolor_d>‚q‚‚•‚Ž‚„ ‚j‚…‚™<textcolor_0>I<line>
+<:sd><line>
+<:obj> <1> <3><line>
+<:flagon> <1><4><0><1><line>
+<:flagon> <1><5><5><0><0><line>
+<:end><line>
 <end>
 

@@ -9,10 +9,11 @@
 //Sold out sign for after an item is purchsed.
 //DO NOT REMOVE "<c 0>"
 #WRITE(GBA,$138A14)
-@‚r‚n‚k‚c<c 0><end>
+@‚r‚n‚k‚c<textcolor_0><end>
 
 //Pearl Sign for the prices at Lovely's Shop
 #WRITE(GBA,$138AA4)
+<pearl><end>
 
 //Batch 1 for Lovely's Shop-----------------
 

@@ -12,11 +12,11 @@
 
 #JMP(000000)
 
-[x 2]<line>
-[y 2]<line>
+[<x_pos> <2>]<line>
+[<y_pos> <2>]<line>
 ‚r‚k‚h‚o‚o‚d‚q‚x ‚f‚k‚`‚b‚h‚d‚q@‚S|‚X<line>
-[x 11]<line>
-[y 20]<line>
+[<x_pos> <1><1>]<line>
+[<y_pos> <2><0>]<line>
                        ‚q‚•‚ŽI ‚r‚Œ‚‰‚„‚…I ‚r‚”‚‚I<line>
 ‚c‚ ‚s‚ˆ‚…‚“‚… ‚s‚ˆ‚’‚…‚… ‚s‚ˆ‚‰‚Ž‚‡‚“ ‚”‚ ‚m‚‚‚ ‚”‚ˆ‚… ‚s‚’‚…‚‚“‚•‚’‚…I<line>
 <end>

@@ -12,18 +12,18 @@
 
 #JMP(000000)
 
-:if 1252 go 3<line>
-:if 1241 go 2<line>
-:if 1251 go 1<line>
-:sd<line>
-:flagon 1251<line>
-:flagon 15000<line>
-:func 6 2 1<line>
-:func 1 1<line>
-:se<line>
-:func 22 -1<line>
+<:if> <1><2><5><2> <go> <3><line>
+<:if> <1><2><4><1> <go> <2><line>
+<:if> <1><2><5><1> <go> <1><line>
+<:sd><line>
+<:flagon> <1><2><5><1><line>
+<:flagon> <1><5><0><0><0><line>
+<:func> <6> <2> <1><line>
+<:func> <1> <1><line>
+<:se><line>
+<:func> <2><2> <-><1><line>
 <rname><diamond>Ｈｅｒｍａｎ<line>
-:obj 1 4<line>
+<:obj> <1> <4><line>
 Ｏｈ， Ｓｔａｒｆｙ ａｎｄ Ｍｏｅ！ Ｊｕｓｔ ｉｎ ｔｉｍｅ！<line>
 Ｌｉｓｔｅｎ ｔｏ ｔｈｉｓ．．．<line>
 <redname><diamond>Ｈｅｒｍａｎ<line>
@@ -33,48 +33,48 @@
 Ａｎｄ ｔｈａｎｋｓ ｔｏ ｔｈｅｍ，<line>
 Ｉ’ｍ ｈａｖｉｎｇ ｔｒｏｕｂｌｅ ｗｉｔｈ ｔｈｏｓｅ<line>
 ｇｒｅｅｎ ｔｈｉｎｇｓ ｅｖｅｒｙｗｈｅｒｅ．．．<line>
-:c<line>
+<:c><line>
 <redname><diamond>Ｍｏｅ<line>
-:obj 2 4<line>
+<:obj> <2> <4><line>
 Ｏｈ ｙｅａｈ，<line>
 Ｗｅ ｓａｗ ａ ｂｕｎｃｈ ｏｆ ｔｈｏｓｅ ｏｎ ｔｈｅ ｗａｙ ｈｅｒｅ．<line>
 Ｔｈｅｙ ｍａｄｅ ｉｔ ａ ｒｅａｌ ｐａｉｎ ｔｏ ｇｅｔ ｈｅｒｅ．．．<line>
-:c<line>
+<:c><line>
 <redname><diamond>Ｈｅｒｍａｎ<line>
-:obj 1 4<line>
+<:obj> <1> <4><line>
 Ｙｅａｈ， ｅｘａｃｔｌｙ！<line>
 Ｉｔ’ｓ ｐｒｏｂａｂｌｙ ａ ｐｒａｎｋ<line>
 ｐｕｌｌｅｄ ｂｙ ｔｈａｔ Ｏｇｕｒａ ｌｏｏｋ－ａｌｉｋｅ．<line>
 <redname><diamond>Ｈｅｒｍａｎ<line>
 Ｙｏｕ ｓｈｏｕｌｄ ｂｅ ａｂｌｅ ｔｏ ｇｅｔ ｒｉｄ ｏｆ ｔｈｅｍ<line>
-ｗｉｔｈ ｙｏｕｒ <c d>”Ｓｔａｒ Ｓｐｉｎ”<c 0> ｔｈｏｕｇｈ， Ｓｔａｒｆｙ．<line>
-:c<line>
+ｗｉｔｈ ｙｏｕｒ <textcolor_d>”Ｓｔａｒ Ｓｐｉｎ”<textcolor_0> ｔｈｏｕｇｈ， Ｓｔａｒｆｙ．<line>
+<:c><line>
 <redname><diamond>Ｍｏｅ<line>
-:obj 2 4<line>
+<:obj> <2> <4><line>
 Ｉ ｇｏｔ ｓｏｍｅ ｂａｄ ｎｅｗｓ ｆｏｒ ｙａ．<line>
 Ｓｔａｒｆ’ ｈｅｒｅ’ｓ ｕｓｅｌｅｓｓ．<line>
 <redname><diamond>Ｍｏｅ<line>
 Ｔｈｉｓ ｃｌｕｍｓｙ ｏａｆ ｆｏｒｇｏｔ<line>
 Ａｌｌ ｏｆ ｈｉｓ Ａｂｉｌｉｔｉｅｓ ｆｒｏｍ ｂｅｆｏｒｅ！<line>
 Ｕｎｂｅｌｉｅｖａｂｌｅ．．．<line>
-:c<line>
+<:c><line>
 <redname><diamond>Ｈｅｒｍａｎ<line>
-:obj 1 4<line>
+<:obj> <1> <4><line>
 Ｏｈ ｎｏ！ Ｉｎ ｔｈａｔ ｃａｓｅ，<line>
 Ｉ’ｌｌ ｔｅａｃｈ ｙｏｕ ｔｈｅ Ｓｔａｒ Ｓｐｉｎ ｏｎｅ ｍｏｒｅ ｔｉｍｅ．<line>
-:c<line>
+<:c><line>
 <redname><diamond>Ｍｏｅ<line>
-:obj 2 4<line>
+<:obj> <2> <4><line>
 ＊ｓｉｇｈ＊．．． Ｈｏｗ ａｎｎｏｙｉｎｇ．．．<line>
 Ｉ’ｍ ｇｏｉｎｇ ｏｎ ａｈｅａｄ．<line>
 Ｈｅｒｍａｎ， ｔａｋｅ ｃａｒｅ ｏｆ ｔｈｉｓ ｂｌｏｃｋｈｅａｄ， ｗｉｌｌ ｙａ？<line>
-:c<line>
+<:c><line>
 <redname><diamond>Ｈｅｒｍａｎ<line>
-:obj 1 4<line>
+<:obj> <1> <4><line>
 Ｉｆ ｙｏｕ ｗａｎｎａ ｓｅｅ ｈｏｗ ｔｏ ｕｓｅ ｔｈｅ Ｓｔａｒ Ｓｐｉｎ，<line>
 ｔａｋｅ ａ ｌｏｏｋ ａｔ ｔｈｅ ｓｉｇｎ ａｂｏｖｅ ｕｓ．<line>
 <redname><diamond>Ｈｅｒｍａｎ<line>
-Ｔｈｅｒｅ ａｒｅ <c d>４０ ｏｆ ｔｈｏｓｅ ｗｅｉｒｄ ｇｒｅｅｎ ｔｈｉｎｇｓ<c 0><line>
+Ｔｈｅｒｅ ａｒｅ <textcolor_d>４０ ｏｆ ｔｈｏｓｅ ｗｅｉｒｄ ｇｒｅｅｎ ｔｈｉｎｇｓ<textcolor_0><line>
 ｉｎ ｔｏｔａｌ．<line>
 <redname><diamond>Ｈｅｒｍａｎ<line>
 Ｏｈ， ｔｈａｔ’ｓ ｒｉｇｈｔ！<line>
@@ -82,47 +82,47 @@
 Ｙｏｕ’ｌｌ ｇｅｔ ｄｉｚｚｙ．．．<line>
 <redname><diamond>Ｈｅｒｍａｎ<line>
 Ｂｕｔ ｙｏｕ ｃａｎ ｒｅｃｏｖｅｒ ｑｕｉｃｋｌｙ<line>
-ｂｙ <c d>ｍａｓｈｉｎｇ ｔｈｅ <Dpad><c 0>！ Ｇｏｏｄ ｌｕｃｋ！<line>
-:c<line>
-<wait>:sd<line>
-:func 4<line>
-:func 2 2<line>
-:obj 2 2 0<line>
-:func 1 0<line>
-:func 3 2<line>
+ｂｙ <textcolor_d>ｍａｓｈｉｎｇ ｔｈｅ <Dpad><textcolor_0>！ Ｇｏｏｄ ｌｕｃｋ！<line>
+<:c><line>
+<wait><:sd><line>
+<:func> <4><line>
+<:func> <2> <2><line>
+<:obj> <2> <2> <0><line>
+<:func> <1> <0><line>
+<:func> <3> <2><line>
 :exit<line>
-<wait>:1<line>
-:func 22 -1<line>
+<wait>:<1><line>
+<:func> <2><2> <-><1><line>
 <rname><diamond>Ｈｅｒｍａｎ<line>
-Ｕｓｅ ｙｏｕｒ <c d>Ｓｔａｒ Ｓｐｉｎ<c 0> ｔｏ ｇｅｔ ｒｉｄ ｏｆ<line>
-<c d>４０ ｏｆ ｔｈｏｓｅ ｗｉｅｒｄ ｇｒｅｅｎ ｔｈｉｎｇｓ<c 0>！<line>
+Ｕｓｅ ｙｏｕｒ <textcolor_d>Ｓｔａｒ Ｓｐｉｎ<textcolor_0> ｔｏ ｇｅｔ ｒｉｄ ｏｆ<line>
+<textcolor_d>４０ ｏｆ ｔｈｏｓｅ ｗｉｅｒｄ ｇｒｅｅｎ ｔｈｉｎｇｓ<textcolor_0>！<line>
 <redname><diamond>Ｈｅｒｍａｎ<line>
-Ｉｆ ｙｏｕ ｕｓｅ ｔｈｅ <c d>Ｓｔａｒ Ｓｐｉｎ<c 0> ｔｏｏ ｍｕｃｈ ａｎｄ ｇｅｔ ｄｉｚｚｙ．．．<line>
+Ｉｆ ｙｏｕ ｕｓｅ ｔｈｅ <textcolor_d>Ｓｔａｒ Ｓｐｉｎ<textcolor_0> ｔｏｏ ｍｕｃｈ ａｎｄ ｇｅｔ ｄｉｚｚｙ．．．<line>
 <redname><diamond>Ｈｅｒｍａｎ<line>
 Ｙｏｕ ｃａｎ ｒｅｃｏｖｅｒ ｆｒｏｍ ｉｔ ｑｕｉｃｋｅｒ ｂｙ,<line>
-ｍａｓｈｉｎｇ ｔｈｅ <c d><Dpad><c 0><line>
-:end<line>
-<wait>:2<line>
-:func 22 -2<line>
+ｍａｓｈｉｎｇ ｔｈｅ <textcolor_d><Dpad><textcolor_0><line>
+<:end><line>
+<wait>:<2><line>
+<:func> <2><2> <-><2><line>
 <rname><diamond>Ｈｅｒｍａｎ<line>
 Ｗｏｗ， ｙｏｕ ｇｏｔ ｒｉｄ ｏｆ ａｌｌ ｏｆ ｔｈｅｍ！<line>
 Ｔｈａｎｋｓ， Ｓｔａｒｆｙ！<line>
 <redname><diamond>Ｈｅｒｍａｎ<line>
 Ｉｎ ｒｅｔｕｒｎ， Ｉ’ｌｌ ｏｐｅｎ ｔｈｅ ｄｏｏｒ ｎｅｘｔ ｔｏ ｍｅ．<line>
-:flagon 1252<line>
-:func 18 1 74<line>
+<:flagon> <1><2><5><2><line>
+<:func> <1><8> <1> <7><4><line>
 <redname><diamond>Ｈｅｒｍａｎ<line>
 Ｉ ｆｏｕｎｄ ｓｏｍｅｔｈｉｎｇ ｔｈａｔ ｌｏｏｋｅｄ ｒａｒｅ ｉｎ ｔｈｅｒｅ！<line>
 Ｗｈｙ ｄｏｎ’ｔ ｙｏｕ ｔａｋｅ ａ ｌｏｏｋ？<line>
-:end<line>
-<wait>:3<line>
-:func 22 -1<line>
+<:end><line>
+<wait>:<3><line>
+<:func> <2><2> <-><1><line>
 <rname><diamond>Ｈｅｒｍａｎ<line>
 Ｂｙ ｔｈｅ ｗａｙ， ｈａｖｅ ｙｏｕ ａｌｒｅａｄｙ ｒｅｍｅｍｂｅｒｅｄ<line>
-ｔｈｅ ｉｎｓ ａｎｄ ｏｕｔｓ ｏｆ ｔｈｅ <c d>Ｓｔａｒ Ｓｐｉｎ<c 0>？<line>
+ｔｈｅ ｉｎｓ ａｎｄ ｏｕｔｓ ｏｆ ｔｈｅ <textcolor_d>Ｓｔａｒ Ｓｐｉｎ<textcolor_0>？<line>
 <redname><diamond>Ｈｅｒｍａｎ<line>
 Ｉ ｂｅｇ ｙｏｕ’ｌｌ ｂｅ ｕｓｉｎｇ ｉｔ ｉｎ ａｌｌ ｓｏｒｔｓ ｏｆ ｓｉｔｕａｔｉｏｎｓ，<line>
 ｓｏ ｍａｋｅ ｓｕｒｅ ｔｏ ｐｒｏｐｅｒｌｙ ｐｒａｃｔｉｃｅ ｕｓｉｎｇ ｉｔ！<line>
-:end<line>
+<:end><line>
 <end>
 

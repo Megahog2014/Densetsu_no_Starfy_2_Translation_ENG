@@ -12,6 +12,6 @@
 
 #JMP(000000)
 
-[x 18]<line>
+[<x_pos <1><8>]<line>
 ‚o‚h‚s‚b‚g ‚a‚k‚`‚b‚j ‚b‚`‚u‚d‚q‚m‚r<line>
 :end<line>

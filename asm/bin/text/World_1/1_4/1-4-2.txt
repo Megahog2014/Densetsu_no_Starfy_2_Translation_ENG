@@ -12,75 +12,75 @@
 
 #JMP(000000)
 
-:if 1406 go 2<line>
-:if 1407 go 1<line>
-:sd<line>
-:flagon 1407<line>
-:func 1 2<line>
-:func 6 1<line>
-:obj 1 4<line>
-:se<line>
-:func 22 -1<line>
+<:if> <1><4><0><6> <go> <2><line>
+<:if> <1><4><0><7> <go> <1><line>
+<:sd><line>
+<:flagon> <1><4><0><7><line>
+<:func> <1> <2><line>
+<:func> <6> <1><line>
+<:obj> <1> <4><line>
+<:se><line>
+<:func> <2><2> <-><1><line>
 <rname><diamond>Ｍｏｅ<line>
 Ｄａｎｇｉｔ！ Ｔｈｏｓｅ ｔｗｏ ａｒｅ ｔｈｒｏｕｇｈ ｔｈｉｓ ｄｏｏｒ，<line>
-ｂｕｔ ｗｅ ｃａｎ’ｔ ｏｐｅｎ ｉｔ ｗｉｔｈｏｕｔ <c d>３ ｋｅｙｓ<c 0>！<line>
-:c<line>
-<wait>:obj 1 9 2 1<line>
-:obj 2 2 1<line>
-:func 18 1 65<line>
+ｂｕｔ ｗｅ ｃａｎ’ｔ ｏｐｅｎ ｉｔ ｗｉｔｈｏｕｔ <textcolor_d>３ ｋｅｙｓ<textcolor_0>！<line>
+<:c><line>
+<wait><:obj> <1> <9> <2> <1><line>
+<:obj> <2> <2> <1><line>
+<:func> <1><8> <1> <6><5><line>
 <rname><diamond>Ｐｕｃｈｉ Ｏｇｕｒａ ＃１<line>
 Ａｈａｈａｈａ！ Ｓｔｕｐｉｄ～ Ｉｄｉｏｔ～！<line>
 Ｓｕｐｅｒ ｌａｍｅ－ｏ ｃｌａａａａａａｍ～！<line>
-:c<line>
+<:c><line>
 <redname><diamond>Ｋｏｎｋ<line>
 Ｉｆ ｙｏｕ ｄｏｎ’ｔ ｈｕｒｒｙ ｕｐ，<line>
 Ｉ’ｌｌ ｓｔｅａｌ Ｒｕｂｙ ａｗａｙ ａｇａｉｎ， Ｋｏｏｏｏｎｋ！<line>
-:c<line>
-<wait>:obj 1 5 2<line>
-:obj 1 4<line>
+<:c><line>
+<wait><:obj> <1> <5> <2><line>
+<:obj> <1> <4><line>
 <rname><diamond>Ｍｏｅ<line>
 Ｔｈｏｓｅ ｌｉｔｔｌｅ－！ Ｔｈｅ Ｇｒｅａｔ Ｍｏｅ ｉｓ ａｎｙｔｈｉｎｇ<line>
 ｂｕｔ Ｍｒ． Ｕｎｐｏｐｕｌａｒ， Ｉ’ｌｌ ｓｈｏｗ ｙｏｕ！<line>
-<wait>:obj 1 5<line>
+<wait><:obj> <1> <5><line>
 <rname><diamond>Ｍｏｅ<line>
 Ｎｏ， ｔｈａｔ’ｓ ｎｏｔ ｉｍｐｏｒｔａｎｔ．．．<line>
 Ｈｏｗ ｄａｒｅ ｈｅ ｒｅｆｅｒ ｔｏ Ｍｓ．Ｒｕｂｙ ｓｏ ｃａｓｕａｌｌｙ！<line>
 <redname><diamond>Ｍｏｅ<line>
 Ｅｖｅｎ Ｉ ｈａｖｅｎ’ｔ ｃａｌｌｅｄ ｈｅｒ ｊｕｓｔ<line>
 ”Ｒｕｂｙ” ｙｅｔ．．．＊ｍｕｍｂｌｅ ｍｕｍｂｌｅ＊<line>
-<wait>:obj 1 9 2<line>
+<wait><:obj> <1> <9> <2><line>
 <rname><diamond>Ｍｏｅ<line>
 Ｈｅｙ， Ｓｔａｒｆ！ Ｈｕｒｒｙ ｕｐ ａｎｄ ｆｉｎｄ ｔｈｏｓｅ ｋｅｙｓ<line>
 ｓｏ ｗｅ ｃａｎ ｄｏ ｓｏｍｅｔｈｉｎｇ ａｂｏｕｔ ｔｈｉｓ ｄｏｏｒ！<line>
 <redname><diamond>Ｍｏｅ<line>
 Ｔｈｅｙ ｇｏｔｔａ ｂｅ ａｒｏｕｎｄ ｈｅｒｅ ｓｏｍｅｗｈｅｒｅ！<line>
-Ｆｉｎｄ ｔｈｅ ｋｅｙｓ ｔｈａｔ <c d>ｍａｔｃｈ ｔｈｅ ｐａｔｔｅｒｓ<c 0><line>
-<c d>ｏｎ ｔｈｅ ｌｏｃｋｓ<c 0> ａｌｒｅａｄｙ， ｓｈｅｅｓｈ！<line>
-:c<line>
-<wait>:sd<line>
-<linealt>:func 4<line>
-:func 2 2<line>
-:obj 1 9 2<line>
-:obj 1 5<line>
-:func 10<line>
-:func 1 0<line>
-:func 3 2<line>
-:exit<line>
-<wait>:1<line>
-:sd<line>
-:func 6 1<line>
-:se<line>
-:func 22 -1<line>
+Ｆｉｎｄ ｔｈｅ ｋｅｙｓ ｔｈａｔ <textcolor_d>ｍａｔｃｈ ｔｈｅ ｐａｔｔｅｒｓ<textcolor_0><line>
+<textcolor_d>ｏｎ ｔｈｅ ｌｏｃｋｓ<textcolor_0> ａｌｒｅａｄｙ， ｓｈｅｅｓｈ！<line>
+<:c><line>
+<wait><:sd><line>
+<linealt><:func> <4><line>
+<:func> <2> <2><line>
+<:obj> <1> <9> <2><line>
+<:obj> <1> <5><line>
+<:func> <1><0><line>
+<:func> <1> <0><line>
+<:func> <3> <2><line>
+<:exit><line>
+<wait>:<1><line>
+<:sd><line>
+<:func> <6> <1><line>
+<:se><line>
+<:func> <2><2> <-><1><line>
 <rname><diamond>Ｍｏｅ<line>
 Ｆｉｎｄ ｔｈｅ ｋｅｙｓ ｔｈａｔ ｍａｔｃｈ ｔｈｅ ｌｏｃｋｓ’ ｐａｔｔｅｒｎｓ<line>
 ｓｏ ｗｅ ｃａｎ ｏｐｅｎ ｔｈｉｓ ｄｏｏｒ， ａｌｒｅａｄｙ！<line>
 Ｓｈｅｅｓｈ！<line>
-:end<line>
-<wait>:2<line>
-:sd<line>
-:func 6 1<line>
-:se<line>
-:func 22 -1<line>
+<:end><line>
+<wait>:<2><line>
+<:sd><line>
+<:func> <6> <1><line>
+<:se><line>
+<:func> <2><2> <-><1><line>
 <rname><diamond>Ｍｏｅ<line>
 Ｄｏ ｙｏｕ ｒｅｍｅｍｂｅｒ ｔｈａｔ<line>
 ｓｐｉｎｎｉｎｇ ｉｄｉｏｔ’ｓ ｗｅａｋ ｐｏｉｎｔ， Ｓｔａｒｆ’？<line>
@@ -91,15 +91,15 @@
 Ｏｈ， ｒｉｇｈｔ！ Ｊｕｓｔ ｏｎｅ ｍｏｒｅ ｔｈｉｎｇ，<line>
 ａｎｄ ｙｏｕ’ｌｌ ｒｅａｌｌｙ ｌｉｋｅ ｔｈｉｓ．．．<line>
 <redname><diamond>Ｍｏｅ<line>
-<c d>Ｉｆ ｙｏｕ ｂｅａｔ ｍｕｌｔｉｐｌｅ ｅｎｅｍｉｅｓ ｉｎ ａ ｒｏｗ，<c 0><line>
-<c d>ｙｏｕ ｃａｎ ｋｎｏｃｋ ｔｈｅ ｐｅａｒｌｓ ｒｉｇｈｔ ｏｕｔ ｏｆ ’ｅｍ<c 0>！<line>
+<textcolor_d>Ｉｆ ｙｏｕ ｂｅａｔ ｍｕｌｔｉｐｌｅ ｅｎｅｍｉｅｓ ｉｎ ａ ｒｏｗ，<textcolor_0><line>
+<textcolor_d>ｙｏｕ ｃａｎ ｋｎｏｃｋ ｔｈｅ ｐｅａｒｌｓ ｒｉｇｈｔ ｏｕｔ ｏｆ ’ｅｍ<textcolor_0>！<line>
 <redname><diamond>Ｍｏｅ<line>
 Ａｎｄ ｉｆ ｙｏｕ’ｒｅ ｑｕｉｃｋ ｅｎｏｕｇｈ，<line>
-<c d>ｙｏｕ ｃａｎ ｇｅｔ ｓｏｍｅ ｂｉｇ ｐｅａｒｌｓ ｏｕｔ ｏｆ ’ｅｍ ｔｏｏ<c 0>！<line>
+<textcolor_d>ｙｏｕ ｃａｎ ｇｅｔ ｓｏｍｅ ｂｉｇ ｐｅａｒｌｓ ｏｕｔ ｏｆ ’ｅｍ ｔｏｏ<textcolor_0>！<line>
 <redname><diamond>Ｍｏｅ<line>
 Ｍａｋｅ ｓｕｒｅ ｙｏｕ’ｒｅ ａｌｗａｙｓ ｒｅａｄｙ<line>
 ｔｏ ｆｉｇｈｔ ａｔ ｆｕｌｌ ｓｔｒｅｎｇｔｈ．<line>
-:end<line>
-:end<line>
+<:end><line>
+<:end><line>
 <end>
 

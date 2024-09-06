@@ -8,7 +8,7 @@
 
 #WRITE(GBA,$2C6DC0)
 ‚q‚…‚‚‚–‚…<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -16,7 +16,7 @@
 
 #WRITE(GBA,$2C6DC4)
 ‚r‚‚Œ‚„‚‰‚…‚’f‚“ ‚g‚‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -24,7 +24,7 @@
 
 #WRITE(GBA,$2C6DC8)
 ‚o‚‚ƒ‚ˆ‚…‚”‚”‚…<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -32,7 +32,7 @@
 
 #WRITE(GBA,$2C6DCC)
 ‚r‚—‚‰‚’‚Œ‚™ ‚f‚Œ‚‚“‚“‚…‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -40,7 +40,7 @@
 
 #WRITE(GBA,$2C6DD0)
 ‚g‚…‚Œ‚‚…‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -48,7 +48,7 @@
 
 #WRITE(GBA,$2C6DD4)
 ‚o‚•‚†‚†‚”‚‚ ‚f‚…‚”‚<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -56,7 +56,7 @@
 
 #WRITE(GBA,$2C6DD8)
 ‚c‚‰‚“‚‚“‚”‚…‚’ ‚g‚‚‚„<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -64,7 +64,7 @@
 
 #WRITE(GBA,$2C6DDC)
 ‚r‚•‚Ž‚‡‚Œ‚‚“‚“‚…‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -72,7 +72,7 @@
 
 #WRITE(GBA,$2C6DE0)
 ‚a‚‚“‚…‚‚‚‚Œ‚Œ ‚b‚‚<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -80,7 +80,7 @@
 
 #WRITE(GBA,$2C6DE4)
 ‚r‚‚†‚…‚”‚™ ‚b‚ˆ‚‚’‚<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -88,7 +88,7 @@
 
 #WRITE(GBA,$2C6DE8)
 ‚a‚Œ‚‚Ž‚„ ‚v‚‰‚‡<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -96,7 +96,7 @@
 //Adventurer's Whip
 #WRITE(GBA,$2C6DEC)
 <82D8><82D9><82DA><82DB><82DC><82DD><82DE><82DF><line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -104,7 +104,7 @@
 
 #WRITE(GBA,$2C6DF0)
 ‚n‚ƒ‚”‚|‚g‚…‚‚„‚‚‚‚Ž‚„<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -112,7 +112,7 @@
 
 #WRITE(GBA,$2C6DF4)
 ‚q‚‚‚‚‚‚‰‚” ‚d‚‚’‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -120,7 +120,7 @@
 
 #WRITE(GBA,$2C6DF8)
 ‚r‚…‚ ‚o‚…‚’‚†‚•‚‚…<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -128,7 +128,7 @@
 
 #WRITE(GBA,$2C6DFC)
 ‚g‚‚‰‚’‚‚‚‚Ž‚„<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -136,7 +136,7 @@
 
 #WRITE(GBA,$2C6E00)
 ‚q‚‚Œ‚Œ‚…‚’ ‚r‚‹‚‚”‚…‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -144,7 +144,7 @@
 
 #WRITE(GBA,$2C6E04)
 ‚j‚Ž‚‰‚” ‚g‚‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -152,7 +152,7 @@
 
 #WRITE(GBA,$2C6E08)
 ‚m‚‚‰‚Œ ‚o‚‚Œ‚‰‚“‚ˆ<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -160,7 +160,7 @@
 
 #WRITE(GBA,$2C6E0C)
 ‚c‚…‚”‚…‚ƒ‚”‚‰‚–‚…f‚“ ‚b‚‚<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -168,7 +168,7 @@
 
 #WRITE(GBA,$2C6E10)
 ‚r‚‚‚ƒ‚… ‚g‚…‚Œ‚‚…‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -176,7 +176,7 @@
 
 #WRITE(GBA,$2C6E14)
 ‚r‚…‚Ž‚‡‚‚‹‚• ‚g‚…‚Œ‚‚…‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -184,7 +184,7 @@
 
 #WRITE(GBA,$2C6E18)
 ‚g‚‚Ž‚„ ‚k‚…‚Ž‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -192,7 +192,7 @@
 
 #WRITE(GBA,$2C6E1C)
 ‚e‚‚‹‚… f‚r‚”‚‚ƒ‚ˆ‚…<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -200,7 +200,7 @@
 
 #WRITE(GBA,$2C6E20)
 ‚s‚‚—‚Ž‚“‚‡‚‰‚’‚Œ ‚v‚‰‚‡<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -208,7 +208,7 @@
 
 #WRITE(GBA,$2C6E24)
 ‚s‚‚‚‹‚Ž‚‚” ‚v‚‰‚‡<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -216,7 +216,7 @@
 
 #WRITE(GBA,$2C6E28)
 ‚o‚•‚†‚†‚”‚‚ ‚f‚•‚‰‚”‚‚’<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -224,7 +224,7 @@
 
 #WRITE(GBA,$2C6E2C)
 ‚t‚‹‚•‚Œ‚…‚Œ‚…<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -232,7 +232,7 @@
 
 #WRITE(GBA,$2C6E30)
 ‚r‚‚Ž‚„‚‚Œ‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -240,7 +240,7 @@
 
 #WRITE(GBA,$2C6E34)
 ‚s‚‚ ‚g‚‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -248,7 +248,7 @@
 
 #WRITE(GBA,$2C6E38)
 ‚j‚Ž‚‰‚‡‚ˆ‚” ‚g‚…‚Œ‚‚…‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -256,7 +256,7 @@
 
 #WRITE(GBA,$2C6E3C)
 ‚e‚…‚“‚”‚‰‚–‚‚Œ ‚l‚‚“‚‹<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -264,7 +264,7 @@
 
 #WRITE(GBA,$2C6E40)
 ‚s‚•‚’‚‚‚‚Ž<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -272,7 +272,7 @@
 
 #WRITE(GBA,$2C6E44)
 ‚`‚†‚”‚’‚ ‚v‚‰‚‡<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -280,7 +280,7 @@
 
 #WRITE(GBA,$2C6E48)
 ‚j‚…‚Ž‚„‚ ‚r‚—‚‚’‚„<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -288,7 +288,7 @@
 
 #WRITE(GBA,$2C6E4C)
 ‚g‚…‚’‚ ‚g‚…‚Œ‚‚…‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -296,7 +296,7 @@
 
 #WRITE(GBA,$2C6E50)
 ‚b‚’‚‚—‚Ž<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -304,7 +304,7 @@
 
 #WRITE(GBA,$2C6E54)
 ‚m‚‰‚‡‚ˆ‚”‚ƒ‚‚<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -312,7 +312,7 @@
 
 #WRITE(GBA,$2C6E58)
 ‚k‚‚„‚Œ‚…<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -320,7 +320,7 @@
 
 #WRITE(GBA,$2C6E5C)
 ‚c‚…‚–‚‰‚Œ ‚g‚‚’‚Ž‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -328,7 +328,7 @@
 
 #WRITE(GBA,$2C6E60)
 ‚r‚•‚‚…‚’‚‚‚Ž ‚g‚‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -336,7 +336,7 @@
 
 #WRITE(GBA,$2C6E64)
 ‚l‚‚’‚”‚‰‚‚Ž ‚g‚‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -344,7 +344,7 @@
 
 #WRITE(GBA,$2C6E68)
 ‚a‚‚Œ‚„ ‚v‚‰‚‡<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -352,7 +352,7 @@
 
 #WRITE(GBA,$2C6E6C)
 ‚l‚‚ˆ‚‚—‚‹<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -360,7 +360,7 @@
 
 #WRITE(GBA,$2C6E70)
 ‚o‚‚‚ ‚g‚‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -368,7 +368,7 @@
 
 #WRITE(GBA,$2C6E74)
 ‚b‚ˆ‚•‚Ž ‚g‚‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -376,7 +376,7 @@
 
 #WRITE(GBA,$2C6E7C)
 ‚o‚‚’‚”‚™ ‚l‚‚“‚‹<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -384,7 +384,7 @@
 
 #WRITE(GBA,$2C6E80)
 ‚o‚‰‚Ž‚ƒ‚…|‚Ž‚…‚š<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -392,7 +392,7 @@
 
 #WRITE(GBA,$2C6E84)
 ‚l‚‚‹‚…‚•‚<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -400,7 +400,7 @@
 
 #WRITE(GBA,$2C6E88)
 ‚o‚‚‚‚‚„‚‚•‚’<line>
-:end<line>
+<:end><line>
 <end>
 
 //POINTER #51 @ $10AA34 - STRING #50 @ $2C6B28

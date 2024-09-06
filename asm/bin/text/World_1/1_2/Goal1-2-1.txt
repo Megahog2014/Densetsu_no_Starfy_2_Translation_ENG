@@ -12,20 +12,20 @@
 
 #JMP(000000)
 
-:sd<line>
-:func 3 2 2<line>
-:func 0 0<line>
-:se<line>
-[y 18]<line>
+<:sd><line>
+<:func> <3> <2> <2><line>
+<:func> <0> <0><line>
+<:se><line>
+[y <1>8]<line>
 ‚h‚Ž‚“‚‰‚„‚… ‚”‚ˆ‚… ‚”‚’‚…‚‚“‚•‚’‚… ‚ƒ‚ˆ‚…‚“‚” ‚—‚‚“DDD<line>
-‚ <c d>‚r‚‚‰‚Œ‚‚’f‚“ ‚t‚Ž‚‰‚†‚‚’‚<c 1>I<line>
-:c<line>
+‚ <textcolor_d>‚r‚‚‰‚Œ‚‚’f‚“ ‚t‚Ž‚‰‚†‚‚’‚<textcolor_1>I<line>
+<:c><line>
 <wait>‚m‚‚— ‚”‚ˆ‚‚” ‚™‚‚•f‚–‚… ‚’‚…‚‚…‚‚‚‚…‚’‚…‚„ ‚”‚ˆ‚… ‚r‚”‚‚’ ‚r‚‚‰‚ŽC<line>
 ‚™‚‚•f‚’‚… ‚‡‚‚‰‚Ž‚‡ ‚”‚ ‚•‚“‚… ‚‰‚” ‚ ‚‚‚•‚Ž‚ƒ‚ˆ ‚†‚’‚‚ ‚Ž‚‚— ‚‚ŽI<line>
-:c<line>
-<wait>:sd<line>
-:func 1 0<line>
-:func 2 2 2<line>
+<:c><line>
+<wait><:sd><line>
+<:func> <1> <0><line>
+<:func> <2> <2> <2><line>
 :exit<line>
 <end>
 

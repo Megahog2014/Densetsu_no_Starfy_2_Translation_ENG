@@ -8,7 +8,7 @@
 
 #WRITE(GBA,$2C6C28)
 ‚q‚…‚‚‚–‚…<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -16,7 +16,7 @@
 
 #WRITE(GBA,$2C6C2C)
 ‚r‚‚‰‚Œ‚‚’ ‚b‚Œ‚‚”‚ˆ‚…‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -24,7 +24,7 @@
 
 #WRITE(GBA,$2C6C30)
 ‚r‚—‚‰‚ ‚s‚’‚•‚Ž‚‹‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -32,7 +32,7 @@
 
 #WRITE(GBA,$2C6C34)
 ‚f‚‚•‚„‚™ ‚f‚‚’‚‚…‚Ž‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -40,7 +40,7 @@
 
 #WRITE(GBA,$2C6C38)
 ‚o‚’‚‰‚Ž‚ƒ‚…f‚“ ‚l‚‚Ž‚”‚Œ‚…<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -48,7 +48,7 @@
 
 #WRITE(GBA,$2C6C3C)
 ‚g‚‚—‚‚‰‚‰‚‚Ž ‚r‚ˆ‚‰‚’‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -56,7 +56,7 @@
 
 #WRITE(GBA,$2C6C40)
 ‚i‚•‚„‚ ‚t‚Ž‚‰‚†‚‚’‚<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -64,7 +64,7 @@
 
 #WRITE(GBA,$2C6C44)
 ‚b‚‚‚‹f‚“ ‚`‚‚’‚‚Ž<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -72,7 +72,7 @@
 
 #WRITE(GBA,$2C6C48)
 ‚v‚‚’‚ ‚e‚•‚’ ‚b‚‚‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -80,7 +80,7 @@
 
 #WRITE(GBA,$2C6C4C)
 ‚s‚‰‚‡‚…‚’ ‚o‚‚Ž‚”‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -88,7 +88,7 @@
 //Baseball Jersey
 #WRITE(GBA,$2C6C50)
 <82E0><82E1><82E2><82E3><82E4><82E5><82E6><line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -96,7 +96,7 @@
 
 #WRITE(GBA,$2C6C54)
 ‚g‚•‚Œ‚ ‚r‚‹‚‰‚’‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -104,7 +104,7 @@
 
 #WRITE(GBA,$2C6C58)
 ‚a‚‚Œ‚Œ‚…‚” ‚s‚•‚”‚•<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -112,7 +112,7 @@
 
 #WRITE(GBA,$2C6C5C)
 ‚i‚…‚’‚“‚…‚™<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -120,7 +120,7 @@
 
 #WRITE(GBA,$2C6C60)
 ‚j‚…‚Œ‚ ‚k‚‚‰‚Ž‚ƒ‚Œ‚‚”‚ˆ<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -128,7 +128,7 @@
 
 #WRITE(GBA,$2C6C64)
 ‚q‚‚‚‚‚” ‚b‚‚“‚”‚•‚‚…<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -136,7 +136,7 @@
 //Chinese Clothes
 #WRITE(GBA,$2C6C68)
 ‚b‚ˆ‚‰‚Ž‚…‚“‚… ‚v‚…‚‚’<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -144,7 +144,7 @@
 //Super Swimwear
 #WRITE(GBA,$2C6C6C)
 ‚r‚•‚‚…‚’ ‚s‚’‚•‚Ž‚‹‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -152,7 +152,7 @@
 
 #WRITE(GBA,$2C6C70)
 ‚r‚…‚Ž‚‡‚‚‹‚• ‚`‚’‚‚‚’<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -160,7 +160,7 @@
 
 #WRITE(GBA,$2C6C74)
 ‚r‚‚‚ƒ‚…‚“‚•‚‰‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -168,7 +168,7 @@
 
 #WRITE(GBA,$2C6C78)
 ‚g‚‚‚‚‰<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -176,7 +176,7 @@
 
 #WRITE(GBA,$2C6C7C)
 ‚t‚e‚n ‚b‚‚“‚”‚•‚‚…<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -184,7 +184,7 @@
 
 #WRITE(GBA,$2C6C80)
 ‚c‚…‚”‚…‚ƒ‚”‚‰‚–‚… ‚b‚‚‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -192,7 +192,7 @@
 
 #WRITE(GBA,$2C6C84)
 ‚m‚‰‚Ž‚Š‚ ‚r‚•‚‰‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -200,7 +200,7 @@
 
 #WRITE(GBA,$2C6C88)
 ‚o‚‰‚’‚‚”‚…f‚“ ‚b‚‚‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -208,7 +208,7 @@
 
 #WRITE(GBA,$2C6C8C)
 ‚c‚‚‰‚‚™‚ ‚j‚‰‚‚‚Ž‚<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -216,7 +216,7 @@
 //Townsgirl Kimono
 #WRITE(GBA,$2C6C90)
 <8348><8349><834A><834B><834C><834D><834E><834F><line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -224,7 +224,7 @@
 
 #WRITE(GBA,$2C6C94)
 ‚a‚‰‚‹‚‰‚Ž‚‰<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -232,7 +232,7 @@
 
 #WRITE(GBA,$2C6C98)
 ‚k‚‚ƒ‚… ‚c‚’‚…‚“‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -240,7 +240,7 @@
 
 #WRITE(GBA,$2C6C9C)
 ‚s‚•‚˜‚…‚„‚<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -248,7 +248,7 @@
 
 #WRITE(GBA,$2C6CA0)
 ‚k‚‚‚ ‚b‚‚‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -256,7 +256,7 @@
 
 #WRITE(GBA,$2C6CA4)
 ‚j‚Ž‚‰‚‡‚ˆ‚” ‚`‚’‚‚‚’<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -264,7 +264,7 @@
 //Wrestling Leotard
 #WRITE(GBA,$2C6CA8)
 <8340><8341><8342><8343><8344><8345><8346><8347><line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -272,7 +272,7 @@
 
 #WRITE(GBA,$2C6CAC)
 ‚b‚ˆ‚‚‰‚Ž‚‚‚‰‚Œ<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -280,7 +280,7 @@
 
 #WRITE(GBA,$2C6CB0)
 ‚k‚‚Ž‚‡ ‚i‚‚ˆ‚Ž‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -288,7 +288,7 @@
 
 #WRITE(GBA,$2C6CB4)
 ‚a‚…‚Œ‚Œ‚™ ‚a‚‚Ž‚„<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -296,7 +296,7 @@
 
 #WRITE(GBA,$2C6CB8)
 ‚g‚…‚’‚ ‚r‚•‚‰‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -304,7 +304,7 @@
 
 #WRITE(GBA,$2C6CBC)
 ‚o‚‚Š‚‚‚‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -312,7 +312,7 @@
 
 #WRITE(GBA,$2C6CC0)
 ‚t‚Ž‚‰‚†‚‚’‚ ‚o‚‚Ž‚”‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -320,7 +320,7 @@
 
 #WRITE(GBA,$2C6CC4)
 ‚`‚‚’‚‚Ž<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -328,7 +328,7 @@
 
 #WRITE(GBA,$2C6CC8)
 ‚c‚…‚–‚‰‚Œ‚‰‚“‚ˆ ‚f‚…‚‚’<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -336,7 +336,7 @@
 
 #WRITE(GBA,$2C6CCC)
 ‚r‚•‚‚…‚’‚‚‚Ž ‚b‚‚‚…<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -344,7 +344,7 @@
 
 #WRITE(GBA,$2C6CD0)
 ‚r‚…‚˜‚™ ‚c‚’‚…‚“‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -352,7 +352,7 @@
 
 #WRITE(GBA,$2C6CD4)
 ‚r‚ƒ‚ˆ‚‚‚Œ ‚r‚—‚‰‚‚“‚•‚‰‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -360,7 +360,7 @@
 
 #WRITE(GBA,$2C6CD8)
 ‚l‚•‚‚‚™ ‚v‚’‚‚‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -369,7 +369,7 @@
 #WRITE(GBA,$2C6CDC)
 //Martian Tentacles
 <82E7><82E8><82E9><82EA><82EB><82ED><82F0><82F1><line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -377,7 +377,7 @@
 
 #WRITE(GBA,$2C6CE0)
 ‚l‚•‚“‚ƒ‚Œ‚… ‚l‚‚ƒ‚ˆ‚‰‚Ž‚…<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -385,7 +385,7 @@
 
 #WRITE(GBA,$2C6CE4)
 ‚b‚‚’‚„‚‚‚‚‚’‚„ ‚a‚‚˜<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -393,7 +393,7 @@
 
 #WRITE(GBA,$2C6CE8)
 ‚v‚‰‚Œ‚„ ‚q‚‰‚„‚…‚’ ‚b‚‚‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -401,7 +401,7 @@
 
 #WRITE(GBA,$2C6CEC)
 ‚e‚‰‚‡‚ˆ‚”‚‰‚Ž‚‡ ‚o‚‚Ž‚”‚“<line>
-:end<line>
+<:end><line>
 <end>
 
 
@@ -409,7 +409,7 @@
 
 #WRITE(GBA,$2C6CF0)
 ‚g‚‚‰‚’‚™ ‚b‚ˆ‚…‚“‚”<line>
-:end<line>
+<:end><line>
 <end>
 
 ////POINTER #51 @ $10A8D8 - STRING #50 @ $2C6B28

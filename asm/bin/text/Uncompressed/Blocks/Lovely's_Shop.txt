@@ -37,7 +37,7 @@
 POINTER #1 @ $2D43C8 - STRING #1 @ $2D42F0
 
 #WRITE(GBA,$2D43C8)
-Ａｗｗｗ， ｄｏｎ’ｔ ｌｏｏｋ ｓｏ ｓａｄ， ｓｕｇａｒ．<c 6><heart><c 0><end>
+Ａｗｗｗ， ｄｏｎ’ｔ ｌｏｏｋ ｓｏ ｓａｄ， ｓｕｇａｒ．<textcolor_6><heart><textcolor_0><end>
 
 
 //POINTER #2 @ $2D43CC - STRING #2 @ $2D4338
@@ -51,7 +51,7 @@ POINTER #1 @ $2D43C8 - STRING #1 @ $2D42F0
 #WRITE(GBA,$2D43D0)
 Ｓｏ ｕｎｔｉｌ ｔｈｅｎ， ｍａｋｅ ｓｕｒｅ ｙｏｕ<linealt>
 ｋｅｅｐ ｏｎ ｃｏｌｌｅｃｔｉｎｇ ｔｈｏｓｅ ｐｅａｒｌｓ．<linealt>
-Ｕｆｕｆｕｆｕｆｕ<c 6><heart><c 0><end>
+Ｕｆｕｆｕｆｕｆｕ<textcolor_6><heart><textcolor_0><end>
 
 //GAME NAME:		Densetsu no Starfy 2
 
@@ -60,7 +60,7 @@ POINTER #1 @ $2D43C8 - STRING #1 @ $2D42F0
 //POINTER #0 @ $2D491C - STRING #0 @ $2D43DC
 
 #WRITE(GBA,$2D491C)
-Ｗｅｌｃｏｍｅ， ｈｕｎ！<c 6><heart><c 0><linealt>
+Ｗｅｌｃｏｍｅ， ｈｕｎ！<textcolor_6><heart><textcolor_0><linealt>
 Ｆｅｅｌ ｆｒｅｅ ｔｏ ｔａｋｅ<linealt>
 ｙｏｕｒ ｔｉｍｅ ｗｈｉｌｅ ｙｏｕ ｂｒｏｗｓｅ．<end>
 
@@ -102,7 +102,7 @@ Right?<end>
 //POINTER #6 @ $2D4934 - STRING #6 @ $2D449C
 
 #WRITE(GBA,$2D4934)
-Ｔｈａｎｋｓ， ｈｕｎ～<c 6><heart><heart><heart><c 0><linealt>
+Ｔｈａｎｋｓ， ｈｕｎ～<textcolor_6><heart><heart><heart><textcolor_0><linealt>
 Ｌｅｔ ｍｅ ｇｉｖｅ ｙｏｕ ａ ｋｉｓｓ， Ｍｗａｈ！<end>
 
 
@@ -144,20 +144,20 @@ Right?<end>
 //POINTER #12 @ $2D494C - STRING #12 @ $2D4598
 
 #WRITE(GBA,$2D494C)
-Ｉ ｋｎｅｗ ｙｏｕ ｗａｎｔｅｄ ｔｏ ｓｔａｙ ｈｅｒｅ ｗｉｔｈ ｍｅ．<c 6><heart><c 0><end>
+Ｉ ｋｎｅｗ ｙｏｕ ｗａｎｔｅｄ ｔｏ ｓｔａｙ ｈｅｒｅ ｗｉｔｈ ｍｅ．<textcolor_6><heart><textcolor_0><end>
 
 
 //POINTER #13 @ $2D4950 - STRING #13 @ $2D45D4
 
 #WRITE(GBA,$2D4950)
 Ｕｆｕｆｕｆｕ．．．<linealt>
-Ｓｔａｙ ａｓ ｌｏｏｏｏｏｎｇ ａｓ ｙｏｕ ｗａｎｔ， ｓｕｇａｒ～<c 6><heart><c 0><end>
+Ｓｔａｙ ａｓ ｌｏｏｏｏｏｎｇ ａｓ ｙｏｕ ｗａｎｔ， ｓｕｇａｒ～<textcolor_6><heart><textcolor_0><end>
 
 
 //POINTER #14 @ $2D4954 - STRING #14 @ $2D460C
 
 #WRITE(GBA,$2D4954)
-Ｏｈ ｍｙ， Ｙｏｕ’ｒｅ Ａｍａｚｉｎｇ！<c 6><heart><c 0><linealt>
+Ｏｈ ｍｙ， Ｙｏｕ’ｒｅ Ａｍａｚｉｎｇ！<textcolor_6><heart><textcolor_0><linealt>
 Ｙｏｕ ｂｏｕｇｈｔ ｅｖｅｒｙｔｈｉｎｇ Ｉ ｈａｄ！<end>
 
 
@@ -166,7 +166,7 @@ Right?<end>
 #WRITE(GBA,$2D4958)
 Ｆｏｒ ｂｕｙｉｎｇ ｓｏ ｍｕｃｈ ｆｒｏｍ ｍｅ，<linealt>
 Ｉ’ｌｌ ｔｈｒｏｗ ｉｎ ａ ｌｉｔｔｌｅ ｅｘｔｒａ．<linealt>
-Ｆｒｅｅ<c 6><heart><c 0>ｏｆ<c 6><heart><c 0>ｃｈａｒｇｅ～<c 6><heart><heart><heart><heart><c 0><end>
+Ｆｒｅｅ<textcolor_6><heart><textcolor_0>ｏｆ<textcolor_6><heart><textcolor_0>ｃｈａｒｇｅ～<textcolor_6><heart><heart><heart><heart><textcolor_0><end>
 
 
 //POINTER #16 @ $2D495C - STRING #16 @ $2D46C4
@@ -187,7 +187,7 @@ Right?<end>
 
 #WRITE(GBA,$2D4964)
 Ｙｏｕ ｍｉｉｉｇｈｔ ｇｅｔ ｔｏ ｓｅｅ ｓｏｍｅｔｈｉｎｇ ａｍａｚｉｎｇ～<linealt>
-Ｕｆｕｆｕｆｕｆｕ．．．<c 6><heart><c 0><end>
+Ｕｆｕｆｕｆｕｆｕ．．．<textcolor_6><heart><textcolor_0><end>
 
 
 //POINTER #19 @ $2D4968 - STRING #19 @ $2D47A8
@@ -229,8 +229,8 @@ Right?<end>
 //POINTER #24 @ $2D497C - STRING #24 @ $2D4878
 
 #WRITE(GBA,$2D497C)
-Ｕｆｕｆｕｆｕｆｕ<c 6><heart><c 0> Ｏｈ， Ｓｔｏｐ ｉｔ ｙｏｕ，<c 6><heart><heart><c 0><linealt>
-Ｕｆｕｆｕｆｕｆｕｆｕｆｕｆｕｆｕｆｕ<c 6><heart><heart><heart><heart><heart><c 0><end>
+Ｕｆｕｆｕｆｕｆｕ<textcolor_6><heart><textcolor_0> Ｏｈ， Ｓｔｏｐ ｉｔ ｙｏｕ，<textcolor_6><heart><heart><textcolor_0><linealt>
+Ｕｆｕｆｕｆｕｆｕｆｕｆｕｆｕｆｕｆｕ<textcolor_6><heart><heart><heart><heart><heart><textcolor_0><end>
 
 
 //POINTER #25 @ $2D4980 - STRING #25 @ $2D48E0

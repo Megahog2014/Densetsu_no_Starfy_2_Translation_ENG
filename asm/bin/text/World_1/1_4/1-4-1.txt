@@ -12,47 +12,47 @@
 
 #JMP(000000)
 
-:sd<line>
-:flagon 1400<line>
-:obj 2 6<line>
-:func 6 1 1<line>
-:obj 2 10 3 1<line>
-:obj 1 5 1<line>
-:func 8 0 19<line>
-:func 7 255 0 0<line>
-:func 18 1 76<line>
-:se<line>
-:func 22 -1<line>
+<:sd><line>
+<:flagon> <1><4><0><0><line>
+<:obj> <2> <6><line>
+<:func> <6> <1> <1><line>
+<:obj> <2> <1><0> <3> <1><line>
+<:obj> <1> <5> <1><line>
+<:func> <8> <0> <1><9><line>
+<:func> <7> <2><5><5> <0> <0><line>
+<:func> <1><8> <1> <7><6><line>
+<:se><line>
+<:func> <2><2> <-><1><line>
 <rname><diamond>Ｍｏｅ<line>
 Ｗ－Ｗｈｏａ．．．！ Ｗ－ｗｈａｔ’ｓ ｈａｐｐｅｎｉｎｇ！？<line>
-:c<line>
-<wait>:func 4<line>
-:obj 2 8<line>
-:obj 2 7 256 128 40<line>
-:func 9<line>
-:obj 2 7 220 0 40<line>
-:func 9<line>
-:obj 2 7 220 128 40<line>
-:func 9<line>
-:obj 2 7 180 40 40<line>
-:func 9<line>
+<:c><line>
+<wait><:func> <4><line>
+<:obj> <2> <8><line>
+<:obj> <2> <7> <2><5><6> <1><2><8> <4><0><line>
+<:func> <9><line>
+<:obj> <2> <7> <2><2><0> <0> <4><0><line>
+<:func> <9><line>
+<:obj> <2> <7> <2><2><0> <1><2><8> <4><0><line>
+<:func> <9><line>
+<:obj> <2> <7> <1><8><0> <4><0> <4><0><line>
+<:func> <9><line>
 <rname><diamond>Ｋｏｎｋ<line>
 Ｋｏｎｋ Ｋｏｎｋ Ｋｏｎｋ！ Ｗｈａｔ ａ ｎｉｃｅ Ｋｏｎｋ ｄａｙ！<line>
-:c<line>
-<wait>:obj 1 5 0<line>
-:func 8 0 99<line>
+<:c><line>
+<wait><:obj> <1> <5> <0><line>
+<:func> <8> <0> <9><9><line>
 <rname><diamond>Ｍｏｅ<line>
 Ｗａｉｔ ａ ｍｉｎｕｔｅ．．．！<line>
 Ｙｏｕ’ｒｅ ｔｈａｔ ｇｕｙ ｆｒｏｍ ｌａｓｔ ｔｉｍｅ！！！<line>
-:c<line>
+<:c><line>
 <redname><diamond>Ｋｏｎｋ<line>
 Ｏｈｈ！ Ｉ ｓｐｙ ｗｉｔｈ ｍｙ ｌｉｔｔｌｅ Ｋｏｎｋ ｅｙｅ．．．<line>
 Ａ ｌａｍｅ ｃｌａｍ， Ｋｏｎｋ！<line>
 <redname><diamond>Ｋｏｎｋ<line>
 Ｔｈｅ ｓａｍｅ ｌａｍｅ ｃｌａｍ ｔｈａｔ ｇｏｔ<line>
 ｒｅｊｅｃｔｅｄ ｂｙ Ｒｕｂｙ！ Ｋｏｎｋ Ｋｏｎｋ Ｋｏｎｋ！<line>
-:c<line>
-<wait>:obj 1 5 4<line>
+<:c><line>
+<wait><:obj> <1> <5> <4><line>
 <rname><diamond>Ｐｕｃｈｉ Ｏｇｕｒａ ＃１<line>
 Ａｈａｈａ！ Ｒｅｊｅｃｔｅｄ！ Ｒｅｊｅｃｔｅｄ～！<line>
 Ａｈａｈａｈａａａａａ！<line>
@@ -60,14 +60,14 @@
 Ｈｅｙ， ｍｉｓｔｅｒ ｌａｍｅ－ｏ ｃｌａｍ！<line>
 Ｉｆ ｙｏｕ’ｒｅ ｍａｄ，<line>
 ｗｈｙ ｄｏｎ’ｔｃｈａ ｄｏ ｓｏｍｅｔｈｉｎｇ ａｂｏｕｔ ｉｔ！<line>
-:c<line>
-<wait>:func 4<line>
-:obj 2 7 100 0 40<line>
-:func 9<line>
-:func 18 7<line>
-:func 7<line>
-:obj 1 5<line>
-:obj 1 5 2<line>
+<:c><line>
+<wait><:func> <4><line>
+<:obj> <2> <7> <1><0><0> <0> <4><0><line>
+<:func> <9><line>
+<:func> <1><8> <7><line>
+<:func> <7><line>
+<:obj> <1> <5><line>
+<:obj> <1> <5> <2><line>
 <rname><diamond>Ｍｏｅ<line>
 Ｗａｉｔ ｙｏｕ－！ Ｒｇｈ， Ｉ’ｍ ｎｅｖｅｒ ｆｏｒｇｉｖｉｎｇ<line>
 ｔｈａｔ ｓｐｉｎｎｉｎｇ ｉｄｉｏｔ！！！<line>
@@ -75,29 +75,29 @@
 Ｉ ｗａｓｎ’ｔ ｅｖｅｎ ｒｅｊｅｃｔｅｄ ｙｅｔ！<line>
 Ｍｓ．Ｒｕｂｙ ｊｕｓｔ ｓａｉｄ ｔｈａｔ ｓｈｅ<line>
 ”ｗａｎｔｅｄ ｔｏ ｓｔａｙ ｆｒｉｅｎｄｓ ｆｏｒ ｎｏｗ”！<line>
-<wait>:obj 1 9 2<line>
+<wait><:obj> <1> <9> <2><line>
 <rname><diamond>Ｍｏｅ<line>
 Ｓｔａｒｆ’！ Ｗｈａｔ’ｒｅ ｙｏｕ ｓｔａｎｄｉｎｇ ａｒｏｕｎｄ ｆｏｒ！？<line>
 Ｈｕｒｒｙ ｕｐ ａｎｄ ｆｏｌｌｏｗ ｍｅ！<line>
 <redname><diamond>Ｍｏｅ<line>
 Ｗｈｅｎ Ｉ ｇｅｔ ｍｙ ｈａｎｄｓ ｏｎ ｔｈｏｓｅ ｔｗｏ，<line>
 Ｉ’ｍ ｇｏｎｎａ ｂｅａｔ’ｅｍ ｔｏ ａ ｐｕｌｐ！<line>
-:c<line>
-<wait>:func 4<line>
-:obj 1 9 2 1<line>
-:obj 1 7 200 240 50<line>
-[w 60]<line>
-:sd<line>
-:func 2 2<line>
-:func 18 7<line>
-:obj 2 2<line>
-:obj 1 5<line>
-:obj 1 2<line>
-:func 10<line>
-:func 7<line>
-:func 8 0 99<line>
-:func 11 0<line>
-:func 3 2<line>
-:exit<line>
+<:c><line>
+<wait><:func> <4><line>
+<:obj> <1> <9> <2> <1><line>
+<:obj> <1> <7> <2><0><0> <2><4><0> <5><0><line>
+[<wait_time> <6><0>]<line>
+<:sd><line>
+<:func> <2> <2><line>
+<:func> <1><8> <7><line>
+<:obj> <2> <2><line>
+<:obj> <1> <5><line>
+<:obj> <1> <2><line>
+<:func> <1><0><line>
+<:func> <7><line>
+<:func> <8> <0> <9><9><line>
+<:func> <1><1> <0><line>
+<:func> <3> <2><line>
+<:exit><line>
 <end>
 
