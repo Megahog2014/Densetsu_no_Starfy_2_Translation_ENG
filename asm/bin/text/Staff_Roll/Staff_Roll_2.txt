@@ -145,7 +145,7 @@
 [<wait_time> <6><0>]<line>
 <:func> <4><line>
 <:c><line>
-<wait>[<wait_time> 5]<line>
+<wait>[<wait_time> <5>]<line>
 <:func> <1><1> <0><$09><$09><$09><$09><$09><$09><line>
 <line>
 <line>
