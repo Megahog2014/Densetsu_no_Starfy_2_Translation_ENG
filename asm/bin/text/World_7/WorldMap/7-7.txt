@@ -14,9 +14,9 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚x‚n‚c‚d‚k|‚k‚`‚x|‚g‚d‚d ‚g‚d‚h‚f‚g‚s‚r@‚V|‚V<line>
+YODEL-LAY-HEE HEIGHTS 7-7<line>
 [<x_pos> <8>]<line>
 [<y_pos> <2><6>]<line>
-‚s‚ˆ‚… ‚s‚’‚…‚‚“‚•‚’‚… ‚r‚Œ‚…‚…‚‚“ ‚a‚…‚‚…‚‚”‚ˆ ‚”‚ˆ‚… ‚l‚‚•‚‚”‚‚‰‚‚“DDD<line>
+The Treasure Sleeps Beneath the Mountains...<line>
 <end>
 

@@ -13,7 +13,7 @@
 #JMP(000000)
 
 [<x_pos> <3><5>]<line>
-‚k‚n‚a‚a‚d‚qf‚r ‚b‚`‚u‚d<line>
+LOBBER'S CAVE<line>
 <:end><line>
 <end>
 

@@ -14,9 +14,9 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚k‚n‚a‚a‚d‚qf‚r ‚b‚`‚u‚d@‚P|‚V<line>
+LOBBER'S CAVE 1-7<line>
 [<x_pos> <6><5>]<line>
 [<y_pos> <2><6>]<line>
-‚s‚ ‚”‚ˆ‚… ‚b‚‚–‚…f‚“ ‚b‚…‚‰‚Œ‚‰‚‚‡I<line>
+To the Cave's Ceiling!<line>
 <end>
 

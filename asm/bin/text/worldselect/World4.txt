@@ -13,7 +13,7 @@
 #JMP(000000)
 
 [<x_pos> <3><0>]<line>
-‚r‚k‚h‚o‚o‚d‚q‚x ‚f‚k‚`‚b‚h‚d‚q<line>
+SLIPPERY GLACIER<line>
 <:end><line>
 <end>
 

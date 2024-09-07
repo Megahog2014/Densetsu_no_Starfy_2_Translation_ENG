@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚k‚n‚b‚g ‚q‚d‚r‚r@‚X|‚V<line>
+LOCH RESS 9-7<line>
 [<x_pos> <4><5>]<line>
 [<y_pos> <2><0>]<line>
-‚v‚ˆ‚…‚Ž ‚c‚ ‚x‚‚• ‚b‚’‚‚“‚“H<line>
-‚v‚ˆ‚…‚Ž ‚h‚”f‚“ ‚q‚…‚„ ‚‚’ ‚v‚ˆ‚…‚Ž ‚h‚”f‚“ ‚a‚Œ‚•‚…H<line>
+When Do You Cross?<line>
+When It's Red or When It's Blue?<line>
 <end>
 

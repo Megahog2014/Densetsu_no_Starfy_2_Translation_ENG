@@ -7,9 +7,9 @@
 #ACTIVETBL(Story)
 
 #WRITE(GBA,$107A8C)
-‚o‚’‚…‚“‚“ ‚”‚ˆ‚… <textcolor_d>‚r‚”‚‚’‚” ‚a‚•‚”‚”‚‚Ž<textcolor_1> ‚—‚ˆ‚‰‚Œ‚… <textcolor_d>‚ˆ‚‚Œ‚„‚‰‚Ž‚‡<line>
-‚”‚ˆ‚… ‚r‚…‚Œ‚…‚ƒ‚” ‚a‚•‚”‚”‚‚Ž<textcolor_1> ‚”‚ ‚…‚˜‚‰‚” ‚”‚ˆ‚… ‚“‚”‚‚‡‚…<line>
-‚—‚ˆ‚‰‚Œ‚… ‚‹‚…‚…‚‚‰‚Ž‚‡ ‚…‚–‚…‚’‚™‚”‚ˆ‚‰‚Ž‚‡ ‚™‚‚•f‚–‚… ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚…‚„D<line>
+Press the <textcolor_d>Start Button<textcolor_1> while <textcolor_d>holding<line>
+the Select Button<textcolor_1> to exit the stage<line>
+while keeping everything you've collected.<line>
 <:end><line>
 <end>
 
@@ -106,8 +106,8 @@
 #WRITE(GBA,$2C69C8)
 #WRITE(GBA,$2C69D8)
 <line>
-‚e‚‚Œ‚Œ‚‚— ‚”‚ˆ‚… ‚”‚’‚‚‰‚Œ ‚‚† ‚r‚”‚•‚†‚†<line>
-‚l‚‚‚ ‚r‚”‚‚’ ‚Œ‚…‚†‚” ‚†‚‚’ ‚™‚‚• ‚”‚ ‚“‚‚–‚… ‚ˆ‚…‚’I<line>
+Follow the trail of Stuff<line>
+Mama Star left for you to save her!<line>
 <line>
 <:end><line>
 <end>
@@ -119,8 +119,8 @@
 
 #WRITE(GBA,$2C6210)
 <line>
-‚c‚…‚Œ‚‰‚–‚…‚’ ‚i‚…‚Œ‚Œ‚‚”‚f‚“ <textcolor_d>‚Œ‚…‚”‚”‚…‚’‚“<textcolor_1> ‚”‚<line>
-‚i‚…‚Œ‚Œ‚‚”‚ ‚‚Ž‚„ ‚f‚…‚Œ‚Œ‚‚”‚D<line>
+Deliver Jellato's <textcolor_d>letters<textcolor_1> to<line>
+Jellata and Gellato.<line>
 <:end><line>
 <end>
 
@@ -131,8 +131,8 @@
 
 #WRITE(GBA,$2C6218)
 <line>
-‚l‚‚‹‚… ‚™‚‚•‚’ ‚—‚‚™ ‚‚‚‚ƒ‚‹ ‚”‚ ‚i‚…‚Œ‚Œ‚‚”‚ ‚‚Ž‚„<line>
-‚‡‚‰‚–‚… ‚”‚ˆ‚…‚ ‚i‚…‚Œ‚Œ‚‚”‚ ‚‚Ž‚„ ‚f‚…‚Œ‚Œ‚‚”‚f‚“ <textcolor_d>‚’‚…‚“‚‚‚Ž‚“‚…‚“<textcolor_1>D<line>
+Make your way back to Jellato and<line>
+give them Jellata and Gellato's <textcolor_d>responses<textcolor_1>.<line>
 <line>
 <:end><line>
 <end>
@@ -143,10 +143,10 @@
 //POINTER #0 @ $2C6238 - STRING #0 @ $64114C
 
 #WRITE(GBA,$2C6238)
-‚k‚‚‚‹‚“ ‚Œ‚‰‚‹‚… ‚™‚‚•f‚–‚… ‚‡‚‚”‚”‚…‚Ž ‚”‚ˆ‚… ‚ˆ‚‚Ž‚‡ ‚‚†<line>
-‚”‚ˆ‚… ‚r‚…‚ ‚r‚‹‚‚”‚…‚’I<line>
-‚x‚‚•f‚Œ‚Œ ‚‚‚… ‚‚‚‚Œ‚… ‚”‚ ‚‚ƒ‚ƒ‚…‚“‚“ ‚‚’‚…‚‚“<line>
-‚™‚‚• ‚ƒ‚‚•‚Œ‚„‚Žf‚” ‚‚‚…‚†‚‚’‚…D<line>
+Looks like you've gotten the hang of<line>
+the Sea Skater!<line>
+You'll be able to access areas<line>
+you couldn't before.<line>
 <:end><line>
 <end>
 
@@ -156,9 +156,9 @@
 //POINTER #0 @ $2C6258 - STRING #0 @ $6411A4
 
 #WRITE(GBA,$2C6258)
-‚i‚‚‰‚Ž ‚”‚ˆ‚… <textcolor_d>‚a‚Œ‚‰‚‚ ‚q‚‚ƒ‚…<textcolor_1><line>
-‚‚Ž‚„ ‚—‚‰‚Ž ‚”‚ˆ‚… ‚†‚‰‚’‚“‚” ‚‚Œ‚‚ƒ‚… ‚‚’‚‰‚š‚…I<line>
-‚r‚‚•‚Ž‚„‚“ ‚Œ‚‰‚‹‚… ‚‰‚”f‚Œ‚Œ ‚‚‚… ‚—‚…‚Œ‚Œ ‚—‚‚’‚”‚ˆ ‚”‚ˆ‚… ‚…‚†‚†‚‚’‚”I<line>
+Join the <textcolor_d>Blimp Race<textcolor_1><line>
+and win the first place prize!<line>
+Sounds like it'll be well worth the effort!<line>
 <:end><line>
 <end>
 
@@ -168,9 +168,9 @@
 //POINTER #0 @ $2C6278 - STRING #0 @ $641208
 
 #WRITE(GBA,$2C6278)
-‚s‚ˆ‚‚“‚… ‚’‚…‚„ ‚“‚”‚‚”‚•‚…‚“ ‚“‚‚‰‚” ‚†‚‰‚’‚…<line>
-‚—‚ˆ‚…‚Ž ‚™‚‚• ‚ˆ‚‰‚” ‚”‚ˆ‚…‚ ‚—‚‰‚”‚ˆ ‚ ‚r‚”‚‚’ ‚r‚‚‰‚ŽD<line>
-‚t‚“‚… ‚”‚ˆ‚‚” ‚”‚ ‚‚…‚Œ‚” ‚”‚ˆ‚… ‚‰‚ƒ‚… ‚‚Ž‚„ ‚‚’‚…‚“‚“ ‚†‚‚’‚—‚‚’‚„D<line>
+Those red statues spit fire<line>
+when you hit them with a Star Spin.<line>
+Use that to melt the ice and press forward.<line>
 <:end><line>
 <end>
 
@@ -180,7 +180,7 @@
 //POINTER #0 @ $2C6290 - STRING #0 @ $641278
 
 #WRITE(GBA,$2C6290)
-‚e‚‰‚Ž‚„ ‚ ‚—‚‚™ ‚”‚ ‚•‚Ž‚†‚’‚…‚…‚š‚… ‚l‚‚…I<line>
+Find a way to unfreeze Moe!<line>
 <:end><line>
 <end>
 
@@ -190,10 +190,10 @@
 //POINTER #0 @ $2C6298 - STRING #0 @ $6412B0
 
 #WRITE(GBA,$2C6298)
-‚s‚ˆ‚… ‚b‚‚‚Œ‚‚‚‰‚…‚“ ‚‚’‚… ‚“‚ƒ‚‚”‚”‚…‚’‚…‚„ ‚‚‚‚‚•‚”<line>
-‚‰‚Ž ‚R ‚„‚‰‚†‚†‚…‚’‚…‚Ž‚” ‚‚’‚…‚‚“D<line>
-‚e‚‰‚Ž‚„ ‚”‚ˆ‚…‚ ‚“‚ ‚™‚‚• ‚ƒ‚‚Ž<line>
-‚‚‚‹‚… ‚”‚ˆ‚… ‚ˆ‚‚” ‚“‚‚’‚‰‚Ž‚‡‚“ ‚ˆ‚‚”‚”‚…‚’D<line>
+The Coalbies are scattered about<line>
+in 3 different areas.<line>
+Find them so you can<line>
+make the hot springs hotter.<line>
 <:end><line>
 <end>
 
@@ -204,8 +204,8 @@
 
 #WRITE(GBA,$2C62B8)
 <line>
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚U ‚j‚‰‚„‚Ž‚‚‚‚…‚„ ‚v‚‚š‚‚’‚”I<line>
-‚`‚†‚”‚…‚’ ‚ˆ‚‰‚I<line>
+Puchi Ogura #6 Kidnapped Wozart!<line>
+After him!<line>
 <:end><line>
 <end>
 
@@ -215,10 +215,10 @@
 //POINTER #0 @ $2C62D0 - STRING #0 @ $64135C
 
 #WRITE(GBA,$2C62D0)
-‚s‚ˆ‚… <textcolor_d>‚h‚Ž‚„‚‚‚’ ‚b‚‚–‚…<textcolor_1> ‚‰‚“ ‚†‚•‚Œ‚Œ ‚‚†<line>
-‚’‚‰‚„‚„‚Œ‚…‚“ ‚‚Ž‚„ ‚‡‚‰‚‚‚‰‚ƒ‚‹‚“I<line>
-‚s‚’‚™ ‚‚“‚‹‚‰‚Ž‚‡ ‚l‚‚… ‚†‚‚’ ‚ˆ‚…‚Œ‚ ‚‰‚† ‚™‚‚•<line>
-‚…‚–‚…‚’ ‚‡‚…‚” ‚Œ‚‚“‚” ‚‚’ ‚“‚”‚•‚‚‚…‚„D<line>
+The <textcolor_d>Indoor Cave<textcolor_1> is full of<line>
+riddles and gimmicks!<line>
+Try asking Moe for help if you<line>
+ever get lost or stumped.<line>
 <:end><line>
 <end>
 
@@ -228,9 +228,9 @@
 //POINTER #0 @ $2C62F0 - STRING #0 @ $6413D8
 
 #WRITE(GBA,$2C62F0)
-‚b‚ˆ‚•‚”‚ ‚‰‚“‚Žf‚” ‚†‚…‚…‚Œ‚‰‚Ž‚‡ ‚—‚…‚Œ‚ŒI<line>
-‚f‚ ‚†‚‰‚Ž‚„ ‚a‚‰‚‡ ‚a‚‚’‚’‚…‚Œ ‚r‚‘‚•‚‰‚„<line>
-‚‚Ž‚„ ‚‚“‚‹ ‚ˆ‚‰‚ ‚—‚ˆ‚‚” ‚”‚ ‚„‚I<line>
+Chuta isn't feeling well!<line>
+Go find Big Barrel Squid<line>
+and ask him what to do!<line>
 <:end><line>
 <end>
 
@@ -240,7 +240,7 @@
 //POINTER #0 @ $2C62F8 - STRING #0 @ $641434
 
 #WRITE(GBA,$2C62F8)
-‚c‚…‚Œ‚‰‚–‚…‚’ ‚”‚ˆ‚… <textcolor_d>‚‚‚‚’‚’‚…‚Œ<textcolor_1> ‚”‚ ‚b‚ˆ‚•‚”‚D<line>
+Deliver the <textcolor_d>barrel<textcolor_1> to Chuta.<line>
 <:end><line>
 <end>
 
@@ -251,8 +251,8 @@
 
 #WRITE(GBA,$2C6318)
 <line>
-‚h‚” ‚Œ‚‚‚‹‚“ ‚Œ‚‰‚‹‚… ‚„‚…‚“‚”‚’‚‚™‚‰‚Ž‚‡ ‚”‚ˆ‚…‚“‚… ‚„‚‚”‚”‚…‚„ ‚‚‰‚Œ‚Œ‚‚’‚“<line>
-‚‚‚…‚Ž‚“ ‚”‚ˆ‚… ‚‚‚”‚ˆ ‚“‚‚‚…‚—‚ˆ‚…‚’‚…DDD<line>
+It looks like destroying these dotted pillars<line>
+opens the path somewhere...<line>
 <:end><line>
 <end>
 
@@ -262,9 +262,9 @@
 //POINTER #0 @ $2C6338 - STRING #0 @ $6414BC
 
 #WRITE(GBA,$2C6338)
-‚x‚‚•f‚Œ‚Œ ‚ˆ‚‚–‚… ‚”‚ ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚” ‚”‚ˆ‚… ‚”‚ˆ‚’‚…‚…<line>
-<textcolor_d>‚g‚‰‚Ž‚” ‚l‚…‚‚‚“<textcolor_1> ‚”‚ ‚‡‚…‚” ‚”‚ˆ‚… ‚‚‚“‚“‚—‚‚’‚„<line>
-‚”‚ˆ‚‚” ‚‚‚…‚Ž‚“ ‚”‚ˆ‚… ‚“‚ˆ‚•‚”‚”‚…‚’‚“D<line>
+You'll have to collect the three<line>
+<textcolor_d>Hint Memos<textcolor_1> to get the password<line>
+that opens the shutters.<line>
 <:end><line>
 <end>
 
@@ -275,8 +275,8 @@
 
 #WRITE(GBA,$2C6340)
 <line>
-‚f‚ ‚ƒ‚‚”‚ƒ‚ˆ ‚”‚ˆ‚‚” ‚‚‚’‚‚‡‚‡‚‚’‚”C<line>
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚UI<line>
+Go catch that braggart,<line>
+Puchi Ogura #6!<line>
 <:end><line>
 <end>
 
@@ -287,8 +287,8 @@
 
 #WRITE(GBA,$2C6348)
 <line>
-‚f‚ ‚ƒ‚‚”‚ƒ‚ˆ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚UI<line>
-‚h‚“ ‚”‚ˆ‚…‚’‚… ‚ ‚‚‚”‚”‚…‚’‚Ž ‚”‚ ‚”‚ˆ‚… ‚—‚‚™ ‚ˆ‚… ‚‚‚–‚…‚“DDDH<line>
+Go catch Puchi Ogura #6!<line>
+Is there a pattern to the way he moves...?<line>
 <line>
 <:end><line>
 <end>
@@ -300,8 +300,8 @@
 
 #WRITE(GBA,$2C6350)
 <line>
-‚s‚‰‚‚… ‚”‚ ‚ƒ‚ˆ‚‚“‚… ‚„‚‚—‚Ž ‚‚Ž‚„ ‚„‚…‚†‚…‚‚”<line>
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚UI<line>
+Time to chase down and defeat<line>
+Puchi Ogura #6!<line>
 <:end><line>
 <end>
 
@@ -311,10 +311,10 @@
 //POINTER #0 @ $2C6368 - STRING #0 @ $641608
 
 #WRITE(GBA,$2C6368)
-‚r‚‚‚“‚ˆ ‚”‚—‚ <textcolor_d>‚‚‚‚•‚Œ‚„‚…‚’‚“<textcolor_1> ‚‚‡‚‚‰‚Ž‚“‚” ‚…‚‚ƒ‚ˆ ‚‚”‚ˆ‚…‚’<line>
-‚”‚ ‚‡‚…‚” ‚’‚‰‚„ ‚‚† ‚”‚ˆ‚…‚I<line>
-‚t‚“‚… ‚”‚ˆ‚‚” ‚”‚ ‚“‚‚–‚… ‚‚Ž‚™‚‚Ž‚… ‚”‚’‚‚‚‚…‚„ ‚•‚Ž‚„‚…‚’ ‚‚Ž‚…<line>
-‚‚’ ‚‚‚…‚Ž ‚”‚ˆ‚… ‚—‚‚™ ‚†‚‚’‚—‚‚’‚„I<line>
+Smash two <textcolor_d>boulders<textcolor_1> against each other<line>
+to get rid of them!<line>
+Use that to save anyone trapped under one<line>
+or open the way forward!<line>
 <:end><line>
 <end>
 
@@ -324,9 +324,9 @@
 //POINTER #0 @ $2C6388 - STRING #0 @ $641690
 
 #WRITE(GBA,$2C6388)
-‚e‚‰‚Ž‚„ ‚“‚‚‚…‚”‚ˆ‚‰‚Ž‚‡ ‚”‚ˆ‚‚” ‚ƒ‚‚Ž ‚‚‚…<line>
-‚•‚“‚…‚„ ‚‚“ ‚ <textcolor_d>‚‚Œ‚‚”‚†‚‚’‚<textcolor_1> ‚‚Ž‚„<line>
-‚”‚‚‹‚… ‚‰‚” ‚‚‚‚ƒ‚‹ ‚”‚ ‚”‚ˆ‚… ‚s‚•‚”‚—‚…‚…‚”‚“I<line>
+Find something that can be<line>
+used as a <textcolor_d>platform<textcolor_1> and<line>
+take it back to the Tutweets!<line>
 <:end><line>
 <end>
 
@@ -336,10 +336,10 @@
 //POINTER #0 @ $2C63A8 - STRING #0 @ $6416F0
 
 #WRITE(GBA,$2C63A8)
-‚t‚“‚… ‚s‚‚‰‚‚‚Œ‚‚Ž‚„f‚“ <textcolor_d>‚‚‰‚ƒ‚”‚•‚’‚…‚“<textcolor_1><line>
-‚”‚ ‚†‚‰‚Ž‚„ <textcolor_d>‚ˆ‚‰‚„‚„‚…‚Ž ‚„‚‚‚’‚“<textcolor_1>I<line>
-‚`‚“‚‹ ‚l‚‚… ‚†‚‚’ ‚‚„‚–‚‰‚ƒ‚…<line>
-‚—‚ˆ‚…‚Ž‚…‚–‚…‚’ ‚™‚‚• ‚†‚…‚…‚Œ ‚“‚”‚•‚ƒ‚‹I<line>
+Use Taiblond's <textcolor_d>pictures<textcolor_1><line>
+to find <textcolor_d>hidden doors<textcolor_1>!<line>
+Ask Moe for advice<line>
+whenever you feel stuck!<line>
 <:end><line>
 <end>
 
@@ -349,9 +349,9 @@
 //POINTER #0 @ $2C63C8 - STRING #0 @ $64177C
 
 #WRITE(GBA,$2C63C8)
-‚e‚‰‚Ž‚„ ‚ ‚—‚‚™ ‚”‚ ‚“‚”‚‚<line>
-‚”‚ˆ‚‚” ‚‚‚ƒ‚ˆ‚‰‚Ž‚… ‚†‚’‚‚ ‚†‚‰‚’‚‰‚Ž‚‡ ‚‰‚”f‚“ ‚‚‚…‚‚I<line>
-<textcolor_d>‚l‚‚…f‚“ ‚“‚”‚’‚‚Ž‚‡‚… ‚‰‚„‚…‚ ‚‚‰‚‡‚ˆ‚” ‚Š‚•‚“‚” ‚—‚‚’‚‹DDD<textcolor_1><line>
+Find a way to stop<line>
+that machine from firing it's beam!<line>
+<textcolor_d>Moe's strange idea might just work...<textcolor_1><line>
 <:end><line>
 <end>
 
@@ -361,9 +361,9 @@
 //POINTER #0 @ $2C63E0 - STRING #0 @ $64180C
 
 #WRITE(GBA,$2C63E0)
-‚h‚‡‚Ž‚‚’‚… ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚V ‚†‚‚’ ‚Ž‚‚—D<line>
-‚b‚Œ‚‰‚‚‚ ‚”‚ˆ‚‰‚“ ‚‚‚•‚Ž‚”‚‚‰‚Ž ‚‚Ž‚„<line>
-‚“‚…‚” ‚™‚‚•‚’ ‚“‚‰‚‡‚ˆ‚”‚“ ‚‚Ž ‚’‚…‚‚ƒ‚ˆ‚‰‚Ž‚‡ ‚o‚•‚†‚†‚”‚‚I<line>
+Ignore Puchi Ogura #7 for now.<line>
+Climb this mountain and<line>
+set your sights on reaching Pufftop!<line>
 <:end><line>
 <end>
 
@@ -373,9 +373,9 @@
 //POINTER #0 @ $2C63E8 - STRING #0 @ $64186C
 
 #WRITE(GBA,$2C63E8)
-‚l‚‚‹‚… ‚‰‚” ‚”‚ ‚”‚ˆ‚… ‚”‚‚ ‚‚† ‚”‚ˆ‚‰‚“ ‚‚’‚…‚<line>
-‚—‚ˆ‚‰‚Œ‚… ‚„‚‚„‚‡‚‰‚Ž‚‡ ‚”‚ˆ‚… <textcolor_d>‚‚‚‚‚‚‚“<textcolor_1> ‚”‚ˆ‚‚”<line>
-‚o‚•‚ƒ‚ˆ ‚n‚‡‚•‚’‚ ”‚V ‚”‚ˆ‚’‚‚—‚“ ‚‚” ‚™‚‚•I<line>
+Make it to the top of this area<line>
+while dodging the <textcolor_d>bombs<textcolor_1> that<line>
+Puch Ogura #7 throws at you!<line>
 <:end><line>
 <end>
 
@@ -385,9 +385,9 @@
 //POINTER #0 @ $2C63F0 - STRING #0 @ $6418E0
 
 #WRITE(GBA,$2C63F0)
-‚t‚“‚… ‚”‚ˆ ‚‰‚Ž‚†‚ ‚l‚‚… ‚‚Ž‚„ ‚g‚‚’‚•‚Ž ‚‡‚‚–‚… ‚”‚ ‚™‚‚•<line>
-‚”‚ ‚†‚‰‚Ž‚„ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚Vf‚“ ‚—‚…‚‚‹‚‚‚‰‚Ž‚”<line>
-‚‚Ž‚„ ‚”‚…‚‚ƒ‚ˆ ‚ˆ‚‰‚ ‚ ‚Œ‚…‚“‚“‚‚ŽI<line>
+Use th info Moe and Horun gave to you<line>
+to find Puchi Ogura #7's weakpoint<line>
+and teach him a lesson!<line>
 <:end><line>
 <end>
 
@@ -398,8 +398,8 @@
 
 #WRITE(GBA,$2C6408)
 <line>
-‚q‚…‚“‚“‚‰‚…f‚“ ‚‡‚‚Ž‚… ‚‚‰‚“‚“‚‰‚Ž‚‡I<line>
-‚f‚ ‚†‚‰‚Ž‚„ ‚ˆ‚‰‚I<line>
+Ressie's gone missing!<line>
+Go find him!<line>
 <:end><line>
 <end>
 
@@ -409,9 +409,9 @@
 //POINTER #0 @ $2C6410 - STRING #0 @ $641990
 
 #WRITE(GBA,$2C6410)
-‚s‚ˆ‚‚” ‚”‚ˆ‚’‚…‚‚”‚…‚Ž‚‰‚Ž‚‡ ‚Œ‚…‚”‚”‚…‚’ ‚‚…‚Ž‚”‚‰‚‚Ž‚…‚„<line>
-‚“‚‚‚…‚”‚ˆ‚‰‚Ž‚‡ ‚‚‚‚‚•‚” ‚”‚ˆ‚… <textcolor_d>‚“‚‚Ž‚„‚‚‚‚’<textcolor_1>D<line>
-‚g‚…‚‚„ ‚”‚ˆ‚…‚’‚…C ‚‚’‚‚Ž‚”‚I<line>
+That threatening letter mentioned<line>
+something about the <textcolor_d>sandbar<textcolor_1>.<line>
+Head there, pronto!<line>
 <:end><line>
 <end>
 
@@ -421,9 +421,9 @@
 //POINTER #0 @ $2C6418 - STRING #0 @ $6419DC
 
 #WRITE(GBA,$2C6418)
-‚`‚†‚”‚…‚’ ‚‚’‚‚‚‰‚“‚‰‚Ž‚‡ ‚”‚ ‚“‚‚–‚… ‚q‚…‚“‚“‚‰‚…f‚“ ‚„‚‚•‚‡‚ˆ‚”‚…‚’C<line>
-‚ˆ‚… ‚‡‚‚–‚… ‚™‚‚• ‚“‚‚‚… ‚”‚’‚…‚‚“‚•‚’‚… ‚‚“ ‚”‚ˆ‚‚Ž‚‹‚“D<line>
-‚a‚’‚‰‚Ž‚‡ ‚ˆ‚‰‚“ ‚„‚‚•‚‡‚ˆ‚”‚…‚’ ‚ˆ‚‚‚…I<line>
+After promising to save Ressie's daughter,<line>
+he gave you some treasure as thanks.<line>
+Bring his daughter home!<line>
 <:end><line>
 <end>
 
@@ -437,7 +437,7 @@
 #WRITE(GBA,$2C6470)
 #WRITE(GBA,$2C6478)
 #WRITE(GBA,$2C6488)
-‚f‚ ‚†‚‰‚Ž‚„ ‚q‚…‚“‚“‚‰‚…f‚“ ‚‹‚‰‚„‚Ž‚‚‚‚…‚„ ‚„‚‚•‚‡‚ˆ‚”‚…‚’I<line>
+Go find Ressie's kidnapped daughter!<line>
 <:end><line>
 <end>
 
@@ -447,9 +447,9 @@
 //POINTER #0 @ $2C6430 - STRING #0 @ $641A78
 
 #WRITE(GBA,$2C6430)
-‚f‚ ‚‚“‚‹ ‚‚’‚‚•‚Ž‚„ ‚‚‚‚‚•‚” ‚q‚…‚“‚“‚‰‚…f‚“ ‚„‚‚•‚‡‚ˆ‚”‚…‚’D<line>
-<textcolor_d>‚R ‚‚…‚‚‚Œ‚…<textcolor_1> ‚“‚ˆ‚‚•‚Œ‚„ ‚‡‚‰‚–‚… ‚™‚‚•<line>
-‚…‚Ž‚‚•‚‡‚ˆ ‚‰‚Ž‚†‚‚’‚‚‚”‚‰‚‚ŽD<line>
+Go ask around about Ressie's daughter.<line>
+<textcolor_d>3 people<textcolor_1> should give you<line>
+enough information.<line>
 <:end><line>
 <end>
 
@@ -459,9 +459,9 @@
 //POINTER #0 @ $2C6450 - STRING #0 @ $641AD4
 
 #WRITE(GBA,$2C6450)
-‚e‚Œ‚•‚†‚†‚™f‚“ ‚ˆ‚…‚‚„f‚“ ‚†‚…‚…‚Œ‚‰‚Ž‚‡ ‚†‚•‚š‚š‚™I<line>
-‚f‚ ‚†‚‰‚Ž‚„ ‚“‚‚‚…‚”‚ˆ‚‰‚Ž‚‡ ‚”‚ˆ‚‚”f‚Œ‚Œ<line>
-‚ˆ‚…‚Œ‚ ‚”‚ˆ‚…‚ ‚ƒ‚‚‚Œ ‚„‚‚—‚ŽI<line>
+Fluffy's head's feeling fuzzy!<line>
+Go find something that'll<line>
+help them cool down!<line>
 <:end><line>
 <end>
 
@@ -471,9 +471,9 @@
 //POINTER #0 @ $2C6458 - STRING #0 @ $641B24
 
 #WRITE(GBA,$2C6458)
-‚v‚‰‚”‚ˆ ‚”‚ˆ‚… ‚j‚‚‚Œ‚ ‚b‚‚“‚”‚•‚‚… ‚‰‚Ž ‚”‚‚—C<line>
-‚™‚‚• ‚ƒ‚‚Ž ‚“‚ƒ‚‚Œ‚… ‚•‚ ‚ˆ‚‰‚‡‚ˆ ‚‚’‚…‚‚“<line>
-‚™‚‚• ‚ƒ‚‚•‚Œ‚„‚Žf‚” ‚‚‚…‚†‚‚’‚…I<line>
+With the Koala Costume in tow,<line>
+you can scale up high areas<line>
+you couldn't before!<line>
 <:end><line>
 <end>
 
@@ -483,9 +483,9 @@
 //POINTER #0 @ $2C6490 - STRING #0 @ $641B78
 
 #WRITE(GBA,$2C6490)
-‚m‚‚— ‚”‚ˆ‚‚” ‚q‚…‚“‚“‚‰‚… ‚‚‚–‚…‚„ ‚”‚ˆ‚‚” ‚‚‚‚•‚Œ‚„‚…‚’ ‚†‚‚’ ‚™‚‚•C<line>
-‚™‚‚• ‚ƒ‚‚Ž ‚‡‚ ‚”‚ ‚Ž‚…‚— ‚‚Œ‚‚ƒ‚…‚“<line>
-‚‚Ž‚„ ‚ƒ‚‚”‚ƒ‚ˆ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚XD<line>
+Now that Ressie moved that boulder for you,<line>
+you can go to new places<line>
+and catch Puchi Ogura #9.<line>
 <:end><line>
 <end>
 
@@ -495,10 +495,10 @@
 //POINTER #0 @ $2C64B0 - STRING #0 @ $641BE4
 
 #WRITE(GBA,$2C64B0)
-‚o‚…‚‚‚Œ‚… ‚ˆ‚‚–‚… ‚‚‚…‚…‚Ž ‚‰‚Ž‚†‚…‚ƒ‚”‚…‚„ ‚—‚‰‚”‚ˆ<line>
-‚”‚ˆ‚… <textcolor_d>f‚r‚”‚‚ƒ‚ˆ‚… ‚u‚‰‚’‚•‚“<textcolor_1>I<line>
-‚f‚ ‚†‚‰‚Ž‚„ <textcolor_d>f‚r‚”‚‚ƒ‚ˆ‚…|‚ƒ‚ƒ‚‰‚Ž‚…‚“<textcolor_1><line>
-‚“‚ ‚™‚‚• ‚ƒ‚‚Ž ‚ƒ‚•‚’‚… ‚”‚ˆ‚…‚I<line>
+People have been infected with<line>
+the <textcolor_d>'Stache Virus<textcolor_1>!<line>
+Go find <textcolor_d>'Stache-ccines<textcolor_1><line>
+so you can cure them!<line>
 <line>
 <:end><line>
 <end>
@@ -509,9 +509,9 @@
 //POINTER #0 @ $2C64D0 - STRING #0 @ $641C58
 
 #WRITE(GBA,$2C64D0)
-‚d‚ƒ‚ˆ‚‰‚‡‚™‚‚™‚ ‚‚Ž‚„ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P‚Of‚“ ‚…‚–‚‰‚Œ ‚‚Œ‚‚Ž‚“<line>
-‚‚’‚… ‚—‚’‚‰‚”‚”‚…‚Ž ‚‚Ž ‚”‚ˆ‚‰‚“ <textcolor_d>‚“‚…‚ƒ‚’‚…‚” ‚‚…‚“‚“‚‚‡‚…<textcolor_1>D<line>
-‚c‚…‚Œ‚‰‚–‚…‚’ ‚”‚ˆ‚‰‚“ ‚”‚ ‚”‚ˆ‚… ‚‚”‚ˆ‚…‚’ ‚j‚•‚Ž‚‚‰‚ƒ‚ˆ‚‰I<line>
+Echigyoya and Puchi Ogura #10's evil plans<line>
+are written on this <textcolor_d>secret message<textcolor_1>.<line>
+Deliver this to the other Kunoichi!<line>
 <:end><line>
 <end>
 
@@ -522,8 +522,8 @@
 
 #WRITE(GBA,$2C64F0)
 <line>
-‚l‚‚“‚”‚…‚’ ‚”‚ˆ‚… ‚“‚…‚ƒ‚’‚…‚” ‚‚’‚” ‚‚†<line>
-‚l‚‚“‚”‚…‚’ ‚b‚’‚‚‚‹f‚“ ‚c‚‚Š‚F ‚”‚ˆ‚… <textcolor_d>‚t‚Œ‚”‚’‚ ‚r‚”‚‚’ ‚r‚‚‰‚Ž<textcolor_1>I<line>
+Master the secret art of<line>
+Master Croak's Dojo: the <textcolor_d>Ultra Star Spin<textcolor_1>!<line>
 <:end><line>
 <end>
 
@@ -535,8 +535,8 @@
 #WRITE(GBA,$2C6510)
 #WRITE(GBA,$2C6520)
 <line>
-‚d‚ƒ‚ˆ‚‰‚‡‚™‚‚™‚f‚“ ‚•‚ ‚”‚ ‚“‚‚‚…‚”‚ˆ‚‰‚Ž‚‡DDD<line>
-‚x‚‚• ‚ˆ‚‚–‚… ‚”‚ ‚—‚‚’‚Ž ‚”‚ˆ‚… ‚j‚•‚Ž‚‚‰‚ƒ‚ˆ‚‰I<line>
+Echigyoya's up to something...<line>
+You have to warn the Kunoichi!<line>
 <:end><line>
 <end>
 
@@ -546,9 +546,9 @@
 //POINTER #0 @ $2C6528 - STRING #0 @ $641D74
 
 #WRITE(GBA,$2C6528)
-‚t‚“‚… ‚”‚ˆ‚… ‚“‚ˆ‚•‚”‚”‚…‚’‚“ ‚”‚ ‚ƒ‚‚”‚ƒ‚ˆ ‚”‚ˆ‚‚”<line>
-‚“‚•‚‚…‚’ ‚†‚‚“‚” <textcolor_d>‚b‚ˆ‚‚Ž‚‚‚‡‚™‚<textcolor_1>I<line>
-‚`‚“‚‹ ‚l‚‚… ‚†‚‚’ ‚ ‚ˆ‚‰‚Ž‚” ‚‰‚† ‚™‚‚• ‚Ž‚…‚…‚„ ‚‚Ž‚…I<line>
+Use the shutters to catch that<line>
+super fast <textcolor_d>Chonmagyo<textcolor_1>!<line>
+Ask Moe for a hint if you need one!<line>
 <:end><line>
 <end>
 
@@ -558,9 +558,9 @@
 //POINTER #0 @ $2C6530 - STRING #0 @ $641DF4
 
 #WRITE(GBA,$2C6530)
-‚s‚ˆ‚… ‚‚‚‚‚‚‚“ ‚‚’‚‚•‚Ž‚„ ‚”‚ˆ‚… ‚j‚•‚Ž‚‚‰‚ƒ‚ˆ‚‰f‚“ ‚ˆ‚‚‚…<line>
-‚‚’‚… ‚“‚…‚” ‚”‚ ‚‚‚Œ‚‚—I<line>
-‚x‚‚• ‚ˆ‚‚–‚… ‚”‚ ‚—‚‚’‚Ž ‚”‚ˆ‚…‚C ‚‚Ž‚„ ‚†‚‚“‚”I<line>
+The bombs around the Kunoichi's home<line>
+are set to blow!<line>
+You have to warn them, and fast!<line>
 <:end><line>
 <end>
 
@@ -570,9 +570,9 @@
 //POINTER #0 @ $2C6538 - STRING #0 @ $641E40
 
 #WRITE(GBA,$2C6538)
-‚b‚ˆ‚‚“‚… ‚‚†‚”‚…‚’ ‚”‚ˆ‚… ‚—‚‰‚ƒ‚‹‚…‚„ ‚‚…‚’‚ƒ‚ˆ‚‚Ž‚”C<line>
-<textcolor_d>‚d‚ƒ‚ˆ‚‰‚‡‚™‚‚™‚<textcolor_1>C ‚‚Ž‚„ ‚“‚”‚‚ ‚ˆ‚‰‚ ‚†‚’‚‚<line>
-‚„‚…‚”‚‚Ž‚‚”‚‰‚Ž‚‡ ‚”‚ˆ‚‚“‚… ‚‚‚‚‚‚‚“I<line>
+Chase after the wicked merchant,<line>
+<textcolor_d>Echigyoya<textcolor_1>, and stop him from<line>
+detonating those bombs!<line>
 <:end><line>
 <end>
 
@@ -582,7 +582,7 @@
 //POINTER #0 @ $2C6540 - STRING #0 @ $641EA4
 
 #WRITE(GBA,$2C6540)
-‚c‚‚„‚‡‚… ‚”‚ˆ‚… ‚“‚ˆ‚•‚’‚‰‚‹‚…‚Ž‚“ ‚‚Ž‚„ ‚ƒ‚‚”‚ƒ‚ˆ ‚d‚ƒ‚ˆ‚‰‚‡‚™‚‚™‚I<line>
+Dodge the shurikens and catch Echigyoya!<line>
 <:end><line>
 <end>
 
@@ -593,8 +593,8 @@
 
 #WRITE(GBA,$2C6558)
 #WRITE(GBA,$2C6548)
-‚s‚ˆ‚‚” ‚…‚˜‚‚Œ‚‚“‚‰‚‚Ž ‚“‚…‚Ž‚” ‚™‚‚• ‚†‚Œ‚™‚‰‚Ž‚‡I<line>
-‚k‚…‚”f‚“ ‚‡‚ ‚Œ‚‚‚‹ ‚†‚‚’ ‚l‚‚…I<line>
+That explosion sent you flying!<line>
+Let's go look for Moe!<line>
 <:end><line>
 <end>
 
@@ -604,9 +604,9 @@
 //POINTER #0 @ $2C6560 - STRING #0 @ $641F30
 
 #WRITE(GBA,$2C6560)
-‚e‚‰‚Ž‚„ ‚”‚ˆ‚… <textcolor_d>‚b‚…‚Œ‚Œ ‚j‚…‚™<textcolor_1> ‚‚Ž‚„ ‚“‚‚–‚… ‚k‚•‚‚‰I<line>
-‚k‚‰‚“‚”‚…‚Ž ‚”‚ ‚—‚ˆ‚‚” ‚“‚ˆ‚… ‚“‚‚™‚“ ‚”‚ ‚•‚Ž‚–‚…‚‰‚Œ<line>
-‚”‚ˆ‚… ‚“‚…‚ƒ‚’‚…‚”‚“ ‚”‚ ‚‚‚…‚Ž‚‰‚Ž‚‡ ‚”‚ˆ‚… ‚„‚‚‚’‚“I<line>
+Find the <textcolor_d>Cell Key<textcolor_1> and save Lumi!<line>
+Listen to what she says to unveil<line>
+the secrets to opening the doors!<line>
 <:end><line>
 <end>
 
@@ -617,8 +617,8 @@
 
 #WRITE(GBA,$2C6568)
 #WRITE(GBA,$2C6578)
-‚f‚ ‚†‚‰‚Ž‚„ ‚”‚ˆ‚… ‚†‚’‚‰‚…‚Ž‚„ ‚™‚‚•f‚–‚…<line>
-‚‚‚…‚…‚Ž ‚“‚…‚‚…‚’‚‚”‚…‚„ ‚†‚’‚‚C ‚l‚‚…D<line>
+Go find the friend you've<line>
+been seperated from, Moe.<line>
 <:end><line>
 <end>
 
@@ -628,7 +628,7 @@
 //POINTER #0 @ $2C6580 - STRING #0 @ $641FFC
 
 #WRITE(GBA,$2C6580)
-‚e‚‚Œ‚Œ‚‚— ‚”‚ˆ‚… ‚”‚’‚‚‰‚Œ ‚‚† <textcolor_d>‚‹‚…‚Œ‚ ‚’‚‚Œ‚Œ‚“<textcolor_1> ‚”‚ ‚†‚‰‚Ž‚„ ‚l‚‚…I<line>
+Follow the trail of <textcolor_d>kelp rolls<textcolor_1> to find Moe!<line>
 <:end><line>
 <end>
 
@@ -639,8 +639,8 @@
 
 #WRITE(GBA,$2C6590)
 <line>
-‚b‚ˆ‚‚“‚… ‚‚†‚”‚…‚’ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P‚O ‚—‚ˆ‚‰‚Œ‚… ‚‚–‚‚‰‚„‚‰‚Ž‚‡<line>
-‚”‚ˆ‚… ‚’‚‚‰‚Ž ‚‚† ‚‚‚’‚ƒ‚•‚‚‰‚Ž‚…‚†‚‰‚“‚ˆ ‚ˆ‚… ‚”‚ˆ‚’‚‚—‚“ ‚‚” ‚™‚‚•I<line>
+Chase after Puchi Ogura #10 while avoiding<line>
+the rain of porcupinefish he throws at you!<line>
 <:end><line>
 <end>
 
@@ -650,7 +650,7 @@
 //POINTER #0 @ $2C6598 - STRING #0 @ $6420A8
 
 #WRITE(GBA,$2C6598)
-‚c‚…‚†‚…‚‚” ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P‚OI<line>
+Defeat Puchi Ogura #10!<line>
 <:end><line>
 <end>
 
@@ -672,8 +672,8 @@
 #WRITE(GBA,$2C6A50)
 #WRITE(GBA,$2C6A68)
 <line>
-‚q‚…‚‚„ ‚”‚ˆ‚… ‚“‚‰‚‡‚Ž‚“ ‚”‚ ‚’‚…‚‚…‚‚‚‚…‚’ ‚™‚‚•‚’ ‚`‚‚‚‰‚Œ‚‰‚”‚‰‚…‚“<line>
-‚“‚ ‚™‚‚• ‚ƒ‚‚Ž ‚“‚‚–‚… ‚l‚‚‚ ‚r‚”‚‚’I<line>
+Read the signs to remember your Abilities<line>
+so you can save Mama Star!<line>
 <:end><line>
 <end>
 
@@ -695,8 +695,8 @@
 #WRITE(GBA,$2C6A58)
 #WRITE(GBA,$2C6A70)
 <line>
-‚q‚…‚‚‚’‚” ‚‚‚‚ƒ‚‹ ‚”‚ ‚g‚…‚’‚‚‚Ž ‚‚†‚”‚…‚’ ‚™‚‚•f‚–‚…<line>
-‚‚‚…‚‚”‚…‚Ž ‚‚Œ‚Œ <textcolor_d>‚S‚O<textcolor_1> ‚‚† ‚”‚ˆ‚‚“‚… ‚‡‚’‚…‚…‚Ž ‚ƒ‚’‚…‚‚”‚•‚’‚…‚“D<line>
+Report back to Herman after you've<line>
+beaten all <textcolor_d>40<textcolor_1> of those green creatures.<line>
 <:end><line>
 <end>
 
@@ -706,9 +706,9 @@
 //POINTER #0 @ $2C6660 - STRING #0 @ $642190
 
 #WRITE(GBA,$2C6660)
-‚t‚“‚… ‚”‚ˆ‚… ‚‰‚Ž‚†‚ ‚†‚’‚‚ ‚”‚ˆ‚… ‚‚‚‚‚ˆ‚Œ‚…‚”<line>
-‚”‚ ‚†‚‰‚Ž‚„ ‚”‚ˆ‚… ‚“‚ˆ‚‚I<line>
-‚h‚† ‚™‚‚•f‚’‚… ‚‰‚Ž ‚ ‚‚‚‰‚Ž‚„C ‚‚“‚‹ ‚l‚‚… ‚†‚‚’ ‚ ‚ˆ‚‰‚Ž‚”I<line>
+Use the info from the pamphlet<line>
+to find the shop!<line>
+If you're in a bind, ask Moe for a hint!<line>
 <:end><line>
 <end>
 
@@ -718,7 +718,7 @@
 //POINTER #0 @ $2C6680 - STRING #0 @ $6421F0
 
 #WRITE(GBA,$2C6680)
-‚e‚‰‚Ž‚„ ‚”‚ˆ‚… <textcolor_d>‚R ‚‹‚…‚™‚“<textcolor_1> ‚”‚ˆ‚‚” ‚‚‚…‚Ž ‚”‚ˆ‚… ‚a‚‚“‚“ ‚c‚‚‚’I<line>
+Find the <textcolor_d>3 keys<textcolor_1> that open the Boss Door!<line>
 <:end><line>
 <end>
 
@@ -728,9 +728,9 @@
 //POINTER #0 @ $2C66A0 - STRING #0 @ $642234
 
 #WRITE(GBA,$2C66A0)
-‚f‚ ‚†‚‰‚Ž‚„ ‚”‚ˆ‚… <textcolor_d>‚R ‚‚‰‚…‚ƒ‚…‚“<textcolor_1> ‚‚† ‚†‚•‚’‚Ž‚‰‚”‚•‚’‚…<line>
-‚q‚•‚‚‚™ ‚Œ‚‚“‚”I<line>
-‚h‚† ‚™‚‚• ‚„‚‚Žf‚” ‚‹‚Ž‚‚— ‚—‚ˆ‚‚” ‚”‚ ‚„‚C ‚‚“‚‹ ‚l‚‚…I<line>
+Go find the <textcolor_d>3 pieces<textcolor_1> of furniture<line>
+Ruby lost!<line>
+If you don't know what to do, ask Moe!<line>
 <:end><line>
 <end>
 
@@ -740,10 +740,10 @@
 //POINTER #0 @ $2C66C0 - STRING #0 @ $6422AC
 
 #WRITE(GBA,$2C66C0)
-‚t‚“‚… ‚”‚ˆ‚… ‚“‚—‚‰‚”‚ƒ‚ˆ‚…‚“ ‚”‚ ‚‚‚…‚’‚‚”‚… ‚”‚ˆ‚… ‚—‚‚”‚…‚’<line>
-‚‚Ž‚„ ‚†‚‰‚Ž‚„ ‚”‚ˆ‚… ‚”‚’‚…‚‚“‚•‚’‚… ‚ƒ‚ˆ‚…‚“‚”I<line>
-‚`‚“‚‹ ‚l‚‚… ‚”‚ ‚‡‚‰‚–‚… ‚™‚‚•<line>
-‚ ‚ˆ‚‰‚Ž‚” ‚‰‚† ‚™‚‚• ‚‡‚…‚” ‚ƒ‚‚Ž‚†‚•‚“‚…‚„I<line>
+Use the switches to operate the water<line>
+and find the treasure chest!<line>
+Ask Moe to give you<line>
+a hint if you get confused!<line>
 <:end><line>
 <end>
 
@@ -754,8 +754,8 @@
 
 #WRITE(GBA,$2C66D0)
 <line>
-‚k‚…‚”f‚“ ‚‡‚ ‚‚…‚…‚” ‚”‚ˆ‚… <textcolor_d>‚a‚Œ‚‰‚‚<textcolor_1> ‚’‚…‚“‚…‚‚’‚ƒ‚ˆ‚…‚’C<line>
-‚n‚Œ‚„ ‚l‚‚Ž ‚l‚…‚ƒ‚ˆ‚‚Ž‚‰I<line>
+Let's go meet the <textcolor_d>Blimp<textcolor_1> researcher,<line>
+Old Man Mechani!<line>
 <:end><line>
 <end>
 
@@ -766,8 +766,8 @@
 
 #WRITE(GBA,$2C66D8)
 <line>
-‚k‚…‚”f‚“ ‚ˆ‚…‚Œ‚ ‚‚•‚” ‚n‚Œ‚„ ‚l‚‚Ž ‚l‚…‚ƒ‚ˆ‚‚Ž‚‰<line>
-‚‚‚™ ‚”‚’‚™‚‰‚Ž‚‡ ‚‚•‚” ‚ˆ‚‰‚“ ‚a‚Œ‚‰‚‚I<line>
+Let's help out Old Man Mechani<line>
+by trying out his Blimp!<line>
 <:end><line>
 <end>
 
@@ -777,9 +777,9 @@
 //POINTER #0 @ $2C66F8 - STRING #0 @ $6423D8
 
 #WRITE(GBA,$2C66F8)
-‚b‚ˆ‚‚“‚… ‚‚†‚”‚…‚’ ‚”‚ˆ‚‚” ‚‚’‚‚Ž‚‹‚“‚”‚…‚’C<line>
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚QI<line>
-‚a‚… ‚ƒ‚‚’‚…‚†‚•‚Œ ‚‚† ‚”‚ˆ‚… ‚—‚‚”‚…‚’ ‚ƒ‚•‚’‚’‚…‚Ž‚”‚“I<line>
+Chase after that prankster,<line>
+Puchi Ogura #2!<line>
+Be careful of the water currents!<line>
 <:end><line>
 <end>
 
@@ -790,8 +790,8 @@
 
 #WRITE(GBA,$2C6710)
 <line>
-‚v‚ˆ‚f‚“ ‚”‚ˆ‚… ‚‚Ž‚… ‚ƒ‚’‚™‚‰‚Ž‚‡ ‚“‚ ‚Œ‚‚•‚„‚Œ‚™H<line>
-‚j‚…‚…‚ ‚‚‚–‚‰‚Ž‚‡ ‚”‚ ‚†‚‰‚Ž‚„ ‚‚•‚”I<line>
+Who's the one crying so loudly?<line>
+Keep moving to find out!<line>
 <:end><line>
 <end>
 
@@ -801,8 +801,8 @@
 //POINTER #0 @ $2C6730 - STRING #0 @ $642478
 
 #WRITE(GBA,$2C6730)
-‚r‚‰‚“‚”‚•‚’‚” ‚’‚‚Ž ‚‚—‚‚™I<line>
-‚p‚•‚‰‚ƒ‚‹C ‚—‚… ‚ˆ‚‚–‚… ‚”‚ ‚ƒ‚‚”‚ƒ‚ˆ ‚ˆ‚…‚’I<line>
+Sisturt ran away!<line>
+Quick, we have to catch her!<line>
 <:end><line>
 <end>
 
@@ -812,9 +812,9 @@
 //POINTER #0 @ $2C6748 - STRING #0 @ $6424BC
 
 #WRITE(GBA,$2C6748)
-‚t‚“‚… ‚”‚ˆ‚… ‚”‚•‚’‚”‚Œ‚… ‚’‚‚„‚‚’ ‚”‚<line>
-‚ƒ‚‚”‚ƒ‚ˆ ‚”‚ˆ‚… ‚s‚•‚’‚”‚Œ‚… ‚‹‚‰‚„‚“<line>
-‚‚Ž‚„ ‚‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚…‚ ‚‚‚‚ƒ‚‹ ‚”‚ ‚l‚‚…D<line>
+Use the turtle radar to<line>
+catch the Turtle kids<line>
+and bring them back to Moe.<line>
 <:end><line>
 <end>
 
@@ -824,9 +824,9 @@
 //POINTER #0 @ $2C6760 - STRING #0 @ $642518
 
 #WRITE(GBA,$2C6760)
-‚t‚“‚… ‚”‚ˆ‚… ‚”‚•‚’‚”‚Œ‚… ‚’‚‚„‚‚’ ‚”‚<line>
-‚ƒ‚‚”‚ƒ‚ˆ ‚”‚ˆ‚… ‚s‚•‚’‚”‚Œ‚… ‚‹‚‰‚„‚“<line>
-‚‚Ž‚„ ‚‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚…‚ ‚‚‚‚ƒ‚‹ ‚”‚ ‚l‚‚…D<line>
+Use the turtle radar to<line>
+catch the Turtle kids<line>
+and bring them back to Moe.<line>
 <:end><line>
 <end>
 
@@ -837,8 +837,8 @@
 
 #WRITE(GBA,$2C6780)
 <line>
-‚s‚‚‹‚… ‚„‚‚—‚Ž ‚”‚ˆ‚… ‚‚‚‚„ ‚‡‚•‚™ ‚—‚ˆ‚ ‚”‚•‚’‚Ž‚…‚„<line>
-‚”‚ˆ‚… ‚s‚•‚’‚”‚Œ‚… ‚j‚‰‚„‚“ ‚‰‚Ž‚”‚ ‚„‚…‚Œ‚‰‚Ž‚‘‚•‚…‚Ž‚”‚“I<line>
+Take down the bad guy who turned<line>
+the Turtle Kids into delinquents!<line>
 <:end><line>
 <end>
 
@@ -848,10 +848,10 @@
 //POINTER #0 @ $2C6798 - STRING #0 @ $6425B4
 
 #WRITE(GBA,$2C6798)
-‚v‚‰‚”‚ˆ ‚”‚ˆ‚… ‚—‚‚”‚…‚’ ‚„‚’‚‚‰‚Ž‚…‚„C<line>
-‚—‚… ‚ƒ‚‚Žf‚” ‚‚‚–‚… ‚†‚‚’‚—‚‚’‚„I<line>
-‚s‚‚‹‚… ‚‚•‚” ‚”‚ˆ‚… <textcolor_d>‚ƒ‚‚’‚‹<textcolor_1> ‚‚Ž‚„<line>
-‚‚‚‹‚… ‚”‚ˆ‚… ‚—‚‚”‚…‚’ ‚†‚Œ‚‚— ‚‚‡‚‚‰‚ŽI<line>
+With the water drained,<line>
+we can't move forward!<line>
+Take out the <textcolor_d>cork<textcolor_1> and<line>
+make the water flow again!<line>
 <:end><line>
 <end>
 
@@ -861,9 +861,9 @@
 //POINTER #0 @ $2C67B8 - STRING #0 @ $642638
 
 #WRITE(GBA,$2C67B8)
-‚r‚ˆ‚•‚’‚‰‚‹‚‰‚” ‚ƒ‚‚Žf‚” ‚“‚—‚‰‚C<line>
-‚“‚ ‚”‚ˆ‚…‚™ ‚‚“‚‹‚…‚„ ‚•‚“ ‚”‚ ‚‡‚ ‚•‚Ž‚„‚…‚’‚—‚‚”‚…‚’<line>
-‚‚Ž‚„ ‚‡‚…‚” ‚”‚ˆ‚…‚‰‚’ <textcolor_d>‚‚‚…‚Œ‚Œ<textcolor_1> ‚‚‚‚ƒ‚‹I<line>
+Shurikit can't swim,<line>
+so they asked us to go underwater<line>
+and get their <textcolor_d>bell<textcolor_1> back!<line>
 <:end><line>
 <end>
 
@@ -873,9 +873,9 @@
 //POINTER #0 @ $2C67C0 - STRING #0 @ $642698
 
 #WRITE(GBA,$2C67C0)
-‚t‚“‚… ‚”‚ˆ‚… ‚”‚…‚ƒ‚ˆ‚Ž‚‰‚‘‚•‚… ‚r‚ˆ‚•‚’‚‰‚‹‚‰‚” ‚”‚‚•‚‡‚ˆ‚” ‚™‚‚•C<line>
-‚”‚ˆ‚… <textcolor_d>‚`‚‰‚’ ‚i‚•‚‚<textcolor_1>C ‚”‚ ‚‡‚…‚” ‚‚‚“‚” ‚”‚ˆ‚… ‚’‚‚‚<line>
-‚—‚‰‚”‚ˆ ‚”‚ˆ‚… ‚“‚‰‚‡‚Ž ‚‰‚Ž ‚‰‚”I<line>
+Use the technique Shurikit taught you,<line>
+the <textcolor_d>Air Jump<textcolor_1>, to get past the room<line>
+with the sign in it!<line>
 <:end><line>
 <end>
 
@@ -885,9 +885,9 @@
 //POINTER #0 @ $2C67E0 - STRING #0 @ $64272C
 
 #WRITE(GBA,$2C67E0)
-‚t‚“‚… ‚”‚ˆ‚… <textcolor_d>‚‚‚‚‚‚‚“<textcolor_1> ‚”‚ ‚„‚…‚“‚”‚’‚‚™ ‚”‚ˆ‚… <textcolor_d>‚‚‚Œ‚‚ƒ‚‹‚“<textcolor_1><line>
-‚‰‚Ž ‚™‚‚•‚’ ‚—‚‚™ ‚”‚ ‚’‚…‚‚ƒ‚ˆ ‚”‚ˆ‚… ‚‚‚‚”‚”‚‚I<line>
-‚s‚ˆ‚… ‚”‚’‚‰‚ƒ‚‹ ‚‰‚“ ‚”‚ ‚‡‚ ‚†‚‚’ ‚”‚ˆ‚… ‚‚‚•‚’‚‰‚…‚„ ‚‚‚‚‚‚‚“I<line>
+Use the <textcolor_d>bombs<textcolor_1> to destroy the <textcolor_d>blocks<textcolor_1><line>
+in your way to reach the bottom!<line>
+The trick is to go for the buried bombs!<line>
 <:end><line>
 <end>
 
@@ -898,8 +898,8 @@
 
 #WRITE(GBA,$2C67F0)
 <line>
-‚g‚…‚‚„ ‚‰‚Ž‚“‚‰‚„‚… ‚n‚Œ‚„ ‚l‚‚Ž ‚f‚’‚‰‚š‚š‚Œ‚™f‚“ <textcolor_d>‚“‚”‚‚’‚‚‡‚… ‚’‚‚‚<textcolor_1><line>
-‚‚Ž‚„ ‚‡‚ ‚‡‚…‚” ‚ˆ‚‰‚ ‚“‚‚‚… <textcolor_d>‚ˆ‚‚Ž‚…‚™<textcolor_1>I<line>
+Head inside Old Man Grizzly's <textcolor_d>storage room<textcolor_1><line>
+and go get him some <textcolor_d>honey<textcolor_1>!<line>
 <:end><line>
 <end>
 
@@ -909,9 +909,9 @@
 //POINTER #0 @ $2C6810 - STRING #0 @ $642830
 
 #WRITE(GBA,$2C6810)
-‚v‚ˆ‚‰‚Œ‚… ‚‚Ž‚… <textcolor_d>‚“‚—‚‰‚”‚ƒ‚ˆ<textcolor_1> ‚‰‚“ ‚“‚”‚‰‚Œ‚Œ ‚Œ‚‰‚”C<line>
-‚‚‚‹‚… ‚”‚ˆ‚… ‚‚”‚ˆ‚…‚’ <textcolor_d>‚“‚—‚‰‚”‚ƒ‚ˆ‚…‚“<textcolor_1> ‚Œ‚‰‚‡‚ˆ‚” ‚•‚<line>
-‚‚‚™ ‚“‚‚‰‚Ž‚Ž‚‰‚Ž‚‡ ‚‰‚Ž‚”‚ ‚‰‚”I<line>
+While one <textcolor_d>switch<textcolor_1> is still lit,<line>
+make the other <textcolor_d>switches<textcolor_1> light up<line>
+by spinning into it!<line>
 <:end><line>
 <end>
 
@@ -921,8 +921,8 @@
 
 #WRITE(GBA,$2C6820)
 <line>
-‚i‚•‚“‚” ‚Œ‚‰‚‹‚… ‚‚‚…‚†‚‚’‚…C ‚‚‰‚ ‚†‚‚’ ‚”‚ˆ‚… ‚‚‚•‚’‚‰‚…‚„ <textcolor_d>‚‚‚‚‚‚‚“<textcolor_1><line>
-‚”‚ ‚„‚…‚“‚”‚’‚‚™ ‚‚Œ‚Œ ‚”‚ˆ‚… <textcolor_d>‚‚‚Œ‚‚ƒ‚‹‚“<textcolor_1> ‚‚Ž‚„ ‚‚‚–‚… ‚†‚‚’‚—‚‚’‚„I<line>
+Just like before, aim for the buried <textcolor_d>bombs<textcolor_1><line>
+to destroy all the <textcolor_d>blocks<textcolor_1> and move forward!<line>
 <:end><line>
 <end>
 
@@ -930,10 +930,10 @@
 
 //POINTER #0 @ $2C6830 - STRING #0 @ $642940
 #WRITE(GBA,$2C6830)
-‚f‚‚”‚ˆ‚…‚’ ‚“‚‚‚… <textcolor_d>‚“‚”‚‰‚ƒ‚‹‚“<textcolor_1> ‚”‚<line>
-‚‚‚‹‚… ‚ <textcolor_d>‚‚‚•‚Ž‚„‚Œ‚…<textcolor_1> ‚†‚‚’ ‚u‚‰‚–‚I<line>
-‚l‚‚‹‚‰‚Ž‚‡ ‚‚‚•‚Ž‚„‚Œ‚…‚“ ‚ƒ‚Œ‚‚“‚…‚’ ‚”‚ ‚ˆ‚…‚’<line>
-‚‚…‚‚Ž‚“ ‚ ‚“‚ˆ‚‚’‚”‚…‚’ ‚”‚’‚‰‚I<line>
+Gather some <textcolor_d>sticks<textcolor_1> to<line>
+make a <textcolor_d>bundle<textcolor_1> for Viva!<line>
+Making bundles closer to her<line>
+means a shorter trip!<line>
 <:end><line>
 <end>
 
@@ -941,9 +941,9 @@
 
 //POINTER #0 @ $2C6840 - STRING #0 @ $6429C4
 #WRITE(GBA,$2C6840)
-<textcolor_d>‚r‚”‚‚’ ‚r‚‚‰‚Ž<textcolor_1> ‚‰‚Ž‚”‚ ‚”‚ˆ‚… <textcolor_d>‚“‚—‚‰‚”‚ƒ‚ˆ<textcolor_1> ‚”‚ ‚“‚”‚‚<line>
-‚”‚ˆ‚… <textcolor_d>‚ƒ‚•‚’‚’‚…‚Ž‚”<textcolor_1> ‚†‚‚’ ‚ ‚“‚ˆ‚‚’‚” ‚”‚‰‚‚…D<line>
-‚t‚“‚… ‚—‚ˆ‚‚” ‚”‚‰‚‚… ‚™‚‚• ‚ˆ‚‚–‚… ‚”‚ ‚ˆ‚•‚’‚’‚™ ‚‚Ž‚—‚‚’‚„‚“I<line>
+<textcolor_d>Star Spin<textcolor_1> into the <textcolor_d>switch<textcolor_1> to stop<line>
+the <textcolor_d>current<textcolor_1> for a short time.<line>
+Use what time you have to hurry onwards!<line>
 <:end><line>
 <end>
 
@@ -954,8 +954,8 @@
 
 #WRITE(GBA,$2C6858)
 <line>
-‚s‚‚‹‚… ‚‚•‚” ‚”‚ˆ‚… <textcolor_d>‚ƒ‚‚’‚‹<textcolor_1> ‚‚Œ‚•‚‡‚‡‚‰‚Ž‚‡ ‚•‚ ‚”‚ˆ‚… ‚—‚‚”‚…‚’<line>
-‚“‚ ‚™‚‚• ‚ƒ‚‚Ž ‚“‚”‚‚™ ‚ˆ‚‚” ‚‚Ž ‚o‚•‚ƒ‚ˆ‚‰ ”‚Tf‚“ ‚”‚’‚‚‰‚ŒI<line>
+Take out the <textcolor_d>cork<textcolor_1> plugging up the water<line>
+so you can stay hot on Puchi #5's trail!<line>
 <:end><line>
 <end>
 
@@ -967,8 +967,8 @@
 #WRITE(GBA,$2C6860)
 #WRITE(GBA,$2C6870)
 <line>
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚Tf‚“ ‚‹‚‰‚„‚Ž‚‚‚‚…‚„ <textcolor_d>‚o‚•‚’‚“‚Œ‚…‚™<textcolor_1>I<line>
-‚k‚…‚”f‚“ ‚“‚‚–‚… ‚ˆ‚‰‚ ‚”‚‚‡‚…‚”‚ˆ‚…‚’ ‚—‚‰‚”‚ˆ ‚l‚‚‚ŽI<line>
+Puchi Ogura #5's kidnapped <textcolor_d>Pursley<textcolor_1>!<line>
+Let's save him together with Moon!<line>
 <:end><line>
 <end>
 
@@ -978,9 +978,9 @@
 //POINTER #0 @ $2C6868 - STRING #0 @ $642B30
 
 #WRITE(GBA,$2C6868)
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚Tf‚“ ‚‚•‚” ‚ ‚ƒ‚•‚’‚“‚… ‚‚Ž ‚”‚ˆ‚… ‚„‚‚‚’I<line>
-‚t‚“‚‰‚Ž‚‡ ‚l‚‚…f‚“ ‚ˆ‚‰‚Ž‚”C <textcolor_d>‚„‚…‚†‚…‚‚” ‚”‚ˆ‚… ‚…‚Ž‚…‚‚‰‚…‚“<line>
-‚‰‚Ž ‚”‚ˆ‚… ‚’‚‰‚‡‚ˆ‚” ‚‚’‚„‚…‚’<textcolor_1> ‚“‚ ‚™‚‚• ‚ƒ‚‚Ž ‚‚‚…‚Ž ‚‰‚”I<line>
+Puchi Ogura #5's put a curse on the door!<line>
+Using Moe's hint, <textcolor_d>defeat the enemies<line>
+in the right order<textcolor_1> so you can open it!<line>
 <:end><line>
 <end>
 
@@ -991,8 +991,8 @@
 
 #WRITE(GBA,$2C6878)
 <line>
-‚r‚”‚…‚‚Œ ‚”‚ˆ‚… <textcolor_d>‚b‚…‚Œ‚Œ ‚j‚…‚™<textcolor_1> ‚†‚’‚‚ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚T<line>
-‚“‚ ‚—‚… ‚ƒ‚‚Ž ‚‚‚…‚Ž ‚o‚•‚’‚“‚Œ‚…‚™f‚“ ‚‚’‚‰‚“‚‚Ž ‚„‚‚‚’I<line>
+Steal the <textcolor_d>Cell Key<textcolor_1> from Puchi Ogura #5<line>
+so we can open Pursley's prison door!<line>
 <:end><line>
 <end>
 
@@ -1003,8 +1003,8 @@
 
 #WRITE(GBA,$2C6880)
 <line>
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚T ‚’‚‚Ž ‚‚—‚‚™I<line>
-‚b‚ˆ‚‚“‚… ‚‚†‚”‚…‚’ ‚ˆ‚…‚’ ‚‚Ž‚„ ‚“‚…‚”‚”‚Œ‚… ‚”‚ˆ‚‰‚Ž‚‡‚“I<line>
+Puchi Ogura #5 ran away!<line>
+Chase after her and settle things!<line>
 <:end><line>
 <end>
 
@@ -1014,9 +1014,9 @@
 //POINTER #0 @ $2C6898 - STRING #0 @ $642C7C
 
 #WRITE(GBA,$2C6898)
-‚f‚‚”‚ˆ‚…‚’ ‚”‚ˆ‚… <textcolor_d>‚S ‚†‚’‚‚‡‚‚…‚Ž‚”‚“<textcolor_1> ‚‚†<line>
-‚”‚ˆ‚… ‚„‚…‚“‚”‚’‚‚™‚…‚„ ‚“‚”‚‚”‚•‚… ‚‚Ž‚„<line>
-‚‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚…‚ ‚‚‚‚ƒ‚‹ ‚”‚ ‚”‚ˆ‚… ‚o‚•‚†‚†‚”‚‚ ‚r‚‚Œ‚„‚‰‚…‚’D<line>
+Gather the <textcolor_d>4 fragments<textcolor_1> of<line>
+the destroyed statue and<line>
+bring them back to the Pufftop Soldier.<line>
 <:end><line>
 <end>
 
@@ -1027,8 +1027,8 @@
 
 #WRITE(GBA,$2C68B8)
 <line>
-‚b‚Œ‚…‚‚’ ‚”‚ˆ‚… <textcolor_d>‚”‚ˆ‚’‚…‚… ‚q‚‰‚„‚… ‚”‚’‚‰‚‚Œ‚“<textcolor_1> ‚‚Ž‚„<line>
-‚‚…‚…‚” ‚‚‚‚ƒ‚‹ ‚•‚ ‚—‚‰‚”‚ˆ ‚”‚ˆ‚… ‚o‚•‚†‚†‚”‚‚ ‚r‚‚Œ‚„‚‰‚…‚’I<line>
+Clear the <textcolor_d>three Ride trials<textcolor_1> and<line>
+meet back up with the Pufftop Soldier!<line>
 <:end><line>
 <end>
 
@@ -1039,8 +1039,8 @@
 
 #WRITE(GBA,$2C68D8)
 <line>
-‚e‚‰‚Ž‚„ ‚”‚ˆ‚… <textcolor_d>‚†‚‚•‚’ ‚‚‰‚“‚“‚‰‚Ž‚‡ ‚‚…‚‚‚‚…‚’‚“ ‚‚† ‚”‚ˆ‚… ‚r‚‘‚•‚‰‚’‚”‚“<textcolor_1><line>
-‚‚Ž‚„ ‚‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚…‚ ‚‚‚‚ƒ‚‹ ‚”‚ ‚a‚‚—‚“‚“D<line>
+Find the <textcolor_d>four missing members of the Squirts<textcolor_1><line>
+and bring them back to Bawss.<line>
 <:end><line>
 <end>
 
@@ -1050,10 +1050,10 @@
 //POINTER #0 @ $2C68F0 - STRING #0 @ $642D9C
 
 #WRITE(GBA,$2C68F0)
-‚s‚ˆ‚‰‚“ ‚„‚‚…‚“‚Žf‚” ‚Œ‚‚‚‹ ‚‡‚‚‚„I<line>
-‚s‚ˆ‚…‚’‚… ‚‰‚“ ‚Ž‚ ‚”‚‰‚‚… ‚”‚ ‚Œ‚‚“‚…I<line>
-‚j‚…‚…‚ ‚‚‚–‚‰‚Ž‚‡ ‚“‚ ‚™‚‚• ‚„‚‚Žf‚”<line>
-‚‡‚…‚” ‚ƒ‚’‚•‚“‚ˆ‚…‚„ ‚‚‚™ ‚”‚ˆ‚… ‚—‚‚Œ‚ŒI<line>
+This doesn't look good!<line>
+There is no time to lose!<line>
+Keep moving so you don't<line>
+get crushed by the wall!<line>
 <:end><line>
 <end>
 
@@ -1063,9 +1063,9 @@
 //POINTER #0 @ $2C6910 - STRING #0 @ $642DF8
 
 #WRITE(GBA,$2C6910)
-‚c‚…‚Œ‚‰‚–‚…‚’ ‚”‚ˆ‚… ‚‰‚”‚…‚‚“ ‚™‚‚• ‚†‚‰‚Ž‚„ ‚”‚ ‚”‚ˆ‚… ‚r‚‘‚•‚‰‚’‚”‚“<line>
-‚“‚ ‚™‚‚• ‚ƒ‚‚Ž ‚‡‚…‚” ‚”‚ˆ‚… <textcolor_d>‚b‚…‚Œ‚Œ ‚j‚…‚™<textcolor_1><line>
-‚‚Ž‚„ ‚ˆ‚‚Ž‚„ ‚‰‚” ‚‚–‚…‚’ ‚”‚ ‚a‚‚—‚“‚“D<line>
+Deliver the items you find to the Squirts<line>
+so you can get the <textcolor_d>Cell Key<textcolor_1><line>
+and hand it over to Bawss.<line>
 <:end><line>
 <end>
 
@@ -1075,9 +1075,9 @@
 //POINTER #0 @ $2C6930 - STRING #0 @ $642E78
 
 #WRITE(GBA,$2C6930)
-‚a‚…‚‚” ‚”‚ˆ‚… ‚‚‚‚„ ‚‡‚•‚™ ‚Š‚•‚“‚” ‚‚‚“‚” ‚ˆ‚…‚’‚…<line>
-‚“‚ ‚—‚… ‚ƒ‚‚Ž ‚ƒ‚ˆ‚‚’‚” ‚ ‚ƒ‚‚•‚’‚“‚… ‚†‚‚’‚­<line>
-‚n‚‡‚•‚’‚f‚“ ‚b‚‚“‚”‚Œ‚…I<line>
+Beat the bad guy just past here<line>
+so we can chart a course for¸<line>
+Ogura's Castle!<line>
 <:end><line>
 <end>
 
@@ -1088,8 +1088,8 @@
 
 #WRITE(GBA,$2C6948)
 <line>
-‚k‚‚‚‹ ‚†‚‚’ <textcolor_d>‚R ‚‚‚’‚… ‚r‚ˆ‚…‚Œ‚Œ ‚s‚‚‚…‚“<textcolor_1><line>
-‚‚Ž‚„ ‚‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚…‚ ‚‚‚‚ƒ‚‹ ‚”‚ ‚l‚‚…D<line>
+Look for <textcolor_d>3 more Shell Tapes<textcolor_1><line>
+and bring them back to Moe.<line>
 <:end><line>
 <end>
 
@@ -1100,8 +1100,8 @@
 
 #WRITE(GBA,$2C6968)
 <line>
-‚g‚•‚’‚’‚™ ‚”‚ ‚”‚ˆ‚… ‚Ž‚…‚˜‚” ‚‚’‚…‚I<line>
-‚x‚‚• ‚ƒ‚‚Žf‚” ‚Œ‚…‚” ‚n‚‡‚•‚’‚f‚“ ‚‚‰‚Ž‚‰‚‚Ž‚“ ‚ƒ‚‚”‚ƒ‚ˆ ‚™‚‚•I<line>
+Hurry to the next area!<line>
+You can't let Ogura's minions catch you!<line>
 <:end><line>
 <end>
 
@@ -1112,8 +1112,8 @@
 
 #WRITE(GBA,$2C6980)
 <line>
-‚r‚‚‰‚Ž ‚‰‚Ž‚”‚ ‚”‚ˆ‚… ‚‚‚”‚”‚…‚’‚Ž|‚ƒ‚ˆ‚‚Ž‚‡‚‰‚Ž‚‡ ‚‚‚Œ‚‚ƒ‚‹<line>
-‚“‚ ‚”‚ˆ‚…‚™ ‚‚‚”‚ƒ‚ˆ ‚”‚ˆ‚… ‚‚Ž‚… ‚‚‚‚‚–‚… ‚”‚ˆ‚… ‚„‚‚‚’D<line>
+Spin into the pattern-changing block<line>
+so they match the one above the door.<line>
 <:end><line>
 <end>
 
@@ -1123,10 +1123,10 @@
 //POINTER #0 @ $2C69A0 - STRING #0 @ $642FC4
 
 #WRITE(GBA,$2C69A0)
-‚x‚‚•f‚–‚… ‚‡‚‚” ‚”‚ ‚†‚’‚…‚… ‚l‚‚… ‚†‚’‚‚ ‚”‚ˆ‚… ‚ƒ‚‚‡‚…I<line>
-‚v‚ˆ‚…‚Ž ‚™‚‚• ‚ˆ‚‚–‚… ‚”‚ˆ‚… ‚‹‚…‚™ ‚”‚ˆ‚‚” ‚‚‚”‚ƒ‚ˆ‚…‚“<line>
-‚”‚ˆ‚… ‚“‚ˆ‚‚‚… ‚‚† ‚”‚ˆ‚… ‚ƒ‚…‚Œ‚Œf‚“ ‚‹‚…‚™‚ˆ‚‚Œ‚…C<line>
-‚Š‚•‚‚ ‚‰‚Ž‚”‚ ‚‰‚” ‚”‚ ‚•‚Ž‚Œ‚‚ƒ‚‹ ‚‰‚”D<line>
+You've got to free Moe from the cage!<line>
+When you have the key that matches<line>
+the shape of the cell's keyhole,<line>
+jump into it to unlock it.<line>
 <:end><line>
 <end>
 
@@ -1136,9 +1136,9 @@
 //POINTER #0 @ $2C69C0 - STRING #0 @ $64304C
 
 #WRITE(GBA,$2C69C0)
-‚s‚ ‚‚‚…‚Ž ‚”‚ˆ‚… ‚‚‚‰‚‡ ‚„‚‚‚’C<line>
-‚™‚‚•f‚Œ‚Œ ‚Ž‚…‚…‚„ ‚”‚ ‚†‚Œ‚‰‚ ‚”‚ˆ‚… ‚“‚—‚‰‚”‚ƒ‚ˆ‚…‚“<line>
-‚‚” ‚”‚ˆ‚… ‚…‚Ž‚„ ‚‚† <textcolor_d>‚‚Œ‚Œ ‚”‚ˆ‚’‚…‚… ‚‚‚“‚“‚‚‡‚…‚“<textcolor_1>D<line>
+To open the big door,<line>
+you'll need to flip the switches<line>
+at the end of <textcolor_d>all three passages<textcolor_1>.<line>
 <:end><line>
 <end>
 
@@ -1148,9 +1148,9 @@
 //POINTER #0 @ $2C69E0 - STRING #0 @ $643098
 
 #WRITE(GBA,$2C69E0)
-‚s‚ˆ‚‰‚“ ‚‰‚“ ‚‰‚”I ‚s‚ˆ‚… ‚†‚‰‚Ž‚‚Œ ‚“‚ˆ‚‚—‚„‚‚—‚ŽI<line>
-‚o‚‚™ ‚ƒ‚Œ‚‚“‚… ‚‚”‚”‚…‚Ž‚”‚‰‚‚Ž ‚”‚ ‚l‚‚…f‚“ ‚‚„‚–‚‰‚ƒ‚…<line>
-‚‚Ž‚„ ‚‡‚‰‚–‚… ‚‰‚” ‚‚Œ‚Œ ‚™‚‚•f‚–‚… ‚‡‚‚”III<line>
+This is it! The final showdown!<line>
+Pay close attention to Moe's advice<line>
+and give it all you've got!!!<line>
 <:end><line>
 <end>
 
@@ -1163,8 +1163,8 @@
 
 #WRITE(GBA,$107B34)
 <line>
-‚o‚’‚…‚“‚“ <A> ‚”‚ ‚‡‚ ‚”‚ ‚”‚ˆ‚… h‚r‚”‚•‚†‚†h ‚‚…‚Ž‚•D<line>
-‚x‚‚• ‚ƒ‚‚Ž ‚ƒ‚ˆ‚‚Ž‚‡‚… ‚r‚”‚‚’‚†‚™f‚“ ‚Œ‚‚‚‹D<line>
+Press <A> to go to the "Stuff" menu.<line>
+You can change Starfy's look.<line>
 <:end><line>
 <end>
 
@@ -1174,9 +1174,9 @@
 //POINTER #0 @ $107B48 - STRING #0 @ $6442E8
 
 #WRITE(GBA,$107B48)
-‚o‚’‚…‚“‚“ <A> ‚”‚ ‚–‚‰‚…‚— ‚”‚ˆ‚… h‚j‚…‚™ ‚h‚”‚…‚‚“h ‚Œ‚‰‚“‚”D<line>
-‚x‚‚• ‚ƒ‚‚Ž ‚–‚‰‚…‚— ‚†‚‚•‚Ž‚„ ‚‰‚”‚…‚‚“ ‚‚Ž‚„<line>
-‚’‚…‚‚„ ‚”‚ˆ‚…‚‰‚’ ‚„‚…‚“‚ƒ‚’‚‰‚‚”‚‰‚‚ŽD<line>
+Press <A> to view the "Key Items" list.<line>
+You can view found items and<line>
+read their description.<line>
 <:end><line>
 <end>
 
@@ -1186,10 +1186,10 @@
 //POINTER #0 @ $107B5C - STRING #0 @ $644340
 
 #WRITE(GBA,$107B5C)
-‚o‚’‚…‚“‚“ <A> ‚”‚ ‚–‚‰‚…‚— ‚”‚ˆ‚… h‚u‚…‚ˆ‚‰‚ƒ‚Œ‚…h ‚Œ‚‰‚“‚”D<line>
-‚x‚‚• ‚ƒ‚‚Ž ‚“‚…‚… ‚ ‚Œ‚‰‚“‚” ‚‚† ‚’‚‰‚„‚…‚“<line>
-‚‚Ž‚„ ‚’‚…‚–‚‰‚…‚— ‚ˆ‚‚— ‚”‚ ‚•‚“‚… ‚”‚ˆ‚…‚D<line>
-‚o‚’‚…‚“‚“ <L> ‚‚’ <R> ‚”‚ ‚“‚ƒ‚’‚‚Œ‚Œ ‚•‚ ‚‚’ ‚„‚‚—‚Ž ‚ ‚‚‚‡‚…D<line>
+Press <A> to view the "Vehicle" list.<line>
+You can see a list of rides<line>
+and review how to use them.<line>
+Press <L> or <R> to scroll up or down a page.<line>
 <:end><line>
 <end>
 
@@ -1199,10 +1199,10 @@
 //POINTER #0 @ $107BA8 - STRING #0 @ $6443C0
 
 #WRITE(GBA,$107BA8)
-‚o‚’‚…‚“‚“ <A> ‚”‚ ‚–‚‰‚…‚— ‚”‚ˆ‚… h‚`‚ƒ‚”‚‰‚‚Ž‚“h ‚Œ‚‰‚“‚”D<line>
-‚x‚‚• ‚ƒ‚‚Ž ‚“‚…‚… ‚ ‚Œ‚‰‚“‚” ‚‚† ‚‚ƒ‚”‚‰‚‚Ž‚“<line>
-‚™‚‚•f‚–‚… ‚Œ‚…‚‚’‚Ž‚…‚„ ‚‚Ž ‚™‚‚•‚’ ‚‚„‚–‚…‚Ž‚”‚•‚’‚…D<line>
-‚o‚’‚…‚“‚“ <L> ‚‚’ <R> ‚”‚ ‚“‚ƒ‚’‚‚Œ‚Œ ‚•‚ ‚‚’ ‚„‚‚—‚Ž ‚ ‚‚‚‡‚…D<<line>
+Press <A> to view the "Actions" list.<line>
+You can see a list of actions<line>
+you've learned on your adventure.<line>
+Press <L> or <R> to scroll up or down a page.<<line>
 <:end><line>
 <end>
 

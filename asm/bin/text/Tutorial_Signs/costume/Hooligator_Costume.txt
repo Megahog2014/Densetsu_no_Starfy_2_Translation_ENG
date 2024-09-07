@@ -12,9 +12,9 @@
 
 #JMP(000000)
 
-‚o‚’‚…‚“‚“ ‚”‚ˆ‚… ‚r‚…‚Œ‚…‚ƒ‚”<line>
-‚a‚•‚”‚”‚‚Ž ‚”‚ ‚‚…‚’‚†‚‚’‚<line>
-‚ ‚l‚`‚r‚r‚h‚u‚d<line>
-‚ƒ‚‚“‚”‚•‚‚… ‚ƒ‚ˆ‚‚Ž‚‡‚…I<line>
+Press the Select<line>
+Button to perform<line>
+a MASSIVE<line>
+costume change!<line>
 <end>
 

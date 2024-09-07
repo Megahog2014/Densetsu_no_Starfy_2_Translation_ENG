@@ -14,9 +14,9 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚o‚t‚e‚e‚s‚n‚o@‚W|‚X<line>
+PUFFTOP 8-9<line>
 [<x_pos> <1><0>]<line>
 [<y_pos> <2><6>]<line>
-‚r‚”‚‚ ‚r‚—‚‰‚Ž‚‡‚‰‚Ž‚‡ ‚`‚’‚‚•‚Ž‚„ ‚r‚‚‰‚‹‚… ‚a‚‚Œ‚Œ‚“ ‚‰‚Ž ‚”‚ˆ‚… ‚c‚‚’‚‹I<line>
+Stop Swinging Around Spike Balls in the Dark!<line>
 <end>
 

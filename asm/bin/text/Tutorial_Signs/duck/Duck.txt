@@ -12,8 +12,8 @@
 
 #JMP(000000)
 
-‚o‚’‚…‚“‚“ ‚„‚‚—‚Ž ‚‚Ž<line>
-‚”‚ˆ‚… <Dpad> ‚”‚ ‚‚–‚‚‰‚„<line>
-‚‚‚‚“‚”‚‚ƒ‚Œ‚…‚“ ‚‚Ž‚„ ‚…‚Ž‚…‚‚‰‚…‚“I<line>
+Press down on<line>
+the <Dpad> to avoid<line>
+obstacles and enemies!<line>
 <end>
 

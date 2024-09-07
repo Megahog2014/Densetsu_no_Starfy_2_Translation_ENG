@@ -15,56 +15,56 @@
 <:sd><line>
 <:func> <3> <2> <1><line>
 <:se><line>
-<rname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
+<rname><diamond>Old Man Lobber<line>
 <:obj> <0> <4><line>
-‚n‚ˆI ‚x‚‚• ‚”‚—‚ ‚‚’‚’‚‰‚–‚…‚„ ‚’‚‰‚‡‚ˆ‚” ‚‚ ‚ƒ‚•‚…D<line>
-‚h ‚ˆ‚…‚‚’‚„ ‚…‚–‚…‚’‚™‚”‚ˆ‚‰‚‚‡ ‚†‚’‚‚ ‚”‚ˆ‚… ‚j‚‰‚‚‡ ‚‚† ‚o‚•‚†‚†‚”‚‚D<line>
+Oh! You two arrived right on cue.<line>
+I heard everything from the King of Pufftop.<line>
 <:c><line>
-<redname><diamond>‚l‚‚…<line>
+<redname><diamond>Moe<line>
 <:obj> <1> <4><line>
-‚m‚‚— ‚”‚ˆ‚‚”f‚“ ‚—‚ˆ‚‚” ‚hf‚ ‚”‚‚Œ‚‹‚‰‚f ‚‚‚‚‚•‚”I<line>
-‚s‚…‚Œ‚Œ ‚•‚“ ‚—‚ˆ‚‚” ‚—‚… ‚‡‚‚”‚”‚ ‚„‚ ‚”‚ˆ‚…‚D<line>
+Now that's what I'm talkin' about!<line>
+Tell us what we gotta do then.<line>
 <:c><line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
+<redname><diamond>Old Man Lobber<line>
 <:obj> <0> <4><line>
-‚m‚‚—C ‚‚‚—C ‚‚ ‚‚…‚…‚„ ‚”‚ ‚’‚•‚“‚ˆD<line>
-‚r‚”‚‚’‚†‚™ ‚‰‚“‚f‚” ‚‚’‚…‚‚‚’‚…‚„ ‚”‚ˆ‚… ‚—‚‚™ ‚ˆ‚… ‚‰‚“ ‚‚‚—D<line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚s‚ˆ‚‚“‚… ‚–‚‰‚Œ‚Œ‚‰‚‚‚“ ‚—‚‰‚Œ‚Œ ‚…‚‚“‚‰‚Œ‚™ ‚„‚‰‚“‚‚‚“‚… ‚‚† ‚™‚‚•<line>
-‚‰‚† ‚™‚‚• ‚Œ‚…‚‚–‚… ‚‚“ ‚™‚‚• ‚‚’‚…DDD<line>
+Now, now, no need to rush.<line>
+Starfy isn't prepared the way he is now.<line>
+<redname><diamond>Old Man Lobber<line>
+Those villians will easily dispose of you<line>
+if you leave as you are...<line>
 <:c><line>
-<redname><diamond>‚l‚‚…<line>
+<redname><diamond>Moe<line>
 <:obj> <1> <4><line>
-‚v‚ˆ‚‚‚‚‚‚”IH ‚g‚…‚™C ‚r‚”‚‚’‚†‚™I<line>
-<redname><diamond>‚l‚‚…<line>
-‚x‚‚• ‚„‚‰‚„‚f‚” ‚†‚‚’‚‡‚…‚” ‚‚Œ‚Œ ‚™‚‚•‚’ ‚‚‚‚‰‚Œ‚‰‚”‚‰‚…‚“<line>
-‚†‚’‚‚ ‚Œ‚‚“‚” ‚”‚‰‚‚… ‚„‚‰‚„ ‚™‚IH<line>
+Whaaaaat!? Hey, Starfy!<line>
+<redname><diamond>Moe<line>
+You didn't forget all your abilities<line>
+from last time did ya!?<line>
 <wait><:obj> <1> <0> <5><line>
-<rname><diamond>‚l‚‚…<line>
-‚x‚‚• ‚‚‚Œ‚‚ƒ‚‹‚ˆ‚…‚‚„I<line>
-‚h ‚ƒ‚‚f‚” ‚‚‚…‚Œ‚‰‚…‚–‚… ‚™‚‚•f‚–‚… ‚‡‚‚”‚”‚…‚ ‚“‚‚†‚”I<line>
+<rname><diamond>Moe<line>
+You blockhead!<line>
+I can't believe you've gotten soft!<line>
 <:c><line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
+<redname><diamond>Old Man Lobber<line>
 <:obj> <0> <4><line>
-‚x‚…‚Œ‚Œ‚‰‚‚‡ ‚‰‚“‚f‚” ‚‡‚‚‰‚‚‡ ‚”‚ ‚‡‚…‚” ‚•‚“ ‚‚‚™‚—‚ˆ‚…‚’‚…D<line>
-‚r‚”‚‚’‚†‚™DDD ‚hf‚–‚… ‚‚•‚” ‚•‚ ‚“‚‰‚‡‚‚“ ‚†‚‚’ ‚™‚‚• ‚‚‡‚‚‰‚D<line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚o‚’‚…‚“‚“ <textcolor_d>‚t‚ ‚‚ ‚”‚ˆ‚… ‚c|‚o‚‚„<textcolor_1> ‚‰‚ ‚‚’‚„‚…‚’ ‚”‚ ‚’‚…‚‚„<line>
-‚”‚ˆ‚…‚ ‚‚‚„ ‚’‚…‚‚…‚‚‚‚…‚’ ‚™‚‚•‚’ ‚‚‚‚‰‚Œ‚‰‚”‚‰‚…‚“I<line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚`‚Œ‚“‚C ‚™‚‚• ‚‹‚‚…‚— ‚”‚ˆ‚‚” <textcolor_d>‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚‰‚‚‡ ‚T<pearl>‚‚…‚‚’‚Œ‚“<textcolor_1><line>
-<textcolor_d>‚—‚‰‚Œ‚Œ ‚’‚…‚ƒ‚‚–‚…‚’ ‚ˆ‚…‚‚Œ‚”‚ˆ ‚—‚ˆ‚…‚ ‚™‚‚•f‚’‚… ‚ˆ‚•‚’‚”<textcolor_1>C ‚’‚‰‚‡‚ˆ‚”H<line>
+Yelling isn't going to get us anywhere.<line>
+Starfy... I've put up signs for you again.<line>
+<redname><diamond>Old Man Lobber<line>
+Press <textcolor_d>Up on the D-Pad<textcolor_1> in order to read<line>
+them and remember your abilities!<line>
+<redname><diamond>Old Man Lobber<line>
+Also, you knew that <textcolor_d>collecting 5<pearl>pearls<textcolor_1><line>
+<textcolor_d>will recover health when you're hurt<textcolor_1>, right?<line>
 <:c><line>
-<redname><diamond>‚l‚‚…<line>
+<redname><diamond>Moe<line>
 <:obj> <1> <4><line>
-‚s‚ƒ‚ˆC ‚h ‚‚‰‚f‚” ‚‚‚‚‚‚™‚“‚‰‚”‚”‚‰‚‚‡ ‚™‚‚•DDD<line>
-‚hf‚ ‚‡‚‚‰‚f ‚‚ ‚‚ˆ‚…‚‚„I ‚x‚‚• ‚‚‚…‚”‚”‚…‚’ ‚ˆ‚•‚’‚’‚™ ‚•‚I<line>
-‚r‚ˆ‚…‚…‚“‚ˆI<line>
+Tch, I ain't babysitting you...<line>
+I'm goin' on ahead! You better hurry up!<line>
+Sheesh!<line>
 <:c><line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
+<redname><diamond>Old Man Lobber<line>
 <:obj> <0> <4><line>
-‚f‚‚‚„ ‚Œ‚•‚ƒ‚‹I<line>
-‚hf‚Œ‚Œ ‚‚‚… ‚—‚‚‰‚”‚‰‚‚‡ ‚†‚‚’ ‚™‚‚• ‚•‚ ‚‚ˆ‚…‚‚„ ‚‚“ ‚—‚…‚Œ‚ŒD<line>
+Good luck!<line>
+I'll be waiting for you up ahead as well.<line>
 <wait><:sd><line>
 <:func> <2> <2> <1><line>
 <:se><line>

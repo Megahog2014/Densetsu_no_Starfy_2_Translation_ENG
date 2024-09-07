@@ -12,10 +12,10 @@
 
 #JMP(000000)
 
-‚s‚ˆ‚… <B> ‚a‚•‚”‚”‚‚<line>
-‚‚ƒ‚”‚‰‚–‚‚”‚…‚“ ‚”‚ˆ‚… ‚Š‚…‚”C<line>
-‚‡‚‰‚–‚‰‚‚‡ ‚™‚‚• ‚ ‚‚‚•‚’‚“‚”<line>
-‚‚† ‚“‚‚…‚…‚„ ‚‰‚ ‚”‚ˆ‚…<line>
-‚„‚‰‚’‚…‚ƒ‚”‚‰‚‚ ‚™‚‚• ‚ˆ‚‚Œ‚„I<line>
+The <B> Button<line>
+activates the jet,<line>
+giving you a burst<line>
+of speed in the<line>
+direction you hold!<line>
 <end>
 

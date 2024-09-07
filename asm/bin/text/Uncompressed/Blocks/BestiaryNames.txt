@@ -7,1415 +7,1415 @@
 #ACTIVETBL(Story)
 
 #WRITE(GBA,$2CB218)
-‚f‚•‚‚‚<end>
+Guppa<end>
 
 
 //POINTER #1 @ $2CB224 - STRING #1 @ $2CA684
 
 #WRITE(GBA,$2CB224)
-‚e‚Œ‚‚‚”‚•‚’‚”‚Œ‚…<end>
+Floaturtle<end>
 
 
 //POINTER #2 @ $2CB230 - STRING #2 @ $2CA690
 
 #WRITE(GBA,$2CB230)
-‚v‚‚ˆ‚‰ ‚v‚‚ˆ‚‰<end>
+Wahi Wahi<end>
 
 
 //POINTER #3 @ $2CB23C - STRING #3 @ $2CA69C
 
 #WRITE(GBA,$2CB23C)
-‚t‚Ž‚•<end>
+Unu<end>
 
 
 //POINTER #4 @ $2CB248 - STRING #4 @ $2CA6A4
 
 #WRITE(GBA,$2CB248)
-‚b‚Œ‚‰‚‚‚…‚’‚ƒ‚’‚‚‚<end>
+Clippercrab<end>
 
 
 //POINTER #5 @ $2CB254 - STRING #5 @ $2CA6B0
 
 #WRITE(GBA,$2CB254)
-‚c‚’‚‰‚†‚”‚•‚’‚”‚Œ‚…<end>
+Drifturtle<end>
 
 
 //POINTER #6 @ $2CB260 - STRING #6 @ $2CA6BC
 
 #WRITE(GBA,$2CB260)
-‚a‚‚’‚‚‚…‚„ ‚e‚Œ‚•‚„‚‡‚…<end>
+Barbed Fludge<end>
 
 
 //POINTER #7 @ $2CB26C - STRING #7 @ $2CA6C4
 
 #WRITE(GBA,$2CB26C)
-‚e‚‰‚“‚ˆ‚†‚Œ‚™<end>
+Fishfly<end>
 
 
 //POINTER #8 @ $2CB278 - STRING #8 @ $2CA6D0
 
 #WRITE(GBA,$2CB278)
-‚v‚‚–‚‚‰‚„<end>
+Wavoid<end>
 
 
 //POINTER #9 @ $2CB284 - STRING #9 @ $2CA6DC
 
 #WRITE(GBA,$2CB284)
-‚m‚‚‡‚<end>
+Nogo<end>
 
 
 //POINTER #10 @ $2CB290 - STRING #10 @ $2CA6EC
 
 #WRITE(GBA,$2CB290)
-‚n‚Œ‚„ ‚l‚‚Ž ‚k‚‚‚‚‚‚…‚’<end>
+Old Man Lobber<end>
 
 
 //POINTER #11 @ $2CB29C - STRING #11 @ $2CA6FC
 
 #WRITE(GBA,$2CB29C)
-‚l‚‚…<end>
+Moe<end>
 
 
 //POINTER #12 @ $2CB2A8 - STRING #12 @ $2CA708
 
 #WRITE(GBA,$2CB2A8)
-‚l‚…‚’‚‚‚‰‚„<end>
+Mermaid<end>
 
 
 //POINTER #13 @ $2CB2B4 - STRING #13 @ $2CA714
 
 #WRITE(GBA,$2CB2B4)
-‚g‚…‚’‚‚‚Ž<end>
+Herman<end>
 
 
 //POINTER #14 @ $2CB2C0 - STRING #14 @ $2CA720
 
 #WRITE(GBA,$2CB2C0)
-‚k‚‚–‚…‚Œ‚™<end>
+Lovely<end>
 
 
 //POINTER #15 @ $2CB2CC - STRING #15 @ $2CA72C
 
 #WRITE(GBA,$2CB2CC)
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P<end>
+Puchi Ogura #1<end>
 
 
 //POINTER #16 @ $2CB2D8 - STRING #16 @ $2CA740
 
 #WRITE(GBA,$2CB2D8)
-‚j‚‚Ž‚‹<end>
+Konk<end>
 
 
 //POINTER #17 @ $2CB2E4 - STRING #17 @ $2CA74C
 
 #WRITE(GBA,$2CB2E4)
-‚a‚…‚Œ‚Œ‚™‚‚‚‰‚’‚„<end>
+Bellybird<end>
 
 
 //POINTER #18 @ $2CB2F0 - STRING #18 @ $2CA75C
 
 #WRITE(GBA,$2CB2F0)
-‚i‚…‚Œ‚Œ‚™‚“‚‘‚•‚‰‚“‚ˆ<end>
+Jellysquish<end>
 
 
 //POINTER #19 @ $2CB2FC - STRING #19 @ $2CA764
 
 #WRITE(GBA,$2CB2FC)
-‚`‚„‚—‚‚‰‚”‚<end>
+Adwaito<end>
 
 
 //POINTER #20 @ $2CB308 - STRING #20 @ $2CA770
 
 #WRITE(GBA,$2CB308)
-‚e‚’‚‰‚š‚š‚‰‚š‚š‚Œ‚…<end>
+Frizzizzle<end>
 
 
 //POINTER #21 @ $2CB314 - STRING #21 @ $2CA77C
 
 #WRITE(GBA,$2CB314)
-‚s‚ˆ‚…‚’‚…‚‚‚‚Œ‚Œ<end>
+Thereball<end>
 
 
 //POINTER #22 @ $2CB320 - STRING #22 @ $2CA788
 
 #WRITE(GBA,$2CB320)
-‚o‚‰‚Ž‚‚‰‚Ž<end>
+Pinpin<end>
 
 
 //POINTER #23 @ $2CB32C - STRING #23 @ $2CA794
 
 #WRITE(GBA,$2CB32C)
-‚r‚Ž‚‚’‚‹<end>
+Snark<end>
 
 
 //POINTER #24 @ $2CB338 - STRING #24 @ $2CA79C
 
 #WRITE(GBA,$2CB338)
-‚v‚…‚…‚Ž‚‚ˆ<end>
+Weenah<end>
 
 
 //POINTER #25 @ $2CB344 - STRING #25 @ $2CA7A8
 
 #WRITE(GBA,$2CB344)
-‚f‚•‚‚‚<end>
+Guppo<end>
 
 
 //POINTER #26 @ $2CB350 - STRING #26 @ $2CA7B4
 
 #WRITE(GBA,$2CB350)
-‚m‚•‚‚‚‚‚Œ‚…<end>
+Nubble<end>
 
 
 //POINTER #27 @ $2CB35C - STRING #27 @ $2CA7C4
 
 #WRITE(GBA,$2CB35C)
-‚q‚•‚‚‚™<end>
+Ruby<end>
 
 
 //POINTER #28 @ $2CB368 - STRING #28 @ $2CA7D0
 
 #WRITE(GBA,$2CB368)
-‚n‚Œ‚„ ‚l‚‚Ž ‚l‚…‚ƒ‚ˆ‚‚Ž‚‰<end>
+Old Man Mechani<end>
 
 
 //POINTER #29 @ $2CB374 - STRING #29 @ $2CA7E0
 
 #WRITE(GBA,$2CB374)
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚Q<end>
+Puchi Ogura #2<end>
 
 
 //POINTER #30 @ $2CB380 - STRING #30 @ $2CA7F4
 
 #WRITE(GBA,$2CB380)
-‚s‚ˆ‚… ‚o‚…‚‹‚‰‚Ž‚‡ ‚c‚•‚ƒ‚‹<end>
+The Peking Duck<end>
 
 
 //POINTER #31 @ $2CB38C - STRING #31 @ $2CA808
 
 #WRITE(GBA,$2CB38C)
-‚o‚‚‰‚Ž‚”‚“‚‚…‚ƒ‚”‚…‚’<end>
+Pointspecter<end>
 
 
 //POINTER #32 @ $2CB398 - STRING #32 @ $2CA818
 
 #WRITE(GBA,$2CB398)
-‚q‚‚’‚…‚“‚ƒ‚‚Œ‚…<end>
+Rarescale<end>
 
 
 //POINTER #33 @ $2CB3A4 - STRING #33 @ $2CA824
 
 #WRITE(GBA,$2CB3A4)
-‚q‚™‚„‚…‚’<end>
+Ryder<end>
 
 
 //POINTER #34 @ $2CB3B0 - STRING #34 @ $2CA830
 
 #WRITE(GBA,$2CB3B0)
-‚r‚‚‰‚Ž‚Ž‚‰‚”<end>
+Spinnit<end>
 
 
 //POINTER #35 @ $2CB3BC - STRING #35 @ $2CA83C
 
 #WRITE(GBA,$2CB3BC)
-‚`‚Œ ‚fD<end>
+Al G.<end>
 
 
 //POINTER #36 @ $2CB3C8 - STRING #36 @ $2CA84C
 
 #WRITE(GBA,$2CB3C8)
-‚g‚•‚“‚ˆ‚‚‚’‚•‚“‚ˆ<end>
+Hushbrush<end>
 
 
 //POINTER #37 @ $2CB3D4 - STRING #37 @ $2CA854
 
 #WRITE(GBA,$2CB3D4)
-‚e‚Œ‚‰‚‡‚ˆ‚”‚“‚…‚…‚’<end>
+Flightseer<end>
 
 
 //POINTER #38 @ $2CB3E0 - STRING #38 @ $2CA860
 
 #WRITE(GBA,$2CB3E0)
-‚r‚‘‚•‚‰‚„‚‚‚•‚Œ‚”<end>
+Squidapult<end>
 
 
 //POINTER #39 @ $2CB3EC - STRING #39 @ $2CA86C
 
 #WRITE(GBA,$2CB3EC)
-‚n‚ˆ‚Ž‚<end>
+Ohno<end>
 
 
 //POINTER #40 @ $2CB3F8 - STRING #40 @ $2CA87C
 
 #WRITE(GBA,$2CB3F8)
-‚l‚‚‚ ‚s‚•‚’‚”‚Œ‚…<end>
+Mama Turtle<end>
 
 
 //POINTER #41 @ $2CB404 - STRING #41 @ $2CA888
 
 #WRITE(GBA,$2CB404)
-‚r‚ˆ‚…‚Œ‚Œ‚„‚…‚“‚”<end>
+Shelldest<end>
 
 
 //POINTER #42 @ $2CB410 - STRING #42 @ $2CA89C
 
 #WRITE(GBA,$2CB410)
-‚a‚’‚‚”‚Œ‚…<end>
+Brotle<end>
 
 
 //POINTER #43 @ $2CB41C - STRING #43 @ $2CA8AC
 
 #WRITE(GBA,$2CB41C)
-‚r‚‰‚“‚”‚•‚’‚”<end>
+Sisturt<end>
 
 
 //POINTER #44 @ $2CB428 - STRING #44 @ $2CA8C0
 
 #WRITE(GBA,$2CB428)
-‚f‚‚‡‚‚Ž‚‚<end>
+Gaganmo<end>
 
 
 //POINTER #45 @ $2CB434 - STRING #45 @ $2CA8CC
 
 #WRITE(GBA,$2CB434)
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚R<end>
+Puchi Ogura #3<end>
 
 
 //POINTER #46 @ $2CB440 - STRING #46 @ $2CA8E0
 
 #WRITE(GBA,$2CB440)
-‚j‚‰‚’‚…‚‚‚”‚ˆ<end>
+Kiremoth<end>
 
 
 //POINTER #47 @ $2CB44C - STRING #47 @ $2CA8EC
 
 #WRITE(GBA,$2CB44C)
-‚o‚‰‚Ž‚‡‚‚‚Ž<end>
+Pingoon<end>
 
 
 //POINTER #48 @ $2CB458 - STRING #48 @ $2CA8F8
 
 #WRITE(GBA,$2CB458)
-‚b‚ˆ‚‚‚‚™<end>
+Choby<end>
 
 
 //POINTER #49 @ $2CB464 - STRING #49 @ $2CA904
 
 #WRITE(GBA,$2CB464)
-‚l‚‰‚‰‚‚‰‚‰<end>
+Miimii<end>
 
 
 //POINTER #50 @ $2CB470 - STRING #50 @ $2CA910
 
 #WRITE(GBA,$2CB470)
-‚h‚ƒ‚… ‚f‚•‚™<end>
+Ice Guy<end>
 
 
 //POINTER #51 @ $2CB47C - STRING #51 @ $2CA91C
 
 #WRITE(GBA,$2CB47C)
-‚c‚…‚‚„‚…‚™‚…<end>
+Deadeye<end>
 
 
 //POINTER #52 @ $2CB488 - STRING #52 @ $2CA928
 
 #WRITE(GBA,$2CB488)
-‚g‚‚Œ‚‚‚‰‚’‚„<end>
+Halbird<end>
 
 
 //POINTER #53 @ $2CB494 - STRING #53 @ $2CA934
 
 #WRITE(GBA,$2CB494)
-‚f‚™‚’‚‚“‚ˆ‚…‚Œ‚Œ<end>
+Gyrashell<end>
 
 
 //POINTER #54 @ $2CB4A0 - STRING #54 @ $2CA940
 
 #WRITE(GBA,$2CB4A0)
-‚a‚‚‚‚†‚‰‚Ž<end>
+Bobfin<end>
 
 
 //POINTER #55 @ $2CB4AC - STRING #55 @ $2CA94C
 
 #WRITE(GBA,$2CB4AC)
-‚u‚‚™‚‚Š‚…‚’‚‹<end>
+Voyajerk<end>
 
 
 //POINTER #56 @ $2CB4B8 - STRING #56 @ $2CA958
 
 #WRITE(GBA,$2CB4B8)
-‚t‚‚‚Ž<end>
+Upon<end>
 
 
 //POINTER #57 @ $2CB4C4 - STRING #57 @ $2CA964
 
 #WRITE(GBA,$2CB4C4)
-‚s‚‚‡‚…‚’‚‰‚Ž‚•<end>
+Togerinu<end>
 
 
 //POINTER #58 @ $2CB4D0 - STRING #58 @ $2CA970
 
 #WRITE(GBA,$2CB4D0)
-‚s‚‚‡‚…‚’‚‰‚Ž‚<end>
+Togerino<end>
 
 
 //POINTER #59 @ $2CB4DC - STRING #59 @ $2CA97C
 
 #WRITE(GBA,$2CB4DC)
-‚s‚ˆ‚… ‚i‚…‚Œ‚Œ‚‚”‚ ‚r‚‰‚‚‚Œ‚‰‚Ž‚‡‚“<end>
+The Jellato Siblings<end>
 
 
 //POINTER #60 @ $2CB4E8 - STRING #60 @ $2CA98C
 
 #WRITE(GBA,$2CB4E8)
-‚s‚‚’‚‰‚”‚<end>
+Torito<end>
 
 
 //POINTER #61 @ $2CB4F4 - STRING #61 @ $2CA998
 
 #WRITE(GBA,$2CB4F4)
-‚r‚‚–‚‚‹‚<end>
+Savako<end>
 
 
 //POINTER #62 @ $2CB500 - STRING #62 @ $2CA9A4
 
 #WRITE(GBA,$2CB500)
-‚g‚‰‚’‚‚<end>
+Hirao<end>
 
 
 //POINTER #63 @ $2CB50C - STRING #63 @ $2CA9AC
 
 #WRITE(GBA,$2CB50C)
-‚g‚‰‚’‚‚’‚‰‚Ž<end>
+Hirarin<end>
 
 
 //POINTER #64 @ $2CB518 - STRING #64 @ $2CA9B8
 
 #WRITE(GBA,$2CB518)
-‚n‚‚‹‚‰‚„‚“<end>
+Ookids<end>
 
 
 //POINTER #65 @ $2CB524 - STRING #65 @ $2CA9C4
 
 #WRITE(GBA,$2CB524)
-‚b‚‚‚Œ‚‚‚‰‚…‚“<end>
+Coalbies<end>
 
 
 //POINTER #66 @ $2CB530 - STRING #66 @ $2CA9D0
 
 #WRITE(GBA,$2CB530)
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚S<end>
+Puchi Ogura #4<end>
 
 
 //POINTER #67 @ $2CB53C - STRING #67 @ $2CA9D0
 
 #WRITE(GBA,$2CB53C)
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚S<end>
+Puchi Ogura #4<end>
 
 
 //POINTER #68 @ $2CB548 - STRING #68 @ $2CA9E4
 
 #WRITE(GBA,$2CB548)
-‚l‚‚Ž‚„‚‚‡‚‚’‚<end>
+Mandogora<end>
 
 
 //POINTER #69 @ $2CB554 - STRING #69 @ $2CA9F4
 
 #WRITE(GBA,$2CB554)
-‚a‚‚”‚”‚‚ƒ‚‹<end>
+Battack<end>
 
 
 //POINTER #70 @ $2CB560 - STRING #70 @ $2CAA00
 
 #WRITE(GBA,$2CB560)
-‚m‚‚“‚” ‚dD<end>
+Nast E.<end>
 
 
 //POINTER #71 @ $2CB56C - STRING #71 @ $2CAA10
 
 #WRITE(GBA,$2CB56C)
-‚v‚‰‚“‚‚†‚•‚Œ<end>
+Wispful<end>
 
 
 //POINTER #72 @ $2CB578 - STRING #72 @ $2CAA1C
 
 #WRITE(GBA,$2CB578)
-‚k‚‚Ž‚”‚‚Ž‚‡‚•‚…<end>
+Lantongue<end>
 
 
 //POINTER #73 @ $2CB584 - STRING #73 @ $2CAA28
 
 #WRITE(GBA,$2CB584)
-‚r‚‹‚•‚Œ‚Œ‚‚‰‚Ž<end>
+Skullpin<end>
 
 
 //POINTER #74 @ $2CB590 - STRING #74 @ $2CAA34
 
 #WRITE(GBA,$2CB590)
-‚o‚…‚…‚‚ƒ‚ˆ‚…‚…‚<end>
+Peepcheep<end>
 
 
 //POINTER #75 @ $2CB59C - STRING #75 @ $2CAA40
 
 #WRITE(GBA,$2CB59C)
-‚o‚…‚‚’‚Œ ‚r‚‚’‚‰‚”‚…<end>
+Pearl Sprite<end>
 
 
 //POINTER #76 @ $2CB5A8 - STRING #76 @ $2CAA50
 
 #WRITE(GBA,$2CB5A8)
-‚o‚•‚’‚’‚‚Ž‚ˆ‚<end>
+Purranha<end>
 
 
 //POINTER #77 @ $2CB5B4 - STRING #77 @ $2CAA5C
 
 #WRITE(GBA,$2CB5B4)
-‚r‚…‚’‚‚’‚‰‚“‚…<end>
+Serprise<end>
 
 
 //POINTER #78 @ $2CB5C0 - STRING #78 @ $2CAA68
 
 #WRITE(GBA,$2CB5C0)
-‚n‚’‚‰‚“‚•<end>
+Orisu<end>
 
 
 //POINTER #79 @ $2CB5CC - STRING #79 @ $2CAA70
 
 #WRITE(GBA,$2CB5CC)
-‚j‚‚’‚‰‚“‚•<end>
+Korisu<end>
 
 
 //POINTER #80 @ $2CB5D8 - STRING #80 @ $2CAA78
 
 #WRITE(GBA,$2CB5D8)
-‚r‚ˆ‚•‚’‚‰‚‹‚‰‚”<end>
+Shurikit<end>
 
 
 //POINTER #81 @ $2CB5E4 - STRING #81 @ $2CAA84
 
 #WRITE(GBA,$2CB5E4)
-‚j‚‚‚‚Ž‚…<end>
+Kamone<end>
 
 
 //POINTER #82 @ $2CB5F0 - STRING #82 @ $2CAA90
 
 #WRITE(GBA,$2CB5F0)
-‚n‚Œ‚„ ‚l‚‚Ž ‚f‚’‚‰‚š‚š‚Œ‚™<end>
+Old Man Grizzly<end>
 
 
 //POINTER #83 @ $2CB5FC - STRING #83 @ $2CAA9C
 
 #WRITE(GBA,$2CB5FC)
-‚u‚‰‚–‚<end>
+Viva<end>
 
 
 //POINTER #84 @ $2CB608 - STRING #84 @ $2CAAA4
 
 #WRITE(GBA,$2CB608)
-‚o‚•‚’‚“‚Œ‚…‚™<end>
+Pursley<end>
 
 
 //POINTER #85 @ $2CB614 - STRING #85 @ $2CAAB0
 
 #WRITE(GBA,$2CB614)
-‚l‚‚‚Ž<end>
+Moon<end>
 
 
 //POINTER #86 @ $2CB620 - STRING #86 @ $2CAAB8
 
 #WRITE(GBA,$2CB620)
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚T<end>
+Puchi Ogura #5<end>
 
 
 //POINTER #87 @ $2CB62C - STRING #87 @ $2CAACC
 
 #WRITE(GBA,$2CB62C)
-‚m‚•‚‚‚Ž<end>
+Numan<end>
 
 
 //POINTER #88 @ $2CB638 - STRING #88 @ $2CAAD8
 
 #WRITE(GBA,$2CB638)
-‚i‚…‚Œ‚Œ‚“‚‚‰‚‹‚…<end>
+Jellspike<end>
 
 
 //POINTER #89 @ $2CB644 - STRING #89 @ $2CAAE0
 
 #WRITE(GBA,$2CB644)
-‚a‚Œ‚‰‚Ž‚‹‚†‚‰‚Ž<end>
+Blinkfin<end>
 
 
 //POINTER #90 @ $2CB650 - STRING #90 @ $2CAAEC
 
 #WRITE(GBA,$2CB650)
-‚v‚‚‹‚‚š‚‚“‚ˆ‚‰<end>
+Wakazashi<end>
 
 
 //POINTER #91 @ $2CB65C - STRING #91 @ $2CAAF8
 
 #WRITE(GBA,$2CB65C)
-‚f‚Œ‚‚“‚“‚™‚“‚‘‚•‚‰‚“‚ˆ<end>
+Glassysquish<end>
 
 
 //POINTER #92 @ $2CB668 - STRING #92 @ $2CAB04
 
 #WRITE(GBA,$2CB668)
-‚c‚’‚•‚•‚Œ<end>
+Druul<end>
 
 
 //POINTER #93 @ $2CB674 - STRING #93 @ $2CAB0C
 
 #WRITE(GBA,$2CB674)
-‚f‚•‚‚‚‰‚…‚’‚ƒ‚…<end>
+Guppierce<end>
 
 
 //POINTER #94 @ $2CB680 - STRING #94 @ $2CAB18
 
 #WRITE(GBA,$2CB680)
-‚n‚ƒ‚”‚‚‚•‚Œ‚”<end>
+Octopult<end>
 
 
 //POINTER #95 @ $2CB68C - STRING #95 @ $2CAB24
 
 #WRITE(GBA,$2CB68C)
-‚r‚—‚‰‚Ž‚…‚†‚Œ‚…‚—<end>
+Swineflew<end>
 
 
 //POINTER #96 @ $2CB698 - STRING #96 @ $2CAB2C
 
 #WRITE(GBA,$2CB698)
-‚a‚‚„‚‚‚‚‚Ž<end>
+Badboon<end>
 
 
 //POINTER #97 @ $2CB6A4 - STRING #97 @ $2CAB38
 
 #WRITE(GBA,$2CB6A4)
-‚d‚…‚Œ‚‚’‚‚…‚„<end>
+Eelarmed<end>
 
 
 //POINTER #98 @ $2CB6B0 - STRING #98 @ $2CAB44
 
 #WRITE(GBA,$2CB6B0)
-‚b‚‚’‚Ž‚‰‚ƒ‚‚’‚‰‚‚‚<end>
+Carnicariba<end>
 
 
 //POINTER #99 @ $2CB6BC - STRING #99 @ $2CAB50
 
 #WRITE(GBA,$2CB6BC)
-‚a‚‰‚‡ ‚m‚‰‚ƒ‚‹<end>
+Big Nick<end>
 
 
 //POINTER #100 @ $2CB6C8 - STRING #100 @ $2CAB60
 
 #WRITE(GBA,$2CB6C8)
-‚b‚‚…<end>
+Cae<end>
 
 
 //POINTER #101 @ $2CB6D4 - STRING #101 @ $2CAB68
 
 #WRITE(GBA,$2CB6D4)
-‚g‚•‚‚•<end>
+Humu<end>
 
 
 //POINTER #102 @ $2CB6E0 - STRING #102 @ $2CAB70
 
 #WRITE(GBA,$2CB6E0)
-‚s‚‚’‚’‚…‚Ž<end>
+Torren<end>
 
 
 //POINTER #103 @ $2CB6EC - STRING #103 @ $2CAB78
 
 #WRITE(GBA,$2CB6EC)
-‚k‚‚‚‚™‚’‚…<end>
+Lampyre<end>
 
 
 //POINTER #104 @ $2CB6F8 - STRING #104 @ $2CAB84
 
 #WRITE(GBA,$2CB6F8)
-‚v‚‚š‚‚’‚”<end>
+Wozart<end>
 
 
 //POINTER #105 @ $2CB704 - STRING #105 @ $2CAB94
 
 #WRITE(GBA,$2CB704)
-‚b‚ˆ‚•‚”‚‚ˆ<end>
+Chutah<end>
 
 
 //POINTER #106 @ $2CB710 - STRING #106 @ $2CABA0
 
 #WRITE(GBA,$2CB710)
-‚a‚‚’‚’‚…‚Œ ‚r‚‘‚•‚‰‚„<end>
+Barrel Squid<end>
 
 
 //POINTER #107 @ $2CB71C - STRING #107 @ $2CABAC
 
 #WRITE(GBA,$2CB71C)
-‚a‚‰‚‡ ‚a‚‚’‚’‚…‚Œ ‚r‚‘‚•‚‰‚„<end>
+Big Barrel Squid<end>
 
 
 //POINTER #108 @ $2CB728 - STRING #108 @ $2CABBC
 
 #WRITE(GBA,$2CB728)
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚U<end>
+Puchi Ogura #6<end>
 
 
 //POINTER #109 @ $2CB734 - STRING #109 @ $2CABD0
 
 #WRITE(GBA,$2CB734)
-‚s‚‚•‚‡‚ˆ ‚f‚•‚™ ‚b‚‚“‚”‚•‚‚…<end>
+Tough Guy Costume<end>
 
 
 //POINTER #110 @ $2CB740 - STRING #110 @ $2CABDC
 
 #WRITE(GBA,$2CB740)
-‚t‚Ž‚‰‚ˆ‚‚’‚Ž<end>
+Unihorn<end>
 
 
 //POINTER #111 @ $2CB74C - STRING #111 @ $2CABE8
 
 #WRITE(GBA,$2CB74C)
-‚f‚ˆ‚…‚‰‚“‚ƒ‚ˆ‚”<end>
+Gheischt<end>
 
 
 //POINTER #112 @ $2CB758 - STRING #112 @ $2CABF4
 
 #WRITE(GBA,$2CB758)
-‚n‚‚‡‚<end>
+Ooga<end>
 
 
 //POINTER #113 @ $2CB764 - STRING #113 @ $2CABFC
 
 #WRITE(GBA,$2CB764)
-‚j‚‚“‚‚‹‚‚“‚<end>
+Kasakasa<end>
 
 
 //POINTER #114 @ $2CB770 - STRING #114 @ $2CAC08
 
 #WRITE(GBA,$2CB770)
-‚o‚‰‚”‚‚‚‰‚”‚<end>
+Pitapita<end>
 
 
 //POINTER #115 @ $2CB77C - STRING #115 @ $2CAC14
 
 #WRITE(GBA,$2CB77C)
-‚o‚‰‚š‚š‚‚<end>
+Pizzap<end>
 
 
 //POINTER #116 @ $2CB788 - STRING #116 @ $2CAC1C
 
 #WRITE(GBA,$2CB788)
-‚f‚Œ‚•‚Ž‚‹<end>
+Glunk<end>
 
 
 //POINTER #117 @ $2CB794 - STRING #117 @ $2CAC28
 
 #WRITE(GBA,$2CB794)
-‚a‚‚†‚Œ‚™‚Ž‚…<end>
+Boflyne<end>
 
 
 //POINTER #118 @ $2CB7A0 - STRING #118 @ $2CAC30
 
 #WRITE(GBA,$2CB7A0)
-‚q‚‰‚„‚‚‡‚•‚Œ‚‚•‚“<end>
+Ridogulous<end>
 
 
 //POINTER #119 @ $2CB7AC - STRING #119 @ $2CAC3C
 
 #WRITE(GBA,$2CB7AC)
-‚h‚“‚‚‡‚‰‚Ž<end>
+Isogin<end>
 
 
 //POINTER #120 @ $2CB7B8 - STRING #120 @ $2CAC48
 
 #WRITE(GBA,$2CB7B8)
-‚r‚‚…‚ƒ‚•‚Œ‚‚‰‚’<end>
+Speculair<end>
 
 
 //POINTER #121 @ $2CB7C4 - STRING #121 @ $2CAC54
 
 #WRITE(GBA,$2CB7C4)
-‚d‚™‚…‚š‚‚’<end>
+Eyezor<end>
 
 
 //POINTER #122 @ $2CB7D0 - STRING #122 @ $2CAC5C
 
 #WRITE(GBA,$2CB7D0)
-‚e‚‚’‚‹<end>
+Fork<end>
 
 
 //POINTER #123 @ $2CB7DC - STRING #123 @ $2CAC68
 
 #WRITE(GBA,$2CB7DC)
-‚f‚•‚‰‚„‚‚Ž‚Ž‚<end>
+Guidonna<end>
 
 
 //POINTER #124 @ $2CB7E8 - STRING #124 @ $2CAC74
 
 #WRITE(GBA,$2CB7E8)
-‚s‚ˆ‚… ‚b‚’‚‚— ‚e‚‚‚‰‚Œ‚™<end>
+The Craw Family<end>
 
 
 //POINTER #125 @ $2CB7F4 - STRING #125 @ $2CAC84
 
 #WRITE(GBA,$2CB7F4)
-‚e‚‚” ‚b‚‚”<end>
+Fat Cat<end>
 
 
 //POINTER #126 @ $2CB800 - STRING #126 @ $2CAC90
 
 #WRITE(GBA,$2CB800)
-‚j‚‰‚” ‚e‚‰‚“‚ˆ<end>
+Kit Fish<end>
 
 
 //POINTER #127 @ $2CB80C - STRING #127 @ $2CAC9C
 
 #WRITE(GBA,$2CB80C)
-‚s‚‚‰‚‚‚Œ‚‚Ž‚„<end>
+Taiblond<end>
 
 
 //POINTER #128 @ $2CB818 - STRING #128 @ $2CACAC
 
 #WRITE(GBA,$2CB818)
-‚o‚’‚‚†‚…‚“‚“‚‚‚’<end>
+Professoar<end>
 
 
 //POINTER #129 @ $2CB824 - STRING #129 @ $2CACB8
 
 #WRITE(GBA,$2CB824)
-‚s‚•‚”‚—‚…‚…‚”‚“<end>
+Tutweets<end>
 
 
 //POINTER #130 @ $2CB830 - STRING #130 @ $2CACC4
 
 #WRITE(GBA,$2CB830)
-‚g‚‚’‚•‚Ž<end>
+Horun<end>
 
 
 //POINTER #131 @ $2CB83C - STRING #131 @ $2CACD0
 
 #WRITE(GBA,$2CB83C)
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚V<end>
+Puchi Ogura #7<end>
 
 
 //POINTER #132 @ $2CB848 - STRING #132 @ $2CACE4
 
 #WRITE(GBA,$2CB848)
-‚l‚‚Ž‚„‚|‚i‚…‚”<end>
+Manda-Jet<end>
 
 
 //POINTER #133 @ $2CB854 - STRING #133 @ $2CACF4
 
 #WRITE(GBA,$2CB854)
-‚b‚‚Œ‚‚‚‰‚Ž‚…‚’<end>
+Calaminer<end>
 
 
 //POINTER #134 @ $2CB860 - STRING #134 @ $2CAD00
 
 #WRITE(GBA,$2CB860)
-‚i‚•‚‚‚™‚’‚…<end>
+Jumpyre<end>
 
 
 //POINTER #135 @ $2CB86C - STRING #135 @ $2CAD0C
 
 #WRITE(GBA,$2CB86C)
-‚r‚…‚|‚l‚‰‚‰<end>
+Sea-Mii<end>
 
 
 //POINTER #136 @ $2CB878 - STRING #136 @ $2CAD18
 
 #WRITE(GBA,$2CB878)
-‚e‚Œ‚•‚”‚”‚…‚’‚Œ‚‰‚…<end>
+Flutterlie<end>
 
 
 //POINTER #137 @ $2CB884 - STRING #137 @ $2CAD28
 
 #WRITE(GBA,$2CB884)
-‚t‚‚‚…‚’‚‚•‚Ž‚ƒ‚ˆ<end>
+Ubermunch<end>
 
 
 //POINTER #138 @ $2CB890 - STRING #138 @ $2CAD34
 
 #WRITE(GBA,$2CB890)
-‚g‚‚‚‚Œ‚‚<end>
+Hopalop<end>
 
 
 //POINTER #139 @ $2CB89C - STRING #139 @ $2CAD40
 
 #WRITE(GBA,$2CB89C)
-‚r‚‹‚•‚Œ‚Œ‚‚‚<end>
+Skulloop<end>
 
 
 //POINTER #140 @ $2CB8A8 - STRING #140 @ $2CAD4C
 
 #WRITE(GBA,$2CB8A8)
-‚r‚‹‚…‚Œ‚…‚†‚‰‚Ž<end>
+Skelefin<end>
 
 
 //POINTER #141 @ $2CB8B4 - STRING #141 @ $2CAD58
 
 #WRITE(GBA,$2CB8B4)
-‚r‚‹‚•‚Œ‚Œ‚‚†‚‰‚Ž<end>
+Skullofin<end>
 
 
 //POINTER #142 @ $2CB8C0 - STRING #142 @ $2CAD64
 
 #WRITE(GBA,$2CB8C0)
-‚r‚”‚|‚ƒ‚ˆ‚‚<end>
+Sta-choo<end>
 
 
 //POINTER #143 @ $2CB8CC - STRING #143 @ $2CAD78
 
 #WRITE(GBA,$2CB8CC)
-‚d‚–‚…‚’‚™ ‚d‚™‚…<end>
+Every Eye<end>
 
 
 //POINTER #144 @ $2CB8D8 - STRING #144 @ $2CAD84
 
 #WRITE(GBA,$2CB8D8)
-‚o‚•‚†‚†‚”‚‚ ‚f‚•‚‚’‚„<end>
+Pufftop Guard<end>
 
 
 //POINTER #145 @ $2CB8E4 - STRING #145 @ $2CAD94
 
 #WRITE(GBA,$2CB8E4)
-‚o‚•‚†‚†‚”‚‚ ‚j‚‰‚„‚“<end>
+Pufftop Kids<end>
 
 
 //POINTER #146 @ $2CB8F0 - STRING #146 @ $2CADA4
 
 #WRITE(GBA,$2CB8F0)
-‚c‚’‚‚‡‚‚‚‚’‚‚—‚“<end>
+Dragobrows<end>
 
 
 //POINTER #147 @ $2CB8FC - STRING #147 @ $2CADB0
 
 #WRITE(GBA,$2CB8FC)
-‚a‚‚—‚“‚“<end>
+Bawss<end>
 
 
 //POINTER #148 @ $2CB908 - STRING #148 @ $2CADC0
 
 #WRITE(GBA,$2CB908)
-‚r‚‘‚•‚‰‚’‚” ”‚P<end>
+Squirt #1<end>
 
 
 //POINTER #149 @ $2CB914 - STRING #149 @ $2CADD4
 
 #WRITE(GBA,$2CB914)
-‚r‚‘‚•‚‰‚’‚” ”‚Q<end>
+Squirt #2<end>
 
 
 //POINTER #150 @ $2CB920 - STRING #150 @ $2CADE8
 
 #WRITE(GBA,$2CB920)
-‚r‚‘‚•‚‰‚’‚” ”‚R<end>
+Squirt #3<end>
 
 
 //POINTER #151 @ $2CB92C - STRING #151 @ $2CADFC
 
 #WRITE(GBA,$2CB92C)
-‚r‚‘‚•‚‰‚’‚” ”‚S<end>
+Squirt #4<end>
 
 
 //POINTER #152 @ $2CB938 - STRING #152 @ $2CAE10
 
 #WRITE(GBA,$2CB938)
-‚i‚…‚—‚…‚Œ‚Œ‚™<end>
+Jewelly<end>
 
 
 //POINTER #153 @ $2CB944 - STRING #153 @ $2CAE1C
 
 #WRITE(GBA,$2CB944)
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚W<end>
+Puchi Ogura #8<end>
 
 
 //POINTER #154 @ $2CB950 - STRING #154 @ $2CAE30
 
 #WRITE(GBA,$2CB950)
-‚x‚•‚’‚‰‚‹‚‚’‚•‚‡‚<end>
+Yurikarugo<end>
 
 
 //POINTER #155 @ $2CB95C - STRING #155 @ $2CAE3C
 
 #WRITE(GBA,$2CB95C)
-‚b‚‚Œ‚•‚‚‚‚‰‚„‚…‚”<end>
+Columbidet<end>
 
 
 //POINTER #156 @ $2CB968 - STRING #156 @ $2CAE48
 
 #WRITE(GBA,$2CB968)
-‚r‚ˆ‚‚’‚‹‚‚‚•‚Œ‚”<end>
+Sharkapult<end>
 
 
 //POINTER #157 @ $2CB974 - STRING #157 @ $2CAE54
 
 #WRITE(GBA,$2CB974)
-‚o‚‚”‚’‚‚Œ ‚b‚’‚‚‚<end>
+Patrol Crab<end>
 
 
 //POINTER #158 @ $2CB980 - STRING #158 @ $2CAE60
 
 #WRITE(GBA,$2CB980)
-‚`‚‹‚‹‚‚•<end>
+Akkou<end>
 
 
 //POINTER #159 @ $2CB98C - STRING #159 @ $2CAE6C
 
 #WRITE(GBA,$2CB98C)
-‚b‚ˆ‚•‚‚‚‚’‚…‚Œ‚Œ‚<end>
+Chumbrella<end>
 
 
 //POINTER #160 @ $2CB998 - STRING #160 @ $2CAE78
 
 #WRITE(GBA,$2CB998)
-‚e‚‚“‚“‚…‚–‚‰‚Œ<end>
+Fossevil<end>
 
 
 //POINTER #161 @ $2CB9A4 - STRING #161 @ $2CAE88
 
 #WRITE(GBA,$2CB9A4)
-‚`‚Œ‚‚‚Ž‚”‚<end>
+Almonto<end>
 
 
 //POINTER #162 @ $2CB9B0 - STRING #162 @ $2CAE94
 
 #WRITE(GBA,$2CB9B0)
-‚v‚ˆ‚‚|‚b‚’‚‚—<end>
+Whoa-Crow<end>
 
 
 //POINTER #163 @ $2CB9BC - STRING #163 @ $2CAEA0
 
 #WRITE(GBA,$2CB9BC)
-‚r‚‚Ž‚„ ‚r‚Ž‚‚’‚‹<end>
+Sand Snark<end>
 
 
 //POINTER #164 @ $2CB9C8 - STRING #164 @ $2CAEA8
 
 #WRITE(GBA,$2CB9C8)
-‚k‚‚Ž‚‡‚—‚‚Ž<end>
+Longwon<end>
 
 
 //POINTER #165 @ $2CB9D4 - STRING #165 @ $2CAEB4
 
 #WRITE(GBA,$2CB9D4)
-‚b‚ˆ‚•‚ƒ‚‹‚‹‚‚—<end>
+Chuckkow<end>
 
 
 //POINTER #166 @ $2CB9E0 - STRING #166 @ $2CAEC0
 
 #WRITE(GBA,$2CB9E0)
-‚f‚‰‚Ž‚Š‚‰<end>
+Ginji<end>
 
 
 //POINTER #167 @ $2CB9EC - STRING #167 @ $2CAEC8
 
 #WRITE(GBA,$2CB9EC)
-‚a‚•‚™‚‚™‚‚Ž<end>
+Buyoyon<end>
 
 
 //POINTER #168 @ $2CB9F8 - STRING #168 @ $2CAED4
 
 #WRITE(GBA,$2CB9F8)
-‚e‚•‚Ž‚‚š‚‚•<end>
+Funazou<end>
 
 
 //POINTER #169 @ $2CBA04 - STRING #169 @ $2CAEE0
 
 #WRITE(GBA,$2CBA04)
-‚q‚…‚“‚“‚‰‚…<end>
+Ressie<end>
 
 
 //POINTER #170 @ $2CBA10 - STRING #170 @ $2CAEEC
 
 #WRITE(GBA,$2CBA10)
-‚k‚‚–‚…‚Œ‚‚–‚…<end>
+Lovelove<end>
 
 
 //POINTER #171 @ $2CBA1C - STRING #171 @ $2CAEF8
 
 #WRITE(GBA,$2CBA1C)
-‚k‚‚–‚…‚’‚‰‚Ž<end>
+Loverin<end>
 
 
 //POINTER #172 @ $2CBA28 - STRING #172 @ $2CAF04
 
 #WRITE(GBA,$2CBA28)
-‚i‚‚—‚Š‚‰‚’‚<end>
+Jawjiro<end>
 
 
 //POINTER #173 @ $2CBA34 - STRING #173 @ $2CAF14
 
 #WRITE(GBA,$2CBA34)
-‚e‚Œ‚•‚†‚†‚™<end>
+Fluffy<end>
 
 
 //POINTER #174 @ $2CBA40 - STRING #174 @ $2CAF20
 
 #WRITE(GBA,$2CBA40)
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚X<end>
+Puchi Ogura #9<end>
 
 
 //POINTER #175 @ $2CBA4C - STRING #175 @ $2CAF34
 
 #WRITE(GBA,$2CBA4C)
-‚i‚‰‚‰‚™‚‚Ž<end>
+Jiiyan<end>
 
 
 //POINTER #176 @ $2CBA58 - STRING #176 @ $2CAF40
 
 #WRITE(GBA,$2CBA58)
-‚n‚•‚’‚‚‚‚‚’‚‚‚‚<end>
+Ouroborobo<end>
 
 
 //POINTER #177 @ $2CBA64 - STRING #177 @ $2CAF4C
 
 #WRITE(GBA,$2CBA64)
-‚r‚ˆ‚‚‹‚‹‚…<end>
+Shakke<end>
 
 
 //POINTER #178 @ $2CBA70 - STRING #178 @ $2CAF58
 
 #WRITE(GBA,$2CBA70)
-‚c‚‚‹‚‚š‚•‚Ž<end>
+Dokazun<end>
 
 
 //POINTER #179 @ $2CBA7C - STRING #179 @ $2CAF64
 
 #WRITE(GBA,$2CBA7C)
-‚q‚‚Ž‚Ž‚‚Ž<end>
+Rannan<end>
 
 
 //POINTER #180 @ $2CBA88 - STRING #180 @ $2CAF70
 
 #WRITE(GBA,$2CBA88)
-‚q‚‚ƒ‚‹ ‚o‚•‚Ž‚‹<end>
+Rock Punk<end>
 
 
 //POINTER #181 @ $2CBA94 - STRING #181 @ $2CAF7C
 
 #WRITE(GBA,$2CBA94)
-‚n‚ƒ‚”‚‚†‚’‚<end>
+Octofro<end>
 
 
 //POINTER #182 @ $2CBAA0 - STRING #182 @ $2CAF88
 
 #WRITE(GBA,$2CBAA0)
-‚r‚‚‰‚Ž‚…‚‚‚…‚Œ‚Œ‚™<end>
+Spinebelly<end>
 
 
 //POINTER #183 @ $2CBAAC - STRING #183 @ $2CAF94
 
 #WRITE(GBA,$2CBAAC)
-‚c‚‚‚„‚Œ‚…‚„‚•‚„‚…<end>
+Doodledude<end>
 
 
 //POINTER #184 @ $2CBAB8 - STRING #184 @ $2CAFA0
 
 #WRITE(GBA,$2CBAB8)
-‚f‚‚‚‚™‚…<end>
+Gobye<end>
 
 
 //POINTER #185 @ $2CBAC4 - STRING #185 @ $2CAFAC
 
 #WRITE(GBA,$2CBAC4)
-‚r‚‚‰‚’‚…‚…‚Œ<end>
+Spireel<end>
 
 
 //POINTER #186 @ $2CBAD0 - STRING #186 @ $2CAFB4
 
 #WRITE(GBA,$2CBAD0)
-‚g‚•‚•‚ˆ‚•‚•<end>
+Huuhuu<end>
 
 
 //POINTER #187 @ $2CBADC - STRING #187 @ $2CAFC4
 
 #WRITE(GBA,$2CBADC)
-‚b‚ˆ‚‚Ž‚‚‚‡‚™‚<end>
+Chonmagyo<end>
 
 
 //POINTER #188 @ $2CBAE8 - STRING #188 @ $2CAFD4
 
 #WRITE(GBA,$2CBAE8)
-‚n‚‡‚™‚‚Ž<end>
+Ogyon<end>
 
 
 //POINTER #189 @ $2CBAF4 - STRING #189 @ $2CAFE0
 
 #WRITE(GBA,$2CBAF4)
-‚n‚‡‚™‚‚Ž<end>
+Ogyan<end>
 
 
 //POINTER #190 @ $2CBB00 - STRING #190 @ $2CAFEC
 
 #WRITE(GBA,$2CBB00)
-‚l‚‚“‚”‚…‚’ ‚b‚’‚‚‚‹<end>
+Master Croak<end>
 
 
 //POINTER #191 @ $2CBB0C - STRING #191 @ $2CAFF8
 
 #WRITE(GBA,$2CBB0C)
-‚k‚•‚‚‰ ‚”‚ˆ‚… ‚l‚‰‚’‚’‚‚’<end>
+Lumi the Mirror<end>
 
 
 //POINTER #192 @ $2CBB18 - STRING #192 @ $2CB008
 
 #WRITE(GBA,$2CBB18)
-‚i‚‚…<end>
+Joe<end>
 
 
 //POINTER #193 @ $2CBB24 - STRING #193 @ $2CB014
 
 #WRITE(GBA,$2CBB24)
-‚r‚ˆ‚‚‚…<end>
+Shmoe<end>
 
 
 //POINTER #194 @ $2CBB30 - STRING #194 @ $2CB020
 
 #WRITE(GBA,$2CBB30)
-‚d‚ƒ‚ˆ‚‰‚‡‚™‚‚™‚<end>
+Echigyoya<end>
 
 
 //POINTER #195 @ $2CBB3C - STRING #195 @ $2CB02C
 
 #WRITE(GBA,$2CBB3C)
-‚l‚‰‚Š‚‰‚Ž‚‡‚‚•<end>
+Mijingou<end>
 
 
 //POINTER #196 @ $2CBB48 - STRING #196 @ $2CB038
 
 #WRITE(GBA,$2CBB48)
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P‚O<end>
+Puchi Ogura #10<end>
 
 
 //POINTER #197 @ $2CBB54 - STRING #197 @ $2CB038
 
 #WRITE(GBA,$2CBB54)
-‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P‚O<end>
+Puchi Ogura #10<end>
 
 
 //POINTER #198 @ $2CBB60 - STRING #198 @ $2CB050
 
 #WRITE(GBA,$2CBB60)
-‚s‚‚”‚“‚•‚‚‚<end>
+Tatsubo<end>
 
 
 //POINTER #199 @ $2CBB6C - STRING #199 @ $2CB05C
 
 #WRITE(GBA,$2CBB6C)
-‚e‚Œ‚•‚Ž‚„‚…‚’<end>
+Flunder<end>
 
 
 //POINTER #200 @ $2CBB78 - STRING #200 @ $2CB068
 
 #WRITE(GBA,$2CBB78)
-‚a‚’‚‚—‚ƒ‚‚‰‚Ž<end>
+Browcoin<end>
 
 
 //POINTER #201 @ $2CBB84 - STRING #201 @ $2CB078
 
 #WRITE(GBA,$2CBB84)
-‚r‚‹‚™ ‚r‚—‚‰‚‚‚…‚’<end>
+Sky Swimmer<end>
 
 
 //POINTER #202 @ $2CBB90 - STRING #202 @ $2CB088
 
 #WRITE(GBA,$2CBB90)
-‚r‚‚’‚‰‚Ž‚‡‚…‚’<end>
+Springer<end>
 
 
 //POINTER #203 @ $2CBB9C - STRING #203 @ $2CB098
 
 #WRITE(GBA,$2CBB9C)
-‚s‚’‚‚‚‚<end>
+Trappa<end>
 
 
 //POINTER #204 @ $2CBBA8 - STRING #204 @ $2CB0A4
 
 #WRITE(GBA,$2CBBA8)
-‚n‚‡‚•‚’‚<end>
+Ogura<end>
 
 
 //POINTER #205 @ $2CBBB4 - STRING #205 @ $2CB0B0
 
 #WRITE(GBA,$2CBBB4)
-‚c‚…‚‚”‚ˆ‚’‚‚Œ‚Œ<end>
+Deathroll<end>
 
 
 //POINTER #206 @ $2CBBC0 - STRING #206 @ $2CB0BC
 
 #WRITE(GBA,$2CBBC0)
-‚r‚‚š‚‚Ž<end>
+Sazan<end>
 
 
 //POINTER #207 @ $2CBBCC - STRING #207 @ $2CB0C8
 
 #WRITE(GBA,$2CBBCC)
-‚a‚‚Œ‚Œ‚•‚•‚Ž<end>
+Balluun<end>
 
 
 //POINTER #208 @ $2CBBD8 - STRING #208 @ $2CB0D0
 
 #WRITE(GBA,$2CBBD8)
-‚c‚’‚‚‚š‚š‚™<end>
+Dropzzy<end>
 
 
 //POINTER #209 @ $2CBBE4 - STRING #209 @ $2CB0D8
 
 #WRITE(GBA,$2CBBE4)
-‚r‚‚‰‚Ž‚„‚’‚‰‚Œ‚Œ<end>
+Spindrill<end>
 
 
 //POINTER #210 @ $2CBBF0 - STRING #210 @ $2CB0E4
 
 #WRITE(GBA,$2CBBF0)
-‚o‚Œ‚‚Ž‚‹‚„‚‚Ž<end>
+Plankdon<end>
 
 
 //POINTER #211 @ $2CBBFC - STRING #211 @ $2CB0F4
 
 #WRITE(GBA,$2CBBFC)
-‚f‚‚Ž‚„‚‚“‚“<end>
+Gandoss<end>
 
 
 //POINTER #212 @ $2CBC08 - STRING #212 @ $2CB100
 
 #WRITE(GBA,$2CBC08)
-‚r‚‚—‚ˆ‚…‚…‚Œ<end>
+Sawheel<end>
 
 
 //POINTER #213 @ $2CBC14 - STRING #213 @ $2CB10C
 
 #WRITE(GBA,$2CBC14)
-‚l‚…‚Œ‚”‚†‚™<end>
+Meltfy<end>
 
 
 //POINTER #214 @ $2CBC20 - STRING #214 @ $2CB11C
 
 #WRITE(GBA,$2CBC20)
-‚o‚‰‚’‚‰‚Œ‚Œ<end>
+Pirill<end>
 
 
 //POINTER #215 @ $2CBC2C - STRING #215 @ $2CB124
 
 #WRITE(GBA,$2CBC2C)
-‚f‚‚‚‚‚…‚…‚”‚<end>
+Gambeeta<end>
 
 
 //POINTER #216 @ $2CBC38 - STRING #216 @ $2CB130
 
 #WRITE(GBA,$2CBC38)
-‚f‚‚‚‚<end>
+Gamma<end>
 
 
 //POINTER #217 @ $2CBC44 - STRING #217 @ $2CB13C
 
 #WRITE(GBA,$2CBC44)
-‚b‚‚‚…‚Œ‚”<end>
+Comelt<end>
 
 
 //POINTER #218 @ $2CBC50 - STRING #218 @ $2CB148
 
 #WRITE(GBA,$2CBC50)
-‚c‚™‚Ž‚‚‚‚’‚‚<end>
+Dynamorb<end>
 
 
 //POINTER #219 @ $2CBC5C - STRING #219 @ $2CB154
 
 #WRITE(GBA,$2CBC5C)
-‚c‚…‚‚…‚—‚”‚™<end>
+Depewty<end>
 
 
 //POINTER #220 @ $2CBC68 - STRING #220 @ $2CB160
 
 #WRITE(GBA,$2CBC68)
-‚r‚ˆ‚…‚’‚’‚‰‚†‚Œ‚…<end>
+Sherrifle<end>
 
 
 //POINTER #221 @ $2CBC74 - STRING #221 @ $2CB168
 
 #WRITE(GBA,$2CBC74)
-‚e‚Œ‚‚”‚š‚<end>
+Flatzo<end>
 
 
 //POINTER #222 @ $2CBC80 - STRING #222 @ $2CB174
 
 #WRITE(GBA,$2CBC80)
-‚`‚Ž‚‡‚…‚Œ<end>
+Angel<end>
 
 
 //POINTER #223 @ $2CBC8C - STRING #223 @ $2CB180
 
 #WRITE(GBA,$2CBC8C)
-‚y‚‚“‚”‚…‚’‚…‚™‚…<end>
+Zostereye<end>
 
 
 //POINTER #224 @ $2CBC98 - STRING #224 @ $2CB188
 
 #WRITE(GBA,$2CBC98)
-‚f‚‚ƒ‚‹‚…‚’<end>
+Gacker<end>
 
 
 //POINTER #225 @ $2CBCA4 - STRING #225 @ $2CB194
 
 #WRITE(GBA,$2CBCA4)
-‚l‚‚ƒ‚‹<end>
+Mock<end>
 
 
 //POINTER #226 @ $2CBCB0 - STRING #226 @ $2CB19C
 
 #WRITE(GBA,$2CBCB0)
-‚a‚Œ‚‚‹‚‹‚<end>
+Blokka<end>
 
 
 //POINTER #227 @ $2CBCBC - STRING #227 @ $2CB1A8
 
 #WRITE(GBA,$2CBCBC)
-‚a‚Œ‚‚š‚…‚†‚‰‚“‚ˆ<end>
+Blazefish<end>
 
 
 //POINTER #228 @ $2CBCC8 - STRING #228 @ $2CB1B4
 
 #WRITE(GBA,$2CBCC8)
-‚k‚•‚’‚ƒ‚ˆ‚‰‚Ž<end>
+Lurchin<end>
 
 
 //POINTER #229 @ $2CBCD4 - STRING #229 @ $2CB1C0
 
 #WRITE(GBA,$2CBCD4)
-‚r‚”‚‚Ž‚‡‚Œ‚…‚’<end>
+Stangler<end>
 
 
 //POINTER #230 @ $2CBCE0 - STRING #230 @ $2CB1CC
 
 #WRITE(GBA,$2CBCE0)
-‚b‚ˆ‚‚Ž‚„‚…<end>
+Chande<end>
 
 
 //POINTER #231 @ $2CBCEC - STRING #231 @ $2CB1D8
 
 #WRITE(GBA,$2CBCEC)
-‚i‚…‚Œ‚‰‚‚‚‚’‚‰<end>
+Jelibari<end>
 
 
 //POINTER #232 @ $2CBCF8 - STRING #232 @ $2CB1E8
 
 #WRITE(GBA,$2CBCF8)
-‚a‚•‚ˆ‚’‚‰‚ƒ‚‹<end>
+Buhrick<end>
 
 
 //POINTER #233 @ $2CBD04 - STRING #233 @ $2CB1F4
 
 #WRITE(GBA,$2CBD04)
-‚k‚‰‚†‚”‚—‚‰‚“‚<end>
+Liftwisp<end>
 
 
 //POINTER #234 @ $2CBD10 - STRING #234 @ $2CB200
 
 #WRITE(GBA,$2CBD10)
-‚i‚…‚Œ‚…‚ƒ‚”‚’‚‰‚ƒ<end>
+Jelectric<end>
 
 
 //POINTER #234 @ $2CBD1C - STRING #234 @ $2CB20C
 
 #WRITE(GBA,$2CBD1C)
-‚k‚‰‚”‚ˆ‚‚—‚‰‚”‚ˆ‚<end>
+Lithpwithp<end>
 

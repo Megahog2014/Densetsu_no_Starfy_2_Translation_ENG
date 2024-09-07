@@ -14,9 +14,9 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚r‚k‚h‚o‚o‚d‚q‚x ‚f‚k‚`‚b‚h‚d‚q@‚S|‚S<line>
+SLIPPERY GLACIER 4-4<line>
 [<x_pos> <1><2>]<line>
 [<y_pos> <2><6>]<line>
-‚a‚…‚—‚‚’‚… ‚”‚ˆ‚… ‚r‚Œ‚‰‚‚‚…‚’‚™ ‚h‚ƒ‚… ‚‚Ž‚„ ‚s‚’‚‰‚ƒ‚‹‚™ ‚r‚”‚‚”‚•‚…‚“I<line>
+Beware the Slippery Ice and Tricky Statues!<line>
 <end>
 

@@ -12,10 +12,10 @@
 
 #JMP(000000)
 
-‚o‚’‚…‚“‚“ ‚”‚ˆ‚… <A><line>
-‚‚‚•‚”‚”‚‚ ‚”‚ ‚i‚•‚‚<line>
-‚‚‚„ ‚”‚ˆ‚… <Dpad> ‚”‚<line>
-‚‚‚–‚… ‚“‚‰‚„‚… ‚”‚ ‚“‚‰‚„‚…I<line>
-‚s‚‰‚‚‰‚‚‡ ‚‰‚“ ‚‰‚‚‚‚’‚”‚‚‚”I<line>
+Press the <A><line>
+button to Jump<line>
+and the <Dpad> to<line>
+move side to side!<line>
+Timing is important!<line>
 <end>
 

@@ -12,12 +12,12 @@
 
 #JMP(000000)
 
-‚s‚ˆ‚… ‚r‚”‚’‚‚Ž‚‡‚…‚“‚”<line>
-‚–‚…‚’‚“‚‰‚‚Ž ‚‚† ‚”‚ˆ‚…<line>
-‚r‚”‚‚’ ‚r‚‚‰‚ŽI<line>
-‚m‚‚— ‚™‚‚• ‚ƒ‚‚Ž<line>
-‚‚‚•‚“‚” ‚”‚ˆ‚’‚‚•‚‡‚ˆ<line>
-‚‚‚Œ‚‚ƒ‚‹‚“ ‚—‚‰‚”‚ˆ‚‚•‚”<line>
-‚“‚”‚‚‚‚‰‚Ž‚‡I<line>
+The Strongest<line>
+version of the<line>
+Star Spin!<line>
+Now you can<line>
+bust through<line>
+blocks without<line>
+stopping!<line>
 <end>
 

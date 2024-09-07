@@ -12,9 +12,9 @@
 
 #JMP(000000)
 
-‚s‚ˆ‚‰‚“ ‚‰‚“ ‚ˆ‚‚—<line>
-‚™‚‚• ‚‚‚–‚… ‚—‚ˆ‚…‚<line>
-‚™‚‚• ‚‚’‚… ‚‚•‚” ‚‚† ‚”‚ˆ‚… ‚—‚‚”‚…‚’D<line>
-‚j‚…‚…‚ ‚”‚ˆ‚‰‚“ ‚‰‚ ‚‚‰‚‚„I<line>
+This is how<line>
+you move when<line>
+you are out of the water.<line>
+Keep this in mind!<line>
 <end>
 

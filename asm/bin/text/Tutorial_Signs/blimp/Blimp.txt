@@ -12,9 +12,9 @@
 
 #JMP(000000)
 
-‚t‚“‚… ‚”‚ˆ‚… <A> ‚a‚•‚”‚”‚‚<line>
-‚”‚ ‚’‚‰‚“‚…C ‚‚‚„ ‚”‚ˆ‚…<line>
-<Dpad> ‚”‚ ‚‚‚–‚…I<line>
-‚v‚‚”‚ƒ‚ˆ ‚‚•‚” ‚†‚‚’ ‚“‚‚‰‚‹‚…‚“I<line>
+Use the <A> Button<line>
+to rise, and the<line>
+<Dpad> to move!<line>
+Watch out for spikes!<line>
 <end>
 

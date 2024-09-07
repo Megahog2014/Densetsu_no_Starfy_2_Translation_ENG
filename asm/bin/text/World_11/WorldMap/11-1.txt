@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚n‚f‚t‚q‚`f‚r ‚b‚`‚r‚s‚k‚d@‚P‚P|‚P<line>
+OGURA'S CASTLE 11-1<line>
 [<x_pos> <5><4>]<line>
 [<y_pos> <2><0>]<line>
-          ‚c‚‰‚“‚ƒ‚‚–‚…‚’ ‚g‚‚—<line>
-‚n‚f‚t‚q‚`f‚r ‚b‚`‚r‚s‚k‚d@‚b‚‚‚… ‚”‚ ‚a‚…I<line>
+          Discover How<line>
+OGURA'S CASTLE Came to Be!<line>
 <end>
 

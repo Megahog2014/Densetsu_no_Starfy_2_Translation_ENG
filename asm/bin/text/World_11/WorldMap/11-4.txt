@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚n‚f‚t‚q‚`f‚r ‚b‚`‚r‚s‚k‚d@‚P‚P|‚S<line>
+OGURA'S CASTLE 11-4<line>
 [<x_pos> <3><2>]<line>
 [<y_pos> <2><0>]<line>
-                        ‚g‚•‚ˆH<line>
-‚v‚ˆ‚™ ‚‰‚“ ‚q‚•‚‚‚™ ‚‰‚Ž ‚ ‚o‚Œ‚‚ƒ‚… ‚k‚‰‚‹‚… ‚s‚ˆ‚‰‚“HHH<line>
+                        Huh?<line>
+Why is Ruby in a Place Like This???<line>
 <end>
 

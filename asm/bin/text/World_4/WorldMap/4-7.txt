@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚r‚k‚h‚o‚o‚d‚q‚x ‚f‚k‚`‚b‚h‚d‚q@‚S|‚V<line>
+SLIPPERY GLACIER 4-7<line>
 [<x_pos> <5><2>]<line>
 [<y_pos> <2><0>]<line>
-       ‚m‚‚—f‚“ ‚x‚‚•‚’ ‚b‚ˆ‚‚Ž‚ƒ‚…I<line>
-‚r‚Œ‚‰‚„‚… ‚”‚ ‚r‚Ž‚‚‡ ‚”‚ˆ‚… ‚s‚’‚…‚‚“‚•‚’‚…I<line>
+       Now's Your Chance!<line>
+Slide to Snag the Treasure!<line>
 <end>
 

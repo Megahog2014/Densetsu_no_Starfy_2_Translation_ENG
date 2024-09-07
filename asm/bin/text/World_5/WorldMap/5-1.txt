@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚i‚t‚l‚a‚n‚v‚n‚n‚c ‚e‚n‚q‚d‚r‚s@‚T|‚P<line>
+JUMBOWOOD FOREST 5-1<line>
 [<x_pos> <5><0>]<line>
 [<y_pos> <2><0>]<line>
- ‚v‚ˆ‚ ‚g‚‚“ ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚T<line>
-‚a‚…‚…‚Ž ‚b‚‚•‚“‚‰‚Ž‚‡ ‚s‚’‚‚•‚‚‚Œ‚… ‚e‚‚’H<line>
+ Who Has Puchi Ogura #5<line>
+Been Causing Trouble For?<line>
 <end>
 

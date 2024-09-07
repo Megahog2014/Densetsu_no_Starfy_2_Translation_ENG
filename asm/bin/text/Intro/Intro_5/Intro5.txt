@@ -14,37 +14,37 @@
 
 [<y_pos> <2>]<line>
 [<x_pos> <2>]<line>
-<<textspeed> <5>><rname><diamond>Ｍｏｅ<line>
-Ａｇｈ， ｍｙ ａｃｈｉｎ’ ｓｈｅｌｌ．．． Ｏｗ ｏｗ ｏｗ．．．<line>
+<<textspeed> <5>><rname><diamond>Moe<line>
+Agh, my achin' shell... Ow ow ow...<line>
 [<wait_time> <2><0><0>]<line>
  <progressalt><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｙｏｕ ｂｌｏｃｋｈｅａｄ！<line>
-Ｔｈａｎｋｓ ｔｏ ｙｏｕ， Ｉ ｆｅｌｌ ｆｒｏｍ Ｐｕｆｆｔｏｐ ｔｏｏ！<line>
+<redname><diamond>Moe<line>
+You blockhead!<line>
+Thanks to you, I fell from Pufftop too!<line>
 [<wait_time> <2><0><0>]<line>
  <progressalt><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｏｈ， ｓｔｏｐ ｃｒｙｉｎｇ！ Ｓｔｏｐ ｉｔ！<line>
-Ｓｏ ａｎｎｏｙｉｎｇ．．．<line>
+<redname><diamond>Moe<line>
+Oh, stop crying! Stop it!<line>
+So annoying...<line>
 [<wait_time> <2><0><0>]<line>
  <progressalt><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｇｕｅｓｓ Ｉ ｄｏｎ’ｔ ｈａｖｅ ａ ｃｈｏｉｃｅ．．． Ａｌｒｉｇｈｔ，<line>
-Ｉ’ｌｌ ｔａｇ ａｌｏｎｇ ａｇａｉｎ， ｓｏ ｓｔｏｐ ｃｒｙｉｎｇ！<line>
+<redname><diamond>Moe<line>
+Guess I don't have a choice... Alright,<line>
+I'll tag along again, so stop crying!<line>
 [<wait_time> <2><0><0>]<line>
  <progressalt><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｔｈｅｒｅ ｍｉｇｈｔ ｂｅ ｔｒｅａｓｕｒｅ ａｎｄ ｃｕｔｅ ｇｉｒｌｓ<line>
-ｉｎ ｉｔ ｆｏｒ ｍｅ ａｇａｉｎ．．． ＊ｍｕｍｂｌｅ ｍｕｍｂｌｅ＊<line>
+<redname><diamond>Moe<line>
+There might be treasure and cute girls<line>
+in it for me again... *mumble mumble*<line>
 [<wait_time> <2><0><0>]<line>
  <progressalt><line>
-<redname><diamond>Ｍｏｅ<line>
-Ａｌｒｉｇｈｔ， ｆｉｒｓｔ ｔｈｉｎｇｓ ｆｉｒｓｔ， ｌｅｔ’ｓ ｇｏ ｓｅｅ<line>
-Ｏｌｄ Ｍａｎ Ｌｏｂｂｅｒ！<line>
+<redname><diamond>Moe<line>
+Alright, first things first, let's go see<line>
+Old Man Lobber!<line>
 <linealt>[<wait_time> <2><0><0>]<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｔｈａｔ ｏｌｄ ｔｉｍｅｒ ａｌｗａｙｓ ｋｎｏｗｓ ｗｈａｔ ｔｏ ｄｏ<line>
-ｗｈｅｎ ｙｏｕ’ｒｅ ｉｎ ａ ｂｉｎｄ！ Ｃ’ｍｏｎ， ｌｅｔ’ｓ ｇｏ！<line>
+<redname><diamond>Moe<line>
+That old timer always knows what to do<line>
+when you're in a bind! C'mon, let's go!<line>
 [<wait_time> <2><0><0>]<line>
  <progressalt><line>
 <end>

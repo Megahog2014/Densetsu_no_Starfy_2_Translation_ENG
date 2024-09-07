@@ -12,11 +12,11 @@
 
 #JMP(000000)
 
-‚s‚ˆ‚‰‚“ ‚‚‰‚‡‚ˆ‚” ‚‚‚…<line>
-‚ ‚Œ‚‰‚”‚”‚Œ‚… ‚„‚‰‚†‚†‚‰‚ƒ‚•‚Œ‚”C<line>
-‚‚‚•‚” ‚‰‚† ‚™‚‚• ‚„‚‚“‚ˆ<line>
-‚‚‚…‚†‚‚’‚… ‚™‚‚• ‚Š‚•‚‚C<line>
-‚™‚‚•f‚Œ‚Œ ‚‡‚ ‚†‚‚’‚”‚ˆ‚…‚’<line>
-‚`‚m‚c ‚ˆ‚‰‚‡‚ˆ‚…‚’I<line>
+This might be<line>
+a little difficult,<line>
+but if you dash<line>
+before you jump,<line>
+you'll go farther<line>
+AND higher!<line>
 <end>
 

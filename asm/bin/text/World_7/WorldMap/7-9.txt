@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚x‚n‚c‚d‚k|‚k‚`‚x|‚g‚d‚d ‚g‚d‚h‚f‚g‚s‚r@‚V|‚X<line>
+YODEL-LAY-HEE HEIGHTS 7-9<line>
 [<x_pos> <6><2>]<line>
 [<y_pos> <2><0>]<line>
-‚v‚ˆ‚…‚’‚…f‚“ ‚”‚ˆ‚… ‚s‚’‚…‚‚“‚•‚’‚…H<line>
-‚h‚”f‚“ ‚g‚‰‚„‚„‚…‚ ‚‰‚ ‚”‚ˆ‚… ‚b‚Œ‚‚•‚„‚“I<line>
+Where's the Treasure?<line>
+It's Hidden in the Clouds!<line>
 <end>
 

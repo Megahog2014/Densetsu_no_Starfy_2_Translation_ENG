@@ -12,9 +12,9 @@
 
 #JMP(000000)
 
-  ‚t‚“‚… ‚”‚ˆ‚‰‚“ ‚‚‚–‚…<line>
- ‚‚” ‚”‚ˆ‚… ‚—‚‚”‚…‚’f‚“<line>
-‚“‚•‚’‚†‚‚ƒ‚… ‚”‚ ‚Œ‚…‚‚<line>
-   ‚‰‚‚”‚ ‚”‚ˆ‚… ‚“‚‹‚™I<line>
+  Use this move<line>
+ at the water's<line>
+surface to leap<line>
+   into the sky!<line>
 <end>
 

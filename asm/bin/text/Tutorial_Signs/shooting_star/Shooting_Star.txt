@@ -12,10 +12,10 @@
 
 #JMP(000000)
 
-‚t‚“‚‰‚Ž‚‡ ‚‚Ž ‚…‚Ž‚…‚‚™ ‚”‚<line>
-‚‚…‚’‚†‚‚’‚ ‚‚Ž‚‚”‚ˆ‚…‚’<line>
-‚`‚‰‚’ ‚i‚•‚‚ ‚‰‚“ ‚‚Ž<line>
-‚‰‚‚‚‚’‚”‚‚Ž‚” ‚‚“‚‚…‚ƒ‚”<line>
-‚‚† ‚”‚ˆ‚‰‚“ ‚”‚…‚ƒ‚ˆ‚Ž‚‰‚‘‚•‚…D<line>
+Using an enemy to<line>
+perform another<line>
+Air Jump is an<line>
+important aspect<line>
+of this technique.<line>
 <end>
 

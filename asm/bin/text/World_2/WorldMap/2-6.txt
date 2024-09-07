@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚f‚k‚t‚f‚k‚t‚f ‚k‚`‚f‚n‚n‚m@‚Q|‚U<line>
+GLUGLUG LAGOON 2-6<line>
 [<x_pos> <5><4>]<line>
 [<y_pos> <2><0>]<line>
-‚q‚…‚‚ƒ‚ˆ‚‰‚Ž‚‡ ‚”‚ ‚‚Ž ‚h‚”‚ƒ‚ˆ‚™ ‚o‚Œ‚‚ƒ‚…<line>
-    ‚s‚ˆ‚‚Ž‚‹‚“ ‚”‚ ‚ ‚a‚‚’‚’‚…‚ŒIH<line>
+Reaching to an Itchy Place<line>
+    Thanks to a Barrel!?<line>
 <end>
 

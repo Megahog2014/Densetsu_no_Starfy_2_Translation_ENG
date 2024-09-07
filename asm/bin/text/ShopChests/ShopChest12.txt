@@ -19,7 +19,7 @@
 <:se><line>
 [<y_pos> <2><2>]<line>
 [<x_pos> <3><6>]<line>
-‚x‚‚• ‚‚‚‚•‚‡‚ˆ‚” ‚“‚‚‚… <textcolor_d>‚c‚…‚–‚‰‚Œ‚‰‚“‚ˆ ‚f‚…‚‚’<textcolor_1>I<line>
+You bought some <textcolor_d>Devilish Gear<textcolor_1>!<line>
 <:c><line>
 <wait><:sd><line>
 <:func> <1> <0><line>

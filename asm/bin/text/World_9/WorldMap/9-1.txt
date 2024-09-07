@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚k‚n‚b‚g ‚q‚d‚r‚r@‚X|‚P<line>
+LOCH RESS 9-1<line>
 [<x_pos> <4><3>]<line>
 [<y_pos> <2><0>]<line>
-       ‚q‚…‚“‚“‚‰‚…f‚“ ‚f‚‚‚… ‚l‚‰‚“‚“‚‰‚‚‡IH<line>
-‚c‚…‚”‚…‚ƒ‚”‚‰‚–‚… ‚r‚”‚‚’‚†‚™f‚“ ‚‚ ‚”‚ˆ‚… ‚b‚‚“‚…I<line>
+       Ressie's Gone Missing!?<line>
+Detective Starfy's on the Case!<line>
 <end>
 

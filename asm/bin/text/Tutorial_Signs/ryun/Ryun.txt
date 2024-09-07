@@ -12,8 +12,8 @@
 
 #JMP(000000)
 
-‚v‚ˆ‚…‚ ‚”‚ˆ‚‰‚‚‡‚“ ‚‡‚…‚”<line>
-‚’‚‰‚“‚‹‚™C ‚‚‚‹‚… ‚“‚•‚’‚… ‚”‚<line>
-‚‚’‚‚”‚…‚ƒ‚” ‚™‚‚•‚’‚“‚…‚Œ‚†I<line>
+When things get<line>
+risky, make sure to<line>
+protect yourself!<line>
 <end>
 

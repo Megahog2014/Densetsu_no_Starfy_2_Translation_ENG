@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚o‚h‚s‚b‚g ‚a‚k‚`‚b‚j ‚b‚`‚u‚d‚q‚m‚r@‚U|‚V<line>
+PITCH BLACK CAVERNS 6-7<line>
 [<x_pos> <5><0>]<line>
 [<y_pos> <2><0>]<line>
-           ‚` ‚e‚‚‚‰‚Œ‚‰‚‚’ ‚r‚‰‚‡‚ˆ‚”I<line>
-‚s‚ˆ‚… ‚`‚”‚”‚‚ƒ‚‹ ‚‚† ‚”‚ˆ‚… ‚q‚…‚‚ƒ‚ˆ‚…‚’‚“I<line>
+           A Familiar Sight!<line>
+The Attack of the Reachers!<line>
 <end>
 

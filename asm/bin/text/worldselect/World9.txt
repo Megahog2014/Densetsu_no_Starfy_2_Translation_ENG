@@ -13,7 +13,7 @@
 #JMP(000000)
 
 [<x_pos> <4><5>]<line>
-‚k‚n‚b‚g ‚q‚d‚r‚r<line>
+LOCH RESS<line>
 <:end><line>
 <end>
 

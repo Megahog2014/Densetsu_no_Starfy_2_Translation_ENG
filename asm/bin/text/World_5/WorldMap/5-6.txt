@@ -14,9 +14,9 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚i‚t‚l‚a‚n‚v‚n‚n‚c ‚e‚n‚q‚d‚r‚s@‚T|‚U<line>
+JUMBOWOOD FOREST 5-6<line>
 [<x_pos> <4><2>]<line>
 [<y_pos> <2><6>]<line>
-‚s‚ˆ‚… ‚s‚’‚…‚‚“‚•‚’‚…f‚“ ‚h‚‚“‚‰‚„‚… ‚”‚ˆ‚… ‚s‚’‚…‚…I<line>
+The Treasure's Inside the Tree!<line>
 <end>
 

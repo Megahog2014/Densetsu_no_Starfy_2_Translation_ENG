@@ -14,9 +14,9 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚k‚n‚b‚g ‚q‚d‚r‚r@‚X|‚W<line>
+LOCH RESS 9-8<line>
 [<x_pos> <8>]<line>
 [<y_pos> <2><6>]<line>
-‚k‚‚‚‹ ‚b‚Œ‚‚“‚…‚Œ‚™ ‚‚” ‚”‚ˆ‚… ‚k‚‰‚‡‚ˆ‚”‚“ ‚a‚…‚†‚‚’‚… ‚x‚‚• ‚b‚’‚‚“‚“I<line>
+Look Closely at the Lights Before You Cross!<line>
 <end>
 

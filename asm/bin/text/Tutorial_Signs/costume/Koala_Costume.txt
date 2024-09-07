@@ -12,11 +12,11 @@
 
 #JMP(000000)
 
-‚o‚’‚…‚“‚“ ‚”‚ˆ‚… <B><line>
-‚a‚•‚”‚”‚‚ ‚”‚ ‚Œ‚…‚”<line>
-‚‚•‚” ‚ ‚ˆ‚‚—‚Œ ‚”‚ˆ‚‚”<line>
-‚“‚ƒ‚‚’‚…‚“ ‚…‚‚…‚‚‰‚…‚“<line>
-‚‰‚‚”‚ ‚‚Œ‚‚”‚†‚‚’‚‚“<line>
-‚”‚ˆ‚‚” ‚™‚‚• ‚ƒ‚‚ ‚•‚“‚…I<line>
+Press the <B><line>
+Button to let<line>
+out a howl that<line>
+scares enemies<line>
+into platforms<line>
+that you can use!<line>
 <end>
 

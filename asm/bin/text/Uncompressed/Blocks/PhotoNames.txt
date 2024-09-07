@@ -7,7 +7,7 @@
 #ACTIVETBL(MinifontPhoto)
 
 #WRITE(GBA,$2C7774)
-ÇlÇèÇÖ<end>
+Moe<end>
 
 
 //POINTER #1 @ $2C7778 - STRING #1 @ $2C74DC
@@ -19,25 +19,25 @@
 //POINTER #2 @ $2C777C - STRING #2 @ $2C74EC
 
 #WRITE(GBA,$2C777C)
-ÇlÇÖÇíÇçÇÅÇâÇÑ<end>
+Mermaid<end>
 
 
 //POINTER #3 @ $2C7780 - STRING #3 @ $2C74F8
 
 #WRITE(GBA,$2C7780)
-ÇgÇÖÇíÇçÇÅÇé<end>
+Herman<end>
 
 
 //POINTER #4 @ $2C7784 - STRING #4 @ $2C7504
 
 #WRITE(GBA,$2C7784)
-ÇkÇèÇñÇÖÇåÇô<end>
+Lovely<end>
 
 
 //POINTER #5 @ $2C7788 - STRING #5 @ $2C7510
 
 #WRITE(GBA,$2C7788)
-ÇqÇïÇÇÇô<end>
+Ruby<end>
 
 
 //POINTER #6 @ $2C778C - STRING #6 @ $2C751C
@@ -67,7 +67,7 @@
 //POINTER #10 @ $2C779C - STRING #10 @ $2C7558
 
 #WRITE(GBA,$2C779C)
-ÇfÇÅÇáÇÅÇéÇçÇè<end>
+Gaganmo<end>
 
 
 //POINTER #11 @ $2C77A0 - STRING #11 @ $2C7564
@@ -79,13 +79,13 @@
 //POINTER #12 @ $2C77A4 - STRING #12 @ $2C7574
 
 #WRITE(GBA,$2C77A4)
-ÇsÇèÇíÇâÇîÇè<end>
+Torito<end>
 
 
 //POINTER #13 @ $2C77A8 - STRING #13 @ $2C7580
 
 #WRITE(GBA,$2C77A8)
-ÇrÇÅÇñÇÅÇãÇè<end>
+Savako<end>
 
 
 //POINTER #14 @ $2C77AC - STRING #14 @ $2C758C
@@ -97,13 +97,13 @@
 //POINTER #15 @ $2C77B0 - STRING #15 @ $2C75A0
 
 #WRITE(GBA,$2C77B0)
-ÇbÇèÇÅÇåÇÇÇâÇÖÇì<end>
+Coalbies<end>
 
 
 //POINTER #16 @ $2C77B4 - STRING #16 @ $2C75AC
 
 #WRITE(GBA,$2C77B4)
-ÇnÇèÇãÇâÇÑÇì<end>
+Ookids<end>
 
 
 //POINTER #17 @ $2C77B8 - STRING #17 @ $2C75B8
@@ -115,13 +115,13 @@
 //POINTER #18 @ $2C77BC - STRING #18 @ $2C75C8
 
 #WRITE(GBA,$2C77BC)
-ÇrÇàÇâÇíÇïÇãÇâÇî<end>
+Shirukit<end>
 
 
 //POINTER #19 @ $2C77C0 - STRING #19 @ $2C75D4
 
 #WRITE(GBA,$2C77C0)
-ÇjÇÅÇçÇèÇéÇÖ<end>
+Kamone<end>
 
 
 //POINTER #20 @ $2C77C4 - STRING #20 @ $2C75E0
@@ -133,31 +133,31 @@
 //POINTER #21 @ $2C77C8 - STRING #21 @ $2C75EC
 
 #WRITE(GBA,$2C77C8)
-ÇuÇâÇñÇÅ<end>
+Viva<end>
 
 
 //POINTER #22 @ $2C77CC - STRING #22 @ $2C75F4
 
 #WRITE(GBA,$2C77CC)
-ÇlÇèÇèÇé<end>
+Moon<end>
 
 
 //POINTER #23 @ $2C77D0 - STRING #23 @ $2C75FC
 
 #WRITE(GBA,$2C77D0)
-ÇoÇïÇíÇìÇåÇÖÇô<end>
+Pursley<end>
 
 
 //POINTER #24 @ $2C77D4 - STRING #24 @ $2C7608
 
 #WRITE(GBA,$2C77D4)
-ÇvÇèÇöÇÅÇíÇî<end>
+Wozart<end>
 
 
 //POINTER #25 @ $2C77D8 - STRING #25 @ $2C7618
 
 #WRITE(GBA,$2C77D8)
-ÇbÇàÇïÇîÇÅ<end>
+Chuta<end>
 
 
 //POINTER #26 @ $2C77DC - STRING #26 @ $2C7624
@@ -169,7 +169,7 @@
 //POINTER #27 @ $2C77E0 - STRING #27 @ $2C7638
 
 #WRITE(GBA,$2C77E0)
-ÇpÇïÇâÇÑÇèÇéÇéÇÅ<end>
+Quidonna<end>
 
 
 //POINTER #28 @ $2C77E4 - STRING #28 @ $2C7644
@@ -193,19 +193,19 @@
 //POINTER #31 @ $2C77F0 - STRING #31 @ $2C7670
 
 #WRITE(GBA,$2C77F0)
-ÇsÇïÇîÇóÇÖÇÖÇî<end>
+Tutweet<end>
 
 
 //POINTER #32 @ $2C77F4 - STRING #32 @ $2C767C
 
 #WRITE(GBA,$2C77F4)
-ÇsÇÅÇâÇÇÇåÇèÇéÇÑ<end>
+Taiblond<end>
 
 
 //POINTER #33 @ $2C77F8 - STRING #33 @ $2C768C
 
 #WRITE(GBA,$2C77F8)
-ÇgÇèÇíÇïÇé<end>
+Horun<end>
 
 
 //POINTER #34 @ $2C77FC - STRING #34 @ $2C7698
@@ -235,25 +235,25 @@
 //POINTER #38 @ $2C780C - STRING #38 @ $2C76D4
 
 #WRITE(GBA,$2C780C)
-ÇiÇÖÇóÇÖÇåÇåÇô<end>
+Jewelly<end>
 
 
 //POINTER #39 @ $2C7810 - STRING #39 @ $2C76E0
 
 #WRITE(GBA,$2C7810)
-ÇqÇÖÇìÇìÇâÇÖ<end>
+Ressie<end>
 
 
 //POINTER #40 @ $2C7814 - STRING #40 @ $2C76EC
 
 #WRITE(GBA,$2C7814)
-ÇeÇïÇéÇÅÇöÇèÇï<end>
+Funazou<end>
 
 
 //POINTER #41 @ $2C7818 - STRING #41 @ $2C76F8
 
 #WRITE(GBA,$2C7818)
-ÇiÇÅÇóÇäÇâÇíÇè<end>
+Jawjiro<end>
 
 
 //POINTER #42 @ $2C781C - STRING #42 @ $2C7708
@@ -265,7 +265,7 @@
 //POINTER #43 @ $2C7820 - STRING #43 @ $2C7718
 
 #WRITE(GBA,$2C7820)
-ÇeÇåÇïÇÜÇÜÇô<end>
+Fluffy<end>
 
 
 //POINTER #44 @ $2C7824 - STRING #44 @ $2C7724
@@ -283,7 +283,7 @@
 //POINTER #46 @ $2C782C - STRING #46 @ $2C7740
 
 #WRITE(GBA,$2C782C)
-ÇkÇïÇçÇâ<end>
+Lumi<end>
 
 
 //POINTER #47 @ $2C7830 - STRING #47 @ $2C7750

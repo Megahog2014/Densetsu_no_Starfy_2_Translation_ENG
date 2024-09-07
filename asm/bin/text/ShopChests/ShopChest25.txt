@@ -19,7 +19,7 @@
 <:se><line>
 [<y_pos> <2><2>]<line>
 [<x_pos> <5><2>]<line>
-‚x‚‚• ‚‚‚‚•‚‡‚ˆ‚” ‚ <textcolor_d>‚b‚ˆ‚•‚ ‚g‚‚”<textcolor_1>I<line>
+You bought a <textcolor_d>Chun Hat<textcolor_1>!<line>
 <:c><line>
 <wait><:sd><line>
 <:func> <1> <0><line>

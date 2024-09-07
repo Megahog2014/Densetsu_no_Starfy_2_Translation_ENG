@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚s‚n‚q‚q‚d‚m‚s‚h‚`‚k ‚e‚`‚k‚k‚r@‚P‚O|‚Q<line>
+TORRENTIAL FALLS 10-2<line>
 [<x_pos> <4><5>]<line>
 [<y_pos> <2><0>]<line>
-    ‚l‚‚“‚”‚…‚’‚‰‚‚‡ ‚l‚‚“‚”‚…‚’ ‚b‚’‚‚‚‹f‚“<line>
-‚r‚”‚’‚‚‚‡‚…‚“‚” ‚j‚•‚‚‡ ‚e‚• ‚s‚…‚ƒ‚ˆ‚‚‰‚‘‚•‚…I<line>
+    Mastering Master Croak's<line>
+Strongest Kung Fu Technique!<line>
 <end>
 

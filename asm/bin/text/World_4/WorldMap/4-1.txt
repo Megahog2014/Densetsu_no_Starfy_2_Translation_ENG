@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚r‚k‚h‚o‚o‚d‚q‚x ‚f‚k‚`‚b‚h‚d‚q@‚S|‚P<line>
+SLIPPERY GLACIER 4-1<line>
 [<x_pos> <5><0>]<line>
 [<y_pos> <2><0>]<line>
-‚h ‚v‚‚Ž‚„‚…‚’ ‚v‚ˆ‚‚” ‚i‚…‚Œ‚Œ‚‚”‚ ‚v‚‚Ž‚”‚“<line>
-@ ‚r‚”‚‚’‚†‚™f‚“ ‚g‚…‚Œ‚ ‚v‚‰‚”‚ˆDDDH<line>
+I Wonder What Jellato Wants<line>
+  Starfy's Help With...?<line>
 <end>
 

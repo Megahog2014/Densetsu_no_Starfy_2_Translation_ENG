@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚r‚k‚h‚o‚o‚d‚q‚x ‚f‚k‚`‚b‚h‚d‚q@‚S|‚W<line>
+SLIPPERY GLACIER 4-8<line>
 [<x_pos> <3><7>]<line>
 [<y_pos> <2><0>]<line>
-‚i‚•‚‚C ‚i‚•‚‚C ‚i‚•‚‚ ‚a‚…‚†‚‚’‚… ‚x‚‚• ‚e‚‚Œ‚ŒI<line>
- ‚i‚•‚‚C ‚i‚•‚‚C ‚i‚•‚‚ ‚`‚†‚”‚…‚’ ‚x‚‚• ‚e‚‚Œ‚ŒI<line>
+Jump, Jump, Jump Before You Fall!<line>
+ Jump, Jump, Jump After You Fall!<line>
 <end>
 

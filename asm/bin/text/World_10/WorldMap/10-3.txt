@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚s‚n‚q‚q‚d‚m‚s‚h‚`‚k ‚e‚`‚k‚k‚r@‚P‚O|‚R<line>
+TORRENTIAL FALLS 10-3<line>
 [<x_pos> <4><5>]<line>
 [<y_pos> <2><0>]<line>
-   ‚t‚“‚… ‚”‚ˆ‚… ‚r‚—‚‰‚’‚Œ‚‰‚Ž‚‡ ‚v‚‚”‚…‚’ ‚a‚‚Œ‚Œ‚“<line>
-‚`‚“ ‚o‚Œ‚‚”‚†‚‚’‚‚“ ‚”‚ ‚l‚‚–‚… ‚e‚‚’‚—‚‚’‚„I<line>
+   Use the Swirling Water Balls<line>
+As Platforms to Move Forward!<line>
 <end>
 

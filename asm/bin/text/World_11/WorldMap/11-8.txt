@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚n‚f‚t‚q‚`f‚r ‚b‚`‚r‚s‚k‚d@‚P‚P|‚W<line>
+OGURA'S CASTLE 11-8<line>
 [<x_pos> <4><0>]<line>
 [<y_pos> <2><0>]<line>
-‚s‚ˆ‚…‚’‚…f‚“ ‚q‚‚‚„‚‚‚Œ‚‚ƒ‚‹‚“ ‚d‚–‚…‚’‚™‚—‚ˆ‚…‚’‚…I<line>
-    ‚c‚ ‚x‚‚• ‚d‚‚Š‚‚™ ‚a‚…‚‰‚‚‡ ‚l‚…‚‚DDDH<line>
+There's Roadblocks Everywhere!<line>
+    Do You Enjoy Being Mean...?<line>
 <end>
 

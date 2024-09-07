@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚o‚t‚e‚e‚s‚n‚o@‚W|‚S<line>
+PUFFTOP 8-4<line>
 [<x_pos> <5><7>]<line>
 [<y_pos> <2><0>]<line>
-   ‚c‚‰‚„ ‚ ‚b‚‚’‚…‚Œ‚…‚“‚“ ‚r‚”‚‚’‚†‚™<line>
-‚`‚Œ‚‚‚“‚” ‚b‚‚•‚“‚… ‚ ‚c‚‰‚“‚‚“‚”‚…‚’H<line>
+   Did a Careless Starfy<line>
+Almost Cause a Disaster?<line>
 <end>
 

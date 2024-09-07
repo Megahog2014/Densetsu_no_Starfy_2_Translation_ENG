@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚n‚f‚t‚q‚`f‚r ‚b‚`‚r‚s‚k‚d@‚P‚P|‚U<line>
+OGURA'S CASTLE 11-6<line>
 [<x_pos> <4><5>]<line>
 [<y_pos> <2><0>]<line>
-  ‚s‚‰‚‚… ‚†‚‚’ ‚”‚ˆ‚… ‚e‚‰‚Ž‚‚Œ ‚r‚ˆ‚‚—‚„‚‚—‚ŽI<line>
-‚f‚‰‚–‚… ‚h‚” ‚x‚‚•‚’ ‚`‚Œ‚Œ ‚‚Ž‚„ ‚e‚‚ƒ‚… ‚n‚‡‚•‚’‚I<line>
+  Time for the Final Showdown!<line>
+Give It Your All and Face Ogura!<line>
 <end>
 

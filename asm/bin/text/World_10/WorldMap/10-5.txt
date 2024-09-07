@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚s‚n‚q‚q‚d‚m‚s‚h‚`‚k ‚e‚`‚k‚k‚r@‚P‚O|‚T<line>
+TORRENTIAL FALLS 10-5<line>
 [<x_pos> <4><0>]<line>
 [<y_pos> <2><0>]<line>
-      ‚h‚‚–‚…‚“‚”‚‰‚‡‚‚”‚… ‚”‚ˆ‚… ‚r‚…‚ƒ‚’‚…‚”‚“<line>
-‚‚† ‚”‚ˆ‚… ‚o‚‰‚’‚‚”‚… ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P‚OI<line>
+      Investigate the Secrets<line>
+of the Pirate Puchi Ogura #10!<line>
 <end>
 

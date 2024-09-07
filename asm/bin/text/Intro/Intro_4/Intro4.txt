@@ -14,22 +14,22 @@
 
 [<y_pos> <2>]<line>
 [<x_pos> <2>]<line>
-<rname><diamond>‚l‚‚…<line>
-<<textspeed> <5>>‚v‚ˆ‚‚” ‚„‚ ‚™‚ ‚”‚ˆ‚‰‚Ž‚‹ ‚™‚‚•f‚’‚… ‚„‚‚‰‚ŽfC ‚™‚‚• ‚‰‚„‚‰‚‚”IH<line>
-‚s‚ˆ‚‰‚“ ‚‰‚“ ‚—‚‚™ ‚”‚‚ ‚’‚‰‚“‚‹‚™I<line>
+<rname><diamond>Moe<line>
+<<textspeed> <5>>What do ya think you're doin', you idiot!?<line>
+This is way too risky!<line>
 [<wait_time> <2><0><0>]<line>
-<redname><diamond>‚l‚‚…<line>
-‚x‚‚•f‚’‚… ‚‡‚‚Ž‚Ž‚ ‚†‚‚Œ‚Œ ‚‰‚Ž‚”‚ ‚”‚ˆ‚… ‚“‚…‚ ‚‚‡‚‚‰‚ŽIH<line>
-‚`‚†‚”‚…‚’ ‚‚Œ‚Œ ‚™‚‚• ‚„‚‰‚„ ‚”‚ ‚‡‚…‚” ‚‚‚‚ƒ‚‹ ‚”‚ ‚o‚•‚†‚†‚”‚‚IH<line>
+<redname><diamond>Moe<line>
+You're gonna fall into the sea again!?<line>
+After all you did to get back to Pufftop!?<line>
  <progressalt><line>
 [<wait_time> <2><0><0>]<line>
-<redname><diamond>‚l‚‚…<line>
-‚g‚…‚™I ‚r‚”‚‚ ‚“‚”‚’‚•‚‡‚‡‚Œ‚‰‚Ž‚‡I<line>
-‚x‚‚•f‚’‚… ‚‡‚‚Ž‚Ž‚ ‚‚‚‹‚… ‚‚… ‚†‚‚Œ‚Œ ‚”‚‚I<line>
+<redname><diamond>Moe<line>
+Hey! Stop struggling!<line>
+You're gonna make me fall too!<line>
 [<wait_time> <2><0><0>]<line>
  <progressalt><line>
-<redname><diamond>‚l‚‚…<line>
-‚v‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚`‚gIII<line>
+<redname><diamond>Moe<line>
+WAAAAAAAAAAAAAAAAAAAAAAAH!!!<line>
 [<wait_time> <2><0><0>]<line>
  <progressalt><line>
 <end>

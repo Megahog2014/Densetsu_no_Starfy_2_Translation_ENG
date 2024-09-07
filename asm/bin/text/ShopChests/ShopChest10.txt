@@ -19,7 +19,7 @@
 <:se><line>
 [<y_pos> <2><2>]<line>
 [<x_pos> <4><9>]<line>
-‚x‚‚• ‚‚‚‚•‚‡‚ˆ‚” ‚”‚ˆ‚… <textcolor_d>‚`‚†‚’‚ ‚v‚‰‚‡<textcolor_1>I<line>
+You bought the <textcolor_d>Afro Wig<textcolor_1>!<line>
 <:c><line>
 <wait><:sd><line>
 <:func> <1> <0><line>

@@ -19,7 +19,7 @@
 <:se><line>
 [<y_pos> <2><2>]<line>
 [<x_pos> <2><3>]<line>
-‚x‚‚• ‚‚‚‚•‚‡‚ˆ‚” ‚ ‚‚‚‰‚’ ‚‚† <textcolor_d>‚e‚‰‚‡‚ˆ‚”‚‰‚‚‡ ‚o‚‚‚”‚“<textcolor_1>I<line>
+You bought a pair of <textcolor_d>Fighting Pants<textcolor_1>!<line>
 <:c><line>
 <wait><:sd><line>
 <:func> <1> <0><line>

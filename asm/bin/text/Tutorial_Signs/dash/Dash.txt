@@ -12,11 +12,11 @@
 
 #JMP(000000)
 
-‚c‚‚“‚ˆ ‚‚ƒ‚’‚‚“‚“<line>
-‚”‚ˆ‚… ‚‡‚’‚‚•‚Ž‚„<line>
-‚‚” ‚”‚‚ ‚“‚‚…‚…‚„I<line>
-‚h‚”f‚Œ‚Œ ‚‚‚… ‚ˆ‚‚’‚„<line>
-‚”‚ ‚ƒ‚‚‚… ‚”‚<line>
-‚ ‚“‚”‚‚ ‚”‚ˆ‚‚•‚‡‚ˆI<line>
+Dash across<line>
+the ground<line>
+at top speed!<line>
+It'll be hard<line>
+to come to<line>
+a stop though!<line>
 <end>
 

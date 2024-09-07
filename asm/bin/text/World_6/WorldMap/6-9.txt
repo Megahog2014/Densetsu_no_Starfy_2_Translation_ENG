@@ -14,9 +14,9 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚o‚h‚s‚b‚g ‚a‚k‚`‚b‚j ‚b‚`‚u‚d‚q‚m‚r@‚U|‚X<line>
+PITCH BLACK CAVERNS 6-9<line>
 [<x_pos> <5><0>]<line>
 [<y_pos> <2><6>]<line>
-‚l‚…‚‚”C ‚k‚‰‚‡‚ˆ‚”C ‚‚Ž‚„ ‚c‚‚’‚‹ ‚q‚‚‚‚“DDD<line>
+Meat, Light, and Dark Rooms...<line>
 <end>
 

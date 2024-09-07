@@ -21,11 +21,11 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-       ‚s‚ˆ‚… ‚k‚…‚‡‚…‚‚„‚‚’‚™<line>
-            ‚r‚”‚‚’‚†‚™ ‚Q<line>
+       The Legendary<line>
+            Starfy 2<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
 <line>
-        ‚r‚”‚‚†‚† ‚b‚’‚…‚„‚‰‚”‚“<line>
+        Staff Credits<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <linealt>
 <line>
@@ -45,10 +45,10 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>          ‚b‚‚‚ƒ‚…‚‚”‚‰‚‚<textcolor_0><line>
- f‚r‚”‚‚ƒ‚ˆ‚… ‚k‚‚–‚…‚’ ‚r‚‚”‚‚‹‚<line>
+<textcolor_b>          Conception<textcolor_0><line>
+ 'Stache Lover Satoko<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-   h‚q‚‰‚‡‚ˆ‚”Hh ‚s‚‚‹‚‚“‚‚‡‚<line>
+   "Right?" Takasago<line>
 <line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
@@ -64,10 +64,10 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>                ‚k‚…‚‚„<line>
-          ‚o‚’‚‚‡‚’‚‚‚‚…‚’<textcolor_0><line>
+<textcolor_b>                Lead<line>
+          Programmer<textcolor_0><line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-         ‚j‚…‚“‚‚”‚ ‚d‚‡‚‚‚‰<line>
+         Kesota Egami<line>
 <line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
@@ -84,17 +84,17 @@
 <:func> <5> <2> <2><$09><$09><$09><$09><$09><$09><line>
 [<wait_time> <4><0>]<line>
 <:func> <1><1> <0><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>         ‚o‚’‚‚‡‚’‚‚‚‚…‚’‚“<textcolor_0><line>
-h‚l‚…‚‚” ‚l‚‚‚‰‚‚ƒh ‚e‚•‚’‚•‚‹‚‚—‚<line>
+<textcolor_b>         Programmers<textcolor_0><line>
+"Meat Maniac" Furukawa<line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-         <star>‚g‚‰‚“‚‚‚‚‚•<star><line>
-        ‚d‚‚‚‰‚‹‚ ‚m‚‚‡‚•‚ƒ‚ˆ‚‰<line>
+         <star>Hisabou<star><line>
+        Ebiko Noguchi<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-             h‚j‚‰‚”‚‚‚<line>
-     ‚‚† ‚”‚ˆ‚… ‚m‚…‚— ‚v‚‚’‚Œ‚„h<line>
+             "Kitano<line>
+     of the New World"<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
-       ‚t‚Œ‚”‚’‚‚“<star>‚g‚‰‚’‚‚“‚ˆ‚‰<line>
-          ‚e‚…‚ ‚h‚‹‚…‚‚‚‡‚<line>
+       Ultras<star>Hiroshi<line>
+          Fen Ikenaga<line>
 <:func> <1><1> <4><$09><$09><$09><$09><$09><$09><line>
 [<wait_time> <6><0>]<line>
 [<wait_time> <6><0>]<line>
@@ -107,10 +107,10 @@
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
 <line>
-<textcolor_b>        ‚k‚…‚‚„ ‚c‚…‚“‚‰‚‡‚‚…‚’<textcolor_0><line>
+<textcolor_b>        Lead Designer<textcolor_0><line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-           h‚r‚‚‚… ‚‡‚•‚™<line>
-        ‚‚‚‚…‚„ ‚r‚ˆ‚‰‚‚‚‹‚‰h<line>
+           "Some guy<line>
+        named Shinoki"<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
 <line>
@@ -126,16 +126,16 @@
 <:func> <5> <3> <0><$09><$09><$09><$09><$09><$09><line>
 [<wait_time> <4><0>]<line>
 <:func> <1><1> <0><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>           ‚c‚…‚“‚‰‚‡‚‚…‚’‚“<textcolor_0><line>
-    ‚`‚”‚“‚•‚ƒ‚ˆ‚‰ ‚d‚ƒ‚ˆ‚‰‚‡‚™‚‚™‚<line>
+<textcolor_b>           Designers<textcolor_0><line>
+    Atsuchi Echigyoya<line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-          ‚c‚‚‚„‚Œ‚‰‚‚‡ ‚d‚’‚‰<line>
-       ‚`‚‹‚‰‚’‚ ‚m‚‚‚‚š‚•‚‹‚‰<line>
+          Doodling Eri<line>
+       Akira Nonozuki<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-   ‚x‚•‚•‚‰‚ƒ‚ˆ‚‰‚’‚<heart>‚s‚‚‚„‚…‚’‚•<line>
-   ‚l‚‚‚‚‹‚‚‚•<star>‚j‚‚š‚•‚’‚•<line>
+   Yuuichiro<heart>Tonderu<line>
+   Momokomu<star>Kozuru<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
-     ‚b‚ˆ‚‰‚…‚‚‰ ‚s‚‚‚‰‚f‚•‚ƒ‚ƒ‚ˆ‚‰<line>
+     Chiemi TaniGucchi<line>
 <line>
 <line>
 <line>
@@ -150,11 +150,11 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>   ‚o‚‚ƒ‚‹‚‚‡‚… • ‚a‚‚˜ ‚`‚’‚”<line>
-         ‚h‚Œ‚Œ‚•‚“‚”‚’‚‚”‚‰‚‚‚“<textcolor_0><line>
+<textcolor_b>   Package & Box Art<line>
+         Illustrations<textcolor_0><line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-    ‚x‚‚“‚•‚‹‚ ‚s‚‚‹‚‚ˆ‚‚“‚ˆ‚‰<line>
- h‚r‚”‚‚‡ ‚a‚…‚…‚”‚Œ‚…h ‚x‚‚“‚ˆ‚‰‚„‚<line>
+    Yasuko Takahashi<line>
+ "Stag Beetle" Yoshida<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
 <line>
@@ -173,11 +173,11 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>             ‚l‚‚‚•‚‚Œ<textcolor_0><line>
- ‚r‚‚ƒ‚ˆ‚‰‚‹‚<star>‚m‚‚‹‚‚‚‰‚”‚ƒ‚ˆ‚™<line>
+<textcolor_b>             Manual<textcolor_0><line>
+ Sachiko<star>Nakamitchy<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-     h‚s‚ˆ‚‚‚‹‚“Ih ‚h‚”‚‚•‚“‚“‚•<line>
-   ‚l‚‚“‚‚™‚•‚‹‚‰ ‚n‚‹‚‚‚‹‚‚„‚<line>
+     "Thanks!" Itoussu<line>
+   Masayuki Okaokada<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
 <line>
@@ -193,9 +193,9 @@
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
 <line>
-<textcolor_b>               ‚l‚•‚“‚‰‚ƒ<textcolor_0><line>
+<textcolor_b>               Music<textcolor_0><line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-    h‚o‚‚‰‚‚”‚™ ‚g‚‚”h ‚h‚—‚‚‚<line>
+    "Pointy Hat" Iwamo<line>
 <line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
@@ -212,16 +212,16 @@
 <:func> <5> <5> <0><$09><$09><$09><$09><$09><$09><line>
 [<wait_time> <4><0>]<line>
 <:func> <1><1> <0><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>       ‚r‚‚…‚ƒ‚‰‚‚Œ ‚s‚ˆ‚‚‚‹‚“<textcolor_0><line>
-      ‚r‚…‚ƒ‚”‚‰‚‚ ‚l‚‚‚‚‡‚…‚’<line>
+<textcolor_b>       Special Thanks<textcolor_0><line>
+      Section Manager<line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-            ‚x‚‚‚‚‚‚”‚<line>
-     ‚`‚ƒ‚ˆ‚‚‹‚ ‚g‚‚’‚•‚ˆ‚‚‚<line>
+            Yamamoto<line>
+     Achako Haruhana<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-        ‚j‚…‚‰‚‹‚<heart>‚m‚‰‚‰‚š‚•‚‚<line>
-             ‚‚‚„ ‚”‚ˆ‚…<line>
+        Keiko<heart>Niizuma<line>
+             and the<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
-      ‚r‚•‚‚…‚’ ‚l‚‚’‚‰‚ ‚b‚Œ‚•‚‚<line>
+      Super Mario Club<line>
 <line>
 <:func> <1><1> <4><$09><$09><$09><$09><$09><$09><line>
 [<wait_time> <6><0>]<line>
@@ -234,10 +234,10 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>           ‚c‚‰‚’‚…‚ƒ‚”‚‚’‚“<textcolor_0><line>
-       ‚y‚‚‚‡‚™‚•‚’‚<star>‚h‚‚‚‰<line>
+<textcolor_b>           Directors<textcolor_0><line>
+       Zangyura<star>Imai<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-        ‚`‚š‚•‚•‚“‚ ‚s‚‚Š‚‰‚‚<line>
+        Azuusa Tajima<line>
 <line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
@@ -257,13 +257,13 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>          ‚o‚’‚‚„‚•‚ƒ‚…‚’‚“<textcolor_0><line>
-            ‚x‚‚“‚•‚ˆ‚‰‚’‚<line>
+<textcolor_b>          Producers<textcolor_0><line>
+            Yasuhiro<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-     ‚”‚ˆ‚… ‚r‚‚‚‰‚Œ‚…‚„ ‚b‚ˆ‚‰‚Œ‚„<line>
-    ‚`‚“‚“‚‰‚“‚”‚‚‚” ‚l‚‚‚‚‡‚…‚’<line>
+     the Spoiled Child<line>
+    Assistant Manager<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
-            ‚x‚‚‚‚‡‚‚‚‰<line>
+            Yamagami<line>
 <line>
 <:func> <1><1> <4><$09><$09><$09><$09><$09><$09><line>
 [<wait_time> <6><0>]<line>
@@ -276,11 +276,11 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>    ‚f‚…‚‚…‚’‚‚Œ ‚o‚’‚‚„‚•‚ƒ‚…‚’‚“<textcolor_0><line>
-   ‚g‚…‚‚„ ‚c‚‰‚’‚…‚ƒ‚”‚‚’ ‚h‚š‚•‚“‚ˆ‚‰<line>
+<textcolor_b>    General Producers<textcolor_0><line>
+   Head Director Izushi<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-    ‚d‚˜‚…‚ƒ‚•‚”‚‰‚–‚… ‚c‚‰‚’‚…‚ƒ‚”‚‚’<line>
-             ‚j‚‚‚„‚‚•<line>
+    Executive Director<line>
+             Kondou<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
 <line>
@@ -300,9 +300,9 @@
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
 <line>
-<textcolor_b>   ‚d‚˜‚…‚ƒ‚•‚”‚‰‚–‚… ‚o‚’‚‚„‚•‚ƒ‚…‚’<textcolor_0><line>
+<textcolor_b>   Executive Producer<textcolor_0><line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-      ‚o‚’‚…‚“‚‰‚„‚…‚‚” ‚h‚—‚‚”‚<line>
+      President Iwata<line>
 <line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
@@ -352,7 +352,7 @@
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
 <line>
 <:func> <0> <6><$09><$09><$09><$09><$09><$09><line>
-@@‚s‚ˆ‚… ‚d‚‚„I<line>
+  The End!<line>
 <:func> <1><1> <2><line>
 <:func> <1><1> <4><$09><$09><$09><$09><$09><$09><line>
 <wait><:func> <2> <2> <0><$09><$09><$09><$09><$09><$09><line>
@@ -360,14 +360,14 @@
 [<x_pos> <1><2>]<line>
 [<y_pos> <2><8>]<line>
 <:func> <1><0> <0><$09><$09><$09><$09><$09><$09><line>
-‚s‚ˆ‚‰‚“ ‚“‚”‚‚’‚™ ‚ˆ‚‚“ ‚’‚…‚‚ƒ‚ˆ‚…‚„ ‚‰‚”f‚“ ‚ƒ‚‚‚ƒ‚Œ‚•‚“‚‰‚‚II<line>
-‚g‚‚–‚… ‚™‚‚• ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚…‚„ ‚‚Œ‚Œ ‚”‚ˆ‚… ‚r‚”‚•‚†‚†C ‚r‚ˆ‚…‚…‚” ‚l‚•‚“‚‰‚ƒC<line>
-‚o‚ˆ‚‚”‚‚“C ‚‚‚„ ‚o‚‰‚ƒ‚”‚•‚’‚… ‚a‚‚‚‹ ‚…‚‚”‚’‚‰‚…‚“H<line>
-‚s‚ˆ‚… ‚†‚•‚C ‚ƒ‚ˆ‚…‚…‚’‚†‚•‚ŒC ‚‚‚„ ‚“‚Œ‚‰‚‡‚ˆ‚”‚Œ‚™ ‚“‚‚„<line>
-‚“‚”‚‚’‚™ ‚‚† ‚r‚”‚‚’‚†‚™ ‚‚‚„ ‚ˆ‚‰‚“ ‚†‚’‚‰‚…‚‚„‚“ ‚‰‚“‚f‚”<line>
-‚‚–‚…‚’ ‚™‚…‚”I<line>
-‚r‚”‚‚™ ‚”‚•‚‚…‚„ ‚†‚‚’ ‚”‚ˆ‚… ‚‚…‚˜‚”<line>
-‚‰‚‚“‚”‚‚Œ‚Œ‚‚…‚‚” ‚‚† ‚”‚ˆ‚… ‚“‚…‚’‚‰‚…‚“I<line>
+This story has reached it's conclusion!!<line>
+Have you collected all the Stuff, Sheet Music,<line>
+Photos, and Picture Book entries?<line>
+The fun, cheerful, and slightly sad<line>
+story of Starfy and his friends isn't<line>
+over yet!<line>
+Stay tuned for the next<line>
+installment of the series!<line>
 <:func> <1><0> <1><$09><$09><$09><$09><$09><$09><line>
 <:func> <0> <7><$09><$09><$09><$09><$09><$09><line>
 <:func> <3> <2> <0><$09><$09><$09><$09><$09><$09><line>

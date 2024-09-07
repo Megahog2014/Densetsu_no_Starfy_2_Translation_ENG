@@ -14,9 +14,9 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚o‚t‚e‚e‚s‚n‚o@‚W|‚Q<line>
+PUFFTOP 8-2<line>
 [<x_pos> <5><5>]<line>
 [<y_pos> <2><0>]<line>
-‚l‚‚“‚”‚…‚’ ‚”‚ˆ‚… ‚r‚ˆ‚‚‚”‚‰‚‚‡ ‚r‚”‚‚’I<line>
+Master the Shooting Star!<line>
 <end>
 

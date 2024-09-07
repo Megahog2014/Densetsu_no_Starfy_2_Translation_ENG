@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚k‚n‚b‚g ‚q‚d‚r‚r@‚X|‚X<line>
+LOCH RESS 9-9<line>
 [<x_pos> <6><8>]<line>
 [<y_pos> <2><0>]<line>
- ‚r‚”‚‚’‚†‚™ ‚f‚…‚”‚“ ‚b‚‚•‚‡‚ˆ‚”I<line>
-‚r‚”‚‚’‚†‚™ ‚f‚…‚”‚“ ‚q‚…‚Œ‚…‚‚“‚…‚„I<line>
+ Starfy Gets Caught!<line>
+Starfy Gets Released!<line>
 <end>
 

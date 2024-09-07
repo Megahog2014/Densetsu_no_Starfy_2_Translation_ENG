@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚o‚h‚s‚b‚g ‚a‚k‚`‚b‚j ‚b‚`‚u‚d‚q‚m‚r@‚U|‚T<line>
+PITCH BLACK CAVERNS 6-5<line>
 [<x_pos> <3><0>]<line>
 [<y_pos> <2><0>]<line>
-@@‚d‚–‚…‚’ ‚g‚…‚‚’‚„ ‚‚† ‚”‚ˆ‚… ‚r‚”‚‚’‚™<line>
-h‚s‚ˆ‚… ‚e‚‚˜ ‚a‚‚’‚’‚‚—‚“ ‚”‚ˆ‚… ‚s‚‰‚‡‚…‚’f‚“ ‚`‚—‚…hH<line>
+  Ever Heard of the Story<line>
+"The Fox Borrows the Tiger's Awe"?<line>
 <end>
 

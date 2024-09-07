@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚r‚g‚d‚k‚k‚s‚n‚o ‚h‚r‚k‚`‚m‚c‚r@‚R|‚U<line>
+SHELLTOP ISLANDS 3-6<line>
 [<x_pos> <5><5>]<line>
 [<y_pos> <2><0>]<line>
- ‚c‚‚Žf‚” ‚f‚ ‚`‚—‚‚™C ‚o‚Œ‚‚”‚†‚‚’‚‚“I<line>
-‚o‚Œ‚…‚‚“‚… ‚f‚ ‚`‚—‚‚™C ‚o‚Œ‚‚”‚†‚‚’‚‚“I<line>
+ Don't Go Away, Platforms!<line>
+Please Go Away, Platforms!<line>
 <end>
 

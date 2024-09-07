@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚s‚n‚q‚q‚d‚m‚s‚h‚`‚k ‚e‚`‚k‚k‚r@‚P‚O|‚P‚O<line>
+TORRENTIAL FALLS 10-10<line>
 [<x_pos> <4><2>]<line>
 [<y_pos> <2><0>]<line>
-   ‚r‚—‚‰‚ ‚`‚‡‚‚‰‚‚“‚” ‚”‚ˆ‚… ‚v‚‚”‚…‚’‚†‚‚Œ‚Œ‚“I<line>
-‚s‚ˆ‚… ‚s‚’‚…‚‚“‚•‚’‚…f‚“ ‚i‚•‚“‚” ‚o‚‚“‚” ‚s‚ˆ‚…‚I<line>
+   Swim Against the Waterfalls!<line>
+The Treasure's Just Past Them!<line>
 <end>
 

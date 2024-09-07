@@ -13,17 +13,17 @@
 #JMP(000000)
 
 [<x_pos> <4><9>]<line>
-Ｓｔａｒｆｙ ａｎｄ Ｍｏｅ ｗｅｒｅ ｏｎｃｅ ａｇａｉｎ<line>
+Starfy and Moe were once again<line>
 [<x_pos> <5><4>]<line>
-ａｂｌｅ ｔｏ ｓｅａｌ Ｏｇｕｒａ ｉｎ ｔｈｅ ｊａｒ．．．<line>
+able to seal Ogura in the jar...<line>
 <:func> <4><line>
 <:c><line>
 [<x_pos> <3><0>]<line>
-<wait>Ｂｕｔ ｗｉｔｈ ｔｈｅ ｎｕｍｂｅｒ ｏｆ ｔｒｅａｓｕｒｅｓ<line>
+<wait>But with the number of treasures<line>
 [<x_pos> <3><0>]<line>
-ｔｈｅｙ’ｖｅ ｆｏｕｎｄ， ｉｓ ｔｈｅ ｓｔｏｒｙ ｔｒｕｌｙ ｏｖｅｒ？<line>
+they've found, is the story truly over?<line>
 [<x_pos> <3><0>]<line>
-Ｃｏｍｅ ｏｎ， ｌｅｔ’ｓ ｈｕｒｒｙ ｂａｃｋ ｔｏ Ｐｕｆｆｔｏｐ．．．<line>
+Come on, let's hurry back to Pufftop...<line>
 <:func> <4><line>
 <:c><line>
 <:func> <5> <1> <1><0><line>
@@ -32,75 +32,75 @@
 <:func> <2> <8><line>
 <wait><:func> <3> <0><line>
 <wait>[<x_pos> <0>]<line>
-<rname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｏｈ！ Ｓｔａｒｆｙ！<line>
+<rname><diamond>Papa Star<line>
+Oh! Starfy!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｓｏ，<line>
-Ｈａｖｅ ｙｏｕ ｆｏｕｎｄ ａｌｌ ｏｆ ｔｈｅ ｔｒｅａｓｕｒｅｓ？<line>
+<redname><diamond>Papa Star<line>
+So,<line>
+Have you found all of the treasures?<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｌｅｔ’ｓ ｓｅｅ．．． Ｈｍ．．．<line>
+<redname><diamond>Papa Star<line>
+Let's see... Hm...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｉｔ ｌｏｏｋｓ ｌｉｋｅ ｙｏｕ ｈａｖｅｎ’ｔ<line>
-ｃｏｌｌｅｃｔｅｄ ｅｖｅｒｙ ｔｒｅａｓｕｒｅ ｙｅｔ．．．<line>
+<redname><diamond>Papa Star<line>
+It looks like you haven't<line>
+collected every treasure yet...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｗｈａｔ！？ Ｔｈｅｒｅ ａｒｅ ｓｔｉｌｌ ｓｏｍｅ ｌｅｆｔ！？<line>
+<redname><diamond>Moe<line>
+What!? There are still some left!?<line>
 <:func> <2> <4><0><line>
-Ｔｈｅｎ ｗｅ ｇｏｔｔａ ｇｏ ｇｅｔ’ｅｍ！ Ｌｅｔ’ｓ ｇｏ！！！<line>
+Then we gotta go get'em! Let's go!!!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｗｈａｔ’ｓ ｔｈａｔ？<line>
-”Ｉ’ｍ ｒｅａｌｌｙ ｔｉｒｅｄ！”．．．！？<line>
+<redname><diamond>Moe<line>
+What's that?<line>
+"I'm really tired!"...!?<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｄｏｎ’ｔ ｂｅ ｓｔｕｐｉｄ！ Ｎｏｗ ｃｏｍｅ ｏｎｅ！！！<line>
+<redname><diamond>Moe<line>
+Don't be stupid! Now come one!!!<line>
 <:func> <2> <4><8><line>
-．．．Ｗｈ－ＯＷ！！！<line>
+...Wh-OW!!!<line>
 <:func> <3> <0><line>
 <wait><:func> <2> <6><4><line>
 <:func> <3> <0><line>
 <:c><line>
-<redname><diamond>Ｏｇｕｒａ<line>
-Ｇｗａｈａｈａｈａｈａ！ Ｙｏｕ ｆｏｏｌｓ！<line>
+<redname><diamond>Ogura<line>
+Gwahahahaha! You fools!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｏｇｕｒａ<line>
-Ｉ ｈｅａｒｄ ｓｏｍｅｔｈｉｎｇ ｇｒｅａｔ！ Ｉ’ｌｌ ｃｏｌｌｅｃｔ<line>
-ｅｖｅｒｙ ｓｉｎｇｌｅ ｏｎｅ ｏｆ ｔｈｏｓｅ ｔｒｅａｓｕｒｅｓ！<line>
+<redname><diamond>Ogura<line>
+I heard something great! I'll collect<line>
+every single one of those treasures!<line>
 <:func> <2> <6><8><line>
 <:func> <3> <0><line>
 <:c><line>
-<redname><diamond>Ｐｕｃｈｉ Ｏｇｕｒａ<line>
+<redname><diamond>Puchi Ogura<line>
 <:func> <2> <7><2><line>
-Ａｈａｈａｈａ！ Ｄｕｍｍｉｅｓ！ Ｉｄｉｏｔｓ！<line>
-Ｗｅ’ｒｅ ｔａｋｉｎｇ ｔｈｅ ｔｒｅａｓｕｒｅ～！<line>
+Ahahaha! Dummies! Idiots!<line>
+We're taking the treasure～!<line>
 <:func> <4><line>
 <:c><line>
 <wait>[<wait_time> <3><0>]<line>
 <:func> <2> <8><0><line>
 <:func> <3> <0><line>
-<rname><diamond>Ｍｏｅ<line>
-．．．Ｙｏｕ．．． Ｙｏｕ Ｂｌｏｃｋｈｅａｄ！<line>
-Ｌｏｏｋ ａｔ ｗｈａｔ ｙｏｕ ｄｉｄ！<line>
+<rname><diamond>Moe<line>
+...You... You Blockhead!<line>
+Look at what you did!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｃ’ｍｏｎ！ Ｗｅ ｇｏｔｔａ ｇｏ ＮＯＷ！<line>
+<redname><diamond>Moe<line>
+C'mon! We gotta go NOW!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
+<redname><diamond>Moe<line>
 <:func> <2> <8><8><line>
-Ｗｅ ｈａｖｅ ｔｏ ｆｉｎｄ ｔｈｏｓｅ ｔｒｅａｓｕｒｅｓ<line>
-ｂｅｆｏｒｅ ｔｈｏｓｅ ｇｕｙｓ ｄｏ！ Ｌｅｔ’ｓ ＧＯ！！！<line>
+We have to find those treasures<line>
+before those guys do! Let's GO!!!<line>
 <:func> <3> <0><line>
 <:func> <4><line>
 <:func> <5> <1> <1><0><line>

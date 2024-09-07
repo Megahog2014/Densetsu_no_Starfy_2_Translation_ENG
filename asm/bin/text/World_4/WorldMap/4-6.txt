@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚r‚k‚h‚o‚o‚d‚q‚x ‚f‚k‚`‚b‚h‚d‚q@‚S|‚U<line>
+SLIPPERY GLACIER 4-6<line>
 [<x_pos> <3><8>]<line>
 [<y_pos> <2><0>]<line>
-‚r‚‚‰‚‹‚…‚“C ‚‚“ ‚e‚‚’ ‚‚“ ‚”‚ˆ‚… ‚d‚™‚… ‚b‚‚ ‚r‚…‚…D<line>
-‚r‚‚‰‚‹‚…‚“C ‚d‚–‚…‚ ‚‚ ‚”‚ˆ‚… ‚b‚…‚‰‚Œ‚‰‚‚‡I<line>
+Spikes, as Far as the Eye Can See.<line>
+Spikes, Even on the Ceiling!<line>
 <end>
 

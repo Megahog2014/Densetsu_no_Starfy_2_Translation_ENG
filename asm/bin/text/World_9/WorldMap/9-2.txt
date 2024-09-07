@@ -14,9 +14,9 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚k‚n‚b‚g ‚q‚d‚r‚r@‚X|‚Q<line>
+LOCH RESS 9-2<line>
 [<x_pos> <1><3>]<line>
 [<y_pos> <2><6>]<line>
-‚k‚…‚”f‚“ ‚f‚ ‚r‚‚–‚… ‚q‚…‚“‚“‚‰‚…f‚“ ‚j‚‰‚„‚‚‚‚‚…‚„ ‚c‚‚•‚‡‚ˆ‚”‚…‚’I<line>
+Let's Go Save Ressie's Kidnapped Daughter!<line>
 <end>
 

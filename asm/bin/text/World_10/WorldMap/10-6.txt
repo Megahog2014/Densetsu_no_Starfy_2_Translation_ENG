@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚s‚n‚q‚q‚d‚m‚s‚h‚`‚k ‚e‚`‚k‚k‚r@‚P‚O|‚U<line>
+TORRENTIAL FALLS 10-6<line>
 [<x_pos> <4><5>]<line>
 [<y_pos> <2><0>]<line>
-   ‚h‚”f‚“ ‚s‚‰‚‚… ‚†‚‚’ ‚”‚ˆ‚… ‚a‚‰‚‡ ‚e‚‰‚Ž‚‚Œ‚…I<line>
-‚s‚ˆ‚… ‚r‚—‚‚“‚ˆ‚‚‚•‚ƒ‚‹‚Œ‚‰‚Ž‚‡ ‚r‚ˆ‚‚—‚„‚‚—‚ŽI<line>
+   It's Time for the Big Finale!<line>
+The Swashbuckling Showdown!<line>
 <end>
 

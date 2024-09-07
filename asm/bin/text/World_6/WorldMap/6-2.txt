@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚o‚h‚s‚b‚g ‚a‚k‚`‚b‚j ‚b‚`‚u‚d‚q‚m‚r@‚U|‚Q<line>
+PITCH BLACK CAVERNS 6-2<line>
 [<x_pos> <2><3>]<line>
 [<y_pos> <2><0>]<line>
-‚s‚ˆ‚… ‚b‚‚–‚… ‚‚† ‚”‚ˆ‚… ‚k‚…‚‡‚…‚Ž‚„‚‚’‚™ ‚`‚„‚–‚…‚Ž‚”‚•‚’‚…‚’<line>
-@@@@@‚h‚Ž‚„‚‚‚’ ‚i‚‚—‚“I<line>
+The Cave of the Legendary Adventurer<line>
+     Indoor Jaws!<line>
 <end>
 

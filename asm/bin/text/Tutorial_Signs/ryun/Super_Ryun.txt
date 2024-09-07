@@ -12,9 +12,9 @@
 
 #JMP(000000)
 
-‚s‚ˆ‚… ‚ƒ‚ˆ‚‚’‚‡‚… ‚‚”‚”‚‚ƒ‚‹<line>
-‚‰‚“ ‚–‚…‚’‚™ ‚‚‚—‚…‚’‚†‚•‚Œ<line>
-‚‚‚„ ‚†‚…‚…‚Œ‚“ ‚‡‚’‚…‚‚”<line>
-‚”‚ ‚•‚“‚…I<line>
+The charge attack<line>
+is very powerful<line>
+and feels great<line>
+to use!<line>
 <end>
 

@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚n‚f‚t‚q‚`f‚r ‚b‚`‚r‚s‚k‚d@‚P‚P|‚P‚O<line>
+OGURA'S CASTLE 11-10<line>
 [<x_pos> <3><2>]<line>
 [<y_pos> <2><0>]<line>
-‚r‚ˆ‚‚‹‚… ‚n‚†‚† ‚x‚‚•‚’ ‚o‚•‚’‚“‚•‚…‚’‚“ ‚‚‚„ ‚g‚…‚‚„<line>
-‚s‚‚—‚‚’‚„‚“ ‚”‚ˆ‚… ‚s‚’‚…‚‚“‚•‚’‚… ‚‰‚ ‚”‚ˆ‚… ‚`‚‚‚™‚“‚“I<line>
+Shake Off Your Pursuers and Head<line>
+Towards the Treasure in the Abyss!<line>
 <end>
 

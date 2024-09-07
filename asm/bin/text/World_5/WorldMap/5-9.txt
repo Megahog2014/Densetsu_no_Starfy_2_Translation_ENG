@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚i‚t‚l‚a‚n‚v‚n‚n‚c ‚e‚n‚q‚d‚r‚s@‚T|‚X<line>
+JUMBOWOOD FOREST 5-9<line>
 [<x_pos> <3><8>]<line>
 [<y_pos> <2><0>]<line>
-    ‚` ‚g‚‚‚„‚Œ‚•‚ ‚`‚Œ‚‚Ž‚… ‚‰‚Ž ‚”‚ˆ‚… ‚q‚‚‰‚ŽDDD<line>
-‚s‚ˆ‚… ‚r‚…‚‚’‚ƒ‚ˆ ‚†‚‚’ ‚”‚ˆ‚… ‚b‚‚’‚’‚…‚ƒ‚” ‚c‚‚‚’DDD<line>
+    A Hoodlum Alone in the Rain...<line>
+The Search for the Correct Door...<line>
 <end>
 

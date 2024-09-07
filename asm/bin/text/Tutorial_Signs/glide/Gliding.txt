@@ -12,8 +12,8 @@
 
 #JMP(000000)
 
-‚s‚ˆ‚‰‚“ ‚†‚Œ‚‚‚”‚™ ‚‚‚–‚…f‚Œ‚Œ<line>
-‚ˆ‚…‚Œ‚ ‚™‚‚• ‚ƒ‚’‚‚“‚“<line>
-‚—‚‰‚„‚… ‚‡‚‚‚“I<line>
+This floaty move'll<line>
+help you cross<line>
+wide gaps!<line>
 <end>
 

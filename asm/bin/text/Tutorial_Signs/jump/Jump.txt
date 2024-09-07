@@ -12,8 +12,8 @@
 
 #JMP(000000)
 
-‚t‚“‚… ‚”‚ˆ‚‰‚“ ‚”‚<line>
-‚‚–‚‚‰‚„ ‚…‚‚…‚‚‰‚…‚“ ‚‚‚„<line>
-‚”‚ ‚ƒ‚Œ‚‰‚‚‚ ‚”‚ˆ‚… ‚”‚…‚’‚’‚‚‰‚I<line>
+Use this to<line>
+avoid enemies and<line>
+to climb the terrain!<line>
 <end>
 

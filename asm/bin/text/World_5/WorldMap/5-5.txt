@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚i‚t‚l‚a‚n‚v‚n‚n‚c ‚e‚n‚q‚d‚r‚s@‚T|‚T<line>
+JUMBOWOOD FOREST 5-5<line>
 [<x_pos> <4><5>]<line>
 [<y_pos> <2><0>]<line>
-‚` ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚f‚“ ‚k‚‚–‚… ‚q‚•‚Ž‚“ ‚v‚‰‚Œ‚„I<line>
-@‚b‚‚Ž ‚`‚Ž‚™‚‚Ž‚… ‚r‚”‚‚ ‚h‚” ‚m‚‚—IH<line>
+A Puchi Ogura's Love Runs Wild!<line>
+ Can Anyone Stop It Now!?<line>
 <end>
 

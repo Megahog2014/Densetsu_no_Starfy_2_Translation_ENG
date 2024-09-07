@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚f‚k‚t‚f‚k‚t‚f ‚k‚`‚f‚n‚n‚m@‚Q|‚T<line>
+GLUGLUG LAGOON 2-5<line>
 [<x_pos> <3><6>]<line>
 [<y_pos> <2><0>]<line>
-‚r‚‚‰‚‹‚…‚“ ‚‚“ ‚e‚‚’ ‚‚“ ‚”‚ˆ‚… ‚d‚™‚… ‚b‚‚ ‚r‚…‚…I<line>
- ‚s‚ˆ‚… ‚r‚‚‰‚‹‚™ ‚q‚‚‚„ ‚”‚ ‚”‚ˆ‚… ‚s‚’‚…‚‚“‚•‚’‚…I<line>
+Spikes as Far as the Eye Can See!<line>
+ The Spiky Road to the Treasure!<line>
 <end>
 

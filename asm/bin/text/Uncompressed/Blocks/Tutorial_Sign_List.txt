@@ -7,7 +7,7 @@
 #ACTIVETBL(Story)
 
 #WRITE(GBA,$2C52E0)
-‚r‚—‚‰‚‚‚‰‚Ž‚‡<line>
+Swimming<line>
 <:end><line>
 <end>
 
@@ -15,7 +15,7 @@
 //POINTER #1 @ $2C52E4 - STRING #1 @ $63C1FC
 
 #WRITE(GBA,$2C52E4)
-‚s‚•‚’‚‚‚ ‚r‚—‚‰‚<line>
+Turbo Swim<line>
 <:end><line>
 <end>
 
@@ -23,7 +23,7 @@
 //POINTER #2 @ $2C52E8 - STRING #2 @ $63C214
 
 #WRITE(GBA,$2C52E8)
-‚r‚•‚’‚† ‚i‚•‚‚<line>
+Surf Jump<line>
 <:end><line>
 <end>
 
@@ -31,7 +31,7 @@
 //POINTER #3 @ $2C52EC - STRING #3 @ $63C22C
 
 #WRITE(GBA,$2C52EC)
-‚v‚‚Œ‚‹‚‰‚Ž‚‡<line>
+Walking<line>
 <:end><line>
 <end>
 
@@ -39,7 +39,7 @@
 //POINTER #4 @ $2C52F0 - STRING #4 @ $63C23C
 
 #WRITE(GBA,$2C52F0)
-‚c‚•‚ƒ‚‹<line>
+Duck<line>
 <:end><line>
 <end>
 
@@ -47,7 +47,7 @@
 //POINTER #5 @ $2C52F4 - STRING #5 @ $63C250
 
 #WRITE(GBA,$2C52F4)
-‚i‚•‚‚<line>
+Jump<line>
 <:end><line>
 <end>
 
@@ -55,7 +55,7 @@
 //POINTER #6 @ $2C52F8 - STRING #6 @ $63C264
 
 #WRITE(GBA,$2C52F8)
-‚c‚‚“‚ˆ<line>
+Dash<line>
 <:end><line>
 <end>
 
@@ -63,7 +63,7 @@
 //POINTER #7 @ $2C52FC - STRING #7 @ $63C278
 
 #WRITE(GBA,$2C52FC)
-‚c‚‚“‚ˆ ‚i‚•‚‚<line>
+Dash Jump<line>
 <:end><line>
 <end>
 
@@ -71,7 +71,7 @@
 //POINTER #8 @ $2C5300 - STRING #8 @ $63C294
 
 #WRITE(GBA,$2C5300)
-‚r‚Œ‚‰‚„‚‰‚Ž‚‡<line>
+Sliding<line>
 <:end><line>
 <end>
 
@@ -79,7 +79,7 @@
 //POINTER #9 @ $2C5304 - STRING #9 @ $63C2AC
 
 #WRITE(GBA,$2C5304)
-‚d‚Ž‚”‚…‚’‚‰‚Ž‚‡ ‚c‚‚‚’‚“<line>
+Entering Doors<line>
 <:end><line>
 <end>
 
@@ -87,7 +87,7 @@
 //POINTER #10 @ $2C5308 - STRING #10 @ $63C2C4
 
 #WRITE(GBA,$2C5308)
-‚s‚‚Œ‚‹‚‰‚Ž‚‡<line>
+Talking<line>
 <:end><line>
 <end>
 
@@ -95,7 +95,7 @@
 //POINTER #11 @ $2C530C - STRING #11 @ $63C2DC
 
 #WRITE(GBA,$2C530C)
-‚r‚”‚‚’ ‚r‚‚‰‚Ž<line>
+Star Spin<line>
 <:end><line>
 <end>
 
@@ -103,7 +103,7 @@
 //POINTER #12 @ $2C5310 - STRING #12 @ $63C2FC
 
 #WRITE(GBA,$2C5310)
-‚f‚Œ‚‰‚„‚…<line>
+Glide<line>
 <:end><line>
 <end>
 
@@ -111,7 +111,7 @@
 //POINTER #13 @ $2C5314 - STRING #13 @ $63C318
 
 #WRITE(GBA,$2C5314)
-‚`‚‰‚’ ‚i‚•‚‚<line>
+Air Jump<line>
 <:end><line>
 <end>
 
@@ -119,7 +119,7 @@
 //POINTER #14 @ $2C5318 - STRING #14 @ $63C330
 
 #WRITE(GBA,$2C5318)
-‚l‚‰‚‡‚ˆ‚”‚™ ‚r‚”‚‚’ ‚r‚‚‰‚Ž<line>
+Mighty Star Spin<line>
 <:end><line>
 <end>
 
@@ -127,7 +127,7 @@
 //POINTER #15 @ $2C531C - STRING #15 @ $63C350
 
 #WRITE(GBA,$2C531C)
-‚r‚ˆ‚‚‚”‚‰‚Ž‚‡ ‚r‚”‚‚’<line>
+Shooting Star<line>
 <:end><line>
 <end>
 
@@ -135,7 +135,7 @@
 //POINTER #16 @ $2C5320 - STRING #16 @ $63C36C
 
 #WRITE(GBA,$2C5320)
-‚t‚Œ‚”‚’‚ ‚r‚”‚‚’ ‚r‚‚‰‚Ž<line>
+Ultra Star Spin<line>
 <:end><line>
 <end>
 

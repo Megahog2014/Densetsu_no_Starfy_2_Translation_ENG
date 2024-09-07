@@ -7,3507 +7,3507 @@
 #ACTIVETBL(Story)
 
 #WRITE(GBA,$2D29F8)
-Ａ ｃｕｔｅ ｌｉｔｔｌｅ ｇｕｙ ｗｈｏ’ｌｌ ｆｏｌｌｏｗ<linealt>
-ｙｏｕ ｃｏｎｓｔａｎｔｌｙ ｎｏ ｍａｔｔｅｒ<linealt>
-ｗｈｅｒｅ ｙｏｕ ｇｏ．<end>
+A cute little guy who'll follow<linealt>
+you constantly no matter<linealt>
+where you go.<end>
 
 
 //POINTER #1 @ $2D29FC - STRING #1 @ $2CBD9C
 
 #WRITE(GBA,$2D29FC)
-Ｓｈｅｅｓｈ．．．<linealt>
-Ｇｕｙｓ ｌｉｋｅ ｔｈａｔ ｇｅｔ ｏｎ<linealt>
-ｐｅｏｐｌｅ’ｓ ｎｅｒｖｅｓ ｙａ ｋｎｏｗ！<end>
+Sheesh...<linealt>
+Guys like that get on<linealt>
+people's nerves ya know!<end>
 
 
 //POINTER #2 @ $2D2A00 - STRING #2 @ $2CBDD0
 
 #WRITE(GBA,$2D2A00)
-Ｔｈｉｓ ｔｕｒｔｌｅ’ｌｌ ｄｉｖｅ ｕｎｄｅｒｗａｔｅｒ ｔｏ<linealt>
-ａｔｔａｃｋ ｙｏｕ ｗｈｅｎ ｙａ ｇｅｔ ｔｏｏ ｃｌｏｓｅ．<end>
+This turtle'll dive underwater to<linealt>
+attack you when ya get too close.<end>
 
 
 //POINTER #3 @ $2D2A04 - STRING #3 @ $2CBE08
 
 #WRITE(GBA,$2D2A04)
-Ｉｔ ｈａｓ ｔｈｉｓ ｓｔｕｐｉｄ ｌｏｏｋ ｏｎ ｉｔ’ｓ<linealt>
-ｆａｃｅ ｗｈｅｎ ｉｔ ｄｏｅｓ ｔｈａｔ．．．<end>
+It has this stupid look on it's<linealt>
+face when it does that...<end>
 
 
 //POINTER #4 @ $2D2A08 - STRING #4 @ $2CBE40
 
 #WRITE(GBA,$2D2A08)
-Ｔｈｉｓ ｆｉｓｈ’ｓ ｏｒａｎｇｅ ａｎｄ ｗｈｉｔｅ<linealt>
-ｐａｔｔｅｒｎ ｍａｋｅｓ ｉｔ ｒｅａｌ ｆａｓｈｉｏｎａｂｌｅ！<end>
+This fish's orange and white<linealt>
+pattern makes it real fashionable!<end>
 
 
 //POINTER #5 @ $2D2A0C - STRING #5 @ $2CBE6C
 
 #WRITE(GBA,$2D2A0C)
-Ｂｕｔ ｆｏｒ ｇｕｙｓ，<linealt>
-ｉｔ’ｓ ｔｈｅ ｉｎｓｉｄｅ ｔｈａｔ ｃｏｕｎｔｓ！<end>
+But for guys,<linealt>
+it's the inside that counts!<end>
 
 
 //POINTER #6 @ $2D2A10 - STRING #6 @ $2CBEB0
 
 #WRITE(GBA,$2D2A10)
-Ｔｈｉｓ ｇｕｙ ｓｗｉｍｓ ｂａｃｋ ａｎｄ<linealt>
-ｆｏｒｔｈ ｉｎ ｗａｔｅｒ ａｌｌ ｔｈｅ ｔｉｍｅ．<end>
+This guy swims back and<linealt>
+forth in water all the time.<end>
 
 
 //POINTER #7 @ $2D2A14 - STRING #7 @ $2CBED0
 
 #WRITE(GBA,$2D2A14)
-Ｒｕｍｏｒ ｈａｓ ｉｔ ｔｈａｔ ｉｔ’ｓ ｗｈｉｔｅ<linealt>
-ｐａｔｔｅｒｎ’ｓ ａｃｔｕａｌｌｙ ｊｕｓｔ ｐａｉｎｔ．<end>
+Rumor has it that it's white<linealt>
+pattern's actually just paint.<end>
 
 
 //POINTER #8 @ $2D2A18 - STRING #8 @ $2CBF0C
 
 #WRITE(GBA,$2D2A18)
-Ｉｔ ｍａｙ ｂｅ ａ ｊｕｍｐｙ， ｇｌｏｏｍｙ ｌｏｏｋｉｎ’<linealt>
-ｃｒａｂ， ｂｕｔ ｉｔ’ｓ ｎｏ ｍａｔｃｈ ｆｏｒ ｍｅ．<end>
+It may be a jumpy, gloomy lookin'<linealt>
+crab, but it's no match for me.<end>
 
 
 //POINTER #9 @ $2D2A1C - STRING #9 @ $2CBF50
 
 #WRITE(GBA,$2D2A1C)
-Ｉｆ ｙｏｕ ｄｏｎ’ｔ ｌｉｋｅ ｈｏｗ ｉｔ ｍｏｖｅｓ，<linealt>
-ｔｅｌｌ ｉｔ ｔｏ ｗａｌｋ ｎｏｒｍａｌｌｙ！<end>
+If you don't like how it moves,<linealt>
+tell it to walk normally!<end>
 
 
 //POINTER #10 @ $2D2A20 - STRING #10 @ $2CBF88
 
 #WRITE(GBA,$2D2A20)
-Ｔｈｅｓｅ ｇｕｙｓ’ｌｌ ｔｒｙ ｔｏ ｒａｍ ｉｎｔｏ<linealt>
-ｙｏｕ ｉｆ ｙａ ｇｅｔ ｔｏｏ ｃｌｏｓｅ．<end>
+These guys'll try to ram into<linealt>
+you if ya get too close.<end>
 
 
 //POINTER #11 @ $2D2A24 - STRING #11 @ $2CBFB4
 
 #WRITE(GBA,$2D2A24)
-Ｔｈｏｓｅ ｃｈｕｂｂｙ ｃｈｅｅｋｓ ｍａｋｅ<linealt>
-ｉｔ ｌｏｏｋ．．． ｋｉｎｄａ ｃｕｔｅ．．．<end>
+Those chubby cheeks make<linealt>
+it look... kinda cute...<end>
 
 
 //POINTER #12 @ $2D2A28 - STRING #12 @ $2CBFF8
 
 #WRITE(GBA,$2D2A28)
-Ｔｈｉｓ ｇｕｙ’ｌｌ ｔｒｙ ｔｏ ｕｓｅ ｉｔ’ｓ ｓｐｉｋｙ<linealt>
-ｓｈｅｌｌ ｔｏ ｔｒｙ ａｎｄ ｈｉｔ Ｓｔａｒｆｙ．<end>
+This guy'll try to use it's spiky<linealt>
+shell to try and hit Starfy.<end>
 
 
 //POINTER #13 @ $2D2A2C - STRING #13 @ $2CC030
 
 #WRITE(GBA,$2D2A2C)
-Ｂｕｔ ｉｓ ｔｒｅａｔｉｎｇ ｉｔ’ｓ ｈｏｕｓｅ<linealt>
-ｌｉｋｅ ｔｈａｔ ａ ｇｏｏｄ ｉｄｅａ？<end>
+But is treating it's house<linealt>
+like that a good idea?<end>
 
 
 //POINTER #14 @ $2D2A30 - STRING #14 @ $2CC070
 
 #WRITE(GBA,$2D2A30)
-Ｔｈｉｓ ｔｈｉｎｇ ｃａｎ ｂｅ ａ ｐａｉｎ ｔｏ ｔａｋｅ<linealt>
-ｄｏｗｎ ｃａｕｓｅ ｏｆ ｈｏｗ ｆａｓｔ ｉｔ ｆｌｉｅｓ．<end>
+This thing can be a pain to take<linealt>
+down cause of how fast it flies.<end>
 
 
 //POINTER #15 @ $2D2A34 - STRING #15 @ $2CC0A8
 
 #WRITE(GBA,$2D2A34)
-Ｈｕｈ？ ”Ｈｏｗ ｃａｎ ａ ｆｉｓｈ ｆｌｙ？”<linealt>
-Ｄｏｎ’ｔ ｇｅｔ ｓｍａｒｔ ｗｉｔｈ ｍｅ！<end>
+Huh? "How can a fish fly?"<linealt>
+Don't get smart with me!<end>
 
 
 //POINTER #16 @ $2D2A38 - STRING #16 @ $2CC0E4
 
 #WRITE(GBA,$2D2A38)
-Ｉｔ ｏｃｃａｓｉｏｎａｌｌｙ ｃｈａｎｇｅｓ ｓｐｅｅｄｓ<linealt>
-ｗｈｅｎ ｉｔ ｍｏｖｅｓ ｆｒｏｍ ｐｌａｃｅ ｔｏ ｐｌａｃｅ．<end>
+It occasionally changes speeds<linealt>
+when it moves from place to place.<end>
 
 
 //POINTER #17 @ $2D2A3C - STRING #17 @ $2CC11C
 
 #WRITE(GBA,$2D2A3C)
-Ｉ ｗｏｎｄｅｒ ｉｆ ｔｈａｔ ｒｕｍｏｒ ａｂｏｕｔ ｉｔ<linealt>
-ｒｅａｌｌｙ ｂｅｉｎ’ ａ ｔｉｎｙ ｂｌａｃｋ ｈｏｌｅ’ｓ<linealt>
-ｔｒｕｅ？．．．<end>
+I wonder if that rumor about it<linealt>
+really bein' a tiny black hole's<linealt>
+true?...<end>
 
 
 //POINTER #18 @ $2D2A40 - STRING #18 @ $2CC164
 
 #WRITE(GBA,$2D2A40)
-Ｔｈｅｓｅ ｇｕｙｓ ｇｅｔ ｉｎ Ｓｔａｒｆｙ’ｓ<linealt>
-ｗａｙ ｂｙ ｐｕｆｆｉｎｇ ｕｐ．<end>
+These guys get in Starfy's<linealt>
+way by puffing up.<end>
 
 
 //POINTER #19 @ $2D2A44 - STRING #19 @ $2CC19C
 
 #WRITE(GBA,$2D2A44)
-Ｄｏｎ’ｔ ｔｈｉｎｋ ｙｏｕ ｃａｎ ｊｕｓｔ<linealt>
-ｐｕｆｆ ｕｐ ｔｏ ｇｅｔ ｂｙ， ｙｏｕ ｗｉｍｐｓ！<end>
+Don't think you can just<linealt>
+puff up to get by, you wimps!<end>
 
 
 //POINTER #20 @ $2D2A48 - STRING #20 @ $2CC1E4
 
 #WRITE(GBA,$2D2A48)
-Ａｎ ｅｌｄｅｒ ｏｆ ｔｈｅ ｓｅａ ｗｈｏ ａｌｗａｙｓ<linealt>
-ｋｎｏｗｓ ｍｏｒｅ ｔｈａｎ ｈｅ ｌｅｔｓ ｏｎ．<end>
+An elder of the sea who always<linealt>
+knows more than he lets on.<end>
 
 
 //POINTER #21 @ $2D2A4C - STRING #21 @ $2CC20C
 
 #WRITE(GBA,$2D2A4C)
-Ｔｕｒｎｓ ｏｕｔ ｔｈａｔ ｈｅ’ｓ<linealt>
-ｓｕｐｅｒ ｓｔｒｏｎｇ ｔｏ ｂｏｏｔ！<end>
+Turns out that he's<linealt>
+super strong to boot!<end>
 
 
 //POINTER #22 @ $2D2A50 - STRING #22 @ $2CC23C
 
 #WRITE(GBA,$2D2A50)
-Ｉｔ’ｓ ｅｖｅｒｙｏｎｅ’ｓ ｄａｓｈｉｎｇ ｈｅｒｏ，<linealt>
-Ｔｈｅ Ｇｒｅａｔ ａｎｄ Ｐｏｗｅｒｆｕｌ Ｍｏｅ！<end>
+It's everyone's dashing hero,<linealt>
+The Great and Powerful Moe!<end>
 
 
 //POINTER #23 @ $2D2A54 - STRING #23 @ $2CC274
 
 #WRITE(GBA,$2D2A54)
-Ｉ’ｍ ｃｕｒｒｅｎｔｌｙ ｔａｋｉｎｇ ａｐｐｌｉｃａｔｉｏｎｓ<linealt>
-ｆｏｒ ｇｉｒｌｆｒｉｅｎｄ ｃａｎｄｉｄａｔｅｓ！<linealt>
-Ｃｕｔｉｅｓ ａｒｅ ａｌｗａｙｓ ｗｅｌｃｏｍｅ！<end>
+I'm currently taking applications<linealt>
+for girlfriend candidates!<linealt>
+Cuties are always welcome!<end>
 
 
 //POINTER #24 @ $2D2A58 - STRING #24 @ $2CC2BC
 
 #WRITE(GBA,$2D2A58)
-Ｔｈｉｓ ｎｉｃｅ ｌａｄｙ’ｓ ａｌｗａｙｓ ｉｎｓｉｄｅ<linealt>
-ｔｈａｔ ｓｈｅｌｌ ｏｆ ｈｅｒ’ｓ！<end>
+This nice lady's always inside<linealt>
+that shell of her's!<end>
 
 
 //POINTER #25 @ $2D2A5C - STRING #25 @ $2CC2F8
 
 #WRITE(GBA,$2D2A5C)
-Ｓｈｅ’ｓ ｐｒｅｔｔｙ ｃｕｔｅ ｔｏｏ．．．<linealt>
-Ｈｅｈ ｈｅｈ ｈｅｈ．．．<end>
+She's pretty cute too...<linealt>
+Heh heh heh...<end>
 
 
 //POINTER #26 @ $2D2A60 - STRING #26 @ $2CC334
 
 #WRITE(GBA,$2D2A60)
-Ｔｈｉｓ ｇｕｙ’ｓ ｓｏｍｅｈｏｗ<linealt>
-ａｌｗａｙｓ ｉｎ ｔｒｏｕｂｌｅ．<end>
+This guy's somehow<linealt>
+always in trouble.<end>
 
 
 //POINTER #27 @ $2D2A64 - STRING #27 @ $2CC368
 
 #WRITE(GBA,$2D2A64)
-Ｗｈｙ ｃａｎ’ｔ ｈｅ ｂｅ<linealt>
-ａｓ ｒｅｌｉａｂｌｅ ａｓ Ｉ ａｍ？<end>
+Why can't he be<linealt>
+as reliable as I am?<end>
 
 
 //POINTER #28 @ $2D2A68 - STRING #28 @ $2CC3A8
 
 #WRITE(GBA,$2D2A68)
-Ｔｈｉｓ ｂｉｇ－ｌｉｐｐｅｄ ｌａｄｙ ｍｏｖｅｄ<linealt>
-ｆｒｏｍ ｔｈｅ Ｓｅａ ｏｆ Ｉｃｅ．<end>
+This big-lipped lady moved<linealt>
+from the Sea of Ice.<end>
 
 
 //POINTER #29 @ $2D2A6C - STRING #29 @ $2CC3E8
 
 #WRITE(GBA,$2D2A6C)
-Ｔｈａｔ’ｓ ｆｉｎｅ ａｎｄ ａｌｌ ｂｕｔ．．．<linealt>
-Ｐｌｅａｓｅ．．． Ｎｏ ｍｏｒｅ ｋｉｓｓｅｓ．．．<end>
+That's fine and all but...<linealt>
+Please... No more kisses...<end>
 
 
 //POINTER #30 @ $2D2A70 - STRING #30 @ $2CC428
 
 #WRITE(GBA,$2D2A70)
-Ｔｈｉｓ ｉｓ ｔｈｅ ｂｒａｔ<linealt>
-ｗｈｏ ｍａｄｅ ｆｕｎ ｏｆ ｍｅ！<end>
+This is the brat<linealt>
+who made fun of me!<end>
 
 
 //POINTER #31 @ $2D2A74 - STRING #31 @ $2CC460
 
 #WRITE(GBA,$2D2A74)
-Ｄｏｎ’ｔ ｃａｌｌ ｍｅ ｌａｍｅ！<linealt>
-Ｉ’ｍ ａｎｙｔｈｉｎｇ ｂｕｔ！！！<linealt>
-．．．Ｓｈｅｅｓｈ．．．<end>
+Don't call me lame!<linealt>
+I'm anything but!!!<linealt>
+...Sheesh...<end>
 
 
 //POINTER #32 @ $2D2A78 - STRING #32 @ $2CC4A0
 
 #WRITE(GBA,$2D2A78)
-Ｔｈｉｓ ｓｐｉｎｎｉｎｇ ｉｄｉｏｔ’ｓ ｍｙ ｌｏｖｅ ｒｉｖａｌ！<end>
+This spinning idiot's my love rival!<end>
 
 
 //POINTER #33 @ $2D2A7C - STRING #33 @ $2CC4E0
 
 #WRITE(GBA,$2D2A7C)
-Ｌｉｓｔｅｎ ｕｐ， Ｉ’ｌｌ ｎｅｖｅｒ ｇｉｖｅ ｙｏｕ<linealt>
-Ｍｓ．Ｒｕｂｙ， ｇｏｔ ｔｈａｔ！？<end>
+Listen up, I'll never give you<linealt>
+Ms.Ruby, got that!?<end>
 
 
 //POINTER #34 @ $2D2A80 - STRING #34 @ $2CC514
 
 #WRITE(GBA,$2D2A80)
-Ｙｏｕ’ｌｌ ｆｉｎｄ ｔｈｉｓ ｒａｒｅ ｅｎｅｍｙ<linealt>
-ｆｌｙｉｎ’ ｔｈｒｏｕｇｈ ｔｈｅ ａｉｒ．<end>
+You'll find this rare enemy<linealt>
+flyin' through the air.<end>
 
 
 //POINTER #35 @ $2D2A84 - STRING #35 @ $2CC53C
 
 #WRITE(GBA,$2D2A84)
-Ｓｅｅｍｓ ｈａｒｄ ｔｏ ｆｌｙ ｗｉｔｈ<linealt>
-ａ ｂｏｄ’ ｌｉｋｅ ｔｈａｔ ｔｈｏｕｇｈ，<linealt>
-ｉｔ ｓｈｏｕｌｄ ｒｅａｌｌｙ ｇｏ ｏｎ ａ ｄｉｅｔ．．．<end>
+Seems hard to fly with<linealt>
+a bod' like that though,<linealt>
+it should really go on a diet...<end>
 
 
 //POINTER #36 @ $2D2A88 - STRING #36 @ $2CC588
 
 #WRITE(GBA,$2D2A88)
-Ｔｈｉｓ ｔｈｉｎｇ’ｓ ｈｕｇｅ ｂｏｄｙ<linealt>
-ｃａｎ ｇｅｔ ｉｎ ｙｏｕｒ ｗａｙ ｗｈｅｎ<linealt>
-ｉｔ ｍｏｖｅｓ ｕｐ ａｎｄ ｄｏｗｎ！<end>
+This thing's huge body<linealt>
+can get in your way when<linealt>
+it moves up and down!<end>
 
 
 //POINTER #37 @ $2D2A8C - STRING #37 @ $2CC5C4
 
 #WRITE(GBA,$2D2A8C)
-Ｓｐｅａｋｉｎｇ ｏｆ， ｔｈｅｒｅ’ｒｅ ｔｈｅｓｅ<linealt>
-３－ｐａｃｋｓ ｏｆ Ｓｔｒａｗｂｅｒｒｙ Ｊｅｌｌｙ<linealt>
-Ｉ ｒｅａｌｌｙ ｌｉｋｅ ａｔ ｔｈｅ ｓｔｏｒｅ！<end>
+Speaking of, there're these<linealt>
+3-packs of Strawberry Jelly<linealt>
+I really like at the store!<end>
 
 
 //POINTER #38 @ $2D2A90 - STRING #38 @ $2CC60C
 
 #WRITE(GBA,$2D2A90)
-Ｔｈｅｓｅ ｇｕｙｓ ｈｏｌｅ ｔｈｅｍｓｅｌｖｅｓ ｕｐ<linealt>
-ｉｎ ｔｈｉｅｒ ｓｈｅｌｌｓ ｗｈｅｎ ｙｏｕ ｔｒｙ ｔｏ<linealt>
-ｈｉｔ’ｅｍ ｗｉｔｈ ａ ｓｐｉｎ．．．<end>
+These guys hole themselves up<linealt>
+in thier shells when you try to<linealt>
+hit'em with a spin...<end>
 
 
 //POINTER #39 @ $2D2A94 - STRING #39 @ $2CC64C
 
 #WRITE(GBA,$2D2A94)
-Ａｎｎｏｙｉｎｇ ＡＮＤ ｔｈｅｙ ｌｏｏｋ ｏｌｄ<end>
+Annoying AND they look old<end>
 
 
 //POINTER #40 @ $2D2A98 - STRING #40 @ $2CC668
 
 #WRITE(GBA,$2D2A98)
-Ｔｈｅｓｅ ｎａｓｔｙ ｇｕｙｓ ｓｈｏｗ ｕｐ ａｎｄ<linealt>
-ｄｉｓａｐｐｅａｒ ｊｕｓｔ ｌｉｋｅ ｔｈａｔ．<end>
+These nasty guys show up and<linealt>
+disappear just like that.<end>
 
 
 //POINTER #41 @ $2D2A9C - STRING #41 @ $2CC6A0
 
 #WRITE(GBA,$2D2A9C)
-Ｔｈｉｎｋ Ｉ ｃｏｕｌｄ ｓａｖｅ ａ ｌｏｔ ｏｆ<linealt>
-ｇａｓ ｍｏｎｅｙ ｉｆ Ｉ ｃａｕｇｈｔ ｏｎｅ？<end>
+Think I could save a lot of<linealt>
+gas money if I caught one?<end>
 
 
 //POINTER #42 @ $2D2AA0 - STRING #42 @ $2CC6E4
 
 #WRITE(GBA,$2D2AA0)
-Ｔｈｅｓｅ ｇｕｙｓ ａｒｅ ｓｏ ａｉｍｌｅｓｓ ｔｈａｔ<linealt>
-ｔｈｅｙ ｄｏｎ’ｔ ａｔｔａｃｋ ｙｏｕ．<end>
+These guys are so aimless that<linealt>
+they don't attack you.<end>
 
 
 //POINTER #43 @ $2D2AA4 - STRING #43 @ $2CC720
 
 #WRITE(GBA,$2D2AA4)
-Ｓｉｎｃｅ ｉｔ ｌｏｏｋｓ ａ ｌｏｔ ｌｉｋｅ ａ ｍｏｐ，<linealt>
-ｔｈｉｎｋ ｉｔ ｃｏｕｌｄ ｃｌｅａｎ ｔｈｅ ｈｏｕｓｅ<linealt>
-ｆｏｒ ｍｅ？<end>
+Since it looks a lot like a mop,<linealt>
+think it could clean the house<linealt>
+for me?<end>
 
 
 //POINTER #44 @ $2D2AA8 - STRING #44 @ $2CC76C
 
 #WRITE(GBA,$2D2AA8)
-Ｔｈｅ ｓｐｉｋｅｓ ｉｎ ｔｈｅｓｅ ｇｕｙｓ’ ｂｏｄｉｅｓ’ｌｌ<linealt>
-ｓｈｏｏｔ ｏｕｔ ｗｈｅｎ ｙａ ｇｅｔ ｔｏｏ ｃｌｏｓｅ．<end>
+The spikes in these guys' bodies'll<linealt>
+shoot out when ya get too close.<end>
 
 
 //POINTER #45 @ $2D2AAC - STRING #45 @ $2CC7A4
 
 #WRITE(GBA,$2D2AAC)
-Ｔｈｅｙ ｓａｙ ｔｈａｔ ａｌｌ ｂｅａｕｔｉｆｕｌ<linealt>
-ｐｅｏｐｌｅ ｈａｖｅ ｔｈｏｒｎｓ， ｂｕｔ Ｉ ｄｏｎ’ｔ<linealt>
-ｔｈｉｎｋ ｔｈｅｓｅ ｇｕｙｓ ｃｏｕｎｔ．<end>
+They say that all beautiful<linealt>
+people have thorns, but I don't<linealt>
+think these guys count.<end>
 
 
 //POINTER #46 @ $2D2AB0 - STRING #46 @ $2CC7F0
 
 #WRITE(GBA,$2D2AB0)
-Ｔｈｅｓｅ ｇｕｙｓ ｃａｎ ｂｅ ｔｒｏｕｂｌｅ<linealt>
-ａｓ ｔｈｅｙ ｐｒｏｗｌ ａｒｏｕｎｄ．<end>
+These guys can be trouble<linealt>
+as they prowl around.<end>
 
 
 //POINTER #47 @ $2D2AB4 - STRING #47 @ $2CC82C
 
 #WRITE(GBA,$2D2AB4)
-Ｉｆ ａｌｌ ｔｈｅｙ’ｒｅ ｇｏｎｎａ ｄｏ ｉｓ ｃｉｒｃｌｅ<linealt>
-ａｒｏｕｎｄ ｔｈｅ ｐｌａｃｅ， ａ ｊｏｂ ｐｉｃｋｉｎｇ<linealt>
-ｕｐ ｔｒａｓｈ’ｄ ｂｅ ｐｅｒｆｅｃｔ ｆｏｒ’ｅｍ．<end>
+If all they're gonna do is circle<linealt>
+around the place, a job picking<linealt>
+up trash'd be perfect for'em.<end>
 
 
 //POINTER #48 @ $2D2AB8 - STRING #48 @ $2CC86C
 
 #WRITE(GBA,$2D2AB8)
-Ｔｈｅｓｅ ｇｕｙｓ’ｌｌ ｔｒｙ ｔｏ ｈｅａｄｂｕｔｔ<linealt>
-ｙｏｕ ｗｈｅｎ ｔｈｅｙ ｇｅｔ ａｎｇｒｙ．<end>
+These guys'll try to headbutt<linealt>
+you when they get angry.<end>
 
 
 //POINTER #49 @ $2D2ABC - STRING #49 @ $2CC898
 
 #WRITE(GBA,$2D2ABC)
-Ｉ ｈｅａｒｄ ｔｈａｔ ｔｈｅｒｅ’ｓ ｓｅａｓｏｎｉｎｇ<linealt>
-ｓｐｒｉｎｋｌｅｄ ｏｎ ｔｈｅｉｒ ｈｅａｄｓ．<end>
+I heard that there's seasoning<linealt>
+sprinkled on their heads.<end>
 
 
 //POINTER #50 @ $2D2AC0 - STRING #50 @ $2CC8CC
 
 #WRITE(GBA,$2D2AC0)
-Ｉｆ ｔｈｉｓ ｇｕｙ ｓｅｅｓ Ｓｔａｒｆｙ，<linealt>
-ｈｅ’ｌｌ ｃｈａｒｇｅ ａｎｄ ｔｒｙ ｔｏ ｈｉｔ ｈｉｍ．<end>
+If this guy sees Starfy,<linealt>
+he'll charge and try to hit him.<end>
 
 
 //POINTER #51 @ $2D2AC4 - STRING #51 @ $2CC908
 
 #WRITE(GBA,$2D2AC4)
-Ｉ’ｖｅ ｂｅｅｎ ｓｅｅｉｎｇ ｔｈｉｓ ｇｕｙ’ｓ ｆａｃｅ<linealt>
-ｉｎ ｍｙ ｄｒｅａｍｓ， ａｎｄ Ｉ ｒｅａｌｌｙ ｗｉｓｈ ｉｔ<linealt>
-ｄｉｄｎ’ｔ ｌｏｏｋ ｓｏ ｄｅｐｒｅｓｓｉｎｇ．．．<end>
+I've been seeing this guy's face<linealt>
+in my dreams, and I really wish it<linealt>
+didn't look so depressing...<end>
 
 
 //POINTER #52 @ $2D2AC8 - STRING #52 @ $2CC954
 
 #WRITE(GBA,$2D2AC8)
-Ｔｈｉｓ ｃｕｔｅ ｌｉｔｔｌｅ ｇｕｙ ｊｕｓｔ ｔｅｎｄｓ<linealt>
-ｔｏ ｓｌｉｎｋ ａｌｏｎｇ ｔｈｅ ｇｒｏｕｎｄ．<end>
+This cute little guy just tends<linealt>
+to slink along the ground.<end>
 
 
 //POINTER #53 @ $2D2ACC - STRING #53 @ $2CC990
 
 #WRITE(GBA,$2D2ACC)
-Ｓｅｅｍｓ ｌｉｋｅ ｉｔ’ｓ ｐｏｐｕｌａｒ ｗｉｔｈ ｔｈｅ<linealt>
-ｌａｄｉｅｓ．．．<linealt>
-Ｔｃｈ， ｄｏｎ’ｔ ｇｅｔ ｃａｒｒｉｅｄ ａｗａｙ， ｐｕｎｋ！<end>
+Seems like it's popular with the<linealt>
+ladies...<linealt>
+Tch, don't get carried away, punk!<end>
 
 
 //POINTER #54 @ $2D2AD0 - STRING #54 @ $2CC9D8
 
 #WRITE(GBA,$2D2AD0)
-Ｔｈｉｓ ｉｓ ｍｙ ｆｕｔｕｒｅ ｂｒｉｄｅ．<linealt>
-Ｇｏｒｇｅｏｕｓ ｉｓｎ’ｔ ｓｈｅ？<end>
+This is my future bride.<linealt>
+Gorgeous isn't she?<end>
 
 
 //POINTER #55 @ $2D2AD4 - STRING #55 @ $2CCA18
 
 #WRITE(GBA,$2D2AD4)
-Ｂｕｔ ｄｏｎ’ｔ ｇｅｔ ａｎｙ ｆｕｎｎｙ ｉｄｅａｓ！<linealt>
-Ｓｈｅ’ｓ ｇｏｎｎａ ｂｅ ＭＹ ｗｉｆｅ！<end>
+But don't get any funny ideas!<linealt>
+She's gonna be MY wife!<end>
 
 
 //POINTER #56 @ $2D2AD8 - STRING #56 @ $2CCA64
 
 #WRITE(GBA,$2D2AD8)
-Ｓｈｅｅｓｈ．．．<linealt>
-Ｔｈｉｓ ｇｅｅｚｅｒ’ｓ ｂｅｅｎ ｇｅｔｔｉｎ’ ｒｅａｌ<linealt>
-ａｃｔｉｖｅ ｌａｔｅｌｙ．．．<end>
+Sheesh...<linealt>
+This geezer's been gettin' real<linealt>
+active lately...<end>
 
 
 //POINTER #57 @ $2D2ADC - STRING #57 @ $2CCA94
 
 #WRITE(GBA,$2D2ADC)
-Ｉ ｈｅａｒｄ ｔｈａｔ ｈｉｓ ｌａｂ<linealt>
-ｅｘｐｌｏｄｅｄ ｔｈｅ ｏｔｈｅｒ ｄａｙ．．．<end>
+I heard that his lab<linealt>
+exploded the other day...<end>
 
 
 //POINTER #58 @ $2D2AE0 - STRING #58 @ $2CCADC
 
 #WRITE(GBA,$2D2AE0)
-Ｔｈｉｓ ｋｉｄ’ｌｌ ｔｒｙ ｔｏ ｒａｍ ｉｎｔｏ ｙｏｕ<linealt>
-ｗｈｉｌｅ ｒｉｄｉｎｇ ａ ｆｌａｍｉｎｇ ｍｏｔｏｒｃｙｃｌｅ！<end>
+This kid'll try to ram into you<linealt>
+while riding a flaming motorcycle!<end>
 
 
 //POINTER #59 @ $2D2AE4 - STRING #59 @ $2CCB24
 
 #WRITE(GBA,$2D2AE4)
-Ｍａｋｅ ｓｕｒｅ ｔｏ ｄｒｉｖｅ ｓａｆｅｌｙ！<linealt>
-Ａｃｃｉｄｅｎｔｓ ａｒｅ ｓｃａｒｙ！<end>
+Make sure to drive safely!<linealt>
+Accidents are scary!<end>
 
 
 //POINTER #60 @ $2D2AE8 - STRING #60 @ $2CCB58
 
 #WRITE(GBA,$2D2AE8)
-Ｔｈｉｓ ｉｓ Ｐｕｃｈｉ Ｏｇｕｒａ ＃２’ｓ<linealt>
-ｐｒｅｃｉｏｕｓ ｍｏｔｏｒｃｙｃｌｅ．<end>
+This is Puchi Ogura #2's<linealt>
+precious motorcycle.<end>
 
 
 //POINTER #61 @ $2D2AEC - STRING #61 @ $2CCB78
 
 #WRITE(GBA,$2D2AEC)
-Ｗｅｌｌ， Ｉ ｓａｙ ｍｏｔｏｒｃｙｃｌｅ，<linealt>
-ｂｕｔ ｉｔ’ｓ ｇｏｔ ｔｈｒｅｅ ｔｉｒｅｓ！ Ｈｅｈ ｈｅｈ！<end>
+Well, I say motorcycle,<linealt>
+but it's got three tires! Heh heh!<end>
 
 
 //POINTER #62 @ $2D2AF0 - STRING #62 @ $2CCBB0
 
 #WRITE(GBA,$2D2AF0)
-Ｔｈｉｓ ｓｅｅ－ｔｈｒｏｕｇｈ ｔｈｉｎｇ ｓｗｉｍｓ ａｌｌ<linealt>
-ｏｖｅｒ ｔｈｅ ｐｌａｃｅ ａｎｄ ｇｉｖｅｓ ｍｅ<linealt>
-ｔｈｅ ｈｅｅｂｉｅ－ｊｅｅｂｉｅｓ．<end>
+This see-through thing swims all<linealt>
+over the place and gives me<linealt>
+the heebie-jeebies.<end>
 
 
 //POINTER #63 @ $2D2AF4 - STRING #63 @ $2CCBE4
 
 #WRITE(GBA,$2D2AF4)
-Ｐｅｏｐｌｅ ｓａｙ ｔｈａｔ ｉｔ’ｓ ａ<linealt>
-ｇｈ－ｇｈ－ｇｈｏｓｔ， ｂｕｔ ｔｈａｔ ｃａｎ’ｔ<linealt>
-ｂｅ ｔｒｕｅ ｒｉｇｈｔ？ Ｈ－Ｈｅｈ ｈｅｈ ｈｅｈ．．．<end>
+People say that it's a<linealt>
+gh-gh-ghost, but that can't<linealt>
+be true right? H-Heh heh heh...<end>
 
 
 //POINTER #64 @ $2D2AF8 - STRING #64 @ $2CCC2C
 
 #WRITE(GBA,$2D2AF8)
-Ｔｈｉｓ ｒｏｕｎｄ ｆｅｌｌｏｗ ｌｏｏｋｓ ｐａｎｉｃｋｅｄ<linealt>
-ｗｈｉｌｅ ｉｔ ｓｗｉｍｓ ａｒｏｕｎｄ．<end>
+This round fellow looks panicked<linealt>
+while it swims around.<end>
 
 
 //POINTER #65 @ $2D2AFC - STRING #65 @ $2CCC50
 
 #WRITE(GBA,$2D2AFC)
-Ｓｈｅｅｓｈ．．．<linealt>
-Ｎｏ ｍａｔｔｅｒ ｈｏｗ ｙａ ｓｌｉｃｅ ｉｔ，<linealt>
-ｉｔ ｌｏｏｋｓ ｌｉｋｅ ｉｔ ｃａｎ’ｔ ｓｗｉｍ．．．<end>
+Sheesh...<linealt>
+No matter how ya slice it,<linealt>
+it looks like it can't swim...<end>
 
 
 //POINTER #66 @ $2D2B00 - STRING #66 @ $2CCC88
 
 #WRITE(GBA,$2D2B00)
-Ｔｈｉｓ ｇｕｙ ｓｌｏｗｌｙ ｆａｌｌｓ ｆｒｏｍ ｔｈｅ ｓｋｙ<linealt>
-ｗｈｉｌｅ ｓｗａｙｉｎｇ ｆｒｏｍ ｓｉｄｅ ｔｏ ｓｉｄｅ．<end>
+This guy slowly falls from the sky<linealt>
+while swaying from side to side.<end>
 
 
 //POINTER #67 @ $2D2B04 - STRING #67 @ $2CCCB4
 
 #WRITE(GBA,$2D2B04)
-Ｉ ｗｏｎｄｅｒ ｉｆ ｔｈａｔ’ｓ ”Ｒｙｄｅｒ Ｒａｍｅｎ”<linealt>
-ｉｎ ｔｈａｔ ｂｏｗｌ ｏｆ ｈｉｓ？<end>
+I wonder if that's "Ryder Ramen"<linealt>
+in that bowl of his?<end>
 
 
 //POINTER #68 @ $2D2B08 - STRING #68 @ $2CCCE8
 
 #WRITE(GBA,$2D2B08)
-Ｔｈｅｓｅ ｎｕｉｓａｎｃｅｓ’ｌｌ ｓｐｉｎ ｂｅｆｏｒｅ<linealt>
-ｔｈｅｙ ｔｒｙ ａｎｄ ｇｅｔ ｔｈｅ ｄｒｏｐ ｏｎ ｙａ！<end>
+These nuisances'll spin before<linealt>
+they try and get the drop on ya!<end>
 
 
 //POINTER #69 @ $2D2B0C - STRING #69 @ $2CCD1C
 
 #WRITE(GBA,$2D2B0C)
-Ｄｏｎ’ｔ ｔｈｉｎｋ ｔｈａｔ ｓｏｍｅｏｎｅ ｌｉｋｅ ｍｅ’ｄ<linealt>
-ｇｅｔ ｓｃａｒｅｄ ｂｙ ｔｈａｔ ｓｏｒｔａ ｔｈｉｎｇ，<linealt>
-ｙｏｕ ｂｌｏｃｋｈｅａｄ！<end>
+Don't think that someone like me'd<linealt>
+get scared by that sorta thing,<linealt>
+you blockhead!<end>
 
 
 //POINTER #70 @ $2D2B10 - STRING #70 @ $2CCD60
 
 #WRITE(GBA,$2D2B10)
-Ｔｈｉｓ ｔｈｉｎｇ’ｓ ｅｎｔｉｒｅ ｂｏｄｙ<linealt>
-ｉｓ ｃｏｖｅｒｅｄ ｉｎ ｈａｉｒ．<end>
+This thing's entire body<linealt>
+is covered in hair.<end>
 
 
 //POINTER #71 @ $2D2B14 - STRING #71 @ $2CCD98
 
 #WRITE(GBA,$2D2B14)
-Ｉ ｂｅｔ ｔｈｅｙ’ｒｅ ｗａｒｍ ｉｎ ｔｈｅ ｗｉｎｔｅｒ，<linealt>
-ｂｕｔ ｓｕｍｍｅｒｔｉｍｅ ｍｕｓｔ ｂｅ ｒｏｕｇｈ．．．<end>
+I bet they're warm in the winter,<linealt>
+but summertime must be rough...<end>
 
 
 //POINTER #72 @ $2D2B18 - STRING #72 @ $2CCDD0
 
 #WRITE(GBA,$2D2B18)
-Ｔｈｅｓｅ ｑｕｉｅｔ ｇｕｙｓ ｄｏｎ’ｔ ｒｅａｌｌｙ ｇｏ<linealt>
-ｏｕｔ ｏｆ ｔｈｅｉｒ ｗａｙｓ ｔｏ ａｔｔａｃｋ ｕｓ．<end>
+These quiet guys don't really go<linealt>
+out of their ways to attack us.<end>
 
 
 //POINTER #73 @ $2D2B1C - STRING #73 @ $2CCE04
 
 #WRITE(GBA,$2D2B1C)
-Ｔｈｅｙ’ｒｅ ｓｏ ｑｕｉｅｔ ｙｏｕ ｃｏｕｌｄ<linealt>
-ｍｉｓｔａｋｅ’ｅｍ ｆｏｒ ａ ｂｒｏｏｍ．<end>
+They're so quiet you could<linealt>
+mistake'em for a broom.<end>
 
 
 //POINTER #74 @ $2D2B20 - STRING #74 @ $2CCE40
 
 #WRITE(GBA,$2D2B20)
-Ｄｏｎ’ｔ ｇｅｔ ａ ｂｉｇ ｈｅａｄ ｊｕｓｔ ｃａｕｓｅ<linealt>
-ｙｏｕ ｃａｎ ｆｌｙ！<end>
+Don't get a big head just cause<linealt>
+you can fly!<end>
 
 
 //POINTER #75 @ $2D2B24 - STRING #75 @ $2CCE6C
 
 #WRITE(GBA,$2D2B24)
-Ｉ’ｍ ｗａｙ ｃｏｏｌｅｒ ｔｈａｎ ｙｏｕ，<linealt>
-ｙｏｕ ｓｈｏｗ ｏｆｆ！<end>
+I'm way cooler than you,<linealt>
+you show off!<end>
 
 
 //POINTER #76 @ $2D2B28 - STRING #76 @ $2CCEAC
 
 #WRITE(GBA,$2D2B28)
-Ｔｈｉｓ ｇｕｙ ａｔｔａｃｋ ｂｙ<linealt>
-ｓｈｏｏｔｉｎｇ ｂａｌｌｓ ｏｆ ｉｎｋ ａｔ ｙａ．<end>
+This guy attack by<linealt>
+shooting balls of ink at ya.<end>
 
 
 //POINTER #77 @ $2D2B2C - STRING #77 @ $2CCED4
 
 #WRITE(GBA,$2D2B2C)
-Ｉ ｈｅａｒｄ ｔｈａｔ ｔｈｅｒｅ’ｓ ａｃｔｕａｌｌｙ ａｎ<linealt>
-ｏｃｔｏｐｕｓ ｕｎｄｅｒ ｔｈａｔ ｈｅｌｍｅｔ ｏｆ ｈｉｓ．<end>
+I heard that there's actually an<linealt>
+octopus under that helmet of his.<end>
 
 
 //POINTER #78 @ $2D2B30 - STRING #78 @ $2CCF08
 
 #WRITE(GBA,$2D2B30)
-Ｔｈｏｕｇｈ ｕｓｕａｌｌｙ ｒｅａｌ ｔｉｎｙ，<linealt>
-ｉｔ’ｌｌ ｓｈｏｏｔ ｓｐｉｋｅｓ ｗｉｔｈｏｕｔ ｗａｒｎｉｎｇ！<end>
+Though usually real tiny,<linealt>
+it'll shoot spikes without warning!<end>
 
 
 //POINTER #79 @ $2D2B34 - STRING #79 @ $2CCF50
 
 #WRITE(GBA,$2D2B34)
-Ｔａｌｋ ａｂｏｕｔ ａ ｐｒｏｍｏｔｉｏｎ！<linealt>
-Ｉｆ ｙｏｕ’ｒｅ ｇｏｎｎａ ｓｈｏｗ’ｅｍ，<linealt>
-ａｔ ｌｅａｓｔ ｓｈｏｗ’ｅｍ ａｌｌ ｔｈｅ ｔｉｍｅ！<end>
+Talk about a promotion!<linealt>
+If you're gonna show'em,<linealt>
+at least show'em all the time!<end>
 
 
 //POINTER #80 @ $2D2B38 - STRING #80 @ $2CCF90
 
 #WRITE(GBA,$2D2B38)
-Ｔｈｉｓ ｌａｄｙ ｒａｉｓｅｓ ｈｅｒ ｋｉｄｓ<linealt>
-ａｌｌ ｏｎ ｈｅｒ ｏｗｎ．<linealt>
-Ｗｈａｔ ａｎ ａｍａｚｉｎｇ ｍｏｍ！<end>
+This lady raises her kids<linealt>
+all on her own.<linealt>
+What an amazing mom!<end>
 
 
 //POINTER #81 @ $2D2B3C - STRING #81 @ $2CCFD0
 
 #WRITE(GBA,$2D2B3C)
-Ｉ ｗｏｎｄｅｒ ｉｆ ｍｙ ｍｏｍ’ｓ ｗａｔｃｈｉｎｇ ｍｅ<linealt>
-ｆｒｏｍ ａｂｏｖｅ？．．．<end>
+I wonder if my mom's watching me<linealt>
+from above?...<end>
 
 
 //POINTER #82 @ $2D2B40 - STRING #82 @ $2CD014
 
 #WRITE(GBA,$2D2B40)
-Ａ ｖｉｌｌｉａｎ’ｓ ａｃｔｉｏｎｓ ｃａｕｓｅｄ ｔｈｅ<linealt>
-ｅｌｄｅｓｔ ｏｆ ｔｈｅ ｔｕｒｔｌｅ ｋｉｄｓ ｔｏ<linealt>
-ｂｅｃｏｍｅ ａ ｄｅｌｉｎｑｕｅｎｔ．<end>
+A villian's actions caused the<linealt>
+eldest of the turtle kids to<linealt>
+become a delinquent.<end>
 
 
 //POINTER #83 @ $2D2B44 - STRING #83 @ $2CD058
 
 #WRITE(GBA,$2D2B44)
-Ｙｏｕ’ｒｅ ｔｈｅ ｏｌｄｅｓｔ，<linealt>
-ｙｏｕ ｇｏｔｔａ ｂｅ ｂｅｔｔｅｒ ｔｈａｎ ｔｈａｔ！<end>
+You're the oldest,<linealt>
+you gotta be better than that!<end>
 
 
 //POINTER #84 @ $2D2B48 - STRING #84 @ $2CD098
 
 #WRITE(GBA,$2D2B48)
-Ａ ｖｉｌｌｉａｎ’ｓ ａｃｔｉｏｎｓ ｃａｕｓｅｄ ｔｈｅ<linealt>
-ｍｉｄｄｌｅ ｃｈｉｌｄ ｏｆ ｔｈｅ ｔｕｒｔｌｅ ｋｉｄｓ<linealt>
-ｔｏ ｂｅｃｏｍｅ ａ ｄｅｌｉｎｑｕｅｎｔ．<end>
+A villian's actions caused the<linealt>
+middle child of the turtle kids<linealt>
+to become a delinquent.<end>
 
 
 //POINTER #85 @ $2D2B4C - STRING #85 @ $2CD0D8
 
 #WRITE(GBA,$2D2B4C)
-Ａｓ ｔｈｅ ｍｉｄｄｌｅ ｃｈｉｌｄ，<linealt>
-ｙａ ｇｏｔｔａ ｈｅｌｐ ｏｕｔ ｙｏｕｒ ｂｉｇ ｂｒｏ！<end>
+As the middle child,<linealt>
+ya gotta help out your big bro!<end>
 
 
 //POINTER #86 @ $2D2B50 - STRING #86 @ $2CD114
 
 #WRITE(GBA,$2D2B50)
-Ａ ｖｉｌｌｉａｎ’ｓ ａｃｔｉｏｎｓ ｃａｕｓｅｄ ｔｈｅ<linealt>
-ｙｏｕｎｇｅｓｔ ｏｆ ｔｈｅ ｔｕｒｔｌｅ ｋｉｄｓ<linealt>
-ｔｏ ｂｅｃｏｍｅ ａ ｄｅｌｉｎｑｕｅｎｔ．<end>
+A villian's actions caused the<linealt>
+youngest of the turtle kids<linealt>
+to become a delinquent.<end>
 
 
 //POINTER #87 @ $2D2B54 - STRING #87 @ $2CD158
 
 #WRITE(GBA,$2D2B54)
-Ｄｏｎ’ｔ ｂｅ ｓｅｌｆｉｓｈ ｊｕｓｔ ｃａｕｓｅ<linealt>
-ｙｏｕ’ｒｅ ｔｈｅ ｙｏｕｎｇｅｓｔ！<end>
+Don't be selfish just cause<linealt>
+you're the youngest!<end>
 
 
 //POINTER #88 @ $2D2B58 - STRING #88 @ $2CD198
 
 #WRITE(GBA,$2D2B58)
-Ｌｏｏｋｓ ｌｉｋｅ ｔｈｉｓ ｇｕｙ’ｓ ｆａｖｏｒｉｔｅ<linealt>
-ｆｏｏｄ ｉｓ Ｇａｎｍｏｄｏｋｉ Ｏｄｎｅ．．．<end>
+Looks like this guy's favorite<linealt>
+food is Ganmodoki Odne...<end>
 
 
 //POINTER #89 @ $2D2B5C - STRING #89 @ $2CD1C8
 
 #WRITE(GBA,$2D2B5C)
-＊ｓｉｇｈ＊ Ｉ ｒｅｍｅｍｂｅｒ ｗｈｅｎ ｍｏｍ ｍａｄｅ<linealt>
-Ｏｄｅｎ．．． Ｉｔ ｗａｓ ｓｏ ｇｏｏｄ．．． ＊ｓｎｉｆｆｌｅ＊<end>
+*sigh* I remember when mom made<linealt>
+Oden... It was so good... *sniffle*<end>
 
 
 //POINTER #90 @ $2D2B60 - STRING #90 @ $2CD210
 
 #WRITE(GBA,$2D2B60)
-Ｉ ｃａｎ’ｔ ｂｅｌｉｅｖｅ ｔｈｉｓ ｂｒａｔ ｍｅｓｓｅｄ<linealt>
-ｗｉｔｈ ａ ｈａｐｐｙ ｆａｍｉｌｙ ｆｏｒ ｆｕｎ！<end>
+I can't believe this brat messed<linealt>
+with a happy family for fun!<end>
 
 
 //POINTER #91 @ $2D2B64 - STRING #91 @ $2CD254
 
 #WRITE(GBA,$2D2B64)
-Ｉ’ｌｌ ｎｅｖｅｒ ｆｏｒｇｉｖｅ ｇｕｙｓ ｌｉｋｅ ｔｈａｔ！<end>
+I'll never forgive guys like that!<end>
 
 
 //POINTER #92 @ $2D2B68 - STRING #92 @ $2CD288
 
 #WRITE(GBA,$2D2B68)
-Ｔｈｉｓ ｅｖｉｌ－ｌｏｏｋｉｎ’ ｇｕｙ<linealt>
-ａｔｔａｃｋｓ ｆｒｏｍ ｔｈｅ ｓｋｙ！<end>
+This evil-lookin' guy<linealt>
+attacks from the sky!<end>
 
 
 //POINTER #93 @ $2D2B6C - STRING #93 @ $2CD2C4
 
 #WRITE(GBA,$2D2B6C)
-Ｉｆ ｙａ ｔｏｕｃｈ ｔｈｉｓ ｇｕｙ’ｓ ｐｏｗｄｅｒ，<linealt>
-ｉｔ ｃａｎ ｉｎｆｌｉｃｔ ｙｏｕ ｗｉｔｈ ａｎ ａｒｒａｙ<linealt>
-ｏｆ ｃｕｒｓｅｓ！<end>
+If ya touch this guy's powder,<linealt>
+it can inflict you with an array<linealt>
+of curses!<end>
 
 
 //POINTER #94 @ $2D2B70 - STRING #94 @ $2CD308
 
 #WRITE(GBA,$2D2B70)
-Ｉｆ ｙｏｕ ｔｒｙ ｔｏ ｊｕｍｐ ｏｖｅｒ ｔｈｉｓ ｇｕｙ，<linealt>
-ｈｅ’ｌｌ ｊｕｍｐ ｔｏ ｇｅｔ ｉｎ ｙｏｕｒ ｗａｙ！<linealt>
-Ｗｈａｔ ａ ｐａｉｎ．．．<end>
+If you try to jump over this guy,<linealt>
+he'll jump to get in your way!<linealt>
+What a pain...<end>
 
 
 //POINTER #95 @ $2D2B74 - STRING #95 @ $2CD358
 
 #WRITE(GBA,$2D2B74)
-Ｉ ｈｅａｒｄ ｔｈａｔ ｉｔ ｔａｋｅｓ ｈｉｍ ３ ｈｏｕｒｓ<linealt>
-ｔｏ ｇｅｔ ｈｉｓ ｈａｉｒ ｌｉｋｅ ｔｈａｔ<linealt>
-ｉｎ ｔｈｅ ｍｏｒｎｉｎｇ．<end>
+I heard that it takes him 3 hours<linealt>
+to get his hair like that<linealt>
+in the morning.<end>
 
 
 //POINTER #96 @ $2D2B78 - STRING #96 @ $2CD3A0
 
 #WRITE(GBA,$2D2B78)
-Ｔｈｉｓ ｒａｒｅ， ｏｎｅ ｏｆ ａ ｋｉｎｄ ａｎｉｍａｌ<linealt>
-ｌｉｖｅｓ ｉｎ ｔｈｅ Ｓｅａ ｏｆ Ｉｃｅ．<end>
+This rare, one of a kind animal<linealt>
+lives in the Sea of Ice.<end>
 
 
 //POINTER #97 @ $2D2B7C - STRING #97 @ $2CD3D4
 
 #WRITE(GBA,$2D2B7C)
-Ｉｔ’ｓ ｊｕｓｔ ｓｏｆｔ ｅｎｏｕｇｈ<linealt>
-ｔｏ ｂｅ ａ ｐｉｌｌｏｗ． Ｙｏｕ ｓｈｏｕｌｄ<linealt>
-ｇｉｖｅ ｉｔ ａ ｔｒｙ ａｔ ｌｅａｓｔ ｏｎｃｅ．<end>
+It's just soft enough<linealt>
+to be a pillow. You should<linealt>
+give it a try at least once.<end>
 
 
 //POINTER #98 @ $2D2B80 - STRING #98 @ $2CD41C
 
 #WRITE(GBA,$2D2B80)
-Ｔｈｉｓ ｔｈｉｎｇ’ｓ ａ ｒｅａｌ ｎｕｉｓａｎｃｅ<linealt>
-ｓｗｉｍｍｉｎ’ ａｒｏｕｎｄ ｌｉｋｅ ｔｈａｔ！<end>
+This thing's a real nuisance<linealt>
+swimmin' around like that!<end>
 
 
 //POINTER #99 @ $2D2B84 - STRING #99 @ $2CD45C
 
 #WRITE(GBA,$2D2B84)
-Ｉ’ｌｌ ｐｕｔ ｙｏｕ ｏｎ ａ ｐｌａｔｅ<linealt>
-ｉｆ ｙｏｕ ｋｅｅｐ ｇｅｔｔｉｎ’ ｉｎ ｍｙ ｗａｙ！<end>
+I'll put you on a plate<linealt>
+if you keep gettin' in my way!<end>
 
 
 //POINTER #100 @ $2D2B88 - STRING #100 @ $2CD498
 
 #WRITE(GBA,$2D2B88)
-Ｔｈｉｓ ｇｕｙ’ｌｌ ｔｒｙ ｔｏ ｈｉｔ ｙａ<linealt>
-ｗｉｔｈ ｔｈｅ ｉｃｅ ｏｎ ｉｔ’ｓ ｂａｃｋ，<linealt>
-ｊｕｓｔ ｌｉｋｅ ｉｔ’ｓ ｂａｒｂｅｄ ｋｉｎ．<end>
+This guy'll try to hit ya<linealt>
+with the ice on it's back,<linealt>
+just like it's barbed kin.<end>
 
 
 //POINTER #101 @ $2D2B8C - STRING #101 @ $2CD4D4
 
 #WRITE(GBA,$2D2B8C)
-Ｗｏｎｄｅｒ ｉｆ ｉｔ’ｓ ｎａｍｅ’ｓ<linealt>
-ａ ｐｕｎ ｏｎ ”Ｎｉｃｅ Ｇｕｙ”．．．？<linealt>
-Ｈｅｈ， ｎｏｔ ｉｎ ａ ｈｕｎｄｒｅｄ ｙｅａｒｓ！<end>
+Wonder if it's name's<linealt>
+a pun on "Nice Guy"...?<linealt>
+Heh, not in a hundred years!<end>
 
 
 //POINTER #102 @ $2D2B90 - STRING #102 @ $2CD520
 
 #WRITE(GBA,$2D2B90)
-Ｔｈｉｓ ｗｅｉｒｄｏ’ｌｌ ｓｈｏｏｔ ｂｏｎｅｓ ａｔ ｙａ．．．<end>
+This weirdo'll shoot bones at ya...<end>
 
 
 //POINTER #103 @ $2D2B94 - STRING #103 @ $2CD548
 
 #WRITE(GBA,$2D2B94)
-Ｉｔ ａｉｎ’ｔ ｗｏｒｒｉｅｄ ａｂｏｕｔ ｔｈｅ ｂｏｎｅｓ，<linealt>
-ｂｕｔ ｉｔ ｓｔｉｌｌ ｓｈｏｕｌｄｎ’ｔ ｔｈｒｏｗ’ｅｍ！<end>
+It ain't worried about the bones,<linealt>
+but it still shouldn't throw'em!<end>
 
 
 //POINTER #104 @ $2D2B98 - STRING #104 @ $2CD570
 
 #WRITE(GBA,$2D2B98)
-Ｔｈｉｓ ｇｕｙ ｕｓｅｓ<linealt>
-ｔｈａｔ ｓｐｅａｒ ｉｎ ｈｉｓ ｈａｎｄｓ ｔｏ ａｔｔａｃｋ．<linealt>
-Ｗｈａｔ ａ ｃｏｗａｒｄ！<end>
+This guy uses<linealt>
+that spear in his hands to attack.<linealt>
+What a coward!<end>
 
 
 //POINTER #105 @ $2D2B9C - STRING #105 @ $2CD5B0
 
 #WRITE(GBA,$2D2B9C)
-Ｉｆ ｙｏｕ’ｒｅ ｇｏｎｎａ ｆｉｇｈｔ ｓｏｍｅｏｎｅ，<linealt>
-ｕｓｅ ｙｏｕｒ ｆｉｓｔｓ！<linealt>
-Ｌｉｋｅ ｙｏｕｒｓ ｔｒｕｌｙ！<end>
+If you're gonna fight someone,<linealt>
+use your fists!<linealt>
+Like yours truly!<end>
 
 
 //POINTER #106 @ $2D2BA0 - STRING #106 @ $2CD5F0
 
 #WRITE(GBA,$2D2BA0)
-Ｔｈｒｅｅ ｏｆ ｔｈｅｓｅ ｇｕｙｓ’ｌｌ ａｐｐｅａｒ<linealt>
-ｂｅｆｏｒｅ ｃｌｏｓｉｎ’ ｉｎ ｏｎ ｙａ．<end>
+Three of these guys'll appear<linealt>
+before closin' in on ya.<end>
 
 
 //POINTER #107 @ $2D2BA4 - STRING #107 @ $2CD618
 
 #WRITE(GBA,$2D2BA4)
-Ｉｆ ｔｈｅｙ’ｒｅ ｊｕｓｔ ｇｏｎｎａ ｒｏｌｌ ｔｈｅｉｒ<linealt>
-ｅｙｅｓ ａｎｄ ｌｅａｖｅ， ｄｏｎ’ｔ ｓｈｏｗ ｕｐ<linealt>
-ｉｎ ｔｈｅ ｆｉｒｓｔ ｐｌａｃｅ ｔｈｅｎ．．．<end>
+If they're just gonna roll their<linealt>
+eyes and leave, don't show up<linealt>
+in the first place then...<end>
 
 
 //POINTER #108 @ $2D2BA8 - STRING #108 @ $2CD654
 
 #WRITE(GBA,$2D2BA8)
-Ｉｆ ｙｏｕ ｔｒｙ ｔｏ ｇｅｔ ｐａｓｔ ｔｈｉｓ ｇｕｙ，<linealt>
-ｈｅ’ｌｌ ｃｏｍｅ ｒｉｇｈｔ ｔｏ ｙａ<linealt>
-ｔｏ ｇｅｔ ｉｎ ｔｈｅ ｗａｙ．<end>
+If you try to get past this guy,<linealt>
+he'll come right to ya<linealt>
+to get in the way.<end>
 
 
 //POINTER #109 @ $2D2BAC - STRING #109 @ $2CD694
 
 #WRITE(GBA,$2D2BAC)
-Ｉ ｌｏｖｅ ｍｅ ｓｏｍｅ Ｍａｂｏ Ｄｏｕｆｕ，<linealt>
-ｂｕｔ ｔｈｉｓ ｇｕｙ？ Ｎｏｔ ｓｏ ｍｕｃｈ．<end>
+I love me some Mabo Doufu,<linealt>
+but this guy? Not so much.<end>
 
 
 //POINTER #110 @ $2D2BB0 - STRING #110 @ $2CD6D4
 
 #WRITE(GBA,$2D2BB0)
-Ｉ ｈｅａｒｄ ｔｈｉｓ ｓｍｕｇ ｊｅｒｋ ｊｕｓｔ<linealt>
-ｇｏｔ ｂａｃｋ ｆｒｏｍ ｔｈｅ Ｕｎｉｔｅｄ Ｓｔａｔｅｓ．<end>
+I heard this smug jerk just<linealt>
+got back from the United States.<end>
 
 
 //POINTER #111 @ $2D2BB4 - STRING #111 @ $2CD710
 
 #WRITE(GBA,$2D2BB4)
-Ｔｃｈ！ Ｇｏｉｎ’ ｔｏ ｔｈｅ Ｓｔａｔｅｓ<linealt>
-ｄｏｅｓｎ’ｔ ｍａｋｅ ｙｏｕ ａ ｍａｎ！<linealt>
-Ｉｔ’ｓ ｙｏｕｒ ｈｅａｒｔ ｔｈａｔ ｄｏｅｓ！<end>
+Tch! Goin' to the States<linealt>
+doesn't make you a man!<linealt>
+It's your heart that does!<end>
 
 
 //POINTER #112 @ $2D2BB8 - STRING #112 @ $2CD754
 
 #WRITE(GBA,$2D2BB8)
-Ｙｏｕ ｃａｎ ｕｓｅ ｔｈｉｓ ｇｕｙ<linealt>
-ｔｏ ｇｅｔ ｔｏ ｒｅａｌ ｈｉｇｈ ｐｌａｃｅｓ．<end>
+You can use this guy<linealt>
+to get to real high places.<end>
 
 
 //POINTER #113 @ $2D2BBC - STRING #113 @ $2CD788
 
 #WRITE(GBA,$2D2BBC)
-Ｗｈｅｎ ｙｏｕ ｓｐｉｎ ｉｎｔｏ ｔｈｉｓ ｔｈｉｎｇ，<linealt>
-ｉｔ ｈａｓ ｔｈｅ ｄｕｍｂｅｓｔ ｌｏｏｋ ｏｎ ｉｔ’ｓ<linealt>
-ｆａｃｅ！ Ｈｅｈ ｈｅｈ ｈｅｈ！<end>
+When you spin into this thing,<linealt>
+it has the dumbest look on it's<linealt>
+face! Heh heh heh!<end>
 
 
 //POINTER #114 @ $2D2BC0 - STRING #114 @ $2CD7C4
 
 #WRITE(GBA,$2D2BC0)
-Ａａａａａｒｇｈ！<linealt>
-Ｃｕｔ ｉｔ ｏｕｔ ａｌｒｅａｄｙ，<linealt>
-ｙｏｕ’ｒｅ ｉｎ ｔｈｅ ｗａｙ！！！<end>
+Aaaaargh!<linealt>
+Cut it out already,<linealt>
+you're in the way!!!<end>
 
 
 //POINTER #115 @ $2D2BC4 - STRING #115 @ $2CD808
 
 #WRITE(GBA,$2D2BC4)
-Ｔｈｅ ｈｅｃｋ ａｒｅ ｙｏｕ ａｎｙｗａｙｓ！？<linealt>
-Ａｒｅ ｙｏｕ ａ ｃｒａｂ， ｏｒ ｗｈａｔ！！？<end>
+The heck are you anyways!?<linealt>
+Are you a crab, or what!!?<end>
 
 
 //POINTER #116 @ $2D2BC8 - STRING #116 @ $2CD848
 
 #WRITE(GBA,$2D2BC8)
-Ｇｅｔ ｏｕｔｔａ ｔｈｅ ｗａｙ， ｗｉｌｌ ｙａ！？<linealt>
-Ｙｏｕ’ｌｌ ｈａｖｅ ｔｏ ｆｒｅｅｚｅ ｉｔ ｗｉｔｈ ｔｈａｔ<linealt>
-ｓｔａｔｕｅ ｉｆ ｙｏｕ ｄｏｎ’ｔ ｗａｎｎａ ｇｅｔ ｈｉｔ．<end>
+Get outta the way, will ya!?<linealt>
+You'll have to freeze it with that<linealt>
+statue if you don't wanna get hit.<end>
 
 
 //POINTER #117 @ $2D2BCC - STRING #117 @ $2CD894
 
 #WRITE(GBA,$2D2BCC)
-Ｈｏｗ’ｄ ｓｏｍｅｔｈｉｎｇ ｌｉｋｅ ｔｈｉｓ<linealt>
-ｅｖｅｎ ｃｏｍｅ ｔｏ ｂｅ．．．？<end>
+How'd something like this<linealt>
+even come to be...?<end>
 
 
 //POINTER #118 @ $2D2BD0 - STRING #118 @ $2CD8CC
 
 #WRITE(GBA,$2D2BD0)
-Ｔｈｅｓｅ ｇａｌｓ ａｌｗａｙｓ ｓａｙ ｔｈａｔ ｔｈｅｙ<linealt>
-ｐｒｏｔｅｃｔ ｔｈｅ ｓｅａ， ｄａｙ ａｎｄ ｎｉｇｈｔ．．．<end>
+These gals always say that they<linealt>
+protect the sea, day and night...<end>
 
 
 //POINTER #119 @ $2D2BD4 - STRING #119 @ $2CD90C
 
 #WRITE(GBA,$2D2BD4)
-Ｂｕｔ ｓｏｍｅｔｈｉｎｇ ｓｅｅｍｓ ｔｏ ａｌｗａｙｓ<linealt>
-ｐｕｔ’ｅｍ ｏｕｔｔａ ｃｏｍｍｉｓｓｉｏｎ， ｈｕｈ？<end>
+But something seems to always<linealt>
+put'em outta commission, huh?<end>
 
 
 //POINTER #120 @ $2D2BD8 - STRING #120 @ $2CD930
 
 #WRITE(GBA,$2D2BD8)
-Ｔｈｉｓ ｃｏｏｌ ｅｘ－ｂｏａｔ ｒａｃｅｒ ｒｉｄｅｓ<linealt>
-ｔｈｅ Ｓｅａ Ｓｋａｔｅｒ ａｓ ａ ｈｏｂｂｙ．<end>
+This cool ex-boat racer rides<linealt>
+the Sea Skater as a hobby.<end>
 
 
 //POINTER #121 @ $2D2BDC - STRING #121 @ $2CD960
 
 #WRITE(GBA,$2D2BDC)
-Ｗｏｕｌｄ Ｉ ｂｅ ｐｏｐｕｌａｒ ｉｆ Ｉ ｒｏｄｅ<linealt>
-ａ Ｓｅａ Ｓｋａｔｅｒ ｔｏｏ？．．．<linealt>
-Ｎａｈ， Ｉ’ｄ ｊｕｓｔ ｆａｌｌ ｏｆｆ ａｌｌ ｔｈｅ ｔｉｍｅ，<end>
+Would I be popular if I rode<linealt>
+a Sea Skater too?...<linealt>
+Nah, I'd just fall off all the time,<end>
 
 
 //POINTER #122 @ $2D2BE0 - STRING #122 @ $2CD9A8
 
 #WRITE(GBA,$2D2BE0)
-Ｓｈｅ’ｓ ｓｅｘｙ， ｓｈｅ’ｓ ｃｕｔｅ，<linealt>
-ａｎｄ ｔｈｉｓ ｌａｄｙ ｈａｓ ａ ｍａｒｖｅｌｏｕｓ<linealt>
-ｂｏｄｙ ｔｏ ｂｏｏｔ！<end>
+She's sexy, she's cute,<linealt>
+and this lady has a marvelous<linealt>
+body to boot!<end>
 
 
 //POINTER #123 @ $2D2BE4 - STRING #123 @ $2CD9E8
 
 #WRITE(GBA,$2D2BE4)
-Ｈｏｗｅｖｅｒ， Ｉ ｍｕｓｔ ａｐｏｌｏｇｉｚｅ，<linealt>
-Ｓａｖａｋｏ．．．<linealt>
-Ｍｙ ｈｅａｒｔ ｂｅｌｏｎｇｓ ｔｏ Ｒｕｂｙ！<end>
+However, I must apologize,<linealt>
+Savako...<linealt>
+My heart belongs to Ruby!<end>
 
 
 //POINTER #124 @ $2D2BE8 - STRING #124 @ $2CDA30
 
 #WRITE(GBA,$2D2BE8)
-Ｔｃｈ！ Ｓｏ ｙｏｕ ｆｉｎａｌｌｙ ｇｏｔ ｍａｒｒｉｅｄ！<linealt>
-Ｈｍｐｈ！<linealt>
-Ｃｏｎｇｒａｔｕｌａｔｉｏｎｓ！<end>
+Tch! So you finally got married!<linealt>
+Hmph!<linealt>
+Congratulations!<end>
 
 
 //POINTER #125 @ $2D2BEC - STRING #125 @ $2CDA74
 
 #WRITE(GBA,$2D2BEC)
-Ｂｕｔ Ｉ ｇｏｔｔａ ａｓｋ．．．<linealt>
-Ｈｏｗ ｔｈｅ ｈｅｃｋ ｄｉｄ ｔｈｉｓ ｇｕｙ<linealt>
-ｐｉｌｏｔ ａ Ｂｌｉｍｐ？<end>
+But I gotta ask...<linealt>
+How the heck did this guy<linealt>
+pilot a Blimp?<end>
 
 
 //POINTER #126 @ $2D2BF0 - STRING #126 @ $2CDAA8
 
 #WRITE(GBA,$2D2BF0)
-＊ｓｉｇｈ＊ Ｈｉｒａｒｉｎ， ｗｏｎ’ｔ ｙｏｕ ｔｅｌｌ ｍｅ<linealt>
-ｗｈａｔ’ｓ ｓｏ ｇｒｅａｔ ａｂｏｕｔ ｔｈａｔ<linealt>
-ｈｕｓｂａｎｄ ｏｆ ｙｏｕｒｓ？．．．<end>
+*sigh* Hirarin, won't you tell me<linealt>
+what's so great about that<linealt>
+husband of yours?...<end>
 
 
 //POINTER #127 @ $2D2BF4 - STRING #127 @ $2CDAE8
 
 #WRITE(GBA,$2D2BF4)
-Ｉｆ ｙｏｕ ｅｖｅｒ ｇｅｔ ｓｉｃｋ ｏｆ ｈｉｍ，<linealt>
-ｙｏｕ ｃａｎ ａｌｗａｙｓ ｃｏｍｅ ｂａｃｋ ｔｏ ｍｅ．．．<linealt>
-Ｕｒｇｈ．．．．<end>
+If you ever get sick of him,<linealt>
+you can always come back to me...<linealt>
+Urgh....<end>
 
 
 //POINTER #128 @ $2D2BF8 - STRING #128 @ $2CDB30
 
 #WRITE(GBA,$2D2BF8)
-Ｔｈｅｓｅ ａｒｅ ｔｈｅ ｊｅｒｋ ｔｈａｔ<linealt>
-ｉｇｎｏｒｅｄ ｍｅ ｗｈｅｎ Ｉ ｗａｓ ｆｒｏｚｅｎ！！！<end>
+These are the jerk that<linealt>
+ignored me when I was frozen!!!<end>
 
 
 //POINTER #129 @ $2D2BFC - STRING #129 @ $2CDB74
 
 #WRITE(GBA,$2D2BFC)
-Ｔｈｅｙ ｗｏｕｌｄ’ｖｅ ｃａｕｓｅｄ ａｌｌ ｔｈｅ ｃｕｔｅ<linealt>
-ｇｉｒｌｓ ｏｆ ｔｈｅ ｗｏｒｌｄ ｔｏ ｇｒｉｅｖｅ！<end>
+They would've caused all the cute<linealt>
+girls of the world to grieve!<end>
 
 
 //POINTER #130 @ $2D2C00 - STRING #130 @ $2CDB9C
 
 #WRITE(GBA,$2D2C00)
-Ｔｈｅｓｅ’ｒｅ ｔｈｅ ｇｕｙｓ ｗｈｏ ｐｕｔ ”ＨＯＴ”<linealt>
-ｉｎ ｔｈｅ ｈｏｔ ｓｐｒｉｎｇｓ！<end>
+These're the guys who put "HOT"<linealt>
+in the hot springs!<end>
 
 
 //POINTER #131 @ $2D2C04 - STRING #131 @ $2CDBC8
 
 #WRITE(GBA,$2D2C04)
-Ｉ ｈｅａｒｄ ｔｈａｔ ｔｈｅ ｓｐｒｉｎｇｓ ｔｈｅｙ<linealt>
-ｈｅａｔ ａｐｐａｒｅｎｔｌｙ ｙｉｅｌｄ ｔｈｅ ｂｅｓｔ<linealt>
-ｒｅｓｕｌｔｓ． Ｗｏｎｄｅｒ ｗｈｙ？．．．<end>
+I heard that the springs they<linealt>
+heat apparently yield the best<linealt>
+results. Wonder why?...<end>
 
 
 //POINTER #132 @ $2D2C08 - STRING #132 @ $2CDC08
 
 #WRITE(GBA,$2D2C08)
-Ｔｈｉｓ ｔｒｏｕｂｌｅｓｏｍｅ ｂｒａｔ<linealt>
-ｃｏｎｓｔａｎｔｌｙ ｓｗｉｔｃｈｅｓ ｂｅｔｗｅｅｎ<linealt>
-ｂｒｅａｔｈｉｎ’ ｆｉｒｅ ｏｒ ｉｃｅ．<end>
+This troublesome brat<linealt>
+constantly switches between<linealt>
+breathin' fire or ice.<end>
 
 
 //POINTER #133 @ $2D2C0C - STRING #133 @ $2CDC44
 
 #WRITE(GBA,$2D2C0C)
-Ｗｈｅｎ ｔｈｅｙ ｓｐｉｔ ｆｉｒｅ， ｔｈｅｙ ｂｅｃｏｍｅ<linealt>
-ｓｕｐｅｒ ｖｉｏｌｅｎｔ． Ｗｈｅｎ ｔｈｅｙ ｂｒｅａｔｈ<linealt>
-ｉｃｅ， ｔｈｅｙ ｇｅｔ ｓｕｐｅｒ ｃｒｅｅｐｙ．<end>
+When they spit fire, they become<linealt>
+super violent. When they breath<linealt>
+ice, they get super creepy.<end>
 
 
 //POINTER #134 @ $2D2C10 - STRING #134 @ $2CDC88
 
 #WRITE(GBA,$2D2C10)
-Ｔｈｉｓ ｔｗｏ－ｈｅａｄｅｄ ｓｎａｋｅ ｉｓ ｗｈａｔ<linealt>
-ｔｈａｔ ｂｒａｔ ｌｏｏｋｓ ｌｉｋｅ ａｆｔｅｒ ｔｈｅｙ’ｖｅ<linealt>
-ｔｒａｎｓｆｏｒｍｅｄ．<end>
+This two-headed snake is what<linealt>
+that brat looks like after they've<linealt>
+transformed.<end>
 
 
 //POINTER #135 @ $2D2C14 - STRING #135 @ $2CDCC0
 
 #WRITE(GBA,$2D2C14)
-Ｔｈｅｙ’ｌｌ ｌｅｔ ｌｏｏｓｅ ａｌｔｅｒｎａｔｉｎｇ ｏｒｂｓ<linealt>
-ｏｆ ｂｏｔｈ ｆｉｒｅ ａｎｄ ｉｃｅ．<end>
+They'll let loose alternating orbs<linealt>
+of both fire and ice.<end>
 
 
 //POINTER #136 @ $2D2C18 - STRING #136 @ $2CDCF4
 
 #WRITE(GBA,$2D2C18)
-Ｔｈｅｓｅ ｒａｒｅ ｅｎｅｍｉｅｓ’ｌｌ ｂｕｒｓｔ ｏｕｔ<linealt>
-ｏｒｂｓ ｗｈｅｎ ｙａ ｇｅｔ ｔｏｏ ｃｌｏｓｅ！<end>
+These rare enemies'll burst out<linealt>
+orbs when ya get too close!<end>
 
 
 //POINTER #137 @ $2D2C1C - STRING #137 @ $2CDD38
 
 #WRITE(GBA,$2D2C1C)
-Ｔｈｅｙ’ｒｅ ａｌｌ ａｌｏｎｅ ｃａｕｓｅ<linealt>
-ｔｈｅｙ ｄｏｎ’ｔ ｈａｖｅ ａｎｙ ｆｒｉｅｎｄｓ！<end>
+They're all alone cause<linealt>
+they don't have any friends!<end>
 
 
 //POINTER #138 @ $2D2C20 - STRING #138 @ $2CDD70
 
 #WRITE(GBA,$2D2C20)
-Ｔｈｅｓｅ ｗｅｉｒｄｏｓ ｈａｎｇ ｕｐｓｉｄｅ ｄｏｗｎ<linealt>
-ｆｒｏｍ ｔｈｅ ｃｅｉｌｉｎｇ．<end>
+These weirdos hang upside down<linealt>
+from the ceiling.<end>
 
 
 //POINTER #139 @ $2D2C24 - STRING #139 @ $2CDDA8
 
 #WRITE(GBA,$2D2C24)
-Ａｐｐａｒｅｎｔｌｙ， ｓｏｍｅ ｏｆ ’ｅｍ ｇｅｔ ｄｉｚｚｙ<linealt>
-ｆｒｏｍ ｔｈｅ ｂｌｏｏｄ ｒｕｓｈｉｎｇ ｔｏ ｔｈｉｅｒ<linealt>
-ｈｅａｄｓ ａｎｄ ｆａｌｌ ｔｏ ｔｈｅ ｇｒｏｕｎｄ．<end>
+Apparently, some of 'em get dizzy<linealt>
+from the blood rushing to thier<linealt>
+heads and fall to the ground.<end>
 
 
 //POINTER #140 @ $2D2C28 - STRING #140 @ $2CDDF4
 
 #WRITE(GBA,$2D2C28)
-Ｏｆ ａｌｌ ｔｈｅ ｉｎｓｏｌｅｎｔ ｇｕｙｓ<linealt>
-ｃｈａｓｉｎ’ ｍｅ， ｔｈｉｓ ｏｎｅ’ｓ ｔｈｅ ｍｏｓｔ<linealt>
-ｐｅｒｓｉｓｔｅｎｔ！<end>
+Of all the insolent guys<linealt>
+chasin' me, this one's the most<linealt>
+persistent!<end>
 
 
 //POINTER #141 @ $2D2C2C - STRING #141 @ $2CDE40
 
 #WRITE(GBA,$2D2C2C)
-Ｉｔ’ｓ ｊｕｓｔ ｌｉｋｅ ｔｈｏｓｅ ｇｉｒｌｓ<linealt>
-ｔｈａｔ ｈｏｕｎｄ ｍｅ ａｌｌ ｔｈｅ ｔｉｍｅ！<end>
+It's just like those girls<linealt>
+that hound me all the time!<end>
 
 
 //POINTER #142 @ $2D2C30 - STRING #142 @ $2CDE80
 
 #WRITE(GBA,$2D2C30)
-Ｗｈｅｎ Ｉ ｍｏｖｅ ｕｐ ’ｎ ｄｏｗｎ，<linealt>
-ｔｈｅｓｅ ｍｅｄｄｌｅｓｏｍｅ ｇｕｙｓ<linealt>
-ｃｏｐｙ ｍｙ ｍｏｖｅｍｅｎｔｓ！<end>
+When I move up 'n down,<linealt>
+these meddlesome guys<linealt>
+copy my movements!<end>
 
 
 //POINTER #143 @ $2D2C34 - STRING #143 @ $2CDEC8
 
 #WRITE(GBA,$2D2C34)
-Ｂｕｔ Ｉ ｔｈｉｎｋ ｔｈｅｙ’ｒｅ ｊｕｓｔ ｌｏｎｅｌｙ<linealt>
-ａｎｄ ｌｏｏｋｉｎ’ ｆｏｒ ｓｏｍｅｏｎｅ<linealt>
-ｔｏ ｐｌａｙ ｗｉｔｈ．．．<end>
+But I think they're just lonely<linealt>
+and lookin' for someone<linealt>
+to play with...<end>
 
 
 //POINTER #144 @ $2D2C38 - STRING #144 @ $2CDF0C
 
 #WRITE(GBA,$2D2C38)
-Ｔｈｅ ｆｉｒｓｔ ｔｉｍｅ Ｉ ｓａｗ ｔｈｅｓｅ<linealt>
-ｌａｎｔｅｒｎｓ ｍｏｖｅ，<linealt>
-Ｉ ｗａｓ ｓｕｐｅｒ ｓｕｒｐｒｉｓｅｄ．．．<end>
+The first time I saw these<linealt>
+lanterns move,<linealt>
+I was super surprised...<end>
 
 
 //POINTER #145 @ $2D2C3C - STRING #145 @ $2CDF4C
 
 #WRITE(GBA,$2D2C3C)
-Ｂｕｔ ｏｎ ｔｈｅ ｏｔｈｅｒ ｈａｎｄ，<linealt>
-ｔｈｅｙ ｄｏｎ’ｔ ｓｔｉｃｋ ａｒｏｕｎｄ，<linealt>
-ｓｏ Ｉ ｗａｓｎ’ｔ ｓｃａｒｅｄ ａｔ ａｌｌ．<end>
+But on the other hand,<linealt>
+they don't stick around,<linealt>
+so I wasn't scared at all.<end>
 
 
 //POINTER #146 @ $2D2C40 - STRING #146 @ $2CDF90
 
 #WRITE(GBA,$2D2C40)
-Ｔｈａｎｋｓ ｔｏ ｔｈａｔ ｓｋｕｌｌ ｈｅｌｍｅｔ ｏｆ<linealt>
-ｔｈｉｅｒｓ， ｉｔ’ｌｌ ｔａｋｅ ｍｏｒｅ ｔｈａｎ ｏｎｅ ｈｉｔ<linealt>
-ｔｏ ｐｕｔ ｔｈｅｓｅ ａｎｎｏｙｉｎｇ ｇｕｙｓ ａｗａｙ．<end>
+Thanks to that skull helmet of<linealt>
+thiers, it'll take more than one hit<linealt>
+to put these annoying guys away.<end>
 
 
 //POINTER #147 @ $2D2C44 - STRING #147 @ $2CDFDC
 
 #WRITE(GBA,$2D2C44)
-Ｉ ｂｅｔ ｔｈｅｙ ｗｅａｒ ｔｈａｔ ｈｅｌｍｅｔ<linealt>
-ｃａｕｓｅ ｔｈｅｙ ｄｏｎ’ｔ ｌｏｏｋ ａｓ ｇｏｏｄ ａｓ<linealt>
-ｙｏｕｒｓ ｔｒｕｌｙ．<end>
+I bet they wear that helmet<linealt>
+cause they don't look as good as<linealt>
+yours truly.<end>
 
 
 //POINTER #148 @ $2D2C48 - STRING #148 @ $2CE02C
 
 #WRITE(GBA,$2D2C48)
-Ｔｈｅ ｍｉｎｕｔｅ Ｉ ｓａｗ ｔｈｅｓｅ ｇｕｙｓ，<linealt>
-ｔｈｅｙ ｔｕｒｎｅｄ ｃｈｉｃｋｅｎ<linealt>
-ａｎｄ ｒａｎ ａｗａｙ．<end>
+The minute I saw these guys,<linealt>
+they turned chicken<linealt>
+and ran away.<end>
 
 
 //POINTER #149 @ $2D2C4C - STRING #149 @ $2CE068
 
 #WRITE(GBA,$2D2C4C)
-Ｈｅｈ， ｃａｎ’ｔ ｂｌａｍｅ ’ｅｍ ｆｏｒ ｇｅｔｔｉｎｇ<linealt>
-ｓｃａｒｅｄ ａｔ ｔｈｅ ｓｉｇｈｔ ｏｆ ｍｅ ｔｈｏｕｇｈ！<end>
+Heh, can't blame 'em for getting<linealt>
+scared at the sight of me though!<end>
 
 
 //POINTER #150 @ $2D2C50 - STRING #150 @ $2CE0A4
 
 #WRITE(GBA,$2D2C50)
-Ｉｎｓｔｅａｄ ｏｆ ｋｅｅｐｉｎ’ ｈｅｒ ｐｅａｒｌｓ<linealt>
-ｓａｆｅ， ｔｈｉｓ ｗｅｉｒｄ ｌａｄｙ ｔｈｒｏｗｓ’ｅｍ<linealt>
-ｗｉｔｈ ａ ｓｍｉｌｅ ｏｎ ｈｅｒ ｆａｃｅ．<end>
+Instead of keepin' her pearls<linealt>
+safe, this weird lady throws'em<linealt>
+with a smile on her face.<end>
 
 
 //POINTER #151 @ $2D2C54 - STRING #151 @ $2CE0F0
 
 #WRITE(GBA,$2D2C54)
-Ｗｉｔｈ ａ ｇａｌ ｌｉｋｅ ｈｅｒ，<linealt>
-ｗｅ’ｌｌ ｎｅｖｅｒ ｎｅｅｄ ｔｏ ｗｏｒｒｙ ａｂｏｕｔ<linealt>
-ｒｕｎｎｉｎ’ ｌｏｗ ｏｎ ｐｅａｒｌｓ．<end>
+With a gal like her,<linealt>
+we'll never need to worry about<linealt>
+runnin' low on pearls.<end>
 
 
 //POINTER #152 @ $2D2C58 - STRING #152 @ $2CE11C
 
 #WRITE(GBA,$2D2C58)
-Ｔｈｉｓ ｇｕｙ ｃｌｅａｒｌｙ ｄｏｅｓｎ’ｔ ｋｎｏｗ ｈｉｓ<linealt>
-ｐｌａｃｅ， ｃａｕｓｅ ｈｅ ｓｔａｒｔｅｄ ｃｈａｓｉｎ’<linealt>
-ｍｅ ｔｈｅ ｓｅｃｏｎｄ ｈｅ ｓａｗ ｍｅ！<end>
+This guy clearly doesn't know his<linealt>
+place, cause he started chasin'<linealt>
+me the second he saw me!<end>
 
 
 //POINTER #153 @ $2D2C5C - STRING #153 @ $2CE160
 
 #WRITE(GBA,$2D2C5C)
-Ａｐｐａｒｅｎｔｌｙ ｉｔ’ｓ ａ ｃａｔ，<linealt>
-ｂｕｔ ｉｔ ｌｏｏｋｓ ｗａｙ ｍｏｒｅ<linealt>
-ｌｉｋｅ ａ ｄｏｇ ｔｏ ｍｅ！<end>
+Apparently it's a cat,<linealt>
+but it looks way more<linealt>
+like a dog to me!<end>
 
 
 //POINTER #154 @ $2D2C60 - STRING #154 @ $2CE194
 
 #WRITE(GBA,$2D2C60)
-Ｔｈｉｓ ｔｈｉｎｇ ｃｏｉｌｓ ｉｔｓｅｌｆ ｕｐ<linealt>
-ａｎｄ ｔｒｉｅｓ ｔｏ ｊｕｍｐ ｉｎｔｏ ｙｏｕ<linealt>
-ｗｈｅｎ ｙａ ｇｅｔ ｔｏｏ ｃｌｏｓｅ．<end>
+This thing coils itself up<linealt>
+and tries to jump into you<linealt>
+when ya get too close.<end>
 
 
 //POINTER #155 @ $2D2C64 - STRING #155 @ $2CE1D4
 
 #WRITE(GBA,$2D2C64)
-Ｄｏｅｓ ｉｔ ｗａｎｎａ ｂｅ ｉｎｓｉｄｅ ｏｆ ａ<linealt>
-Ｊａｃｋ－ｉｎ－ｔｈｅ－ｂｏｘ ｏｒ ｓｏｍｅｔｈｉｎｇ？<end>
+Does it wanna be inside of a<linealt>
+Jack-in-the-box or something?<end>
 
 
 //POINTER #156 @ $2D2C68 - STRING #156 @ $2CE200
 
 #WRITE(GBA,$2D2C68)
-Ｊｕｓｔ ｗｈｅｎ Ｉ ｔｈｏｕｇｈｔ Ｉ’ｖｅ ｈａｄ<linealt>
-ｅｎｏｕｇｈ ｏｆ ｇｕｙｓ ｌｉｋｅ Ｈｉｒａｏ，<linealt>
-ｔｈｉｓ ｇｕｙ ｓｈｏｗｓ ｕｐ！<end>
+Just when I thought I've had<linealt>
+enough of guys like Hirao,<linealt>
+this guy shows up!<end>
 
 
 //POINTER #157 @ $2D2C6C - STRING #157 @ $2CE244
 
 #WRITE(GBA,$2D2C6C)
-Ｈｏｗ ｄａｒｅ ｈｅ ａｃｔ ａｌｌ ｌｏｖｅｙ－ｄｏｖｅｙ<linealt>
-ｉｎ ｆｒｏｎｔ ｏｆ ｍｅ！<angry><end>
+How dare he act all lovey-dovey<linealt>
+in front of me!<angry><end>
 
 
 //POINTER #158 @ $2D2C70 - STRING #158 @ $2CE288
 
 #WRITE(GBA,$2D2C70)
-Ｇｒｒｒ．．．<angry><linealt>
-Ｔｈｉｓ ｇｉｒｌ ｔｉｃｋｓ ｍｅ ｏｆｆ ｔｏ ｎｏ ｅｎｄ！<angry><linealt>
-Ｈｕｈ？ Ｗｈｙ？<end>
+Grrr...<angry><linealt>
+This girl ticks me off to no end!<angry><linealt>
+Huh? Why?<end>
 
 
 //POINTER #159 @ $2D2C74 - STRING #159 @ $2CE2BC
 
 #WRITE(GBA,$2D2C74)
-Ｎｏｔ ｏｎｌｙ ｄｏｅｓ ｓｈｅ ａｃｔ ａｌｌ ｌｏｖｅｙ－<linealt>
-ｄｏｖｅｙ ａｒｏｕｎｄ ｅｖｅｒｙｏｎｅ， ｓｈｅ’ｓ<linealt>
-ｓｕｐｅｒ ｒｕｄｅ ｔｏｏ． Ｉ ｃａｎ’ｔ ｓｔａｎｄ ｈｅｒ！<end>
+Not only does she act all lovey-<linealt>
+dovey around everyone, she's<linealt>
+super rude too. I can't stand her!<end>
 
 
 //POINTER #160 @ $2D2C78 - STRING #160 @ $2CE300
 
 #WRITE(GBA,$2D2C78)
-Ｔｈｉｓ ｉｎｅｐｔ ｎｉｎｊａ ｃａｎ ｂａｒｅｌｙ<linealt>
-ｋｅｅｐ ｉｔｅｍｓ ｉｎ ｈｅｒ ｐａｗｓ<linealt>
-ｗｉｔｈｏｕｔ ｌｏｓｉｎｇ ｔｈｅｍ．<end>
+This inept ninja can barely<linealt>
+keep items in her paws<linealt>
+without losing them.<end>
 
 
 //POINTER #161 @ $2D2C7C - STRING #161 @ $2CE328
 
 #WRITE(GBA,$2D2C7C)
-Ｓｈｅ’ｓ ｗｅａｒｉｎｇ ａ ｂｅｌｌ， ｂｕｔ ｓｈｏｕｌｄ<linealt>
-ａ ｎｉｎｊａ ｂｅ ｗｅａｒｉｎｇ ｓｏｍｅｔｈｉｎｇ<linealt>
-ｔｈａｔ ｍａｋｅｓ ｓｏ ｍｕｃｈ ｎｏｉｓｅ？<end>
+She's wearing a bell, but should<linealt>
+a ninja be wearing something<linealt>
+that makes so much noise?<end>
 
 
 //POINTER #162 @ $2D2C80 - STRING #162 @ $2CE36C
 
 #WRITE(GBA,$2D2C80)
-Ｔｈｉｓ ｐｌａｔｙｐｕｓ ｔｅｎｄｓ ｔｏ ｆｉｎｄ<linealt>
-ｔｈｉｎｇｓ ｂｏｔｈｅｒｓｏｍｅ．<end>
+This platypus tends to find<linealt>
+things bothersome.<end>
 
 
 //POINTER #163 @ $2D2C84 - STRING #163 @ $2CE390
 
 #WRITE(GBA,$2D2C84)
-Ｈｅ ａｌｗａｙｓ ｓａｙｓ ｔｈａｔ ｈｅ’ｓ<linealt>
-”ｓｕｐｅｒ ｂｕｓｙ”， ｂｕｔ ｉｓ ｈｅ<linealt>
-ｒｅａｌｌｙ ｗｏｒｋｉｎｇ？<end>
+He always says that he's<linealt>
+"super busy", but is he<linealt>
+really working?<end>
 
 
 //POINTER #164 @ $2D2C88 - STRING #164 @ $2CE3D4
 
 #WRITE(GBA,$2D2C88)
-Ｔｈｉｓ ｏｌｄ ｇｕｙ ｒｅａｌｌｙ ｌｉｋｅｓ ｈｉｓ ｈｏｎｅｙ！<linealt>
-Ｗｈｅｎ ｈｅ ｅａｔｓ ｓｏｍｅ，<linealt>
-ｈｅ ｇｅｔｓ ｓｕｐｅｒ ＤＵＰＥＲ ｓｔｒｏｎｇ！<end>
+This old guy really likes his honey!<linealt>
+When he eats some,<linealt>
+he gets super DUPER strong!<end>
 
 
 //POINTER #165 @ $2D2C8C - STRING #165 @ $2CE420
 
 #WRITE(GBA,$2D2C8C)
-Ｉ ｇｏｔｔａ ａｄｍｉｔ，<linealt>
-Ｔｈｉｓ ｇｅｅｚｅｒ’ｓ ｗａｙ ｓｔｒｏｎｇｅｒ<linealt>
-ｔｈａｎ ｅｖｅｎ Ｉ ａｍ！<end>
+I gotta admit,<linealt>
+This geezer's way stronger<linealt>
+than even I am!<end>
 
 
 //POINTER #166 @ $2D2C90 - STRING #166 @ $2CE45C
 
 #WRITE(GBA,$2D2C90)
-Ｔｈｉｓ ｓｐｉｒｉｔｅｄ ｌａｄｙ’ｓ ｇｏｔ ｅｎｅｒｇｙ<linealt>
-ｉｎ ｓｐａｄｅｓ！<end>
+This spirited lady's got energy<linealt>
+in spades!<end>
 
 
 //POINTER #167 @ $2D2C94 - STRING #167 @ $2CE488
 
 #WRITE(GBA,$2D2C94)
-Ｉｆ ｙｏｕ ｍａｋｅ ｈｅｒ ｍａｄ， ｙｏｕ’ｌｌ ｇｅｔ ａ<linealt>
-ｈｅａｐｉｎ’ ｈｅｌｐｉｎ’ ｏｆ ｔｈｏｓｅ ｔｏｕｇｈ<linealt>
-ｔｅｅｔｈ ｏｆ ｈｅｒｓ．．．<end>
+If you make her mad, you'll get a<linealt>
+heapin' helpin' of those tough<linealt>
+teeth of hers...<end>
 
 
 //POINTER #168 @ $2D2C98 - STRING #168 @ $2CE4D0
 
 #WRITE(GBA,$2D2C98)
-Ｍｏｏｎ ｋｅｅｐｓ ｕｓｉｎ’ ｔｈｉｓ ｇｕｙ<linealt>
-ｔｏ ｂｕｙ ｈｅｒ ｓｔｕｆｆ．．．<end>
+Moon keeps usin' this guy<linealt>
+to buy her stuff...<end>
 
 
 //POINTER #169 @ $2D2C9C - STRING #169 @ $2CE510
 
 #WRITE(GBA,$2D2C9C)
-Ｒｕｍｏｒ ｈａｓ ｉｔ ｔｈａｔ Ｍｏｏｎ ｂｒｏｋｅ ｕｐ<linealt>
-ｗｉｔｈ ｈｉｍ， ＡＮＤ ｈｅ ｌｏｓｔ ａｌｌ ｈｉｓ ｍｏｎｅｙ！<end>
+Rumor has it that Moon broke up<linealt>
+with him, AND he lost all his money!<end>
 
 
 //POINTER #170 @ $2D2CA0 - STRING #170 @ $2CE55C
 
 #WRITE(GBA,$2D2CA0)
-Ｔｈｉｓ ａｃｃｅｓｓｏｒｙ ｌｏｖｉｎ’ ｌａｄｙ ｒｉｖａｌｓ<linealt>
-ｅｖｅｎ Ｍｓ． Ｒｕｂｙ ｉｎ ｔｈｅ ｂｅａｕｔｙ<linealt>
-ｄｅｐａｒｔｍｅｎｔ！<end>
+This accessory lovin' lady rivals<linealt>
+even Ms. Ruby in the beauty<linealt>
+department!<end>
 
 
 //POINTER #171 @ $2D2CA4 - STRING #171 @ $2CE598
 
 #WRITE(GBA,$2D2CA4)
-Ｉｆ Ｉ ｗａｓ ｒｉｃｈ，<linealt>
-ｓｈｅ’ｄ ｂｅ ｍｙ．．． Ｎｏ ｗａｙ！<linealt>
-Ｉ’ｄ ｓｔｉｌｌ ｇｏ ｗｉｔｈ Ｍｓ． Ｒｕｂｙ！<end>
+If I was rich,<linealt>
+she'd be my... No way!<linealt>
+I'd still go with Ms. Ruby!<end>
 
 
 //POINTER #172 @ $2D2CA8 - STRING #172 @ $2CE5EC
 
 #WRITE(GBA,$2D2CA8)
-Ｆｏｒ ｔｈｅ ｔｉｍｅ ｂｅｉｎｇ，<linealt>
-ｓｈｅ ｈａｓｎ’ｔ ｇｏｎｅ ｃｒａｚｙ．．． Ｉ ｔｈｉｎｋ．．．<linealt>
-Ｗｈｅｎ ｓｈｅ ｓｎａｐｓ，<end>
+For the time being,<linealt>
+she hasn't gone crazy... I think...<linealt>
+When she snaps,<end>
 
 
 //POINTER #173 @ $2D2CAC - STRING #173 @ $2CE630
 
 #WRITE(GBA,$2D2CAC)
-ｈｅｒ ｗａｙ ｏｆ ｔａｌｋｉｎ’ ｃｈａｎｇｅｓ ａｎｄ<linealt>
-ｓｈｅ ｇｅｔｓ ｒｅａｌ ｄａｎｇｅｒｏｕｓ．<linealt>
-Ｓｈｅ ｓｈｏｕｌｄ ｂｅ ｍｏｒｅ ｍｏｄｅｓｔ．<end>
+her way of talkin' changes and<linealt>
+she gets real dangerous.<linealt>
+She should be more modest.<end>
 
 
 //POINTER #174 @ $2D2CB0 - STRING #174 @ $2CE67C
 
 #WRITE(GBA,$2D2CB0)
-Ｓｈｅ ｃａｎ ｓｕｃｋ ｕｐ ａｌｌ ｔｈｅ ｗａｔｅｒ<linealt>
-ａｒｏｕｎｄ ｈｅｒ ａｎｄ ｍａｋｅ ｉｔ ｄｉｓａｐｐｅａｒ！<linealt>
-Ｔｈａｔ’ｓ ａｍａｚｉｎｇ！<end>
+She can suck up all the water<linealt>
+around her and make it disappear!<linealt>
+That's amazing!<end>
 
 
 //POINTER #175 @ $2D2CB4 - STRING #175 @ $2CE6C0
 
 #WRITE(GBA,$2D2CB4)
-Ｌｏｏｋｓ ｌｉｋｅ ｔｈｅｙ ｗｏｒｋ ｆｏｒ Ｐｕｃｈｉ<linealt>
-Ｏｇｕｒａ ＃５． Ｉ ｆｅｅｌ ｓｏｒｒｙ ｆｏｒ ’ｅｍ！<end>
+Looks like they work for Puchi<linealt>
+Ogura #5. I feel sorry for 'em!<end>
 
 
 //POINTER #176 @ $2D2CB8 - STRING #176 @ $2CE70C
 
 #WRITE(GBA,$2D2CB8)
-Ｔｈｉｓ ｏｎｅ ｏｆ ａ ｋｉｎｄ ｅｎｅｍｙ ｌｉｖｅｓ ｉｎ<linealt>
-Ｐｉｔｃｈ Ｂｌａｃｋ Ｃａｖｅｒｎｓ， ｓｈｏｏｔｉｎ’ ｏｕｔ<linealt>
-ｓｐｉｋｅｓ ｉｆ ａｎｙｏｎｅ ｇｅｔｓ ｃｌｏｓｅ．<end>
+This one of a kind enemy lives in<linealt>
+Pitch Black Caverns, shootin' out<linealt>
+spikes if anyone gets close.<end>
 
 
 //POINTER #177 @ $2D2CBC - STRING #177 @ $2CE750
 
 #WRITE(GBA,$2D2CBC)
-Ｉｔ’ｓ ｅａｓｙ ｔｏ ｍｉｓｓ，<linealt>
-ｂｕｔ ｉｔ’ｓ ｆｕｒｒｏｗｅｄ ｂｒｏｗｓ ａｒｅ ｏｎｅ<linealt>
-ｏｆ ｉｔ’ｓ ｄｅｆｉｎｉｎｇ ｃｈａｒａｃｔｅｒｉｓｔｉｃｓ．<end>
+It's easy to miss,<linealt>
+but it's furrowed brows are one<linealt>
+of it's defining characteristics.<end>
 
 
 //POINTER #178 @ $2D2CC0 - STRING #178 @ $2CE798
 
 #WRITE(GBA,$2D2CC0)
-Ａｌｌ ｔｈｉｓ ｇｕｙ ｄｏｅｓ ｉｓ<linealt>
-ｓｗｉｍ ｂａｃｋ ａｎｄ ｆｏｒｔｈ，<linealt>
-ｓｏ ｈｅ ａｉｎ’ｔ ａｌｌ ｔｈａｔ ｄａｎｇｅｒｏｕｓ．<end>
+All this guy does is<linealt>
+swim back and forth,<linealt>
+so he ain't all that dangerous.<end>
 
 
 //POINTER #179 @ $2D2CC4 - STRING #179 @ $2CE7CC
 
 #WRITE(GBA,$2D2CC4)
-Ｉｔ ｃｏｕｌｄ ｕｓｅ ｓｏｍｅ ｅｙｅ ｄｒｏｐｓ ｆｏｒ<linealt>
-ｉｔ’ｓ ｒｅｄ ｅｙｅｓ． Ｙｏｕｒ ｅｙｅｓ ａｒｅ<linealt>
-ｉｍｐｏｒｔａｎｔ ｙａ ｋｎｏｗ．<end>
+It could use some eye drops for<linealt>
+it's red eyes. Your eyes are<linealt>
+important ya know.<end>
 
 
 //POINTER #180 @ $2D2CC8 - STRING #180 @ $2CE814
 
 #WRITE(GBA,$2D2CC8)
-Ｔｈｉｓ ｔｈｉｎｇ’ｌｌ ｔｒｙ ｔｏ ａｔｔａｃｋ ｙｏｕ ｂｙ<linealt>
-ｅｘｔｅｎｄｉｎ’ ｉｔ’ｓ ｓｗｏｒｄ－ｌｉｋｅ ｌｅａｖｅｓ．<end>
+This thing'll try to attack you by<linealt>
+extendin' it's sword-like leaves.<end>
 
 
 //POINTER #181 @ $2D2CCC - STRING #181 @ $2CE854
 
 #WRITE(GBA,$2D2CCC)
-Ｉ ｄｏｎ’ｔ ｔｈｉｎｋ ｉｔ’ｄ ｂｅ ｇｏｏｄ ｉｎ ｓｏｍｅ<linealt>
-Ｍｉｓｏ Ｓｏｕｐ．．．<end>
+I don't think it'd be good in some<linealt>
+Miso Soup...<end>
 
 
 //POINTER #182 @ $2D2CD0 - STRING #182 @ $2CE88C
 
 #WRITE(GBA,$2D2CD0)
-Ｗｈｅｔｈｅｒ ｙｏｕ’ｒｅ ｉｎ ｔｈｅ ａｉｒ ｏｒ ｉｎ<linealt>
-ｗａｔｅｒ， ｔｈｅｓｅ ｇｕｙｓ’ｌｌ ｓｕｒｅｌｙ ｂｅ<linealt>
-ｏｎ ｙｏｕｒ ｔａｉｌ．<end>
+Whether you're in the air or in<linealt>
+water, these guys'll surely be<linealt>
+on your tail.<end>
 
 
 //POINTER #183 @ $2D2CD4 - STRING #183 @ $2CE8C8
 
 #WRITE(GBA,$2D2CD4)
-Ｈｅｈ， ｂｕｔ Ｉ ｃｏｍｐｌｅｔｅｌｙ ｕｎｄｅｒｓｔａｎｄ<linealt>
-ｗｈｙ ｔｈｅｙ’ｄ ｆｏｌｌｏｗ ｓｏｍｅｏｎｅ ａｓ ｃｏｏｌ<linealt>
-ａｓ ｍｅ ａｒｏｕｎｄ．<end>
+Heh, but I completely understand<linealt>
+why they'd follow someone as cool<linealt>
+as me around.<end>
 
 
 //POINTER #184 @ $2D2CD8 - STRING #184 @ $2CE908
 
 #WRITE(GBA,$2D2CD8)
-Ｗｉｐｅ ｏｆｆ ｙｏｕｒ ｄｒｏｏｌ！ Ａｎｄ ｄｏｎ’ｔ<linealt>
-ｃｈａｓｅ ｍｅ ｗｈｉｌｅ ｙｏｕ’ｒｅ ｄｒｏｏｌｉｎ’！<linealt>
-Ｄｉｓｇｕｓｔｉｎｇ！<end>
+Wipe off your drool! And don't<linealt>
+chase me while you're droolin'!<linealt>
+Disgusting!<end>
 
 
 //POINTER #185 @ $2D2CDC - STRING #185 @ $2CE948
 
 #WRITE(GBA,$2D2CDC)
-Ｓｈｅｅｓｈ，<linealt>
-ｓｏｍｅｏｎｅ ｃｌｅａｒｌｙ ｄｉｄｎ’ｔ<linealt>
-ｔｅａｃｈ ｈｉｍ ｇｏｏｄ ｍａｎｎｅｒｓ．<end>
+Sheesh,<linealt>
+someone clearly didn't<linealt>
+teach him good manners.<end>
 
 
 //POINTER #186 @ $2D2CE0 - STRING #186 @ $2CE984
 
 #WRITE(GBA,$2D2CE0)
-Ｆｏｒ ｓｏｍｅｔｈｉｎ’ ｓｏ ｓｍａｌｌ，<linealt>
-ｔｈｉｓ ｆｅｉｓｔｙ ｔｈｉｎｇ ｌｏｏｓｅｓ ｓｏｍｅ<linealt>
-ｒｅａｌ ｌｏｎｇ ｓｔｉｎｇｅｒｓ！<end>
+For somethin' so small,<linealt>
+this feisty thing looses some<linealt>
+real long stingers!<end>
 
 
 //POINTER #187 @ $2D2CE4 - STRING #187 @ $2CE9C0
 
 #WRITE(GBA,$2D2CE4)
-Ｙｏｕ ｃａｎ’ｔ ｊｕｓｔ ｓｈｏｏｔ ｏｕｔ<linealt>
-ｗｈａｔｅｖｅｒ ｙａ ｗａｎｔ！<linealt>
-Ｓｈｅｅｓｈ！<end>
+You can't just shoot out<linealt>
+whatever ya want!<linealt>
+Sheesh!<end>
 
 
 //POINTER #188 @ $2D2CE8 - STRING #188 @ $2CCEAC
 
 #WRITE(GBA,$2D2CE8)
-Ｔｈｉｓ ｇｕｙ ａｔｔａｃｋｓ ｂｙ<linealt>
-ｓｈｏｏｔｉｎ’ ｂａｌｌｓ ｏｆ ｉｎｋ ａｔ ｙａ．<end>
+This guy attacks by<linealt>
+shootin' balls of ink at ya.<end>
 
 
 //POINTER #189 @ $2D2CEC - STRING #189 @ $2CE9FC
 
 #WRITE(GBA,$2D2CEC)
-Ｉ ｈｅａｒｄ ｔｈｅｒｅ’ｓ ａｃｔｕａｌｌｙ ａ<linealt>
-ｓｑｕｉｄ ｕｎｄｅｒ ｔｈａｔ ｈｅｌｍｅｔ ｏｆ ｈｉｓ．<end>
+I heard there's actually a<linealt>
+squid under that helmet of his.<end>
 
 
 //POINTER #190 @ $2D2CF0 - STRING #190 @ $2CEA30
 
 #WRITE(GBA,$2D2CF0)
-Ｔｈｉｓ ｇｕｙ’ｌｌ ｔｒｙ ｔｏ ｆｌｙ ａｗａｙ ｗｉｔｈ<linealt>
-ｔｈｏｓｅ ｔｉｎｙ ｗｉｎｇｓ ｉｆ ｙｏｕ ｇｅｔ ｃｌｏｓｅ．<linealt>
-Ｗｈａｔ ａ ｃｏｗａｒｄ！<end>
+This guy'll try to fly away with<linealt>
+those tiny wings if you get close.<linealt>
+What a coward!<end>
 
 
 //POINTER #191 @ $2D2CF4 - STRING #191 @ $2CEA70
 
 #WRITE(GBA,$2D2CF4)
-Ｂｕｔ Ｉ’ｌｌ ｇｉｖｅ ｉｔ ｃｒｅｄｉｔ，<linealt>
-ｉｔ’ｓ ａｍａｚｉｎｇ ｔｈａｔ ｉｔ ｃａｎ ｆｌｙ<linealt>
-ｗｉｔｈ ａ ｂｏｄｙ ｌｉｋｅ ｔｈａｔ．<end>
+But I'll give it credit,<linealt>
+it's amazing that it can fly<linealt>
+with a body like that.<end>
 
 
 //POINTER #192 @ $2D2CF8 - STRING #192 @ $2CEAB0
 
 #WRITE(GBA,$2D2CF8)
-Ｔｈｉｓ ｇｕｙ ｈｉｄｅｓ ｂｅｈｉｎｄ ｔｈａｔ ｓｐｉｋｙ<linealt>
-ｓｈｉｅｌｄ ｏｆ ｈｉｓ， ｓｏ ｉｔ’ｓ ａ ｂａｄ ｉｄｅａ ｔｏ<linealt>
-ｇｅｔ ｔｏｏ ｃｌｏｓｅ ｆｒｏｍ ｔｈｅ ｆｒｏｎｔ．<end>
+This guy hides behind that spiky<linealt>
+shield of his, so it's a bad idea to<linealt>
+get too close from the front.<end>
 
 
 //POINTER #193 @ $2D2CFC - STRING #193 @ $2CEAEC
 
 #WRITE(GBA,$2D2CFC)
-Ｉ’ｍ ｎｏｔ ｔｈｅ ｏｎｌｙ ｏｎｅ ｗｈｏ ｆｉｎｄｓ<linealt>
-ｔｈａｔ ｓｍｉｒｋ ｉｎｆｕｒｉａｔｉｎｇ， ｒｉｇｈｔ？<end>
+I'm not the only one who finds<linealt>
+that smirk infuriating, right?<end>
 
 
 //POINTER #194 @ $2D2D00 - STRING #194 @ $2CEB24
 
 #WRITE(GBA,$2D2D00)
-Ｔｈｉｓ ｅｅｌ ｐｏｐｓ ｏｕｔ ｏｆ ｉｔ’ｓ ｈｏｌｅ ｔｏ<linealt>
-ｊｕｍｐ ｏｕｔ ａ ｐｅｏｐｌｅ． Ｓｔｕｐｉｄ ｔｈｉｎｇ<linealt>
-ｓｃａｒｅｄ ｔｈｅ ｈｅｃｋ ｏｕｔｔａ ｍｅ！<end>
+This eel pops out of it's hole to<linealt>
+jump out a people. Stupid thing<linealt>
+scared the heck outta me!<end>
 
 
 //POINTER #195 @ $2D2D04 - STRING #195 @ $2CEB5C
 
 #WRITE(GBA,$2D2D04)
-Ｔｈｏｕｇｈ ａｐｐａｒｅｎｔｌｙ ｉｔ ｓｐｅｎｄｓ<linealt>
-ｉｔ’ｓ ｄａｙｓ ｉｎ ｉｔ’ｓ ｈｏｌｅ，<linealt>
-ｗａｔｃｈｉｎｇ ｓｔｕｆｆ ｏｎ ｉｔ’ｓ Ｓｈｅｌｌｐｕｔｅｒ．<end>
+Though apparently it spends<linealt>
+it's days in it's hole,<linealt>
+watching stuff on it's Shellputer.<end>
 
 
 //POINTER #196 @ $2D2D08 - STRING #196 @ $2CEB98
 
 #WRITE(GBA,$2D2D08)
-Ｍｅａｔ’ｓ ｔｈｉｓ ｇｕｙｓ ｆａｖｏｒｉｔｅ ｆｏｏｄ，<linealt>
-ａｎｄ ｗｉｌｌ ｃｈａｓｅ ｔｈａｔ ｉｎｓｔｅａｄ ｏｆ<linealt>
-Ｓｔａｒｆｙ．<end>
+Meat's this guys favorite food,<linealt>
+and will chase that instead of<linealt>
+Starfy.<end>
 
 
 //POINTER #197 @ $2D2D0C - STRING #197 @ $2CEBD8
 
 #WRITE(GBA,$2D2D0C)
-Ｔｃｈ！<linealt>
-Ｗｈａｔ ａ ｇｌｕｔｔｏｎ！<end>
+Tch!<linealt>
+What a glutton!<end>
 
 
 //POINTER #198 @ $2D2D10 - STRING #198 @ $2CEBF0
 
 #WRITE(GBA,$2D2D10)
-Ｗｉｔｈ ｔｈａｔ ｈｕｇｅ ｍｏｕｔｈ， ｔｈｉｓ ｇｕｙ<linealt>
-ｇｕｚｚｌｅｓ ｄｏｗｎ ｗａｔｅｒ． ｃｒｅａｔｉｎｇ ａ<linealt>
-ｓｔｒｏｎｇ ｗａｔｅｒ ｃｕｒｒｅｎｔ．<end>
+With that huge mouth, this guy<linealt>
+guzzles down water. creating a<linealt>
+strong water current.<end>
 
 
 //POINTER #199 @ $2D2D14 - STRING #199 @ $2CEC28
 
 #WRITE(GBA,$2D2D14)
-Ｂｕｔ Ｉ ｇｏｔｔａ ｗｏｎｄｅｒ，<linealt>
-ｗｈａｔ’ｓ ｔｈｅ ｐａｒｔ ｂｕｒｉｅｄ<linealt>
-ｉｎ ｔｈｅ ｗａｌｌ ｌｏｏｋ ｌｉｋｅ？<end>
+But I gotta wonder,<linealt>
+what's the part buried<linealt>
+in the wall look like?<end>
 
 
 //POINTER #200 @ $2D2D18 - STRING #200 @ $2CEC6C
 
 #WRITE(GBA,$2D2D18)
-Ｔｈｉｓ ｔｈｉｎｇ ｗａｓ ｐａｒｔ ｏｆ ｏｎｅ ｏｆ ｔｈｅ<linealt>
-ｐｕｚｚｌｅ ｉｎ ｔｈｅ ”Ｉｎｄｏｏｒ Ｃａｖｅ”．<end>
+This thing was part of one of the<linealt>
+puzzle in the "Indoor Cave".<end>
 
 
 //POINTER #201 @ $2D2D1C - STRING #201 @ $2CECA0
 
 #WRITE(GBA,$2D2D1C)
-Ｔｈａｔ ｃａｖｅ ｗａｓ ｓｏｍｅｔｈｉｎ’ ｅｌｓｅ．．．<end>
+That cave was somethin' else...<end>
 
 
 //POINTER #202 @ $2D2D20 - STRING #202 @ $2CEC6C
 
 #WRITE(GBA,$2D2D20)
-Ｔｈｉｓ ｔｈｉｎｇ ｗａｓ ｐａｒｔ ｏｆ ｏｎｅ ｏｆ ｔｈｅ<linealt>
-ｐｕｚｚｌｅｓ ｉｎ ｔｈｅ ”Ｉｎｄｏｏｒ Ｃａｖｅ”．<end>
+This thing was part of one of the<linealt>
+puzzles in the "Indoor Cave".<end>
 
 
 //POINTER #203 @ $2D2D24 - STRING #203 @ $2CECC8
 
 #WRITE(GBA,$2D2D24)
-Ｔｈａｎｋｓ ｔｏ Ｓｔａｒｆ’ｓ ｃｌｕｍｓｉｎｅｓｓ，<linealt>
-ｉｔ ｔｏｏｋ ｍｅ ａ ｌｏｎｇ ｔｉｍｅ ｔｏ ｆｉｎｉｓｈ ｉｔ．<end>
+Thanks to Starf's clumsiness,<linealt>
+it took me a long time to finish it.<end>
 
 
 //POINTER #204 @ $2D2D28 - STRING #204 @ $2CEC6C
 
 #WRITE(GBA,$2D2D28)
-Ｔｈｉｓ ｔｈｉｎｇ ｗａｓ ｐａｒｔ ｏｆ ｏｎｅ ｏｆ ｔｈｅ<linealt>
-ｐｕｚｚｌｅｓ ｉｎ ｔｈｅ ”Ｉｎｄｏｏｒ Ｃａｖｅ”．<end>
+This thing was part of one of the<linealt>
+puzzles in the "Indoor Cave".<end>
 
 
 //POINTER #205 @ $2D2D2C - STRING #205 @ $2CED04
 
 #WRITE(GBA,$2D2D2C)
-Ｗｅｌｌ， ｉｔ ｗａｓ ｓｔｉｌｌ ａ ｐｉｅｃｅ ｏｆ ｃａｋｅ<linealt>
-ｆｏｒ ｓｏｍｅｏｎｅ ｌｉｋｅ ｍｅ ｔｈｏｕｇｈ．<end>
+Well, it was still a piece of cake<linealt>
+for someone like me though.<end>
 
 
 //POINTER #206 @ $2D2D30 - STRING #206 @ $2CED40
 
 #WRITE(GBA,$2D2D30)
-Ｔｈｅｓｅ ｈｅｌｐｆｕｌ ｌｉｔｔｌｅ ｇｕｙｓ<linealt>
-ｂｒｉｇｈｔｅｎ ｕｐ ｄａｒｋ ａｒｅａｓ ｆｏｒ ｕｓ．<end>
+These helpful little guys<linealt>
+brighten up dark areas for us.<end>
 
 
 //POINTER #207 @ $2D2D34 - STRING #207 @ $2CED74
 
 #WRITE(GBA,$2D2D34)
-Ｉ ｗｏｎｄｅｒ ｉｆ ｉｔ ｗｏｕｌｄ ｗｏｒｋ<linealt>
-ａｓ ａ ｌｉｇｈｔ ｆｏｒ ｍｙ ｒｏｏｍ．．．？<end>
+I wonder if it would work<linealt>
+as a light for my room...?<end>
 
 
 //POINTER #208 @ $2D2D38 - STRING #208 @ $2CEDB0
 
 #WRITE(GBA,$2D2D38)
-Ｗｏｚａｒｔ’ｓ ａｌｗａｙｓ ｐａｎｉｃｋｉｎ’ ａｂｏｕｔ<linealt>
-ｏｎｅ ｔｈｉｎｇ ｏｒ ａｎｏｔｈｅｒ．<end>
+Wozart's always panickin' about<linealt>
+one thing or another.<end>
 
 
 //POINTER #209 @ $2D2D3C - STRING #209 @ $2CEDDC
 
 #WRITE(GBA,$2D2D3C)
-Ｂｕｔ ｗｈｅｎ ｉｔ ｃｏｍｅｓ ｔｏ ｍｕｓｉｃ，<linealt>
-ｔｈｅｙ’ｒｅ ａｓ ｓｔｕｂｂｏｒｎ ａｓ ａ ｍｕｌｅ．<end>
+But when it comes to music,<linealt>
+they're as stubborn as a mule.<end>
 
 
 //POINTER #210 @ $2D2D40 - STRING #210 @ $2CEE14
 
 #WRITE(GBA,$2D2D40)
-Ｉｆ ｔｈｅ Ｏｃｔｏ－Ｊａｒ ｗａｓ ｓｏ ｉｍｐｏｒｔａｎｔ，<linealt>
-ｔｈｅｙ ｗｈｙ ｄｉｄ ｙａ ｌｏｓｅ ｉｔ！？<end>
+If the Octo-Jar was so important,<linealt>
+they why did ya lose it!?<end>
 
 
 //POINTER #211 @ $2D2D44 - STRING #211 @ $2CEE44
 
 #WRITE(GBA,$2D2D44)
-Ｗｅｌｌ，<linealt>
-ｈｅ ｄｉｄｎ’ｔ ｋｉｃｋ ｔｈｅ ｂｕｃｋｅｔ ａｔ ｌｅａｓｔ．<linealt>
-Ｓｏ ｔｈａｔ’ｓ ａ ｒｅｌｉｅｆ．<end>
+Well,<linealt>
+he didn't kick the bucket at least.<linealt>
+So that's a relief.<end>
 
 
 //POINTER #212 @ $2D2D48 - STRING #212 @ $2CEE8C
 
 #WRITE(GBA,$2D2D48)
-Ｔｈｅｓｅ ｇｕｙｓ’ｒｅ Ｂｉｇ Ｂａｒｒｅｌ Ｓｑｕｉｄ’ｓ<linealt>
-ｓｕｂｏｒｄｉｎａｔｅｓ<end>
+These guys're Big Barrel Squid's<linealt>
+subordinates<end>
 
 
 //POINTER #213 @ $2D2D4C - STRING #213 @ $2CEEA8
 
 #WRITE(GBA,$2D2D4C)
-Ｉ ｗｏｎｄｅｒ ｗｈａｔ ｔｈｅｙ ｌｏｏｋ ｌｉｋｅ ｕｎｄｅｒ<linealt>
-ｔｈｅ ｂａｒｒｅｌ．．．？ Ｄｏ ｔｈｅｙ ｔａｋｅ ｉｔ ｏｆｆ<linealt>
-ｗｈｅｎ ｔｈｅｙ ｔａｋｅ ａ ｂａｔｈ？<end>
+I wonder what they look like under<linealt>
+the barrel...? Do they take it off<linealt>
+when they take a bath?<end>
 
 
 //POINTER #214 @ $2D2D50 - STRING #214 @ $2CEEE8
 
 #WRITE(GBA,$2D2D50)
-Ａｐｐａｒｅｎｔｌｙ Ｂｉｇ Ｂａｒｒｅｌ Ｓｑｕｉｄ ｈａｓ ａ<linealt>
-ｈｏｂｂｙ ｔｈａｔ ｈｅ ｄｏｅｓｎ’ｔ ｗａｎｔ<linealt>
-ａｎｙｏｎｅ ｋｎｏｗｉｎ’ ａｂｏｕｔ．<end>
+Apparently Big Barrel Squid has a<linealt>
+hobby that he doesn't want<linealt>
+anyone knowin' about.<end>
 
 
 //POINTER #215 @ $2D2D54 - STRING #215 @ $2CEF14
 
 #WRITE(GBA,$2D2D54)
-Ｙｏｕ ｓｈｏｕｌｄ ｇｏ ｓｅｅ ’ｉｍ．<linealt>
-Ｍａｙｂｅ ｙｏｕ’ｌｌ ｆｉｎｄ ｏｕｔ ｗｈａｔ ｉｔ ｉｓ．<end>
+You should go see 'im.<linealt>
+Maybe you'll find out what it is.<end>
 
 
 //POINTER #216 @ $2D2D58 - STRING #216 @ $2CEF50
 
 #WRITE(GBA,$2D2D58)
-Ｆｏｒ ｓｏｍｅｏｎｅ ｓｏ ｃｈｉｌｄｉｓｈ，<linealt>
-ｔｈｅ ｋｉｄ ｗａｓ ｐｒｅｔｔｙ ａｒｒｏｇａｎｔ， ｈｕｈ？<end>
+For someone so childish,<linealt>
+the kid was pretty arrogant, huh?<end>
 
 
 //POINTER #217 @ $2D2D5C - STRING #217 @ $2CEF84
 
 #WRITE(GBA,$2D2D5C)
-Ｓｈｅｅｓｈ，<linealt>
-ａｔ ｌｅａｓｔ ｈａｖｅ ｓｏｍｅ<linealt>
-ｂｉｔｅ ｗｉｔｈ ｔｈａｔ ｂａｒｋ！<end>
+Sheesh,<linealt>
+at least have some<linealt>
+bite with that bark!<end>
 
 
 //POINTER #218 @ $2D2D60 - STRING #218 @ $2CEFB4
 
 #WRITE(GBA,$2D2D60)
-Ｔｈｉｓ ｉｓ ｔｈｅ ｃｏｓｔｕｍｅ<linealt>
-Ｐｕｃｈｉ Ｏｇｕｒａ ＃６ ｗｅａｒｓ<linealt>
-ｔｏ ｂｅ ｔｏｕｇｈ．<end>
+This is the costume<linealt>
+Puchi Ogura #6 wears<linealt>
+to be tough.<end>
 
 
 //POINTER #219 @ $2D2D64 - STRING #219 @ $2CEFEC
 
 #WRITE(GBA,$2D2D64)
-Ｌｉｔｔｌｅ ｋｉｄｓ ｓｈｏｕｌｄｎ’ｔ ｂｅ ｐｌａｙｉｎｇ<linealt>
-ａｒｏｕｎｄ ｗｉｔｈ ｔｏｙｓ ｌｉｋｅ ｔｈａｔ．<end>
+Little kids shouldn't be playing<linealt>
+around with toys like that.<end>
 
 
 //POINTER #220 @ $2D2D68 - STRING #220 @ $2CF01C
 
 #WRITE(GBA,$2D2D68)
-Ｔｈｅｓｅ ｃｏｗａｒｄｓ ｈｏｌｅ ｔｈｅｍｓｅｌｖｅｓ<linealt>
-ｕｐ ｉｎ ｔｈｅｉｒ ｓｈｅｌｌｓ ｗｈｅｎ ｙｏｕ ｕｓｅ<linealt>
-ａ Ｓｔａｒ Ｓｐｉｎ．<end>
+These cowards hole themselves<linealt>
+up in their shells when you use<linealt>
+a Star Spin.<end>
 
 
 //POINTER #221 @ $2D2D6C - STRING #221 @ $2CF050
 
 #WRITE(GBA,$2D2D6C)
-Ｆｌａｓｈｙ ｇｕｙｓ ｌｉｋｅ ｔｈｅｍ<linealt>
-ｇｅｔ ｏｎ ｍｙ ｎｅｒｖｅｓ．<linealt>
-Ｊｕｓｔ ｌｏｏｋ ａｔ ｔｈａｔ ｓｈｉｎｙ ｒｅｄ ｓｈｅｌｌ！<end>
+Flashy guys like them<linealt>
+get on my nerves.<linealt>
+Just look at that shiny red shell!<end>
 
 
 //POINTER #222 @ $2D2D70 - STRING #222 @ $2CF080
 
 #WRITE(GBA,$2D2D70)
-Ｗａｈ！！！<linealt>
-Ｗｈａｔ’ｓ ｗｉｔｈ ｔｈｉｓ ｇｕｙ！？<linealt>
-Ｒｅａｌ ｓｃａｒｙ ｍｕｇ ｈｅ’ｓ ｇｏｔ．．．<end>
+Wah!!!<linealt>
+What's with this guy!?<linealt>
+Real scary mug he's got...<end>
 
 
 //POINTER #223 @ $2D2D74 - STRING #223 @ $2CF0AC
 
 #WRITE(GBA,$2D2D74)
-Ｉｔ’ｓ ｆａｃｅ ｉｓ ｓｃａｒｙ ｏｎ ｉｔ’ｓ ｏｗｎ，<linealt>
-ｌｅｔ ａｌｏｎｅ ｗｉｔｈ ｉｔ ｓｍｉｌｉｎ’ ｌｉｋｅ ｔｈａｔ．．．<end>
+It's face is scary on it's own,<linealt>
+let alone with it smilin' like that...<end>
 
 
 //POINTER #224 @ $2D2D78 - STRING #224 @ $2CF0E4
 
 #WRITE(GBA,$2D2D78)
-Ｔｈｉｓ ｇｕｙ ｃａｎ ｓｈｏｏｔ ｓｐｉｋｅｓ ｆｒｏｍ<linealt>
-ｉｔ’ｓ ｅｎｔｉｒｅ ｂｏｄｙ， ｓｏ ｈｅ’ｓ ｐｒｅｔｔｙ<linealt>
-ｂａｄ ｎｅｗｓ．<end>
+This guy can shoot spikes from<linealt>
+it's entire body, so he's pretty<linealt>
+bad news.<end>
 
 
 //POINTER #225 @ $2D2D7C - STRING #225 @ $2CF120
 
 #WRITE(GBA,$2D2D7C)
-Ｓｈｅｅｓｈ．．．<linealt>
-Ｃａｎ’ｔ ｙｏｕ ｊｕｓｔ ｇｏ ｂａｃｋ ｔｏ ｓｌｅｅｐ<linealt>
-ａｎｄ ｌｅａｖｅ ｕｓ ａｌｏｎｅ？<end>
+Sheesh...<linealt>
+Can't you just go back to sleep<linealt>
+and leave us alone?<end>
 
 
 //POINTER #226 @ $2D2D80 - STRING #226 @ $2CF14C
 
 #WRITE(GBA,$2D2D80)
-Ｙｏｕ ｓｅｅ ｏｎｅ ｏｆ ｔｈｅｓｅ ｇｕｙｓ<linealt>
-ａｎｄ ｙｏｕ ｓｅｅ ３０ ｏｆ ’ｅｍ．<end>
+You see one of these guys<linealt>
+and you see 30 of 'em.<end>
 
 
 //POINTER #227 @ $2D2D84 - STRING #227 @ $2CF17C
 
 #WRITE(GBA,$2D2D84)
-Ｉ ｄｏｎ’ｔ ｈａｖｅ ａｎｙｔｈｉｎｇ ａｇａｉｎｓｔ ’ｅｍ，<linealt>
-ｂｕｔ Ｉ’ｄ ｒａｔｈｅｒ ｔｈｅｙ ｎｏｔ ｓｈｏｗ ｕｐ<linealt>
-ａｔ ａｌｌ．．．<end>
+I don't have anything against 'em,<linealt>
+but I'd rather they not show up<linealt>
+at all...<end>
 
 
 //POINTER #228 @ $2D2D88 - STRING #228 @ $2CF1C0
 
 #WRITE(GBA,$2D2D88)
-Ｔｈｉｓ ｇｕｙ’ｌｌ ｔｒｙ ｔｏ ｒｏｕｇｈ ｙｏｕ ｕｐ<linealt>
-ｂｙ ｋｉｃｋｉｎ’ ｓｐｉｋｅ ｂａｌｌｓ ａｔ ｙａ．<end>
+This guy'll try to rough you up<linealt>
+by kickin' spike balls at ya.<end>
 
 
 //POINTER #229 @ $2D2D8C - STRING #229 @ $2CF1F0
 
 #WRITE(GBA,$2D2D8C)
-Ｉｆ ｙｏｕ ｃａｎ ｋｉｃｋ ｔｈａｔ ｈａｒｄ，<linealt>
-ｗｈｙ ｎｏｔ ｊｕｓｔ ｋｉｃｋ ｐｅｏｐｌｅ<linealt>
-ｔｏ ｂｅｇｉｎ ｗｉｔｈ？<end>
+If you can kick that hard,<linealt>
+why not just kick people<linealt>
+to begin with?<end>
 
 
 //POINTER #230 @ $2D2D90 - STRING #230 @ $2CF234
 
 #WRITE(GBA,$2D2D90)
-Ｄｏｎ’ｔ ｂｅ ｆｏｏｌｅｄ ｂｙ ｔｈｅｓｅ ｇｕｙｓ’<linealt>
-ｃｕｔｅ ａｐｐｅａｒａｎｃｅ！<end>
+Don't be fooled by these guys'<linealt>
+cute appearance!<end>
 
 
 //POINTER #231 @ $2D2D94 - STRING #231 @ $2CF260
 
 #WRITE(GBA,$2D2D94)
-Ｉ ｇｏｔ ａ ｒｅａｌ ｒｕｄｅ ａｗａｋｅｎｉｎｇ<linealt>
-ｔｈａｎｋｓ ｔｏ ｏｎｅ ｏｆ ｔｈｅｓｅ．．．<end>
+I got a real rude awakening<linealt>
+thanks to one of these...<end>
 
 
 //POINTER #232 @ $2D2D98 - STRING #232 @ $2CF294
 
 #WRITE(GBA,$2D2D98)
-Ｉｆ ｙｏｕ ｔｒｙ ｔｏ ｇｏ ｏｖｅｒ ｔｈｅｓｅ ｇｕｙｓ，<linealt>
-ｔｈｅｙ’ｌｌ ａｔｔａｃｋ ｂｙ ｓｔｒｅｅｅｅｔｃｈｉｎ’<linealt>
-ｕｐ ｔｏ ｙａ！<end>
+If you try to go over these guys,<linealt>
+they'll attack by streeeetchin'<linealt>
+up to ya!<end>
 
 
 //POINTER #233 @ $2D2D9C - STRING #233 @ $2CF2C8
 
 #WRITE(GBA,$2D2D9C)
-Ａｎｄ ｔｈｅｙ’ｒｅ ａｌｗａｙｓ ｓｍｉｌｉｎ’ ｔｏｏ！<linealt>
-Ｃｒｅｅｐｙ．．．<end>
+And they're always smilin' too!<linealt>
+Creepy...<end>
 
 
 //POINTER #234 @ $2D2DA0 - STRING #234 @ $2CF2FC
 
 #WRITE(GBA,$2D2DA0)
-Ｗｈｙ ｄｏｅｓ ｔｈｉｓ ｇｕｙ ａｌｗａｙｓ ｒｕｎ<linealt>
-ａｗａｙ ｗｈｅｎ ｙｏｕ ｇｅｔ ｃｌｏｓｅ ｔｏ ｈｉｍ？<end>
+Why does this guy always run<linealt>
+away when you get close to him?<end>
 
 
 //POINTER #235 @ $2D2DA4 - STRING #235 @ $2CF330
 
 #WRITE(GBA,$2D2DA4)
-Ｉｔ’ｓ ｎｏｔ ｌｉｋｅ ｗｅ’ｒｅ ｐｌａｙｉｎ’<linealt>
-ｔａｇ ｏｒ ａｎｙｔｈｉｎｇ．<end>
+It's not like we're playin'<linealt>
+tag or anything.<end>
 
 
 //POINTER #236 @ $2D2DA8 - STRING #236 @ $2CF358
 
 #WRITE(GBA,$2D2DA8)
-Ｔｈｉｓ ｐｏｏｃｈ ｃａｎ ｆｌｙ ｉｎ ｔｈｅ ｓｋｙ<linealt>
-ｔｈａｎｋｓ ｔｏ ｔｈｏｓｅ ｇｉａｎｔ ｅａｒｓ ｉｔ ｈａｓ．<end>
+This pooch can fly in the sky<linealt>
+thanks to those giant ears it has.<end>
 
 
 //POINTER #237 @ $2D2DAC - STRING #237 @ $2CF388
 
 #WRITE(GBA,$2D2DAC)
-Ｔｃｈ！<linealt>
-Ｉ ｈａｄ ｅｎｏｕｇｈ ｏｆ ｔｈｉｎｇｓ ｆｌｙｉｎ’ ｗｉｔｈ<linealt>
-ｔｈｅｉｒ ｅａｒｓ ｗｈｅｎ ｅｌｅｐｈａｎｔｓ ｄｉｄ ｉｔ！<end>
+Tch!<linealt>
+I had enough of things flyin' with<linealt>
+their ears when elephants did it!<end>
 
 
 //POINTER #238 @ $2D2DB0 - STRING #238 @ $2CF3C0
 
 #WRITE(GBA,$2D2DB0)
-Ｗｏｕｌｄｎ’ｔ ｔｈｅｓｅ ｇｕｙｓ ｆａｌｌ ｗａｌｋｉｎ’ ａｌｌ<linealt>
-ａｒｏｕｎｄ ｗａｔｅｒ ｌｉｋｅ ｔｈａｔ？<end>
+Wouldn't these guys fall walkin' all<linealt>
+around water like that?<end>
 
 
 //POINTER #239 @ $2D2DB4 - STRING #239 @ $2CF3F8
 
 #WRITE(GBA,$2D2DB4)
-Ｗｅｌｌ， ｒｕｍｏｒ ｈａｓ ｉｔ ｔｈａｔ ｔｈｅｙ ｈａｖｅ<linealt>
-ｓｕｐｅｒ ｓｔｉｃｋｙ ｓｕｃｔｉｏｎ ｃｕｐｓ ｕｎｄｅｒ<linealt>
-ｔｈｅｉｒ ｆｅｅｔ．．． Ｗｈｏａ．．．<end>
+Well, rumor has it that they have<linealt>
+super sticky suction cups under<linealt>
+their feet... Whoa...<end>
 
 
 //POINTER #240 @ $2D2DB8 - STRING #240 @ $2CF444
 
 #WRITE(GBA,$2D2DB8)
-Ｔｈｅｓｅ ｉｒｒｉｔａｔｉｎｇ ｇｕｙｓ ｗｏｎ’ｔ ｓｔａｙ<linealt>
-ｄｏｗｎ ｎｏ ｍａｔｔｅｒ ｈｏｗ ｍａｎｙ ｔｉｍｅｓ<linealt>
-ｙｏｕ ｂｅａｔ ’ｅｍ．<end>
+These irritating guys won't stay<linealt>
+down no matter how many times<linealt>
+you beat 'em.<end>
 
 
 //POINTER #241 @ $2D2DBC - STRING #241 @ $2CF484
 
 #WRITE(GBA,$2D2DBC)
-Ｂｕｔ Ｉ ｇｏｔｔａ ｓａｙ，<linealt>
-Ｉ ｔｈｉｎｋ ｉｔ’ｓ ａｍａｚｉｎｇ ｔｈａｔ ｔｈｅｙ ｇｅｔ<linealt>
-ｔｈｅｉｒ ｓｕｎｇｌａｓｓｅｓ ｂａｃｋ ｅｖｅｒｙ ｔｉｍｅ！<end>
+But I gotta say,<linealt>
+I think it's amazing that they get<linealt>
+their sunglasses back every time!<end>
 
 
 //POINTER #242 @ $2D2DC0 - STRING #242 @ $2CF4CC
 
 #WRITE(GBA,$2D2DC0)
-Ｔｈｉｓ ｇｕｙ－ ｅｒ．．． ｍａｃｈｉｎｅ ｃｏｎｓｔａｎｔｌｙ<linealt>
-ｂｌｏｃｋｓ ｏｕｒ ｐａｔｈ ｂｙ ｓｈｏｏｔｉｎ’ ｔｈａｔ<linealt>
-ｂｅａｍ ｆｒｏｍ ｉｔ’ｓ ｅｙｅ．<end>
+This guy- er... machine constantly<linealt>
+blocks our path by shootin' that<linealt>
+beam from it's eye.<end>
 
 
 //POINTER #243 @ $2D2DC4 - STRING #243 @ $2CF51C
 
 #WRITE(GBA,$2D2DC4)
-Ｈｅｈ， ｉｆ ｉｔ ｗｅｒｅｎ’ｔ ｆｏｒ ｍｙ ｇｅｎｉｕｓ<linealt>
-ｉｄｅａ， ｙｏｕ ｗｏｕｌｄｎ’ｔ ｈａｖｅ ｂｅｅｎ<linealt>
-ａｂｌｅ ｔｏ ｓｔｏｐ ｉｔ’ｓ ｂｅａｍ．<end>
+Heh, if it weren't for my genius<linealt>
+idea, you wouldn't have been<linealt>
+able to stop it's beam.<end>
 
 
 //POINTER #244 @ $2D2DC8 - STRING #244 @ $2CF56C
 
 #WRITE(GBA,$2D2DC8)
-Ｉｆ Ｓｔａｒｆ’ ｈａｄｎ’ｔ ｇｏｔｔｅｎ ｉｎ ｍｙ ｗａｙ，<linealt>
-Ｉ ｗｏｕｌｄａ ｂｅａｔ ｔｈｅｓｅ ｇｕｙｓ<linealt>
-ｓｅｎｓｅｌｅｓｓ！<end>
+If Starf' hadn't gotten in my way,<linealt>
+I woulda beat these guys<linealt>
+senseless!<end>
 
 
 //POINTER #245 @ $2D2DCC - STRING #245 @ $2CF5B8
 
 #WRITE(GBA,$2D2DCC)
-Ｉ ｃｏｕｌｄａ ｓｈｏｗｅｄ ｔｈｅｍ<linealt>
-ｗｈａｔ Ｉ ｗａｓ ｍａｄｅ ｏｆ．．．<end>
+I coulda showed them<linealt>
+what I was made of...<end>
 
 
 //POINTER #246 @ $2D2DD0 - STRING #246 @ $2CF5EC
 
 #WRITE(GBA,$2D2DD0)
-Ｔｈｉｓ ｇｕｙ ｔａｌｋｓ ｌｉｋｅ ａ ｔｏｕｒ ｇｕｉｄｅ<linealt>
-ｅｖｅｎ ｉｎ ａ ｎｏｒｍａｌ ｃｏｎｖｅｒｓａｔｉｏｎ．<end>
+This guy talks like a tour guide<linealt>
+even in a normal conversation.<end>
 
 
 //POINTER #247 @ $2D2DD4 - STRING #247 @ $2CF630
 
 #WRITE(GBA,$2D2DD4)
-Ｔｈａｔ ａｉｎ’ｔ ｐｏｌｉｔｅ ｙ’ｋｎｏｗ！<linealt>
-Ａｎｄ ｄｏｎ’ｔ ｐｏｉｎｔ ｔｈａｔ ｆｌａｇ<linealt>
-ａｔ ｐｅｏｐｌｅ！<end>
+That ain't polite y'know!<linealt>
+And don't point that flag<linealt>
+at people!<end>
 
 
 //POINTER #248 @ $2D2DD8 - STRING #248 @ $2CF678
 
 #WRITE(GBA,$2D2DD8)
-Ｅｖｅｒｙ ｔｉｍｅ ｗｅ ｓｅｅ ｔｈｅｓｅ ｔｗｏ，<linealt>
-ｔｈｅｙ’ｒｅ ａｌｗａｙｓ ｉｎ ｔｒｏｕｂｌｅ ｏｒ<linealt>
-ｃｒｙｉｎ’ ａｂｏｕｔ ｓｏｍｅｔｈｉｎ’！<end>
+Every time we see these two,<linealt>
+they're always in trouble or<linealt>
+cryin' about somethin'!<end>
 
 
 //POINTER #249 @ $2D2DDC - STRING #249 @ $2CF6C4
 
 #WRITE(GBA,$2D2DDC)
-Ａｎｄ ｔｈｅｙ ｗｏｎ’ｔ ｓｈｕｔ ｕｐ ｗｉｔｈ ｔｈｅ<linealt>
-”ｓｎｉｐ－ｓｎｉｐ” ｓｔｕｆｆ！ Ｉｔ’ｓ ａｌｌ Ｉ ｃａｎ<linealt>
-ｈｅａｒ ｉｎ ｍｙ ｈｅａｄ！<end>
+And they won't shut up with the<linealt>
+"snip-snip" stuff! It's all I can<linealt>
+hear in my head!<end>
 
 
 //POINTER #250 @ $2D2DE0 - STRING #250 @ $2CF70C
 
 #WRITE(GBA,$2D2DE0)
-Ｔｈｉｓ ｇｕｙ ｎｏｔ ｏｎｌｙ ｄｒｅｓｓｅｓ ｗｅｉｒｄ，<linealt>
-ｂｕｔ ｔａｌｋｓ ｗｅｉｒｄ ｔｏｏ！<end>
+This guy not only dresses weird,<linealt>
+but talks weird too!<end>
 
 
 //POINTER #251 @ $2D2DE4 - STRING #251 @ $2CF750
 
 #WRITE(GBA,$2D2DE4)
-Ｈｅ’ｓ ａｌｓｏ ｒｅａｌ ｔｉｍｉｄ，<linealt>
-ｎｏｔｈｉｎ’ ａｔ ａｌｌ ｌｉｋｅ ｈｉｓ ｄａｕｇｈｔｅｒ！<end>
+He's also real timid,<linealt>
+nothin' at all like his daughter!<end>
 
 
 //POINTER #252 @ $2D2DE8 - STRING #252 @ $2CF784
 
 #WRITE(GBA,$2D2DE8)
-Ｔｈｉｓ ｃｈｅｅｋｙ ｋｉｄ ｄｅｃｉｄｅｄ ｔｏ<linealt>
-ｔａｋｅ ａ ｎａｐ ｗｈｉｌｅ ｔｒａｐｐｅｄ<linealt>
-ｕｎｄｅｒ ａ ｂｏｕｌｄｅｒ．<end>
+This cheeky kid decided to<linealt>
+take a nap while trapped<linealt>
+under a boulder.<end>
 
 
 //POINTER #253 @ $2D2DEC - STRING #253 @ $2CF7D4
 
 #WRITE(GBA,$2D2DEC)
-Ｉ ｈｅａｒｄ ｓｈｅ’ｓ Ｆａｔ Ｃａｔ’ｓ ｄａｕｇｈｔｅｒ，<linealt>
-ｂｕｔ Ｉ ｔｈｉｎｋ ｈｅ’ｓ ｇｏｔ ｈｉｓ ｈａｎｄｓ ｆｕｌｌ<linealt>
-ｗｉｔｈ ａ ｔｏｍｂｏｙｉｓｈ ｇｉｒｌ ｌｉｋｅ ｈｅｒ！<end>
+I heard she's Fat Cat's daughter,<linealt>
+but I think he's got his hands full<linealt>
+with a tomboyish girl like her!<end>
 
 
 //POINTER #254 @ $2D2DF0 - STRING #254 @ $2CF818
 
 #WRITE(GBA,$2D2DF0)
-Ｔｈｉｓ ｌａｄｙ ｗａｎｄｅｒｓ ｔｈｅ ｓｅａ ｉｎ<linealt>
-ｓｅａｒｃｈ ｏｆ ａ ｈｏｔ ｓｃｏｏｐ．<linealt>
-Ｓｈｅ’ｓ ｌｉｋｅ ａ ｃａｍｅｒａｍａｎ！<end>
+This lady wanders the sea in<linealt>
+search of a hot scoop.<linealt>
+She's like a cameraman!<end>
 
 
 //POINTER #255 @ $2D2DF4 - STRING #255 @ $2CF858
 
 #WRITE(GBA,$2D2DF4)
-Ｉｆ ｙｏｕ ｔｏｏｋ ａ ｂｕｎｃｈ ｏｆ ｐｉｃｓ ｏｆ<linealt>
-ｙｏｕｒｓ ｔｒｕｌｙ ａｎｄ ｓｏｌｄ ’ｅｍ， ｙｏｕ’ｄ<linealt>
-ｄｅｆｉｎｉｔｅｌｙ ｓｅｌｌ ｏｕｔ！<end>
+If you took a bunch of pics of<linealt>
+yours truly and sold 'em, you'd<linealt>
+definitely sell out!<end>
 
 
 //POINTER #256 @ $2D2DF8 - STRING #256 @ $2CF89C
 
 #WRITE(GBA,$2D2DF8)
-Ｔｈｉｓ ｇｕｙ’ｓ ａ ｇｒｅａｔ ｔｅａｃｈｅｒ ｗｈｏ<linealt>
-ａｌｗａｙｓ ｔｈｉｎｋｓ ｏｆ ｈｉｓ ｋｉｄｓ ｆｉｒｓｔ．<end>
+This guy's a great teacher who<linealt>
+always thinks of his kids first.<end>
 
 
 //POINTER #257 @ $2D2DFC - STRING #257 @ $2CF8E0
 
 #WRITE(GBA,$2D2DFC)
-Ｈｅ ｔｈｉｎｋｓ ｔｈｅ ｅｘａｃｔ ｓａｍｅ ｗａｙ<linealt>
-ｔｈａｔ Ｉ ｄｏ！<end>
+He thinks the exact same way<linealt>
+that I do!<end>
 
 
 //POINTER #258 @ $2D2E00 - STRING #258 @ $2CF92C
 
 #WRITE(GBA,$2D2E00)
-Ｔｈｅｓｅ’ｒｅ ｔｈｅ ｓｔｕｄｅｎｔｓ ｔｈａｔ<linealt>
-Ｐｒｏｆｅｓｓｏａｒ ｔｅａｃｈｅｓ！<end>
+These're the students that<linealt>
+Professoar teaches!<end>
 
 
 //POINTER #259 @ $2D2E04 - STRING #259 @ $2CF958
 
 #WRITE(GBA,$2D2E04)
-Ｉ’ｍ ｓｕｒｅ ｔｈｅｙ’ｒｅ ｓｐｅａｋｉｎｇ ｈｉｇｈｌｙ<linealt>
-ｏｆ ｍｙ ｅｘｐｌｏｉｔｓ ａｔ ｓｃｈｏｏｌ ｒｉｇｈｔ ｎｏｗ．<end>
+I'm sure they're speaking highly<linealt>
+of my exploits at school right now.<end>
 
 
 //POINTER #260 @ $2D2E08 - STRING #260 @ $2CF9A0
 
 #WRITE(GBA,$2D2E08)
-Ｔｈａｔ ｒｅｍｉｎｄｓ ｍｅ．．．<linealt>
-Ｔｈｅ ｆｉｒｓｔ ｔｉｍｅ ｗｅ’ｖｅ ｍｅｔ ｔｈｉｓ ｇｕｙ，<linealt>
-ｈｅ ｄｉｄｎ’ｔ ｌｉｓｔｅｎ ｔｏ ｍｅ ａｔ ａｌｌ．<end>
+That reminds me...<linealt>
+The first time we've met this guy,<linealt>
+he didn't listen to me at all.<end>
 
 
 //POINTER #261 @ $2D2E0C - STRING #261 @ $2CF9F0
 
 #WRITE(GBA,$2D2E0C)
-Ａｎｄ ｔｈｅｎ ｈｅ ｈａｄ ｔｈｅ ｎｅｒｖｅ ｔｏ<linealt>
-ａｔｔａｃｋ ｍｅ！ Ｈｅ ｄｉｄｎ’ｔ ｌｉｓｔｅｎ ｔｏ ｍｅ<linealt>
-ｔｈｉｓ ｔｉｍｅ ｅｉｔｈｅｒ！<end>
+And then he had the nerve to<linealt>
+attack me! He didn't listen to me<linealt>
+this time either!<end>
 
 
 //POINTER #262 @ $2D2E10 - STRING #262 @ $2CFA38
 
 #WRITE(GBA,$2D2E10)
-Ｔｈｉｓ ｓｕｐｅｒ ｄａｎｇｅｒｏｕｓ ｋｉｄ ｌｏｖｅｓ<linealt>
-ｐｌａｙｉｎ’ ａｒｏｕｎｄ ｗｉｔｈ ｂｏｍｂｓ！<linealt>
-Ｍｏｒｓｈｕ ｗｏｕｌｄ ｌｏｖｅ’ｉｍ！<end>
+This super dangerous kid loves<linealt>
+playin' around with bombs!<linealt>
+Morshu would love'im!<end>
 
 
 //POINTER #263 @ $2D2E14 - STRING #263 @ $2CFA6C
 
 #WRITE(GBA,$2D2E14)
-Ｈｅ ｗａｓ ｔｒｙｉｎ’ ｈｉｓ ａｂｓｏｌｕｔｅ ｈａｒｄｅｓｔ<linealt>
-ｎｏｔ ｔｏ ｂｅ ｉｇｎｏｒｅｄ！<end>
+He was tryin' his absolute hardest<linealt>
+not to be ignored!<end>
 
 
 //POINTER #264 @ $2D2E18 - STRING #264 @ $2CFA94
 
 #WRITE(GBA,$2D2E18)
-Ｔｈｉｓ ｉｓ ｔｈｅ ｖｅｈｉｃｌｅ ｔｈａｔ<linealt>
-Ｐｕｃｈｉ Ｏｇｕｒａ ＃７ ｐｒｅｐａｒｅｄ<linealt>
-ｔｏ ｆｉｇｈｔ Ｓｔａｒｆｙ！<end>
+This is the vehicle that<linealt>
+Puchi Ogura #7 prepared<linealt>
+to fight Starfy!<end>
 
 
 //POINTER #265 @ $2D2E1C - STRING #265 @ $2CFAC4
 
 #WRITE(GBA,$2D2E1C)
-Ｂｕｔ Ｉ ｇｏｔｔａ ａｓｋ，<linealt>
-ｗｈｏ ｔｈｅ ｈｅｃｋ ｍａｄｅ ｔｈｉｓ ｔｈｉｎｇ？．．．<end>
+But I gotta ask,<linealt>
+who the heck made this thing?...<end>
 
 
 //POINTER #266 @ $2D2E20 - STRING #266 @ $2CFAFC
 
 #WRITE(GBA,$2D2E20)
-Ｗｉｔｈ ｔｈｉｓ ｇｕｙ ｓｈｉｎｉｎ’ ｕｎｄｅｒｗａｔｅｒ，<linealt>
-ｙｏｕ ｃａｎ ｔｅｌｌ ｔｈｅｙ ｗａｎｔ ａｔｔｅｎｔｉｏｎ！<end>
+With this guy shinin' underwater,<linealt>
+you can tell they want attention!<end>
 
 
 //POINTER #267 @ $2D2E24 - STRING #267 @ $2CFB24
 
 #WRITE(GBA,$2D2E24)
-．．．Ｗｏｕｌｄ Ｉ ｂｅ ｐｏｐｕｌａｒ<linealt>
-ｉｆ Ｉ ｄｉｄ ｔｈａｔ ｔｏｏ？．．．<end>
+...Would I be popular<linealt>
+if I did that too?...<end>
 
 
 //POINTER #268 @ $2D2E28 - STRING #268 @ $2CFB58
 
 #WRITE(GBA,$2D2E28)
-Ｉｆ ｙｏｕ ｔｏｕｃｈ ｔｈｉｓ ｂｕｎｄｌｅ ｏｆ<linealt>
-ｆｌａｍｅｓ， ｙｏｕ’ｒｅ ｇｏｎｎａ ｇｅｔ ｂｕｒｎｅｄ．<end>
+If you touch this bundle of<linealt>
+flames, you're gonna get burned.<end>
 
 
 //POINTER #269 @ $2D2E2C - STRING #269 @ $2CFB90
 
 #WRITE(GBA,$2D2E2C)
-Ｉｔ’ｄ ｔｕｒｎ ｍｅ ｉｎｔｏ ｇｒｉｌｌｅｄ ｃｌａｍ．．．<end>
+It'd turn me into grilled clam...<end>
 
 
 //POINTER #270 @ $2D2E30 - STRING #270 @ $2CFBC8
 
 #WRITE(GBA,$2D2E30)
-Ｔｈｅｓｅ ｇｕｙｓ ｐｅｅｌ ｂａｃｋ ｔｈｅｉｒ<linealt>
-ｅｙｅｌｉｄｓ ｔｏ ｂｌｏｃｋ ｔｈｅ ｗａｙ ｗｉｔｈ<linealt>
-ｔｈｅｉｒ ｈｕｇｅ ｅｙｅｓ．<end>
+These guys peel back their<linealt>
+eyelids to block the way with<linealt>
+their huge eyes.<end>
 
 
 //POINTER #271 @ $2D2E34 - STRING #271 @ $2CFC00
 
 #WRITE(GBA,$2D2E34)
-Ｉ ｗｏｎｄｅｒ ｈｏｗ ｍｕｃｈ ｅｙｅ ｄｒｏｐｓ<linealt>
-ｗｏｕｌｄ ｔｈｅｓｅ ｇｕｙｓ ｎｅｅｄ？．．．<end>
+I wonder how much eye drops<linealt>
+would these guys need?...<end>
 
 
 //POINTER #272 @ $2D2E38 - STRING #272 @ $2CFC40
 
 #WRITE(GBA,$2D2E38)
-Ｆｏｒ ａ ｂｕｇ，
-ｉｔ’ｓ ａｃｔｉｎ’ ｒｅａｌ ｃｈｅｅｋｙ ｆｌｙｉｎ’<linealt>
-ｔｈｒｏｕｇｈ ｔｈｅ ｓｋｙ ｌｉｋｅ ｔｈａｔ．<end>
+For a bug,
+it's actin' real cheeky flyin'<linealt>
+through the sky like that.<end>
 
 
 //POINTER #273 @ $2D2E3C - STRING #273 @ $2CFC70
 
 #WRITE(GBA,$2D2E3C)
-Ｉｔ ｃａｎ ｓｈｏｃｋ ｙｏｕ ａ ｌｉｔｔｌｅ ｗｈｅｎ ｉｔ<linealt>
-ｃｈａｒｇｅｓ ｙａ ｏｕｔｔａ ｎｏｗｈｅｒｅ．<end>
+It can shock you a little when it<linealt>
+charges ya outta nowhere.<end>
 
 
 //POINTER #274 @ $2D2E40 - STRING #274 @ $2CFCA4
 
 #WRITE(GBA,$2D2E40)
-Ｔｈｉｓ ｇｕｙ ｆｌｉｅｓ ａｃｒｏｓｓ ｔｈｅ ｓｋｉｅｓ<linealt>
-ａｔ ｂｌａｚｉｎｇ ｓｐｅｅｄｓ！<end>
+This guy flies across the skies<linealt>
+at blazing speeds!<end>
 
 
 //POINTER #275 @ $2D2E44 - STRING #275 @ $2CFCD0
 
 #WRITE(GBA,$2D2E44)
-Ｄｏｅｓ ｉｔ ｔｈｉｎｋ ｔｈａｔ ｃａｐｅ<linealt>
-ｌｏｏｋｓ ｃｏｏｌ？ Ｉ ｄｏｎ’ｔ．<linealt>
-Ｌｏｏｋｓ ｌｉｋｅ ｗｒａｐｐｉｎｇ ｐａｐｅｒ．<end>
+Does it think that cape<linealt>
+looks cool? I don't.<linealt>
+Looks like wrapping paper.<end>
 
 
 //POINTER #276 @ $2D2E48 - STRING #276 @ $2CFD18
 
 #WRITE(GBA,$2D2E48)
-Ｔｈｉｓ ｔｈｉｎｇ ｇｅｔｓ ｉｎ ｙｏｕｒ ｗａｙ ｗｈｉｌｅ<linealt>
-ｗａｌｋｉｎ’ ｏｕｔｓｉｄｅ ｏｆ ｗａｔｅｒ．<end>
+This thing gets in your way while<linealt>
+walkin' outside of water.<end>
 
 
 //POINTER #277 @ $2D2E4C - STRING #277 @ $2CFD4C
 
 #WRITE(GBA,$2D2E4C)
-Ｄｏｎ’ｔ ｔｈｉｎｋ ｔｈａｔ ｙｏｕ’ｒｅ ｏｆｆ ｔｈｅ<linealt>
-ｈｏｏｋ ｊｕｓｔ ｃａｕｓｅ ｙｏｕ’ｒｅ ｃｕｔｅ！！！<end>
+Don't think that you're off the<linealt>
+hook just cause you're cute!!!<end>
 
 
 //POINTER #278 @ $2D2E50 - STRING #278 @ $2CFD7C
 
 #WRITE(GBA,$2D2E50)
-Ｔｈｒｅｅ ｏｆ ｔｈｅｓｅ ｓｋｅｌｅｔｏｎ ｇｕｙｓ’ｌｌ<linealt>
-ｓｈｏｗ ｕｐ ａｎｄ ａｔｔａｃｋ ｙｏｕ ａｔ ｔｈｅ<linealt>
-ｓａｍｅ ｔｉｍｅ．<end>
+Three of these skeleton guys'll<linealt>
+show up and attack you at the<linealt>
+same time.<end>
 
 
 //POINTER #279 @ $2D2E54 - STRING #279 @ $2CFDB0
 
 #WRITE(GBA,$2D2E54)
-Ｎｏ ｍａｔｔｅｒ ｈｏｗ ｍａｎｙ ｏｆ ’ｅｍ<linealt>
-ｓｈｏｗ ｕｐ， ｔｈｅｙ’ｌｌ ｎｅｖｅｒ ｂｅａｔ<linealt>
-ｔｈｅ Ｇｒｅａｔ ａｎｄ Ｐｏｗｅｒｆｕｌ Ｍｏｅ！<end>
+No matter how many of 'em<linealt>
+show up, they'll never beat<linealt>
+the Great and Powerful Moe!<end>
 
 
 //POINTER #280 @ $2D2E58 - STRING #280 @ $2CFDF0
 
 #WRITE(GBA,$2D2E58)
-Ｎｏ ｍａｔｔｅｒ ｈｏｗ ｍａｎｙ ｔｉｍｅｓ ｙａ ｂｅａｔ<linealt>
-ｔｈｅｓｅ ｔｈｉｎｇｓ ｄｏｗｎ， ｔｈｅｙ ｇｅｔ ｂａｃｋ<linealt>
-ｕｐ ｅｖｅｒｙ ｔｉｍｅ！<end>
+No matter how many times ya beat<linealt>
+these things down, they get back<linealt>
+up every time!<end>
 
 
 //POINTER #281 @ $2D2E5C - STRING #281 @ $2CFE2C
 
 #WRITE(GBA,$2D2E5C)
-Ｗｉｔｈ ａ ｆａｃｅ ｌｉｋｅ ｔｈａｔ，<linealt>
-ｔｈｅｙ’ｄ ｂｅ ｒｉｇｈｔ ａｔ ｈｏｍｅ<linealt>
-ｉｎ ａ ｈａｕｎｔｅｄ ｈｏｕｓｅ．<end>
+With a face like that,<linealt>
+they'd be right at home<linealt>
+in a haunted house.<end>
 
 
 //POINTER #282 @ $2D2E60 - STRING #282 @ $2CFE58
 
 #WRITE(GBA,$2D2E60)
-Ｙｏｕ ｃａｎ ｋｅｅｐ ｔａｋｉｎ’ ｔｈｅｓｅ<linealt>
-ａｎｎｏｙｉｎｇ ｇｕｙｓ ｄｏｗｎ， ｂｕｔ ｔｈｅｙ’ｌｌ<linealt>
-ｇｅｔ ｂａｃｋ ｕｐ ｌｉｋｅ ｎｏｔｈｉｎ ｈａｐｐｅｎｅｄ！<end>
+You can keep takin' these<linealt>
+annoying guys down, but they'll<linealt>
+get back up like nothin happened!<end>
 
 
 //POINTER #283 @ $2D2E64 - STRING #283 @ $2CFE94
 
 #WRITE(GBA,$2D2E64)
-Ｗｅｌｌ， Ｉ’ｌｌ ｇｉｖｅ ’ｅｍ ｃｒｅｄｉｔ，<linealt>
-Ｔｈｅｙ’ｒｅ ｐｒｅｔｔｙ ｔｏｕｇｈ．<end>
+Well, I'll give 'em credit,<linealt>
+They're pretty tough.<end>
 
 
 //POINTER #284 @ $2D2E68 - STRING #284 @ $2CFEC8
 
 #WRITE(GBA,$2D2E68)
-ＡＡＡＡＡＡＣＨＯＯ！！！<linealt>
-Ｕｇｈ， Ｉ’ｍ ｓｎｅｅｚｉｎ’ ｎｏｗ ｔｏｏ．．．<end>
+AAAAAACHOO!!!<linealt>
+Ugh, I'm sneezin' now too...<end>
 
 
 //POINTER #285 @ $2D2E6C - STRING #285 @ $2CFF04
 
 #WRITE(GBA,$2D2E6C)
-Ａｒｅ ｓｏｍｅ ｇｉｒｌｓ ｔａｌｋｉｎ’ ａｂｏｕｔ<linealt>
-ｌｉｔｔｌｅ ｏｌ’ ｍｅ？ Ｈｅｈ ｈｅｈ！<end>
+Are some girls talkin' about<linealt>
+little ol' me? Heh heh!<end>
 
 
 //POINTER #286 @ $2D2E70 - STRING #286 @ $2CFF48
 
 #WRITE(GBA,$2D2E70)
-Ｔｈｅｓｅ ｔｈｉｎｇｓ ａｒｅ ｃｒｅａｔｕｒｅｓ ｍａｄｅ<linealt>
-ｂｙ Ｏｇｕｒａ ｔｏ ｂｅ ｌｏｏｋｏｕｔｓ．<end>
+These things are creatures made<linealt>
+by Ogura to be lookouts.<end>
 
 
 //POINTER #287 @ $2D2E74 - STRING #287 @ $2CFF78
 
 #WRITE(GBA,$2D2E74)
-Ａｐｐａｒｅｎｔｌｙ ｔｈｅｙ’ｒｅ ｃｏｎｓｔａｎｔｌｙ<linealt>
-ｒｅｌａｙｉｎ’ ｉｎｆｏ ｔｏ Ｏｇｕｒａ！<end>
+Apparently they're constantly<linealt>
+relayin' info to Ogura!<end>
 
 
 //POINTER #288 @ $2D2E78 - STRING #288 @ $2CFFB0
 
 #WRITE(GBA,$2D2E78)
-Ｙｅｔ ａｇａｉｎ， ｔｈｅｓｅ ｇｕａｒｄｓ ｏｆ<linealt>
-Ｓｔａｒｆｙ’ｓ ａｒｅ ｕｓｅｌｅｓｓ．<end>
+Yet again, these guards of<linealt>
+Starfy's are useless.<end>
 
 
 //POINTER #289 @ $2D2E7C - STRING #289 @ $2CFFDC
 
 #WRITE(GBA,$2D2E7C)
-Ｓｅｒｉｏｕｓｌｙ，<linealt>
-ｗｈｅｎ ａｒｅ ｔｈｅｓｅ ｇｕｙｓ ｇｏｎｎａ ｇｅｔ<linealt>
-ｔｈｅｉｒ ａｃｔ ｔｏｇｅｔｈｅｒ？<end>
+Seriously,<linealt>
+when are these guys gonna get<linealt>
+their act together?<end>
 
 
 //POINTER #290 @ $2D2E80 - STRING #290 @ $2D001C
 
 #WRITE(GBA,$2D2E80)
-Ｔｈｅｓｅ ｈｅｌｐｌｅｓｓ ｋｉｄｓ<linealt>
-ｌｉｖｅ ｉｎ Ｐｕｆｆｔｏｐ．．．<end>
+These helpless kids<linealt>
+live in Pufftop...<end>
 
 
 //POINTER #291 @ $2D2E84 - STRING #291 @ $2D004C
 
 #WRITE(GBA,$2D2E84)
-Ｓｈｅｅｓｈ，<linealt>
-ｈｏｗ ｌｏｎｇ ａｒｅ ｔｈｅｓｅ ｇｕｙｓ ｇｏｎｎａ<linealt>
-ｒｅｌｙ ｏｎ ｏｔｈｅｒ ｐｅｏｐｌｅ？．．．<end>
+Sheesh,<linealt>
+how long are these guys gonna<linealt>
+rely on other people?...<end>
 
 
 //POINTER #292 @ $2D2E88 - STRING #292 @ $2D008C
 
 #WRITE(GBA,$2D2E88)
-Ｔｈｉｓ ｍｙｓｔｅｒｉｏｕｓ ｄｒａｇｏｎ’ｓ ｇｏｔ ｈｕｇｅ<linealt>
-ｅｙｅｂｒｏｗｓ ａｎｄ ｉｓ ｎｅｖｅｒ ｍｏｔｉｖａｔｅｄ<linealt>
-ｔｏ ｄｏ ｔｈｉｎｇｓ．<end>
+This mysterious dragon's got huge<linealt>
+eyebrows and is never motivated<linealt>
+to do things.<end>
 
 
 //POINTER #293 @ $2D2E8C - STRING #293 @ $2D00C0
 
 #WRITE(GBA,$2D2E8C)
-Ｅｖｅｎ ｈｏｗ ｌｏｎｇ ｔｈｅｙ’ｖｅ ｂｅｅｎ ｌｉｖｉｎ’<linealt>
-ｉｎ Ｐｕｆｆｔｏｐ’ｓ ａ ｍｙｓｔｅｒｙ．．．<end>
+Even how long they've been livin'<linealt>
+in Pufftop's a mystery...<end>
 
 
 //POINTER #294 @ $2D2E90 - STRING #294 @ $2D0108
 
 #WRITE(GBA,$2D2E90)
-ＨＥＹ－ＯＨ！<linealt>
-Ｔｈｉｓ ｒｅｌｉａｂｌｅ ｇｅｅｚｅｒ’ｓ ｔｈｅ ｌｅａｄｅｒ<linealt>
-ｏｆ ｔｈｅ Ｓｑｕｉｒｔｓ<end>
+HEY-OH!<linealt>
+This reliable geezer's the leader<linealt>
+of the Squirts<end>
 
 
 //POINTER #295 @ $2D2E94 - STRING #295 @ $2D0148
 
 #WRITE(GBA,$2D2E94)
-Ｉ ｈｅａｒｄ ｈｅ ｇｏｔ ｈｕｒｔ ｆｒｏｍ<linealt>
-ｗｏｒｋｉｎ’ ｔｏｏ ｈａｒｄ．．．<linealt>
-Ｇｅｔ ｗｅｌｌ ｓｏｏｎ， Ｐｏｐｓ！<end>
+I heard he got hurt from<linealt>
+workin' too hard...<linealt>
+Get well soon, Pops!<end>
 
 
 //POINTER #296 @ $2D2E98 - STRING #296 @ $2D0198
 
 #WRITE(GBA,$2D2E98)
-Ｉｆ ｔｈｅｒｅ’ｓ ｏｎｅ ｔｈｉｎｇ ｔｈｉｓ Ｓｑｕｉｒｔ’ｓ<linealt>
-ｋｎｏｗｎ ｆｏｒ， ｉｔ’ｓ ｌｉｇｈｔｎｉｎｇ．<end>
+If there's one thing this Squirt's<linealt>
+known for, it's lightning.<end>
 
 
 //POINTER #297 @ $2D2E9C - STRING #297 @ $2D01CC
 
 #WRITE(GBA,$2D2E9C)
-Ｈｉｓ ｆａｖｏｒｉｔｅ ｔｈｉｎｇ ｓｅｅｍｓ ｔｏ ｂｅ ｈｉｓ<linealt>
-ｐａｉｒ ｏｆ Ｔｈ－Ｕｎｄｅｒｐａｎｔｓ．<end>
+His favorite thing seems to be his<linealt>
+pair of Th-Underpants.<end>
 
 
 //POINTER #298 @ $2D2EA0 - STRING #298 @ $2D01F8
 
 #WRITE(GBA,$2D2EA0)
-Ｔｈｉｓ Ｓｑｕｉｒｔ ｉｓ ｔｈｅ ｇｙｍｎａｓｔ<linealt>
-ｏｆ ｔｈｅ ｇｒｏｕｐ．<end>
+This Squirt is the gymnast<linealt>
+of the group.<end>
 
 
 //POINTER #299 @ $2D2EA4 - STRING #299 @ $2D022C
 
 #WRITE(GBA,$2D2EA4)
-Ｈｉｓ ｆａｖｏｒｉｔｅ ｔｈｉｎｇ ｓｅｅｍｓ ｔｏ ｂｅ<linealt>
-ｈｉｓ Ｌｅｏｔａｒｄ．<end>
+His favorite thing seems to be<linealt>
+his Leotard.<end>
 
 
 //POINTER #300 @ $2D2EA8 - STRING #300 @ $2D0258
 
 #WRITE(GBA,$2D2EA8)
-Ａ ｍｅｍｂｅｒ ｏｆ ｔｈｅ Ｓｑｕｉｒｔｓ ｗｈｏ<linealt>
-ｈａｄ ａ ｃｏｌｄ ｆｏｒ ａ ｗｈｉｌｅ．<end>
+A member of the Squirts who<linealt>
+had a cold for a while.<end>
 
 
 //POINTER #301 @ $2D2EAC - STRING #301 @ $2D028C
 
 #WRITE(GBA,$2D2EAC)
-Ｉ ｗｏｎｄｅｒ ｉｆ ｈｅ ｅｖｅｒ ｇｏｔ ｏｖｅｒ ｉｔ．<end>
+I wonder if he ever got over it.<end>
 
 
 //POINTER #302 @ $2D2EB0 - STRING #302 @ $2D02B8
 
 #WRITE(GBA,$2D2EB0)
-Ｉｆ ｙｏｕ ａｓｋｅｄ ｍｅ ｗｈｏ ｔｈｅ ｗｅｉｒｄｅｓｔ<linealt>
-ｍｅｍｂｅｒ ｏｆ ｔｈｅ Ｓｑｕｉｒｔｓ ｉｓ，<linealt>
-ｉｔ’ｓ ｔｈｉｓ ｇｕｙ．<end>
+If you asked me who the weirdest<linealt>
+member of the Squirts is,<linealt>
+it's this guy.<end>
 
 
 //POINTER #303 @ $2D2EB4 - STRING #303 @ $2D02F0
 
 #WRITE(GBA,$2D2EB4)
-Ａｐｐａｒｅｎｔｌｙ ｈｅ ｗａｓ ａｎ ａｐｐｒｅｎｔｉｃｅ<linealt>
-ｕｎｔｉｌ ｒｅｃｅｎｔｌｙ．<end>
+Apparently he was an apprentice<linealt>
+until recently.<end>
 
 
 //POINTER #304 @ $2D2EB8 - STRING #304 @ $2D0330
 
 #WRITE(GBA,$2D2EB8)
-Ｊｕｓｔ ｌｉｋｅ ｌａｓｔ ｔｉｍｅ，<linealt>
-ｔｈｅｙ’ｒｅ ｏｕｒ ｆｉｒｓｔ ｃｌａｓｓ ｔａｘｉ<linealt>
-ｔｏ Ｐｕｆｆｔｏｐ！<end>
+Just like last time,<linealt>
+they're our first class taxi<linealt>
+to Pufftop!<end>
 
 
 //POINTER #305 @ $2D2EBC - STRING #305 @ $2D0368
 
 #WRITE(GBA,$2D2EBC)
-Ｔｈｅｙ ｓｅｅｍ ｒｅａｌ ｓｐｏｒｔｙ<linealt>
-Ｙｏｕ ｃａｎ ｈｅａｒ ｉｔ<linealt>
-ｉｎ ｔｈｅ ｗａｙ ｔｈｅｙ ｔａｌｋ．<end>
+They seem real sporty<linealt>
+You can hear it<linealt>
+in the way they talk.<end>
 
 
 //POINTER #306 @ $2D2EC0 - STRING #306 @ $2D03B0
 
 #WRITE(GBA,$2D2EC0)
-Ｔｈｉｓ ｓｔｒａｎｇｅ ｂａｄｄｉｅ<linealt>
-ｍａｋｅｓ ｕｓｅ ｏｆ ａ ｃｌｏｎｉｎｇ ｔｅｃｈｎｉｑｕｅ．<end>
+This strange baddie<linealt>
+makes use of a cloning technique.<end>
 
 
 //POINTER #307 @ $2D2EC4 - STRING #307 @ $2D03E0
 
 #WRITE(GBA,$2D2EC4)
-Ｂｕｔ ｙｏｕ ｃａｎ ｓｅｅ ｒｉｇｈｔ ｔｈｒｏｕｇｈ ｉｔ<linealt>
-ｉｆ ｙａ ｌｏｏｋ ａｔ ｔｈｅｉｒ ｓｈａｄｏｗ．<linealt>
-Ｈｅｈ ｈｅｈ！<end>
+But you can see right through it<linealt>
+if ya look at their shadow.<linealt>
+Heh heh!<end>
 
 
 //POINTER #308 @ $2D2EC8 - STRING #308 @ $2D041C
 
 #WRITE(GBA,$2D2EC8)
-Ｐｕｃｈｉ Ｏｇｕｒａ ＃８<linealt>
-ｌｏｖｅｓ ｈｉｔｃｈｉｎ’ ａ ｒｉｄｅ ｏｎ ｔｈｉｓ ｔｈｉｎｇ．<end>
+Puchi Ogura #8<linealt>
+loves hitchin' a ride on this thing.<end>
 
 
 //POINTER #309 @ $2D2ECC - STRING #309 @ $2D044C
 
 #WRITE(GBA,$2D2ECC)
-Ｉｔ ｓｐｉｔｓ ｏｕｔ ａ ｂｕｎｃｈ ｏｆ ｓｔｕｆｆ<linealt>
-ｔｈａｔ ｃａｎ ｂｅ ｈａｒｄ ｔｏ ｄｏｄｇｅ．<end>
+It spits out a bunch of stuff<linealt>
+that can be hard to dodge.<end>
 
 
 //POINTER #310 @ $2D2ED0 - STRING #310 @ $2D0490
 
 #WRITE(GBA,$2D2ED0)
-Ｔｈｅｓｅ ｔｈｉｎｇｓ’ｒｅ ｔｈｅ ＷＯＲＳＴ！！！<linealt>
-Ｔｈｅｙ’ｌｌ ｄｒｏｐ ｓｔｕｆｆ ｏｎ ｙａ ａｓ<linealt>
-ｔｈｅｙ ｆｌｙ ｏｖｅｒｈｅａｄ．<end>
+These things're the WORST!!!<linealt>
+They'll drop stuff on ya as<linealt>
+they fly overhead.<end>
 
 
 //POINTER #311 @ $2D2ED4 - STRING #311 @ $2D04D0
 
 #WRITE(GBA,$2D2ED4)
-Ｉｔ’ｓ ｓｍｅｌｌｙ ａｎｄ ｓｔｉｃｋｙ．．．<linealt>
-Ｍｓ． Ｒｕｂｙ ｗｏｕｌｄ ａｖｏｉｄ<linealt>
-ｍｅ ｌｉｋｅ ｔｈｅ ｐｌａｇｕｅ！<end>
+It's smelly and sticky...<linealt>
+Ms. Ruby would avoid<linealt>
+me like the plague!<end>
 
 
 //POINTER #312 @ $2D2ED8 - STRING #312 @ $2D0520
 
 #WRITE(GBA,$2D2ED8)
-Ｔｈｅｓｅ ｇｕｙｓ’ｌｌ ｔｈｒｏｗ ｂｏｎｅｓ ａｔ ｙａ<linealt>
-ｗｈｉｌｅ ｆｌｙｉｎ’ ｕｐ ａｎｄ ｄｏｗｎ．<end>
+These guys'll throw bones at ya<linealt>
+while flyin' up and down.<end>
 
 
 //POINTER #313 @ $2D2EDC - STRING #313 @ $2D0544
 
 #WRITE(GBA,$2D2EDC)
-Ｌｏｏｋｓ ｌｉｋｅ ｔｈｅｓｅ ｇｕｙｓ ｃａｎ’ｔ ｍａｋｅ<linealt>
-ｉｔ ｂｉｇ ｔｈａｎｋｓ ｔｏ ｔｈｅ Ｓｑｕｉｄ ａｎｄ<linealt>
-Ｏｃｔｏｐｕｌｔｓ．<end>
+Looks like these guys can't make<linealt>
+it big thanks to the Squid and<linealt>
+Octopults.<end>
 
 
 //POINTER #314 @ $2D2EE0 - STRING #314 @ $2D0588
 
 #WRITE(GBA,$2D2EE0)
-Ｔｈｅｓｅ ｇｕｙｓ ｗａｌｋ ａｒｏｕｎｄ ｔｈｅ<linealt>
-ｂｏｔｔｏｍ ｏｆ ｔｈｅ ｓｅａ， ｕｓｉｎ’ ｔｈｅｉｒ<linealt>
-ｌｉｇｈｔｓ ｔｏ ｂｒｉｇｈｔｅｎ ｕｐ ｔｈｅ ｐｌａｃｅ．<end>
+These guys walk around the<linealt>
+bottom of the sea, usin' their<linealt>
+lights to brighten up the place.<end>
 
 
 //POINTER #315 @ $2D2EE4 - STRING #315 @ $2D05CC
 
 #WRITE(GBA,$2D2EE4)
-Ｙｏｕ ｃａｎ’ｔ ｆｉｎｄ ｔｒｅａｓｕｒｅ<linealt>
-ａｌｌ ｔｈｅ ｗａｙ ｄｏｗｎ ｔｈｅｒｅ！<end>
+You can't find treasure<linealt>
+all the way down there!<end>
 
 
 //POINTER #316 @ $2D2EE8 - STRING #316 @ $2D05F8
 
 #WRITE(GBA,$2D2EE8)
-Ｔｈａｔ ｌｉｇｈｔ ｏｎ ｉｔ’ｓ ｈｅａｄ<linealt>
-ｓｕｒｅ ｌｏｏｋｓ ｃｏｎｖｅｎｉｅｎｔ ｆｏｒ<linealt>
-ｓｗｉｍｍｉｎ’ ａｒｏｕｎｄ ａｌｌ ｔｈｅ ｔｉｍｅ．<end>
+That light on it's head<linealt>
+sure looks convenient for<linealt>
+swimmin' around all the time.<end>
 
 
 //POINTER #317 @ $2D2EEC - STRING #317 @ $2D063C
 
 #WRITE(GBA,$2D2EEC)
-Ｂｕｔ ｈａｖｉｎ’ ｔｈａｔ ｓｔｕｃｋ ｏｎ ｙｏｕｒ<linealt>
-ｎｏｇｇｉｎ ａｌｌ ｔｈｅ ｔｉｍｅ ｇｅｔｓ ｉｎ ｔｈｅ ｗａｙ，<linealt>
-ｄｏｎ’ｔ ｉｔ？<end>
+But havin' that stuck on your<linealt>
+noggin all the time gets in the way,<linealt>
+don't it?<end>
 
 
 //POINTER #318 @ $2D2EF0 - STRING #318 @ $2D067C
 
 #WRITE(GBA,$2D2EF0)
-Ｔｈｅｙ’ｌｌ ｅｘｔｅｎｄ ｔｈｅｉｒ ｓｐｉｎｅｓ ｗｈｅｎ<linealt>
-ｙａ ｇｅｔ ｔｏｏ ｃｌｏｓｅ．<linealt>
-Ｔｈｅｎ ｙｏｕ’ｌｌ ｈａｖｅ ｔｏ ｔａｋｅ ａ ｄｅｔｏｕｒ．<end>
+They'll extend their spines when<linealt>
+ya get too close.<linealt>
+Then you'll have to take a detour.<end>
 
 
 //POINTER #319 @ $2D2EF4 - STRING #319 @ $2D06BC
 
 #WRITE(GBA,$2D2EF4)
-Ｉ ｂｅｔ ｙａ ｈａｄ ａ ｔｏｕｇｈ ｔｉｍｅ ｆｉｎｄｉｎ’<linealt>
-ｔｈｅｓｅ ｒａｒｅ ｇｕｙｓ， ｈｕｈ？<end>
+I bet ya had a tough time findin'<linealt>
+these rare guys, huh?<end>
 
 
 //POINTER #320 @ $2D2EF8 - STRING #320 @ $2D06F8
 
 #WRITE(GBA,$2D2EF8)
-Ｔｈａｎｋｓ ｔｏ ｔｈａｔ ｓｋｕｌｌ ｈｅｌｍｅｔ<linealt>
-ｉｔ ｗｅａｒｓ， ｉｔ’ｓ ａ ｐａｉｎ ｔｏ ｔａｋｅ ｔｈｉｓ<linealt>
-ｇｕｙ ｄｏｗｎ．<end>
+Thanks to that skull helmet<linealt>
+it wears, it's a pain to take this<linealt>
+guy down.<end>
 
 
 //POINTER #321 @ $2D2EFC - STRING #321 @ $2D0734
 
 #WRITE(GBA,$2D2EFC)
-Ｂｕｔ ｗｈｏ’ｓ ｓｋｕｌｌ ｉｓ ｔｈａｔ？<linealt>
-Ｍａｙｂｅ ｉｔ’ｓ．．．<linealt>
-＊ｓｈｕｄｄｅｒ＊ ｔｈａｔ’ｓ ｃｒｅｅｐｙ．．．<end>
+But who's skull is that?<linealt>
+Maybe it's...<linealt>
+*shudder* that's creepy...<end>
 
 
 //POINTER #322 @ $2D2F00 - STRING #322 @ $2D0788
 
 #WRITE(GBA,$2D2F00)
-Ｔｈｉｓ ｇｕｙ ｍａｙ ｌｏｏｋ ｓｌｏｗ，<linealt>
-ｂｕｔ ｈｅ’ｌｌ ｓｈｏｗ ｙａ ｊｕｓｔ ｈｏｗ ｆａｓｔ<linealt>
-ｈｅ ｒｅａｌｌｙ ｉｓ ｗｈｅｎ ｙａ ｇｅｔ ｔｏｏ ｃｌｏｓｅ！<end>
+This guy may look slow,<linealt>
+but he'll show ya just how fast<linealt>
+he really is when ya get too close!<end>
 
 
 //POINTER #323 @ $2D2F04 - STRING #323 @ $2D07CC
 
 #WRITE(GBA,$2D2F04)
-Ｔｈｉｓ ｇｕｙ’ｓ ｓｈｅｌｌ ｍａｋｅｓ ｈｉｍ ｌｏｏｋ<linealt>
-ｐｏｏｒ ｃｏｍｐａｒｅｄ ｔｏ ｍｙ ｇｏｒｇｅｏｕｓ<linealt>
-ｙｅｌｌｏｗ ｓｈｅｅｎ！<end>
+This guy's shell makes him look<linealt>
+poor compared to my gorgeous<linealt>
+yellow sheen!<end>
 
 
 //POINTER #324 @ $2D2F08 - STRING #324 @ $2D0810
 
 #WRITE(GBA,$2D2F08)
-Ｗｈｅｎ ｔｈｉｓ ｋｏｏｋｙ ｃｒｏｗ ｈａｓ ｙｏｕ<linealt>
-ｉｎ ｉｔ’ｓ ｓｉｇｈｔｓ， ｉｔ’ｌｌ ｄｉｖｅ ａｔ ｙａ ｌｉｋｅ<linealt>
-ａ ｆｉｇｈｔｅｒ ｐｌａｎｅ！<end>
+When this kooky crow has you<linealt>
+in it's sights, it'll dive at ya like<linealt>
+a fighter plane!<end>
 
 
 //POINTER #325 @ $2D2F0C - STRING #325 @ $2D0848
 
 #WRITE(GBA,$2D2F0C)
-Ｉｆ ｙａ ｇｅｔ ａ ｇｏｏｄ ｌｏｏｋ， ｙｏｕ ｃａｎ ｓｅｅ<linealt>
-ｔｈａｔ ｉｔ’ｓ ｃｏｎｓｔａｎｔｌｙ ｄｒｏｏｌｉｎ’．．．<linealt>
-Ｔｈａｔ’ｓ ｄｉｓｇｕｓｔｉｎｇ．．．<end>
+If ya get a good look, you can see<linealt>
+that it's constantly droolin'...<linealt>
+That's disgusting...<end>
 
 
 //POINTER #326 @ $2D2F10 - STRING #326 @ $2D0888
 
 #WRITE(GBA,$2D2F10)
-Ｔｈｅｓｅ ｈｕｇｅ， ｓｔｒｏｎｇ ｇｕｙｓ<linealt>
-ａｒｅ Ｊａｗｊｉｒｏ’ｓ ｕｎｄｅｒｌｉｎｇｓ．<end>
+These huge, strong guys<linealt>
+are Jawjiro's underlings.<end>
 
 
 //POINTER #327 @ $2D2F14 - STRING #327 @ $2D08BC
 
 #WRITE(GBA,$2D2F14)
-Ｂｕｔ ｗｈｙ ａｒｅ ｔｈｅｙ ｇｅｔｔｉｎ’<linealt>
-ｏｕｒ ｗａｙ？ Ｉｓ ｉｔ ｃａｕｓｅ<linealt>
-ｔｈｅｙ’ｒｅ ｊｅａｌｏｕｓ ｏｆ ｍｅ？<end>
+But why are they gettin'<linealt>
+our way? Is it cause<linealt>
+they're jealous of me?<end>
 
 
 //POINTER #328 @ $2D2F18 - STRING #328 @ $2D090C
 
 #WRITE(GBA,$2D2F18)
-Ｔｈｅｓｅ ｇｕｙｓ ｓｈｏｏｔ ｏｕｔ ｂａｌｌｓ ｔｈａｔ<linealt>
-ｄａｍａｇｅ ｙａ ｉｆ ｙｏｕ ｔｏｕｃｈ ’ｅｍ．<end>
+These guys shoot out balls that<linealt>
+damage ya if you touch 'em.<end>
 
 
 //POINTER #329 @ $2D2F1C - STRING #329 @ $2D0948
 
 #WRITE(GBA,$2D2F1C)
-Ｉｔ’ｓ ｋｎｏｗｎ ｆｏｒ ｌｏｏｋｉｎ’ ｌｉｋｅ ａ ｆａｃｅ，<linealt>
-ｅｖｅｎ ｗｈｅｎ ｉｔ’ｓ ｕｐｓｉｄｅ ｄｏｗｎ！<end>
+It's known for lookin' like a face,<linealt>
+even when it's upside down!<end>
 
 
 //POINTER #330 @ $2D2F20 - STRING #330 @ $2D0978
 
 #WRITE(GBA,$2D2F20)
-Ｉ ｄｏｎ’ｔ ｇｅｔ ｔｈｉｓ ｔｈｉｎｇ！<linealt>
-Ｗｈｙ’ｄ ｉｔ ｇｒｏｗ ａ ｒｏｏｓｔｅｒ’ｓ ｃｏｍｂ？<linealt>
-Ｗｈｙ ｄｏｅｓ ｉｔ ｔｈｒｏｗ ｉｔ？？？<end>
+I don't get this thing!<linealt>
+Why'd it grow a rooster's comb?<linealt>
+Why does it throw it???<end>
 
 
 //POINTER #331 @ $2D2F24 - STRING #331 @ $2D09C4
 
 #WRITE(GBA,$2D2F24)
-Ｔｈｅｒｅ’ｓ ｊｕｓｔ ｔｏｏ ｍａｎｙ ｑｕｅｓｔｉｏｎｓ<linealt>
-ｔｏ ａｓｋ．．．<end>
+There's just too many questions<linealt>
+to ask...<end>
 
 
 //POINTER #332 @ $2D2F28 - STRING #332 @ $2D09F8
 
 #WRITE(GBA,$2D2F28)
-Ｈｅ ｍａｙ ｌｏｏｋ ｓｃａｒｙ，<linealt>
-ｂｕｔ ｈｅ’ｓ ｂｅｅｎ ｒｅａｌ ｈｅｌｐｆｕｌ ｌｅｔｔｉｎ’ ｕｓ<linealt>
-ｗａｒｐ ａｒｏｕｎｄ．<end>
+He may look scary,<linealt>
+but he's been real helpful lettin' us<linealt>
+warp around.<end>
 
 
 //POINTER #333 @ $2D2F2C - STRING #333 @ $2D0A30
 
 #WRITE(GBA,$2D2F2C)
-Ａｐｐａｒｅｎｔｌｙ ｈｅ ｕｓｅｄ ｔｏ ｂｅ<linealt>
-ａ ｔｒｕｃｋｅｒ．．． Ｍａｎ， ｔｈａｔ’ｓ ｓｏ ｍａｎｌｙ！！！<end>
+Apparently he used to be<linealt>
+a trucker... Man, that's so manly!!!<end>
 
 
 //POINTER #334 @ $2D2F30 - STRING #334 @ $2D0A74
 
 #WRITE(GBA,$2D2F30)
-Ｗｈｅｎ ｔｈｅｓｅ ａｗｆｕｌ ｐｌａｎｔｓ ｓｔｉｃｋ ｔｏ<linealt>
-ｙｏｕ， ｉｔ ｇｅｔｓ ｓｕｐｅｒ ｈａｒｄ ｔｏ ｍｏｖｅ．<end>
+When these awful plants stick to<linealt>
+you, it gets super hard to move.<end>
 
 
 //POINTER #335 @ $2D2F34 - STRING #335 @ $2D0AB4
 
 #WRITE(GBA,$2D2F34)
-Ｉ ｌｉｋｅ ｔｏ ｃａｌｌ ’ｅｍ<linealt>
-Ｋｏｎａｋｉ－ｊｉｊｉ ｉｎｓｔｅａｄ．<end>
+I like to call 'em<linealt>
+Konaki-jiji instead.<end>
 
 
 //POINTER #336 @ $2D2F38 - STRING #336 @ $2D0AE8
 
 #WRITE(GBA,$2D2F38)
-Ｆｕｎａｚｏｕ ｒｕｎｓ ａ Ｍａｎｊｕ Ｓｈｏｐ ａｎｄ ｉｓ<linealt>
-ａ ｐｒｅｔｔｙ ｇｏｏｄ ｇｕｙ ａｌｌ ａｒｏｕｎｄ．<end>
+Funazou runs a Manju Shop and is<linealt>
+a pretty good guy all around.<end>
 
 
 //POINTER #337 @ $2D2F3C - STRING #337 @ $2D0B14
 
 #WRITE(GBA,$2D2F3C)
-Ｈｉｓ ｗｉｆｅ ｓｏｕｎｄｓ<linealt>
-ｓｕｐｅｒ ｓｃａｒｙ ｔｈｏｕｇｈ．．．<end>
+His wife sounds<linealt>
+super scary though...<end>
 
 
 //POINTER #338 @ $2D2F40 - STRING #338 @ $2D0B4C
 
 #WRITE(GBA,$2D2F40)
-Ｆｏｒ ｂｅｉｎ’ ｔｈｅ ｇｕａｒｄｉａｎ ｏｆ Ｌｏｃｈ<linealt>
-Ｒｅｓｓ， Ｒｅｓｓｉｅ ｓｅｅｍｓ ｔｏ ｈａｖｅ<linealt>
-ｔｒｏｕｂｌｅ ｗｉｔｈ ｈｉｓ ｄａｕｇｈｔｅｒ．<end>
+For bein' the guardian of Loch<linealt>
+Ress, Ressie seems to have<linealt>
+trouble with his daughter.<end>
 
 
 //POINTER #339 @ $2D2F44 - STRING #339 @ $2D0B8C
 
 #WRITE(GBA,$2D2F44)
-Ｗｈａｔ ａ ｓｅｎｔｉｍｅｎｔａｌ ｄａｄ．．．<linealt>
-Ｂｕｔ， Ｉ ｗｏｎｄｅｒ ｗｈａｔ Ｓａｖａｋｏ’ｓ ｍｏｍ<linealt>
-ｌｏｏｋｓ ｌｉｋｅ？．．．<end>
+What a sentimental dad...<linealt>
+But, I wonder what Savako's mom<linealt>
+looks like?...<end>
 
 
 //POINTER #340 @ $2D2F48 - STRING #340 @ $2D0BDC
 
 #WRITE(GBA,$2D2F48)
-Ｉ ｎｅｖｅｒ ｅｖｅｒ ｗｏｕｌｄａ ｔｈｏｕｇｈｔ ｔｈａｔ<linealt>
-Ｉ ｗｏｕｌｄ ｓｅｅ Ｌｏｖｅｌｏｖｅ ａｇａｉｎ．<end>
+I never ever woulda thought that<linealt>
+I would see Lovelove again.<end>
 
 
 //POINTER #341 @ $2D2F4C - STRING #341 @ $2D0C1C
 
 #WRITE(GBA,$2D2F4C)
-Ｓｈａｍｅｌｅｓｓｎｅｓｓ ｉｓ ｗｈａｔ Ｌｏｖｅｌｙ’ｓ<linealt>
-ｆａｍｉｌｙ’ｓ ｋｎｏｗｎ ｆｏｒ．<end>
+Shamelessness is what Lovely's<linealt>
+family's known for.<end>
 
 
 //POINTER #342 @ $2D2F50 - STRING #342 @ $2D0C60
 
 #WRITE(GBA,$2D2F50)
-Ｉ ｄｉｄｎ’ｔ ｔｈｉｎｋ Ｌｏｖｅｒｉｎ<linealt>
-ｗｏｕｌｄａ ｓｈｏｗｎ ｕｐ ｔｏｏ．．．<linealt>
-Ｔｈｏｕｇｈ Ｉ ｄｉｄｎ’ｔ ｗａｎｔ ｈｅｒ ｔｏ．．．<end>
+I didn't think Loverin<linealt>
+woulda shown up too...<linealt>
+Though I didn't want her to...<end>
 
 
 //POINTER #343 @ $2D2F54 - STRING #343 @ $2D0CA0
 
 #WRITE(GBA,$2D2F54)
-Ｌｏｖｅｌｙ’ｓ ｓｕｆｆｏｃａｔｉｎｇ ｆａｃｅ<linealt>
-ｉｓ ｍｏｒｅ ｔｈａｎ Ｉ ｎｅｅｄ！<end>
+Lovely's suffocating face<linealt>
+is more than I need!<end>
 
 
 //POINTER #344 @ $2D2F58 - STRING #344 @ $2D0CDC
 
 #WRITE(GBA,$2D2F58)
-Ｈｅ’ｓ ａ ｔｏｕｇｈ， ｄｅｐｅｎｄａｂｌｅ ｂｏｓｓ．．．<linealt>
-ｏｒ ａｔｌｅａｓｔ ｈｅ’ｓ ｓｕｐｐｏｓｅｄ ｔｏ ｂｅ．．．<end>
+He's a tough, dependable boss...<linealt>
+or atleast he's supposed to be...<end>
 
 
 //POINTER #345 @ $2D2F5C - STRING #345 @ $2D0D14
 
 #WRITE(GBA,$2D2F5C)
-Ｂｕｔ ｈｅ’ｓ ｈａｄ ｔｏ ｄｅａｌ ｗｉｔｈ<linealt>
-Ｌｏｖｅｌｏｖｅ ａｎｄ Ｌｏｖｅｒｉｎ ｒｅｃｅｎｔｌｙ．．．<linealt>
-Ｐｏｏｒ ｇｕｙ．．．<end>
+But he's had to deal with<linealt>
+Lovelove and Loverin recently...<linealt>
+Poor guy...<end>
 
 
 //POINTER #346 @ $2D2F60 - STRING #346 @ $2D0D54
 
 #WRITE(GBA,$2D2F60)
-Ｓｅｅｍｓ ｌｉｋｅ Ｆｌｕｆｆｙ’ｓ ｂｅｅｎ<linealt>
-ｗｏｒｋｉｎ’ ｏｎ ａ ｃｏｓｔｕｍｅ ｔｈａｔ<linealt>
-ｂｅａｔｓ ｔｈｅ ｈｅａｔ．<end>
+Seems like Fluffy's been<linealt>
+workin' on a costume that<linealt>
+beats the heat.<end>
 
 
 //POINTER #347 @ $2D2F64 - STRING #347 @ $2D0D94
 
 #WRITE(GBA,$2D2F64)
-Ｉｎｓｔｅａｄ ｏｆ ｄｏｉｎ’ ａｌｌ ｔｈａｔ，と<linealt>
-ｈｅ ｃｏｕｌｄ’ｖｅ ｊｕｓｔ ｔａｋｅｎ ｏｆｆ<linealt>
-ｈｉｓ ｃｏｓｔｕｍｅ．<end>
+Instead of doin' all that,ﾄ<linealt>
+he could've just taken off<linealt>
+his costume.<end>
 
 
 //POINTER #348 @ $2D2F68 - STRING #348 @ $2D0DE0
 
 #WRITE(GBA,$2D2F68)
-Ｑｕｉｔ ｃｒｙｉｎ’ ａｌｌ ｔｈｅ ｔｉｍｅ，<linealt>
-ｙｏｕ ｓｐｏｉｌｅｄ ｂｒａｔ！<linealt>
-Ｇｒｏｗ ｕｐ ａｌｒｅａｄｙ！<end>
+Quit cryin' all the time,<linealt>
+you spoiled brat!<linealt>
+Grow up already!<end>
 
 
 //POINTER #349 @ $2D2F6C - STRING #349 @ $2D0E20
 
 #WRITE(GBA,$2D2F6C)
-Ｉｆ ｈｅ ｋｅｅｐｓ ｇｅｔｔｉｎｇ ｓｐｏｉｌｅｄ，<linealt>
-ｈｅ’ｓ ｇｏｎｎａ ｇｒｏｗ ｕｐ ｔｏ ｂｅ<linealt>
-ａ ｓｅｌｆｉｓｈ ｊｅｒｋ．<end>
+If he keeps getting spoiled,<linealt>
+he's gonna grow up to be<linealt>
+a selfish jerk.<end>
 
 
 //POINTER #350 @ $2D2F70 - STRING #350 @ $2D0E5C
 
 #WRITE(GBA,$2D2F70)
-Ｈｏｗ ｄａｒｅ ｔｈｉｓ ｇｅｅｚｅｒ ｒｕｉｎ ｍｙ ｆａｃｅ<linealt>
-ｗｉｔｈ ａ ｍｕｓｔａｃｈｅ！ Ｉ ｗｏｎ’ｔ ｆｏｒｇｅｔ<linealt>
-ｔｈｉｓ ｆｏｒ ａｓ ｌｏｎｇ ａｓ Ｉ ｌｉｖｅ！<end>
+How dare this geezer ruin my face<linealt>
+with a mustache! I won't forget<linealt>
+this for as long as I live!<end>
 
 
 //POINTER #351 @ $2D2F74 - STRING #351 @ $2D0EA0
 
 #WRITE(GBA,$2D2F74)
-Ｎｅｘｔ ｔｉｍｅ Ｉ ｓｅｅ ｈｉｍ，<linealt>
-Ｉ’ｌｌ ｋｎｏｃｋ ｈｉｍ ｆｌａｔ！！！<end>
+Next time I see him,<linealt>
+I'll knock him flat!!!<end>
 
 
 //POINTER #352 @ $2D2F78 - STRING #352 @ $2D0EE8
 
 #WRITE(GBA,$2D2F78)
-Ｄｏｅｓｎ’ｔ ｅａｔｉｎ ｉｔ’ｓ ｏｗｎ ｔａｉｌ ｈｕｒｔ？<end>
+Doesn't eatin it's own tail hurt?<end>
 
 
 //POINTER #353 @ $2D2F7C - STRING #353 @ $2D0F1C
 
 #WRITE(GBA,$2D2F7C)
-Ｏｒ ｄｏｅｓ ｉｔ ｎｏｔ ｆｅｅｌ ａ ｔｈｉｎｇ<linealt>
-ｃａｕｓｅ ｉｔ’ｓ ａ ｒｏｂｏｔ？<end>
+Or does it not feel a thing<linealt>
+cause it's a robot?<end>
 
 
 //POINTER #354 @ $2D2F80 - STRING #354 @ $2D0F44
 
 #WRITE(GBA,$2D2F80)
-Ｔｈｅｓｅ ｌｉｖｅｌｙ， ａｎｄ ＳＵＰＥＲ ｒａｒｅ ｆｉｓｈ<linealt>
-ｓｗｉｍ ｕｐ ｗａｔｅｒｆａｌｌｓ．<end>
+These lively, and SUPER rare fish<linealt>
+swim up waterfalls.<end>
 
 
 //POINTER #355 @ $2D2F84 - STRING #355 @ $2D0F8C
 
 #WRITE(GBA,$2D2F84)
-Ｔｈｅｉｒ ｅｇｇｓ ａｒｅ ｃａｌｌｅｄ<linealt>
-”Ｔｈｅ Ｊｅｗｅｌｓ ｏｆ ｔｈｅ Ｓｅａ”<linealt>
-ａｎｄ ａｒｅ ｓｏｌｄ ｆｏｒ ａ ｒｅａｌ ｈｉｇｈ ｐｒｉｃｅ．<end>
+Their eggs are called<linealt>
+"The Jewels of the Sea"<linealt>
+and are sold for a real high price.<end>
 
 
 //POINTER #356 @ $2D2F88 - STRING #356 @ $2D0FD8
 
 #WRITE(GBA,$2D2F88)
-Ｔｈｅｓｅ ｎｕｉｓａｎｃｅｓ’ｌｌ ｓｐｉｋｅ ｕｐ ｉｆ ｙａ<linealt>
-ｓｐｉｎ ａｎｙｗｈｅｒｅ ｎｅａｒ ’ｅｍ．<end>
+These nuisances'll spike up if ya<linealt>
+spin anywhere near 'em.<end>
 
 
 //POINTER #357 @ $2D2F8C - STRING #357 @ $2D1020
 
 #WRITE(GBA,$2D2F8C)
-Ｄｏ ｔｈｅｙ ｊｕｓｔ ｎｏｔ ｌｉｋｅ ｈａｖｉｎ’ ｔｈｅｉｒ<linealt>
-ｓｌｅｅｐ ｉｎｔｅｒｒｕｐｔｅｄ？ Ｗｈａｔ ａｒｅ ｔｈｅｙ，<linealt>
-ｂａｂｉｅｓ ｏｒ ｓｏｍｅｔｈｉｎ’！？<end>
+Do they just not like havin' their<linealt>
+sleep interrupted? What are they,<linealt>
+babies or somethin'!?<end>
 
 
 //POINTER #358 @ $2D2F90 - STRING #358 @ $2D1070
 
 #WRITE(GBA,$2D2F90)
-Ａｐｐａｒｅｎｔｌｙ ｔｈｉｓ ｇｕｙ<linealt>
-ｃａｎ ｒｅａｃｈ ｈｉｇｈ ｓｐｅｅｄｓ<linealt>
-ｗｈｅｎ ｉｔ ｆｅｅｌｓ ｌｉｋｅ ｉｔ．<end>
+Apparently this guy<linealt>
+can reach high speeds<linealt>
+when it feels like it.<end>
 
 
 //POINTER #359 @ $2D2F94 - STRING #359 @ $2D10AC
 
 #WRITE(GBA,$2D2F94)
-Ｂｕｔ ｉｔ ｄｏｅｓｎ’ｔ ｓｅｅｍ ｌｉｋｅ<linealt>
-ｉｔ’ｓ ｉｎ ｔｈｅ ｍｏｏｄ ｔｏｏ ｏｆｔｅｎ．．．<linealt>
-Ｃｏｍｅ ｏｎ， ｄｕｄｅ．．．<end>
+But it doesn't seem like<linealt>
+it's in the mood too often...<linealt>
+Come on, dude...<end>
 
 
 //POINTER #360 @ $2D2F98 - STRING #360 @ $2D10EC
 
 #WRITE(GBA,$2D2F98)
-Ｉ ｔｈｏｕｇｈｔ ｔｈｉｓ ｔｈｉｎｇ ｇｏｔ ｉｔ’ｓ ｎａｍｅ<linealt>
-ｆｒｏｍ ｉｔ’ｓ ｒｏｃｋｙ ａｐｐｅａｒａｎｃｅ．<end>
+I thought this thing got it's name<linealt>
+from it's rocky appearance.<end>
 
 
 //POINTER #361 @ $2D2F9C - STRING #361 @ $2D1124
 
 #WRITE(GBA,$2D2F9C)
-Ｉｔ’ｓ ａｐｐａｒｅｎｔｌｙ ｃａｕｓｅ ｉｔ ｌｏｖｅｓ<linealt>
-ｒｏｃｋ ｍｕｓｉｃ．．．<linealt>
-Ｂｕｔ ｉｔ ｌｏｏｋｓ ｌｉｋｅ ａ ｒｏｃｋ．．．<end>
+It's apparently cause it loves<linealt>
+rock music...<linealt>
+But it looks like a rock...<end>
 
 
 //POINTER #362 @ $2D2FA0 - STRING #362 @ $2D116C
 
 #WRITE(GBA,$2D2FA0)
-Ｔｈｉｓ ｊｏｋｅ ｏｆ ａｎ ｏｃｔｏｐｕｓ’ｌｌ<linealt>
-ｔｈｒｏｗ ｉｔ’ｓ ｗｉｇ ｔｏ ｔｒｙ ａｎｄ ｈｉｔ ｙａ．<end>
+This joke of an octopus'll<linealt>
+throw it's wig to try and hit ya.<end>
 
 
 //POINTER #363 @ $2D2FA4 - STRING #363 @ $2D1194
 
 #WRITE(GBA,$2D2FA4)
-Ｉｔ ｓａｉｄ ｔｈａｔ ｉｔ’ｓ ｗｉｇ<linealt>
-ｉｓ ａ ｑｕａｌｉｔｙ ｉｔｅｍ ｉｔ ｂｏｕｇｈｔ<linealt>
-ｗｉｔｈ ａ ３０ ｙｅａｒ ｌｏａｎ．<end>
+It said that it's wig<linealt>
+is a quality item it bought<linealt>
+with a 30 year loan.<end>
 
 
 //POINTER #364 @ $2D2FA8 - STRING #364 @ $2D11D4
 
 #WRITE(GBA,$2D2FA8)
-Ｔｈｉｓ ｇｕｙ’ｌｌ ｔｕｒｎ ｈｉｓ ｂｏｄｙ<linealt>
-ｉｎｓｉｄｅ ｏｕｔ ａｎｄ ｓｈｏｏｔ ｏｕｔ ｓｐｉｎｅｓ．<end>
+This guy'll turn his body<linealt>
+inside out and shoot out spines.<end>
 
 
 //POINTER #365 @ $2D2FAC - STRING #365 @ $2D1200
 
 #WRITE(GBA,$2D2FAC)
-Ｈｅ ｍａｙ ｎｏｔ ｂｅ ｔｈｅ ｏｎｌｙ ｇｕｙ ｔｏ<linealt>
-ｓｈｏｏｔ ｏｕｔ ｓｐｉｋｅｓ，<linealt>
-ｂｕｔ ｈｏｗ ｈｅ ｄｏｅｓ ｉｔ ｉｓ ｕｎｉｑｕｅ．<end>
+He may not be the only guy to<linealt>
+shoot out spikes,<linealt>
+but how he does it is unique.<end>
 
 
 //POINTER #366 @ $2D2FB0 - STRING #366 @ $2D1244
 
 #WRITE(GBA,$2D2FB0)
-Ｗｈａｔ’ｓ ｗｉｔｈ ｔｈｉｓ ｇｕｙ’ｓ ｔａｓｔｅ！？<linealt>
-Ａ ｍｏｈａｗｋ ａｎｄ ｓｕｎｇｌａｓｓｅｓ！？<end>
+What's with this guy's taste!?<linealt>
+A mohawk and sunglasses!?<end>
 
 
 //POINTER #367 @ $2D2FB4 - STRING #367 @ $2D1278
 
 #WRITE(GBA,$2D2FB4)
-Ｗｈａｔ， ｙａ ｔｈｉｎｋ ｔｈａｔ’ｓ ｃｏｏｌ？<linealt>
-Ｙｏｕ ａｉｎ’ｔ ａｎｙｗｈｅｒｅ ｎｅａｒ ｍｅ<linealt>
-ｉｎ ｔｈａｔ ｄｅｐａｒｔｍｅｎｔ！<end>
+What, ya think that's cool?<linealt>
+You ain't anywhere near me<linealt>
+in that department!<end>
 
 
 //POINTER #368 @ $2D2FB8 - STRING #368 @ $2D12B8
 
 #WRITE(GBA,$2D2FB8)
-Ｔｈｉｓ ｇｕｙ’ｌｌ ｓｕｄｄｅｎｌｙ ｂｕｓｔ ｏｕｔｔａ<linealt>
-ｗａｌｌｓ ｔｏ ｔｒｙ ａｎｄ ｇｅｔ ｔｈｅ ｊｕｍｐ<linealt>
-ｏｎ ｙａ．．．<end>
+This guy'll suddenly bust outta<linealt>
+walls to try and get the jump<linealt>
+on ya...<end>
 
 
 //POINTER #369 @ $2D2FBC - STRING #369 @ $2D12F0
 
 #WRITE(GBA,$2D2FBC)
-Ｉ ｓｈｏｕｌｄ ｔｒｙ ａｎｄ ｄｉｇ ｉｎｔｏ ａ ｗａｌｌ<linealt>
-ｉｎｓｔｅａｄ ｏｆ ｔｈｅ ｇｒｏｕｎｄ ｎｅｘｔ ｔｉｍｅ．．．<end>
+I should try and dig into a wall<linealt>
+instead of the ground next time...<end>
 
 
 //POINTER #370 @ $2D2FC0 - STRING #370 @ $2D1338
 
 #WRITE(GBA,$2D2FC0)
-Ｔｈｉｓ ｔｈｉｎｇ ｕｓｅｄ ｔｏ ｂｅ ｙｏｕｒ<linealt>
-ａｖｅｒａｇｅ ｅｖｅｒｙｄａｙ ｅｅｌ！<end>
+This thing used to be your<linealt>
+average everyday eel!<end>
 
 
 //POINTER #371 @ $2D2FC4 - STRING #371 @ $2D1364
 
 #WRITE(GBA,$2D2FC4)
-Ｓｏｍｅ ｓａｙ ｔｈａｔ ｉｔ ｓｔａｒｔｅｄ ｓｐｉｎｎｉｎ’<linealt>
-ａｆｔｅｒ ｉｔ ａｔｅ ａ ｔｉｒｅ．．． Ｓｅｒｉｏｕｓｌｙ？<end>
+Some say that it started spinnin'<linealt>
+after it ate a tire... Seriously?<end>
 
 
 //POINTER #372 @ $2D2FC8 - STRING #372 @ $2D13A8
 
 #WRITE(GBA,$2D2FC8)
-ＷＡＵＧＨ！ Ａ－Ａ ＧＨＯＳＴ！ ＊ｓｈｕｄｄｅｒ＊<linealt>
-Ｌｏｏｋ， Ｉ ａｉｎ’ｔ ｔｈｅ ｂｉｇｇｅｓｔ ｆａｎ ｏｆ<linealt>
-ｇｈｏｓｔｓ！<end>
+WAUGH! A-A GHOST! *shudder*<linealt>
+Look, I ain't the biggest fan of<linealt>
+ghosts!<end>
 
 
 //POINTER #373 @ $2D2FCC - STRING #373 @ $2D13F4
 
 #WRITE(GBA,$2D2FCC)
-Ａｎｄ ｔｏ ａｎｙｏｎｅ ｗｈｏ ｔｈｏｕｇｈｔ Ｉ ｗａｓ<linealt>
-ｌａｍｅ ｊｕｓｔ ｎｏｗ， Ｓｔｅｐ ｆｏｒｗａｒｄ！<linealt>
-Ｔｈｅｒｅ’ｓ ａ ｌｅｃｔｕｒｅ ｗａｉｔｉｎ’ ｆｏｒ ｙｏｕ！<end>
+And to anyone who thought I was<linealt>
+lame just now, Step forward!<linealt>
+There's a lecture waitin' for you!<end>
 
 
 //POINTER #374 @ $2D2FD0 - STRING #374 @ $2D1438
 
 #WRITE(GBA,$2D2FD0)
-Ｔｈａｔ ｈａｉｒｓｔｙｌｅ ｔｈｅｙ’ｖｅ ｇｏｔ ｇｏｉｎ’<linealt>
-ｏｎ’ｓ ｃａｌｌｅｄ ａ ｃｈｏｎｍａｇｅ．<linealt>
-Ｔｈａｔ’ｓ ｈｏｗ ｔｈｅｙ ｇｏｔ ｔｈｅｉｒ ｎａｍｅ！<end>
+That hairstyle they've got goin'<linealt>
+on's called a chonmage.<linealt>
+That's how they got their name!<end>
 
 
 //POINTER #375 @ $2D2FD4 - STRING #375 @ $2D1468
 
 #WRITE(GBA,$2D2FD4)
-Ｓｏ ｉｆ ｔｈｅｙ ｄｉｄｎ’ｔ ｈａｖｅ ｈａｉｒ，<linealt>
-ｗｏｕｌｄ ｔｈｅｙ ｎｏｔ ｈａｖｅ ｎａｍｅｓ？<end>
+So if they didn't have hair,<linealt>
+would they not have names?<end>
 
 
 //POINTER #376 @ $2D2FD8 - STRING #376 @ $2D14A0
 
 #WRITE(GBA,$2D2FD8)
-Ｔｈｉｓ ｉｓ ｔｈｅ ｐｅａｃｅｋｅｅｐｉｎｇ Ｋｕｎｏｉｃｈｉ<linealt>
-ｏｆ ｊｕｓｔｉｃｅ： Ｏｇｙｏｎ Ｋａｇｅｒｏｕ．<end>
+This is the peacekeeping Kunoichi<linealt>
+of justice: Ogyon Kagerou.<end>
 
 
 //POINTER #377 @ $2D2FDC - STRING #377 @ $2D14DC
 
 #WRITE(GBA,$2D2FDC)
-Ｉ’ｍ ｓｕｒｅ ｓｈｅ’ｓ ａ ｇｒｅａｔ ｇａｌ，<linealt>
-ｂｕｔ ｔｈｅ ｗａｙ ｓｈｅ ｔａｌｋｓ<linealt>
-ｆｅｅｌｓ ｓｏ ｆａｋｅ．．．<end>
+I'm sure she's a great gal,<linealt>
+but the way she talks<linealt>
+feels so fake...<end>
 
 
 //POINTER #378 @ $2D2FE0 - STRING #378 @ $2D151C
 
 #WRITE(GBA,$2D2FE0)
-Ｆｕｎ ｆａｃｔ： Ｏｃｅａｎ Ｓｕｎｆｉｓｈ ｃａｎ ｌａｙ<linealt>
-ｈｕｎｄｒｅｄｓ ｏｆ ｅｇｇｓ ａｔ ａ ｔｉｍｅ．<end>
+Fun fact: Ocean Sunfish can lay<linealt>
+hundreds of eggs at a time.<end>
 
 
 //POINTER #379 @ $2D2FE4 - STRING #379 @ $2D1564
 
 #WRITE(GBA,$2D2FE4)
-Ｄｉｄ ｙａ ｌｅａｒｎ ｓｏｍｅｔｈｉｎｇ ｎｅｗ？<linealt>
-Ｏｒ ｒａｔｈｅｒ， ｉｔ’ｓ ｍｅ ｗｈｏ ｋｎｏｗｓ ａ ｌｏｔ！<end>
+Did ya learn something new?<linealt>
+Or rather, it's me who knows a lot!<end>
 
 
 //POINTER #380 @ $2D2FE8 - STRING #380 @ $2D15A0
 
 #WRITE(GBA,$2D2FE8)
-Ｔｈｉｓ ｋｕｎｇ－ｆｕ ｆｉｇｈｔｉｎｇ ｇｅｅｚｅｒ ｉｓ<linealt>
-Ｏｌｄ Ｍａｎ Ｃｒｏａｋ’ｓ ｄｉｓｔａｎｔ ｒｅｌａｔｉｖｅ．<end>
+This kung-fu fighting geezer is<linealt>
+Old Man Croak's distant relative.<end>
 
 
 //POINTER #381 @ $2D2FEC - STRING #381 @ $2D15E4
 
 #WRITE(GBA,$2D2FEC)
-Ｗｅｌｌ ｗｈｅｎ ｙｏｕ’ｒｅ ａｓ ｓｔｒｏｎｇ ａｓ<linealt>
-ｙｏｕｒｓ ｔｒｕｌｙ， ｙｏｕ ｄｏｎ’ｔ ｎｅｅｄ<linealt>
-ｋｕｎｇ－ｆｕ．<end>
+Well when you're as strong as<linealt>
+yours truly, you don't need<linealt>
+kung-fu.<end>
 
 
 //POINTER #382 @ $2D2FF0 - STRING #382 @ $2D1628
 
 #WRITE(GBA,$2D2FF0)
-Ｓｈｅｅｓｈ， Ｌｕｍｉ’ｓ ａｌｗａｙｓ ｇｅｔｔｉｎ’<linealt>
-ｃａｕｇｈｔ ｏｒ ｈａｓｓｌｅｄ ｂｙ ｓｏｍｅｏｎｅ．．．<linealt>
-Ｉｔ’ｓ ｐａｔｈｅｔｉｃ．<end>
+Sheesh, Lumi's always gettin'<linealt>
+caught or hassled by someone...<linealt>
+It's pathetic.<end>
 
 
 //POINTER #383 @ $2D2FF4 - STRING #383 @ $2D1670
 
 #WRITE(GBA,$2D2FF4)
-Ｉｆ ｉｔ ｗｅｒｅ ｍｅ， Ｉ’ｄ ｈａｖｅ ｂｅｎｔ ｔｈｏｓｅ<linealt>
-ｂａｒｓ ｉｎ ｎｏ ｔｉｍｅ ｆｌａｔ．<end>
+If it were me, I'd have bent those<linealt>
+bars in no time flat.<end>
 
 
 //POINTER #384 @ $2D2FF8 - STRING #384 @ $2D16B0
 
 #WRITE(GBA,$2D2FF8)
-Ｙｏｕ ｓａｙｉｎ’ ｔｈｉｓ ｇｕｙ ｌｏｏｋｓ ｌｉｋｅ ｍｅ！？<linealt>
-Ｇｅｔ ｒｅａｌ！<end>
+You sayin' this guy looks like me!?<linealt>
+Get real!<end>
 
 
 //POINTER #385 @ $2D2FFC - STRING #385 @ $2D16E4
 
 #WRITE(GBA,$2D2FFC)
-Ｉ’ｍ ｔｅｎ－ｔｈｏｕｓａｎｄ ｔｉｍｅｓ ｍｏｒｅ<linealt>
-ｃｈａｒｍｉｎｇ ｔｈａｎ ｈｉｍ！<end>
+I'm ten-thousand times more<linealt>
+charming than him!<end>
 
 
 //POINTER #386 @ $2D3000 - STRING #386 @ $2D1720
 
 #WRITE(GBA,$2D3000)
-Ｔｈｉｓ ｇｕｙ ａｎｄ Ｉ ａｒｅｎ’ｔ ｅｖｅｎ ｉｎ<linealt>
-ｔｈｅ ｓａｍｅ ｌｅａｇｕｅ！<end>
+This guy and I aren't even in<linealt>
+the same league!<end>
 
 
 //POINTER #387 @ $2D3004 - STRING #387 @ $2D1758
 
 #WRITE(GBA,$2D3004)
-Ｉ’ｍ ｔｅｎ－ｍｉｌｌｉｏｎ ｔｉｍｅｓ ｄａｎｄｉｅｒ<linealt>
-ｔｈａｎ ｈｉｍ！<end>
+I'm ten-million times dandier<linealt>
+than him!<end>
 
 
 //POINTER #388 @ $2D3008 - STRING #388 @ $2D1794
 
 #WRITE(GBA,$2D3008)
-Ｔｈｉｓ ｇｕｙ ｊｏｉｎｅｄ ｆｏｒｃｅｓ ｗｉｔｈ<linealt>
-Ｐｕｃｈｉ Ｏｇｕｒａ ＃１０ ｆｏｒ ｎｅｆａｒｉｏｕｓ<linealt>
-ｐｕｒｐｏｓｅｓ．<end>
+This guy joined forces with<linealt>
+Puchi Ogura #10 for nefarious<linealt>
+purposes.<end>
 
 
 //POINTER #389 @ $2D300C - STRING #389 @ $2D17D0
 
 #WRITE(GBA,$2D300C)
-Ａｓ ｐｕｎｉｓｈｍｅｎｔ ｆｏｒ ｂｒｉｎｇｉｎ’ ｃｈａｏｓ<linealt>
-ｔｏ ｔｈｅ ｓｅａ， ｙｏｕ ｍｕｓｔ ｔｒｅａｔ ｔｈｅ<linealt>
-Ｇｒｅａｔ Ｍｏｅ ｔｏ ｓｏｍｅｔｈｉｎｇ！<end>
+As punishment for bringin' chaos<linealt>
+to the sea, you must treat the<linealt>
+Great Moe to something!<end>
 
 
 //POINTER #390 @ $2D3010 - STRING #390 @ $2D1814
 
 #WRITE(GBA,$2D3010)
-Ｔｈｅｓｅ ｐｉｒａｔｅｓ ａｒｅ<linealt>
-Ｐｕｃｈｉ Ｏｇｕｒａ ＃１０’ｓ ｕｎｄｅｒｌｉｎｇｓ．<end>
+These pirates are<linealt>
+Puchi Ogura #10's underlings.<end>
 
 
 //POINTER #391 @ $2D3014 - STRING #391 @ $2D1844
 
 #WRITE(GBA,$2D3014)
-Ｓｏｍｅ ｏｆ ｔｈｅｍ ｆｏｕｇｈｔ ｙｏｕ<linealt>
-ａｌｏｎｇｓｉｄｅ ｔｈｅｉｒ ｂｏｓｓ，<linealt>
-ｂｕｔ ｓｏｍｅ ｏｆ ｔｈｅｍ ｊｕｍｐｅｄ ｓｈｉｐ．．．<end>
+Some of them fought you<linealt>
+alongside their boss,<linealt>
+but some of them jumped ship...<end>
 
 
 //POINTER #392 @ $2D3018 - STRING #392 @ $2D1890
 
 #WRITE(GBA,$2D3018)
-Ｔｈｅ ｌｅａｄｅｒ ｏｆ ｔｈｅ ｐｉｒａｔｅｓ ａｎｄ ｔｈｅ<linealt>
-ｏｌｄｅｓｔ ｏｆ ｔｈｅ Ｐｕｃｈｉ Ｏｇｕｒａｓ．<end>
+The leader of the pirates and the<linealt>
+oldest of the Puchi Oguras.<end>
 
 
 //POINTER #393 @ $2D301C - STRING #393 @ $2D18D4
 
 #WRITE(GBA,$2D301C)
-Ｔｈａｎｋｓ ｔｏ ｔｈａｔ ｃｌｏｎｅ ｔｅｃｈｎｉｑｕｅ<linealt>
-ｏｆ ｈｉｓ，<linealt>
-ｈｅ ｃａｎ ｂｅ ａ ｐａｉｎ ｔｏ ｄｅａｌ ｗｉｔｈ．<end>
+Thanks to that clone technique<linealt>
+of his,<linealt>
+he can be a pain to deal with.<end>
 
 
 //POINTER #394 @ $2D3020 - STRING #394 @ $2D1910
 
 #WRITE(GBA,$2D3020)
-Ｈｅ ｈａｓ ｔｈｉｓ ｈｕｇｅ ｈｅｌｍｅｔ ｔｈａｔ ｃａｎ<linealt>
-ｐｒｏｔｅｃｔ ｈｉｓ ｈｅａｄ ａｎｄ ｌｅｇｓ．<end>
+He has this huge helmet that can<linealt>
+protect his head and legs.<end>
 
 
 //POINTER #395 @ $2D3024 - STRING #395 @ $2D1948
 
 #WRITE(GBA,$2D3024)
-Ｉｆ Ｓｔａｒｆｙ ｈｉｔｓ ｔｈｏｓｅ ｈｏｒｎｓ，<linealt>
-ｈｅ’ｓ ｉｎ ｆｏｒ ａ ｗｏｒｌｄ ｏｆ ｈｕｒｔ！<end>
+If Starfy hits those horns,<linealt>
+he's in for a world of hurt!<end>
 
 
 //POINTER #396 @ $2D3028 - STRING #396 @ $2D198C
 
 #WRITE(GBA,$2D3028)
-Ｔｈｅｓｅ ｇｕｙｓ’ｌｌ ｃｈａｓｅ ｙａ ａｒｏｕｎｄ<linealt>
-ｉｆ ｙｏｕ ｇｅｔ ｔｏｏ ｃｌｏｓｅ．<end>
+These guys'll chase ya around<linealt>
+if you get too close.<end>
 
 
 //POINTER #397 @ $2D302C - STRING #397 @ $2D19C0
 
 #WRITE(GBA,$2D302C)
-Ｄｏ ｔｈｅｙ ｌｉｋｅ ｍｅ ｔｈａｔ ｍｕｃｈ<end>
+Do they like me that much<end>
 
 
 //POINTER #398 @ $2D3030 - STRING #398 @ $2D19E0
 
 #WRITE(GBA,$2D3030)
-Ｔｈｅｓｅ ｔｈｉｎｇｓ’ｌｌ ｌａｕｎｃｈ ａ ｔｉｎｙ ｂａｌｌ<linealt>
-ａｔ ｙａ ｅｖｅｒｙ ｏｎｃｅ ｉｎ ａ ｗｈｉｌｅ ａｎｄ<linealt>
-ｉｔ’ｓ ｓｕｐｅｒ ａｎｎｏｙｉｎｇ．<end>
+These things'll launch a tiny ball<linealt>
+at ya every once in a while and<linealt>
+it's super annoying.<end>
 
 
 //POINTER #399 @ $2D3034 - STRING #399 @ $2D1A14
 
 #WRITE(GBA,$2D3034)
-Ｉ ｍｅａｎ， ｃｏｍｅ ｏｎ！<linealt>
-Ａｃｔｕａｌｌｙ ｓｈｏｏｔ ｓｏｍｅ ｔｈｕｎｄｅｒｂｏｌｔｓ<linealt>
-ｉｆ ｙｏｕ’ｒｅ ａ ｔｈｕｎｄｅｒｃｌｏｕｄ！<end>
+I mean, come on!<linealt>
+Actually shoot some thunderbolts<linealt>
+if you're a thundercloud!<end>
 
 
 //POINTER #400 @ $2D3038 - STRING #400 @ $2D1A50
 
 #WRITE(GBA,$2D3038)
-Ｏｕｔ ｏｆ ｔｈｉｓ ｇｒｏｕｐ ｏｆ ｆｏｕｒ，<linealt>
-ｏｎｅ ｏｆ ｔｈｅｍ ｉｓ ｂｒｉｇｈｔ ｒｅｄ ｃｏｌｏｒ．<end>
+Out of this group of four,<linealt>
+one of them is bright red color.<end>
 
 
 //POINTER #401 @ $2D303C - STRING #401 @ $2D1A7C
 
 #WRITE(GBA,$2D303C)
-Ｉｓ ｉｔ ａ ｄｉｆｆｅｒｅｎｔ ｃｏｌｏｒ ｃａｕｓｅ<linealt>
-ｉｔ ｗａｎｔｓ ｔｏ ｓｈｏｗ ｏｆｆ？<end>
+Is it a different color cause<linealt>
+it wants to show off?<end>
 
 
 //POINTER #402 @ $2D3040 - STRING #402 @ $2D1AA8
 
 #WRITE(GBA,$2D3040)
-Ｗｈａ－ＨＥＹ！<linealt>
-Ｗｈｙ ｔｈｅ ｈｅｃｋ ｄｏ ｙｏｕ ｈａｖｅ ａ<linealt>
-ｆｉｒｅｗｏｒｋ ｃｏｍｉｎ’ ｏｕｔ ｏｆ ｙｏｕｒ ｂｕｔｔ？！<end>
+Wha-HEY!<linealt>
+Why the heck do you have a<linealt>
+firework comin' out of your butt?!<end>
 
 
 //POINTER #403 @ $2D3044 - STRING #403 @ $2D1AE0
 
 #WRITE(GBA,$2D3044)
-Ａｒｅ ｙｏｕ ｏｋ？ Ｄｏｅｓｎ’ｔ ｔｈａｔ ｈｕｒｔ？<linealt>
-Ｗｅ ｍｉｇｈｔ ｂｅ ｅｎｅｍｉｅｓ，<linealt>
-ｂｕｔ ｙｏｕ ｗｏｒｒｙ ｍｅ．<end>
+Are you ok? Doesn't that hurt?<linealt>
+We might be enemies,<linealt>
+but you worry me.<end>
 
 
 //POINTER #404 @ $2D3048 - STRING #404 @ $2D1B2C
 
 #WRITE(GBA,$2D3048)
-Ｔｈｅｓｅ ｔｈｉｎｇｓ ｕｓｕａｌｌｙ ｓｔａｙ ｃｏｉｌｅｄ<linealt>
-ｕｐ， ｂｕｔ’ｌｌ ｔｈｅｎ ｊｕｍｐ ｏｕｔｔａ ｔｈｅ<linealt>
-ｂｌｕｅ ｔｏ ａｔｔａｃｋ！<end>
+These things usually stay coiled<linealt>
+up, but'll then jump outta the<linealt>
+blue to attack!<end>
 
 
 //POINTER #405 @ $2D304C - STRING #405 @ $2D1B70
 
 #WRITE(GBA,$2D304C)
-＊ｓｈｕｄｄｅｒ＊ Ｔｈｅｓｅ ｓｐｒｉｎｇｙ<linealt>
-ｓｋｅｌｅｔｏｎ ｇｕｙｓ ｇｉｖｅ ｍｅ ｔｈｅ ｃｒｅｅｐｓ！<end>
+*shudder* These springy<linealt>
+skeleton guys give me the creeps!<end>
 
 
 //POINTER #406 @ $2D3050 - STRING #406 @ $2D1BA0
 
 #WRITE(GBA,$2D3050)
-Ｔｈｅｓｅ ｍｙｓｔｅｒｉｏｕｓ ｃｒｅａｔｕｒｅｓ ａｒｅ<linealt>
-Ｏｇｕｒａ’ｓ ｓｅｒｖａｎｔｓ．<end>
+These mysterious creatures are<linealt>
+Ogura's servants.<end>
 
 
 //POINTER #407 @ $2D3054 - STRING #407 @ $2D1BC4
 
 #WRITE(GBA,$2D3054)
-Ｉｆ ｔｈｅｙ ｃａｔｃｈ ｙｏｕ， ｔｈｅｙ’ｌｌ ｗａｒｐ<linealt>
-ｙｏｕ ｔｏ ａｌｌ ｓｏｒｔｓ ｏｆ ｐｌａｃｅｓ！<end>
+If they catch you, they'll warp<linealt>
+you to all sorts of places!<end>
 
 
 //POINTER #408 @ $2D3058 - STRING #408 @ $2D1C08
 
 #WRITE(GBA,$2D3058)
-Ｔｈｅ ｓｏｕｒｃｅ ｏｆ ｅｖｉｌ， ａｎｄ ｈｅ’ｓ ｗａｙ<linealt>
-ｓｔｒｏｎｇｅｒ ｔｈａｎ ｂｅｆｏｒｅ！<end>
+The source of evil, and he's way<linealt>
+stronger than before!<end>
 
 
 //POINTER #409 @ $2D305C - STRING #409 @ $2D1C54
 
 #WRITE(GBA,$2D305C)
-Ｂｕｔ ｍａｎ， Ｉ ｎｅｖｅｒ ｅｘｐｅｃｔｅｄ Ｌｏｂｂｅｒ<linealt>
-ｔｏ ｂｅ ｔｈａｔ ｓｔｒｏｎｇ．．．<end>
+But man, I never expected Lobber<linealt>
+to be that strong...<end>
 
 
 //POINTER #410 @ $2D3060 - STRING #410 @ $2D1CA0
 
 #WRITE(GBA,$2D3060)
-Ｔｈｉｓ ｔｈｉｎｇ’ｌｌ ｆｌｙ ｓｕｐｅｒ ｆａｓｔ ａｔ ｙｏｕ<linealt>
-ｗｈｅｎ ｙｏｕ ｒｉｄｅ ｔｈｅ Ｂｌｉｍｐ．<end>
+This thing'll fly super fast at you<linealt>
+when you ride the Blimp.<end>
 
 
 //POINTER #411 @ $2D3064 - STRING #411 @ $2D1CDC
 
 #WRITE(GBA,$2D3064)
-Ｓｏ ｄｏｎ’ｔ ｊｕｓｔ ｓｔａｎｄ ｔｈｅｒｅ ｌｉｋｅ<linealt>
-ａ ｇｒａｎｎｙ ｄｕｒｉｎｇ ａ ｃｌｅａｒａｎｃｅ ｓａｌｅ！<end>
+So don't just stand there like<linealt>
+a granny during a clearance sale!<end>
 
 
 //POINTER #412 @ $2D3068 - STRING #412 @ $2D1D0C
 
 #WRITE(GBA,$2D3068)
-Ｔｈｅｙ ｕｓｕａｌｌｙ ｓｔｉｃｋ ｔｏ ｔｈｅ ｃｅｉｌｉｎｇ，<linealt>
-ｂｕｔ’ｌｌ ｆａｌｌ ｏｆｆ ｗｈｅｎ ｙｏｕ ｇｅｔ ｃｌｏｓｅ<linealt>
-ｔｏ ’ｅｍ．<end>
+They usually stick to the ceiling,<linealt>
+but'll fall off when you get close<linealt>
+to 'em.<end>
 
 
 //POINTER #413 @ $2D306C - STRING #413 @ $2D1D50
 
 #WRITE(GBA,$2D306C)
-Ｉ ｗｏｎｄｅｒ ｗｈｅｒｅ ｔｈｅｙ ｇｏ<linealt>
-ｗｈｅｎ ｔｈｅｙ ｆａｌｌ？．．．<linealt>
-Ｉｔ’ｌｌ ｆｏｒｅｖｅｒ ｂｅ ａ ｍｙｓｔｅｒｙ．<end>
+I wonder where they go<linealt>
+when they fall?...<linealt>
+It'll forever be a mystery.<end>
 
 
 //POINTER #414 @ $2D3070 - STRING #414 @ $2D1D8C
 
 #WRITE(GBA,$2D3070)
-Ｔｈｅｓｅ ｇｕｙｓ ｃｏｍｅ ｏｕｔｔａ ｎｏｗｈｅｒｅ<linealt>
-ａｎｄ ｆｌｙ ｔｏｗａｒｄｓ ｔｈｅ Ｂｌｉｍｐ．<end>
+These guys come outta nowhere<linealt>
+and fly towards the Blimp.<end>
 
 
 //POINTER #415 @ $2D3074 - STRING #415 @ $2D1DC4
 
 #WRITE(GBA,$2D3074)
-Ｉｔ ｂｅｔｔｅｒ ｎｏｔ ｇｅｔ ａ ｂｉｇ ｈｅａｄ ｊｕｓｔ<linealt>
-ｃａｕｓｅ ｉｔ ｇｏｔ ａ ｃｕｔｅ ｆａｃｅ！<end>
+It better not get a big head just<linealt>
+cause it got a cute face!<end>
 
 
 //POINTER #416 @ $2D3078 - STRING #416 @ $2D1DF4
 
 #WRITE(GBA,$2D3078)
-Ｔｈｉｓ ｔｈｉｎｇ’ｌｌ ｂｏｂ ｕｐ ａｎｄ ｄｏｗｎ ａｓ<linealt>
-ｌｏｎｇ ａｓ ｉｔ’ｓ ｓｔｕｃｋ ｏｎ ｔｈｅ ｃｅｉｌｉｎｇ．<end>
+This thing'll bob up and down as<linealt>
+long as it's stuck on the ceiling.<end>
 
 
 //POINTER #417 @ $2D307C - STRING #417 @ $2D1E24
 
 #WRITE(GBA,$2D307C)
-Ｉｔ ｌｏｏｋｓ ｌｉｋｅ Ｓｏｄａ Ｊｅｌｌｙ<linealt>
-Ｌｏｏｋｓ ｋｉｎｄａ ｔａｓｔｙ．．．<end>
+It looks like Soda Jelly<linealt>
+Looks kinda tasty...<end>
 
 
 //POINTER #418 @ $2D3080 - STRING #418 @ $2D1E5C
 
 #WRITE(GBA,$2D3080)
-Ｔｈｉｓ ｔｈｉｎｇ ｌｉｇｈｔｓ ｉｔｓｅｌｆ ｏｎ ｆｉｒｅ，<linealt>
-ｔｈｅｎ ｃｈａｒｇｅｓ ｓｔｒａｉｇｈｔ<linealt>
-ｆｏｒ ｔｈｅ ｂｌｉｍｐ．<end>
+This thing lights itself on fire,<linealt>
+then charges straight<linealt>
+for the blimp.<end>
 
 
 //POINTER #419 @ $2D3084 - STRING #419 @ $2D1E90
 
 #WRITE(GBA,$2D3084)
-Ｔｈａｔ’ｓ ｗｈａｔ ｔｈｅｙ ｃａｌｌ<linealt>
-”Ｒｕｓｈｉｎｇ ｈｅａｄｌｏｎｇ ｉｎｔｏ ｔｈｉｎｇｓ”．<linealt>
-Ｄｉｄ ｙａ ｌｅａｒｎ ｓｏｍｅｔｈｉｎｇ ｎｅｗ？<end>
+That's what they call<linealt>
+"Rushing headlong into things".<linealt>
+Did ya learn something new?<end>
 
 
 //POINTER #420 @ $2D3088 - STRING #420 @ $2D1ED0
 
 #WRITE(GBA,$2D3088)
-Ｔｈｉｓ ｓｅｅ－ｔｈｒｏｕｇｈ ｇｕｙ’ｌｌ ａｐｐｅａｒ<linealt>
-ｆｒｏｍ ｏｕｔｔａ ｔｈｅ ｂｌｕｅ ａｎｄ ｆｌｏａｔ<linealt>
-ｔｏｗａｒｄｓ ｔｈｅ Ｂｌｉｍｐ．<end>
+This see-through guy'll appear<linealt>
+from outta the blue and float<linealt>
+towards the Blimp.<end>
 
 
 //POINTER #421 @ $2D308C - STRING #421 @ $2D1F0C
 
 #WRITE(GBA,$2D308C)
-Ｔｈａｎｋｓ ｔｏ ｉｔ’ｓ ｂｏｄｙ，<linealt>
-ｗｅ ｃａｎ ｓｅｅ ｉｔ’ｓ ｉｎｓｉｄｅｓ．．．<linealt>
-Ｉｓ ｔｈａｔ ｏｋａｙ ｔｈｏｕｇｈ？．．．<end>
+Thanks to it's body,<linealt>
+we can see it's insides...<linealt>
+Is that okay though?...<end>
 
 
 //POINTER #422 @ $2D3090 - STRING #422 @ $2D1F4C
 
 #WRITE(GBA,$2D3090)
-Ｉ ｋｎｏｗ ｙｏｕ’ｒｅ ｐｒｅｔｅｎｄｉｎｇ ｔｏ ｂｅ<linealt>
-ａ ｒｏｃｋ， ｂｕｔ ｓｈａｋｉｎｇ ｍａｋｅｓ ｉｔ<linealt>
-ｏｂｖｉｏｕｓ ｔｈａｔ ｙｏｕ ａｒｅｎ’ｔ．<end>
+I know you're pretending to be<linealt>
+a rock, but shaking makes it<linealt>
+obvious that you aren't.<end>
 
 
 //POINTER #423 @ $2D3094 - STRING #423 @ $2D1F88
 
 #WRITE(GBA,$2D3094)
-Ｉｆ ｙｏｕ’ｒｅ ｇｏｎｎａ ｂｅ ｔｈａｔ ｏｂｖｉｏｕｓ，<linealt>
-ａｔｌｅａｓｔ ｂｅ ａ ｐｒｅｔｔｙ ｇｉｒｌ<linealt>
-ｏｒ ｓｏｍｅｔｈｉｎｇ．<end>
+If you're gonna be that obvious,<linealt>
+atleast be a pretty girl<linealt>
+or something.<end>
 
 
 //POINTER #424 @ $2D3098 - STRING #424 @ $2D1FC0
 
 #WRITE(GBA,$2D3098)
-Ｔｈｉｓ ｉｓ ｏｎｅ ｏｆ ｔｈｅ ｏｂｓｔａｃｌｅｓ ｙｏｕ’ｌｌ<linealt>
-ｓｅｅ ｗｈｅｎ ｒｉｄｉｎｇ ｔｈｅ Ｓｅａ Ｓｋａｔｅｒ．<end>
+This is one of the obstacles you'll<linealt>
+see when riding the Sea Skater.<end>
 
 
 //POINTER #425 @ $2D309C - STRING #425 @ $2D1FEC
 
 #WRITE(GBA,$2D309C)
-Ｉ ｈｅａｒｄ ｔｈａｔ ｔｈｅ ｓａｗ ｗａｓ ｓｔｏｌｅｎ<linealt>
-ｆｒｏｍ ａ ｌｕｍｂｅｒｊａｃｋ．．．<end>
+I heard that the saw was stolen<linealt>
+from a lumberjack...<end>
 
 
 //POINTER #426 @ $2D30A0 - STRING #426 @ $2D202C
 
 #WRITE(GBA,$2D30A0)
-Ｔｈｉｓ ｇｕｙ ｆｌｉｅｓ ｏｕｔｔａ ｔｏｘｉｃ ｗａｔｅｒ．<end>
+This guy flies outta toxic water.<end>
 
 
 //POINTER #427 @ $2D30A4 - STRING #427 @ $2D2050
 
 #WRITE(GBA,$2D30A4)
-Ｔｈｏｓｅ’ｒｅ ｓｏｍｅ ｃｒｅｅｐｙ ｅｙｅｓ，<linealt>
-ｂｕｔ ｗｈｅｒｅ ｉｓ ｉｔ ｌｏｏｋｉｎｇ？<end>
+Those're some creepy eyes,<linealt>
+but where is it looking?<end>
 
 
 //POINTER #428 @ $2D30A8 - STRING #428 @ $2D2080
 
 #WRITE(GBA,$2D30A8)
-Ｉｔ ｍａｙ ｌｏｏｋ ｃｕｔｅ，<linealt>
-ｂｕｔ ｔｈｉｓ ｇｕｙ’ｓ ｂｏｄｙ ｃｏｎｓｔａｎｔｌｙ<linealt>
-ｇｉｖｅｓ ｏｆｆ ｅｌｅｃｔｒｉｃｉｔｙ．<end>
+It may look cute,<linealt>
+but this guy's body constantly<linealt>
+gives off electricity.<end>
 
 
 //POINTER #429 @ $2D30AC - STRING #429 @ $2D20BC
 
 #WRITE(GBA,$2D30AC)
-Ｗｅｌｌ，<linealt>
-ｉｔ’ｓ ｇｏｏｄ ｔｈａｔ ｗｅ ｃａｎ ｓａｖｅ<linealt>
-ｅｎｅｒｇｙ ｉｎ ｔｈｅ ｆｕｔｕｒｅ．<end>
+Well,<linealt>
+it's good that we can save<linealt>
+energy in the future.<end>
 
 
 //POINTER #430 @ $2D30B0 - STRING #430 @ $2D20F8
 
 #WRITE(GBA,$2D30B0)
-Ｉｔ’ｓ ａ ｓｈｒｉｍｐ<end>
+It's a shrimp<end>
 
 
 //POINTER #431 @ $2D30B4 - STRING #431 @ $2D2100
 
 #WRITE(GBA,$2D30B4)
-．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．<linealt>
-．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．．<linealt>
-Ｉ ｔｈｉｎｋ．．．<end>
+....................................................................................<linealt>
+....................................................................................<linealt>
+I think...<end>
 
 
 //POINTER #432 @ $2D30B8 - STRING #432 @ $2D2154
 
 #WRITE(GBA,$2D30B8)
-Ｔｈｉｓ ｔｈｉｎｇ’ｌｌ ｔｒｙ ａｎｄ ｔｒａｃｋｌｅ ｔｈｅ<linealt>
-Ｓｅａ Ｓｋａｔｅｒ ｂｙ ｓｗｏｏｐｉｎｇ ｄｏｗｎ ａｔ ｉｔ．<end>
+This thing'll try and trackle the<linealt>
+Sea Skater by swooping down at it.<end>
 
 
 //POINTER #433 @ $2D30BC - STRING #433 @ $2D2190
 
 #WRITE(GBA,$2D30BC)
-Ｉｔ’ｓ ｎｏｓｔｒｉｌｓ ａｒｅ ｈｕｇｅ．．．<linealt>
-Ａｒｅ ｔｈｅｒｅ ｂｅａｎｓ ｓｔｕｆｆｅｄ<linealt>
-ｉｎ ｔｈｅｒｅ？<end>
+It's nostrils are huge...<linealt>
+Are there beans stuffed<linealt>
+in there?<end>
 
 
 //POINTER #434 @ $2D30C0 - STRING #434 @ $2D21C0
 
 #WRITE(GBA,$2D30C0)
-Ｔｈｉｓ ｔｈｉｎｇ’ｓ ｅｙｅｓ’ｒｅ ｓｃａｒｙ ｔｏｏ！<linealt>
-Ｎｏｔ ｔｏ ｍｅｎｔｉｏｎ ｉｔ’ｓ ｍｏｕｔｈ！<end>
+This thing's eyes're scary too!<linealt>
+Not to mention it's mouth!<end>
 
 
 //POINTER #435 @ $2D30C4 - STRING #435 @ $2D21E8
 
 #WRITE(GBA,$2D30C4)
-Ｉ ｂｅｔ ｉｔ’ｄ ｈｕｒｔ ｉｆ ｙｏｕ<linealt>
-ｇｏｔ ｂｉｔ ｂｙ ｔｈｉｓ ｔｈｉｎｇ．<end>
+I bet it'd hurt if you<linealt>
+got bit by this thing.<end>
 
 
 //POINTER #436 @ $2D30C8 - STRING #436 @ $2D2210
 
 #WRITE(GBA,$2D30C8)
-Ｔｈｉｓ ｒｅｃｋｌｅｓｓ ｒａｓｃａｌ’ｌｌ<linealt>
-ｔｒｙ ｔｏ ｒａｍ ｉｎｔｏ ｔｈｅ Ｓｅａ Ｓｋａｔｅｒ．<end>
+This reckless rascal'll<linealt>
+try to ram into the Sea Skater.<end>
 
 
 //POINTER #437 @ $2D30CC - STRING #437 @ $2D2248
 
 #WRITE(GBA,$2D30CC)
-Ｙｏｕ ｎｅａｒｌｙ ｗｒｅａｋｅｄ ｈａｖｏｃ！<linealt>
-Ｃａｒ ｃｒａｓｈｅｓ ａｒｅ ｓｃａｒｙ， ｙａ ｋｎｏｗ！<end>
+You nearly wreaked havoc!<linealt>
+Car crashes are scary, ya know!<end>
 
 
 //POINTER #438 @ $2D30D0 - STRING #438 @ $2D228C
 
 #WRITE(GBA,$2D30D0)
-Ｔｈｉｓ ｔｈｉｎｇ’ｌｌ ｆｌｏａｔ ｕｐ ａｎｄ ｄｏｗｎ<linealt>
-ａｓ ｙｏｕ ｍｏｖｅ ｔｏｗａｒｄｓ ｉｔ ｗｉｔｈ Ｒｙｕｎ．<end>
+This thing'll float up and down<linealt>
+as you move towards it with Ryun.<end>
 
 
 //POINTER #439 @ $2D30D4 - STRING #439 @ $2D22CC
 
 #WRITE(GBA,$2D30D4)
-Ｐｒｅｓｓ ｔｈｅ <A> Ｂｕｔｔｏｎ ｔｏ<linealt>
-ｐｒｏｔｅｃｔ ｙｏｕｒｓｅｌｆ ａｇａｉｎｓｔ<linealt>
-ｔｈｅ ｏｒｂｓ ｉｔ ｓｈｏｏｔｓ ｏｕｔ．<end>
+Press the <A> Button to<linealt>
+protect yourself against<linealt>
+the orbs it shoots out.<end>
 
 
 //POINTER #440 @ $2D30D8 - STRING #440 @ $2D22EC
 
 #WRITE(GBA,$2D30D8)
-Ｈｅ’ｓ ａ ｐｒｅｔｔｙ ｃｏｏｌ ｇｕｙ ｔｈａｎｋｓ<linealt>
-ｔｏ ｔｈｏｓｅ ｓｕｎｇｌａｓｓｅｓ ｈｅ ｗｅａｒｓ．<end>
+He's a pretty cool guy thanks<linealt>
+to those sunglasses he wears.<end>
 
 
 //POINTER #441 @ $2D30DC - STRING #441 @ $2D2324
 
 #WRITE(GBA,$2D30DC)
-Ｉ ｈｅａｒｄ ｈｅ ｕｓｅｄ ｔｏ ｂｅ<linealt>
-ａ ｇｕｎｓｌｉｎｇｅｒ．<end>
+I heard he used to be<linealt>
+a gunslinger.<end>
 
 
 //POINTER #442 @ $2D30E0 - STRING #442 @ $2D234C
 
 #WRITE(GBA,$2D30E0)
-Ｔｈｉｓ ｇｕｙ’ｌｌ ｔｒｙ ａｎｄ ｔａｃｋｌｅ<linealt>
-Ｒｙｕｎ ｗｈｅｎ ｈｅ ｓｅｅｓ ｈｉｍ．<end>
+This guy'll try and tackle<linealt>
+Ryun when he sees him.<end>
 
 
 //POINTER #443 @ $2D30E4 - STRING #443 @ $2D238C
 
 #WRITE(GBA,$2D30E4)
-Ｉｆ ｈｅ ｄｏｅｓ ｉｔ ａｇａｉｎ，<linealt>
-Ｉ’ｌｌ ｕｓｅ ｔｈａｔ ｆｌａｔ ｂｏｄｙ ｏｆ ｈｉｓ<linealt>
-ａｓ ａ ｓｅａｔ ｃｕｓｈｉｏｎ！<end>
+If he does it again,<linealt>
+I'll use that flat body of his<linealt>
+as a seat cushion!<end>
 
 
 //POINTER #444 @ $2D30E8 - STRING #444 @ $2D23D4
 
 #WRITE(GBA,$2D30E8)
-Ｉｔ’ｓ ａｎｇｅｌｉｃ ｉｎ ｎａｍｅ ｏｎｌｙ！<linealt>
-Ｉｔ’ｓ ｍｏｒｅ ｏｆ ａ ｄｅｍｏｎ ｉｆ ａｎｙｔｈｉｎｇ！<end>
+It's angelic in name only!<linealt>
+It's more of a demon if anything!<end>
 
 
 //POINTER #445 @ $2D30EC - STRING #445 @ $2D240C
 
 #WRITE(GBA,$2D30EC)
-Ｉｆ ｉｔ’ｓ ｒｅａｌｌｙ ａｎ ａｎｇｅｌ，<linealt>
-ｔｈｅｎ ｉｔ ｓｈｏｕｌｄ ｇｉｖｅ ｍｅ<linealt>
-ｐｅａｒｌｓ ｌｉｋｅ ｏｎｅ！<end>
+If it's really an angel,<linealt>
+then it should give me<linealt>
+pearls like one!<end>
 
 
 //POINTER #446 @ $2D30F0 - STRING #446 @ $2D2448
 
 #WRITE(GBA,$2D30F0)
-Ｔｈｉｓ ｔｈｉｎｇ’ｌｌ ｓｈｏｏｔ ｏｒｂｓ ａｔ ｙｏｕ<linealt>
-ｆｒｏｍ ｉｔ’ｓ ｇｉａｎｔ ｅｙｅ．<end>
+This thing'll shoot orbs at you<linealt>
+from it's giant eye.<end>
 
 
 //POINTER #447 @ $2D30F4 - STRING #447 @ $2D2474
 
 #WRITE(GBA,$2D30F4)
-Ｗｈｅｒｅ ａｒｅ ｉｔ’ｓ ｅｙｅｌｉｄｓ？<linealt>
-Ｄｏｅｓ ｉｔ ｎｏｔ ｇｅｔ ｄｒｙ ｅｙｅ？<end>
+Where are it's eyelids?<linealt>
+Does it not get dry eye?<end>
 
 
 //POINTER #448 @ $2D30F8 - STRING #448 @ $2D24B0
 
 #WRITE(GBA,$2D30F8)
-Ａｓ ｔｈｅｓｅ ｇｕｙｓ ｇｅｔ ｃｌｏｓｅｒ ｔｏ ｙｏｕ，<linealt>
-ｔｈｅｙ’ｌｌ ｕｓｅ ｔｈａｔ ｌｉｇｈｔ ｔｏ<linealt>
-ｍａｋｅ ｔｈｅｉｒ ｂｏｄｙ ｓｈｉｎｅ．<end>
+As these guys get closer to you,<linealt>
+they'll use that light to<linealt>
+make their body shine.<end>
 
 
 //POINTER #449 @ $2D30FC - STRING #449 @ $2D24D8
 
 #WRITE(GBA,$2D30FC)
-Ｔｈｅｙ ｓｈｉｎｅ ｊｕｓｔ ｌｉｋｅ<linealt>
-Ｃｈｒｉｓｔｍａｓ ｌｉｇｈｔｓ！<end>
+They shine just like<linealt>
+Christmas lights!<end>
 
 
 //POINTER #450 @ $2D3100 - STRING #450 @ $2D2510
 
 #WRITE(GBA,$2D3100)
-Ｉｔ ｍｕｓｔ ｂｅ ｒｅａｌ ｈａｎｄｙ ｔｏ<linealt>
-ｂｅ ａｂｌｅ ｔｏ ｔｕｒｎ ｔｒａｎｓｐａｒｅｎｔ．<end>
+It must be real handy to<linealt>
+be able to turn transparent.<end>
 
 
 //POINTER #451 @ $2D3104 - STRING #451 @ $2D253C
 
 #WRITE(GBA,$2D3104)
-Ｉｆ Ｉ ｃｏｕｌｄ ｄｏ ｔｈａｔ．．．<linealt>
-Ｄｅｈｅ．．．<linealt>
-Ｄｅｈｅｈｅｈｅｈｅｈｅｈｅｈ．．．<end>
+If I could do that...<linealt>
+Dehe...<linealt>
+Deheheheheheheh...<end>
 
 
 //POINTER #452 @ $2D3108 - STRING #452 @ $2D2580
 
 #WRITE(GBA,$2D3108)
-Ｔｈｉｓ ｃｒｅａｔｕｒｅ ｗａｓ ｂｏｒｎ ｄｕｅ ｔｏ<linealt>
-Ｏｇｕｒａ ｕｓｉｎｇ ｈｉｓ ｍａｇｉｃ ｏｎ ｉｔ．．．<end>
+This creature was born due to<linealt>
+Ogura using his magic on it...<end>
 
 
 //POINTER #453 @ $2D310C - STRING #453 @ $2D25C0
 
 #WRITE(GBA,$2D310C)
-Ｉ’ｌｌ ｎｅｖｅｒ ｕｎｄｅｒｓｔａｎｄ<linealt>
-Ｏｇｕｒａ’ｓ ｈｏｂｂｉｅｓ．．．<end>
+I'll never understand<linealt>
+Ogura's hobbies...<end>
 
 
 //POINTER #454 @ $2D3110 - STRING #454 @ $2D25F4
 
 #WRITE(GBA,$2D3110)
-Ｉｔ’ｓ ｎｏｒｍａｌｌｙ ｓｅｅ ｔｈｒｏｕｇｈ，<linealt>
-ｂｕｔ’ｌｌ ｌｉｇｈｔ ｕｐ ｌｉｋｅ ａ ｌｉｇｈｔ ｂｕｌｂ<linealt>
-ｗｈｅｎ ｉｔ ｇｅｔｓ ｃｌｏｓｅ．<end>
+It's normally see through,<linealt>
+but'll light up like a light bulb<linealt>
+when it gets close.<end>
 
 
 //POINTER #455 @ $2D3114 - STRING #455 @ $2D2630
 
 #WRITE(GBA,$2D3114)
-Ｂｕｔ Ｉ ｄｏｎ’ｔ ｗａｎｔ ａｎ ｕｇｌｙ<linealt>
-ｌｉｇｈｔｂｕｌｂ ｌｉｋｅ ｔｈｉｓ．<end>
+But I don't want an ugly<linealt>
+lightbulb like this.<end>
 
 
 //POINTER #456 @ $2D3118 - STRING #456 @ $2D2660
 
 #WRITE(GBA,$2D3118)
-Ｔｈｅｙ ｍａｙ ｂｅ ｓｐｉｋｙ，<linealt>
-ｂｕｔ ａ ｒｏａｒ ｆｒｏｍ ｔｈｅ Ｃｏｓｔｕｍｅ<linealt>
-ｗｉｌｌ ｃｈａｎｇｅ ｔｈｅｉｒ ｔｕｎｅ！<end>
+They may be spiky,<linealt>
+but a roar from the Costume<linealt>
+will change their tune!<end>
 
 
 //POINTER #457 @ $2D311C - STRING #457 @ $2D269C
 
 #WRITE(GBA,$2D311C)
-Ｔｃｈ， Ｉｆ ｙｏｕ’ｒｅ ｇｏｎｎａ ｇｅｔ ｓｃａｒｅｄ<linealt>
-ｔｈａｔ ｅａｓｉｌｙ， ｌｏｓｅ ｔｈｅ ｇｌａｒｅ， ｐａｌ！<end>
+Tch, If you're gonna get scared<linealt>
+that easily, lose the glare, pal!<end>
 
 
 //POINTER #458 @ $2D3120 - STRING #458 @ $2D26D8
 
 #WRITE(GBA,$2D3120)
-Ｕｎｌｅｓｓ ｙｏｕ ｒｏａｒ ａｔ ｉｔ ｔｏ ｍａｋｅ ｉｔ<linealt>
-ｃｌａｍ ｕｐ， ｉｔ’ｌｌ ｃｈａｓｅ ａｆｔｅｒ ｙｏｕ ｗｉｔｈ<linealt>
-ｔｈａｔ ｓｃａｒｙ ｌｏｏｋ ｏｎ ｉｔ’ｓ ｆａｃｅ．<end>
+Unless you roar at it to make it<linealt>
+clam up, it'll chase after you with<linealt>
+that scary look on it's face.<end>
 
 
 //POINTER #459 @ $2D3124 - STRING #459 @ $2D2718
 
 #WRITE(GBA,$2D3124)
-Ｕｎｒｅｌａｔｅｄ， ｂｕｔ ｔｈｉｓ ｇｕｙ ｍａｋｅｓ<linealt>
-ｍｅ ｗａｎｎａ ｅａｔ ｓｏｍｅ ｓｔｅｗ．<end>
+Unrelated, but this guy makes<linealt>
+me wanna eat some stew.<end>
 
 
 //POINTER #460 @ $2D3128 - STRING #460 @ $2D2758
 
 #WRITE(GBA,$2D3128)
-Ｔｈｉｓ ｈｅｌｐｆｕｌ ｐｅｒｓｏｎ’ｌｌ<linealt>
-ｃａｒｒｙ ｙｏｕ ｔｏ ｈｉｇｈ ｐｌａｃｅｓ．<end>
+This helpful person'll<linealt>
+carry you to high places.<end>
 
 
 //POINTER #461 @ $2D312C - STRING #461 @ $2D278C
 
 #WRITE(GBA,$2D312C)
-Ｔｈｅｙ ｍａｙ ｂｅ ｐｒｅｔｔｙ ａｎｄ ｓｈｉｎｙ，<linealt>
-ｂｕｔ ｔｈｅｙ’ｒｅ ｓｔｉｌｌ ｎｏ ｍａｔｃｈ ｆｏｒ<linealt>
-ｍｙ ｌｏｖｅｌｙ Ｍｓ． Ｒｕｂｙ！<end>
+They may be pretty and shiny,<linealt>
+but they're still no match for<linealt>
+my lovely Ms. Ruby!<end>
 
 
 //POINTER #462 @ $2D3130 - STRING #462 @ $2D27D8
 
 #WRITE(GBA,$2D3130)
-Ｉｆ ｙｏｕ ｕｓｅ ｔｈｅ Ｃｏｓｔｕｍｅ ｔｏ<linealt>
-ｒｏａｒ ａｔ ’ｅｍ， ｔｈｅｙ’ｌｌ ｔｕｒｎ ｉｎｔｏ<linealt>
-ａ ｐｌａｔｆｏｒｍ．<end>
+If you use the Costume to<linealt>
+roar at 'em, they'll turn into<linealt>
+a platform.<end>
 
 
 //POINTER #463 @ $2D3134 - STRING #463 @ $2D2808
 
 #WRITE(GBA,$2D3134)
-Ｉｔ ｇｏｉｎ’ ｉｎｓｉｄｅ ｉｔｓｅｌｆ ｉｓ ｎｉｃｅ ａｎｄ ａｌｌ，<linealt>
-ｂｕｔ ｄｏｅｓ ｉｔ ｎｏｔ ｈａｖｅ ａｎｙ ｏｒｇａｎｓ？<end>
+It goin' inside itself is nice and all,<linealt>
+but does it not have any organs?<end>
 
 
 //POINTER #464 @ $2D3138 - STRING #464 @ $2D2834
 
 #WRITE(GBA,$2D3138)
-Ｂｅ ｃａｒｅｆｕｌ！<linealt>
-Ｔｏｕｃｈ ｉｔ ｌｉｋｅ ｔｈｉｓ ａｎｄ<linealt>
-ｙｏｕ’ｒｅ ｇｏｎｎａ ｇｅｔ ｈｕｒｔ！<end>
+Be careful!<linealt>
+Touch it like this and<linealt>
+you're gonna get hurt!<end>
 
 
 //POINTER #465 @ $2D313C - STRING #465 @ $2D2868
 
 #WRITE(GBA,$2D313C)
-Ｂｕｔ ｔｈｅｙ’ｒｅ ｓｃａｒｅｄ ｏｆ ｃｏｓｔｕｍｅｓ．<linealt>
-Ｈａｈ！ Ｉｔ’ｓ ｍｏｒｅ ｏｆ ａ ｃｏｗａｒｄ ｔｈａｎ<linealt>
-Ｉ ｔｈｏｕｇｈｔ ｉｔ’ｄ ｂｅ！<end>
+But they're scared of costumes.<linealt>
+Hah! It's more of a coward than<linealt>
+I thought it'd be!<end>
 
 
 //POINTER #466 @ $2D3140 - STRING #466 @ $2D28B0
 
 #WRITE(GBA,$2D3140)
-Ｔｈｉｓ ｋｉｎｄ， ｃｕｔｅ ｌｏｏｋｉｎｇ<linealt>
-ｐｅｒｓｏｎ’ｌｌ ｈｅｌｐ ｕｓ ｏｕｔ．<end>
+This kind, cute looking<linealt>
+person'll help us out.<end>
 
 
 //POINTER #467 @ $2D3144 - STRING #467 @ $2D28DC
 
 #WRITE(GBA,$2D3144)
-Ｌｏｏｋｓ ｌｉｋｅ ｔｈｅｙ ｅｎｊｏｙ<linealt>
-ｒｅｌａｘｉｎｇ ｕｎｄｅｒｇｒｏｕｎｄ．<end>
+Looks like they enjoy<linealt>
+relaxing underground.<end>
 
 
 //POINTER #468 @ $2D3148 - STRING #468 @ $2D2910
 
 #WRITE(GBA,$2D3148)
-Ｔｈｉｓ ｍｕｓｔ ｂｅ ｏｎｅ ｃｈｅｅｋｙ ｊｅｌｌｙｆｉｓｈ，<linealt>
-ｆｌｙｉｎｇ ｉｎ ｔｈｅ ｓｋｙ ｌｉｋｅ ｔｈａｔ．<end>
+This must be one cheeky jellyfish,<linealt>
+flying in the sky like that.<end>
 
 
 //POINTER #469 @ $2D314C - STRING #469 @ $2D2944
 
 #WRITE(GBA,$2D314C)
-Ｔｈｅｒｅ ａｒｅ ａｌｗａｙｓ ｍｏｒｅ ｏｆ ｔｈｅｓｅ<linealt>
-ｇｕｙｓ ａｆｔｅｒ ａｎ Ｏｂｏｎ Ｆｅｓｔｉｖａｌ．．．<end>
+There are always more of these<linealt>
+guys after an Obon Festival...<end>
 
 
 //POINTER #470 @ $2D3150 - STRING #470 @ $2D2978
 
 #WRITE(GBA,$2D3150)
-Ｙｕｐ， Ｌｉｆｔｗｉｓｐ’ｓ ａｓ ｃｕｔｅ ａｓ ａｌｗａ－<linealt>
-ＨＥＹ， ＴＨＩＳ ＡＩＮ’Ｔ ＬＩＦＴＷＩＳＰ！<end>
+Yup, Liftwisp's as cute as alwa-<linealt>
+HEY, THIS AIN'T LIFTWISP!<end>
 
 //POINTER #470 @ $2D3154 - STRING #470 @ $2D29C4
 
 #WRITE(GBA,$2D2154)
-Ｉｓ ｔｈｉｓ ｇｕｙ ｃｏｐｙｉｎｇ Ｌｉｆｔｗｉｓｐ！？<linealt>
-Ｙｏｕ ｃｏｕｌｄ ｇｅｔ ｓｕｅｄ ｆｏｒ ｔｈａｔ！<end>
+Is this guy copying Liftwisp!?<linealt>
+You could get sued for that!<end>
 

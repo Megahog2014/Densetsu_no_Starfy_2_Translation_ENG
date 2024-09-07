@@ -13,17 +13,17 @@
 #JMP(000000)
 
 [<x_pos> <4><9>]<line>
-Ｓｔａｒｆｙ ａｎｄ Ｍｏｅ ｗｅｒｅ ｏｎｃｅ ａｇａｉｎ<line>
+Starfy and Moe were once again<line>
 [<x_pos> <5><4>]<line>
-ａｂｌｅ ｔｏ ｓｅａｌ Ｏｇｕｒａ ｉｎ ｔｈｅ ｊａｒ．．．<line>
+able to seal Ogura in the jar...<line>
 <:func> <4><line>
 <:c><line>
 [<x_pos> <3><0>]<line>
-<wait>Ａｎｄ ｎｏｗ ｔｈａｔ ｔｈｅｙ’ｖｅ ｆｏｕｎｄ ａｌｌ ｔｈｅ<line>
+<wait>And now that they've found all the<line>
 [<x_pos> <3><0>]<line>
-ｔｒｅａｓｕｒｅｓ， ｔｈｅ ｓｔｏｒｙ ｉｓ ｎｏｗ ｔｒｕｌｙ ｏｖｅｒ．<line>
+treasures, the story is now truly over.<line>
 [<x_pos> <3><0>]<line>
-Ｎｏｗ ｗｈｙ ｄｏｎ’ｔ ｗｅ ｈｅａｄ ｂａｃｋ ｔｏ Ｐｕｆｆｔｏｐ？<line>
+Now why don't we head back to Pufftop?<line>
 <:func> <4><line>
 <:c><line>
 <:func> <5> <1> <1><0><line>
@@ -33,41 +33,41 @@
 <linealt>
 <wait><:func> <3> <0><line>
 <wait>[<x_pos> <0>]<line>
-<rname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｏｈ！ Ｓｔａｒｆｙ！<line>
+<rname><diamond>Papa Star<line>
+Oh! Starfy!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｙｏｕ’ｖｅ ｆｉｎａｌｌｙ ｃｏｌｌｅｃｔｅｄ ａｌｌ ｏｆ<line>
-ｔｈｅ ｔｒｅａｓｕｒｅｓ．．． Ａｔ ｌｏｎｇ ｌａｓｔ．．．<line>
+<redname><diamond>Papa Star<line>
+You've finally collected all of<line>
+the treasures... At long last...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ａｌｒｉｇｈｔ， ｅｖｅｒｙｏｎｅ！<line>
-Ｉｔ ｉｓ ｔｉｍｅ ｆｏｒ ａ ｃｅｌｅｂｒａｔｉｏｎ！<line>
+<redname><diamond>Papa Star<line>
+Alright, everyone!<line>
+It is time for a celebration!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｇｅｔ ｔｈｅ ｐｒｅｐｅｒａｔｉｏｎｓ ｉｎ ｏｒｄｅｒ！<line>
+<redname><diamond>Papa Star<line>
+Get the preperations in order!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｎｏｔ ｏｎｌｙ ｔｏ ｃｅｌｅｂｒａｔｅ ｐｅａｃｅ ｏｎｃｅ<line>
-ａｇａｉｎ ｒｅｔｕｒｎｉｎｇ ｔｏ Ｐｕｆｆｔｏｐ．．．<line>
+<redname><diamond>Papa Star<line>
+Not only to celebrate peace once<line>
+again returning to Pufftop...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｂｕｔ ｔｏ ｃｏｎｇｒａｔｕｌａｔｅ Ｓｔａｒｆｙ ａｎｄ Ｍｏｅ，<line>
-ｆｏｒ ｃｏｌｌｅｃｔｉｎｇ ａｌｌ ｏｆ ｔｈｅ ｔｒｅａｓｕｒｅｓ ｔｏｏ！<line>
+<redname><diamond>Papa Star<line>
+But to congratulate Starfy and Moe,<line>
+for collecting all of the treasures too!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｉｔ ａｌｌ ｄｅｓｅｒｖｅｓ ｏｕｒ ｕｔｍｏｓｔ ｐｒａｉｓｅ！<line>
-Ｎｏｗ， ｌｅｔ ｕｓ ｈａｖｅ ａ ｇｒａｎｄ ｃｅｌｅｂｒａｔｉｏｎ！<line>
+<redname><diamond>Papa Star<line>
+It all deserves our utmost praise!<line>
+Now, let us have a grand celebration!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐｕｆｆｔｏｐ Ｓｏｌｄｉｅｒｓ<line>
-ＨＯＯＲＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＡＹ！！！<line>
+<redname><diamond>Pufftop Soldiers<line>
+HOORAAAAAAAAAAAAAAAAAAY!!!<line>
 <:func> <4><line>
 <:c><line>
 <:func> <5> <1> <1><0><line>
@@ -81,38 +81,38 @@
 <:func> <2> <4><8><line>
 <:func> <3> <0><line>
 <wait>[<x_pos> <1><5>]<line>
-．．．＊ｓｉｇｈ＊．．．<line>
-Ｉｔ ｗａｓ ｓｕｐｅｒ ｆｕｎ ａｄｖｅｎｔｕｒｉｎ’ ｗｉｔｈ ｙａ ａｇａｉｎ，<line>
-Ｓｔａｒｆｙ．．．<line>
+...*sigh*...<line>
+It was super fun adventurin' with ya again,<line>
+Starfy...<line>
 <:func> <4><line>
 <:c><line>
-<wait>Ｂｕｔ ｙ’ｋｎｏｗ．．．<line>
-Ｆａｍｉｌｙ’ｓ ａ ｒｅａｌ ｎｉｃｅ ｔｈｉｎｇ．．．<line>
-Ｅｖｅｎ ｔｈｏｕｇｈ ｍｙ Ｍａ ａｎｄ Ｐｏｐｓ ａｉｎ’ｔ<line>
-ｈｅｒｅ ａｎｙｍｏｒｅ．．．<line>
+<wait>But y'know...<line>
+Family's a real nice thing...<line>
+Even though my Ma and Pops ain't<line>
+here anymore...<line>
 <:func> <4><line>
 <:c><line>
-<wait>Ｉ’ｖｅ ｓｔｉｌｌ ｇｏｔ ｍｙ ｓｉｂｌｉｎｇｓ．<line>
-Ａｎｄ ｓｏ ｔｈｅｙ ｃａｎ ｌｉｖｅ<line>
-ｎｉｃｅ ａｎｄ ｃｏｎｆｏｒｔａｂｌｅ ｌｉｖｅｓ，<line>
-Ｉ’ｍ ｇｏｎｎａ ｇｅｔ ｓｕｐｅｒ ｒｉｃｈ ｏｎｅ ｄａｙ．．．<line>
+<wait>I've still got my siblings.<line>
+And so they can live<line>
+nice and confortable lives,<line>
+I'm gonna get super rich one day...<line>
 <:func> <4><line>
 <:c><line>
-<wait>Ｙｏｕ’ｒｅ ａ ｒｅａｌ ｌｕｃｋｙ ｇｕｙ Ｓｔａｒｆｙ．<line>
-Ｍａｋｅ ｓｕｒｅ ｔｏ ｔａｋｅ ｇｏｏｄ ｃａｒｅ ｏｆ ｙｏｕｒ ｆｏｌｋｓ．<line>
-Ｉ’ｌｌ ｃｏｍｅ ｂａｃｋ ｔｏ ｖｉｓｉｔ ｓｏｍｅｔｉｍｅ．．．<line>
+<wait>You're a real lucky guy Starfy.<line>
+Make sure to take good care of your folks.<line>
+I'll come back to visit sometime...<line>
 <:func> <4><line>
 <:c><line>
-<wait>Ｏ－ｏｈ ｙｅａｈ！．．．<line>
-Ａ－Ａｎｄ ｎｅｘｔ ｔｉｍｅ， ｔｈｅｒｅ<line>
-Ｂｅｔｔｅｒ ｂｅ ｍｏｒｅ ｔｒｅａｓｕｒｅ ｉｎ ｉｔ ｆｏｒ ｍｅ！<line>
-Ｈｅｈ．．．Ｈｅｈ ｈｅｈ ｈｅｈ．．．<line>
+<wait>O-oh yeah!...<line>
+A-And next time, there<line>
+Better be more treasure in it for me!<line>
+Heh...Heh heh heh...<line>
 <:func> <4><line>
 <:c><line>
-<wait>Ｓ－Ｓｅｅｙａ ｌａｔｅｒ， Ｓｔａｒｆｙ！<line>
-Ｍｙ ｏｎｌｙ ｆｒｉｅｎｄ．．．<line>
-Ｔａｋｅ ｃａｒｅ ｏｆ ｙｏｕｒｓｅｌｆ．．．<line>
-Ａｄｉｏｓ．．．<line>
+<wait>S-Seeya later, Starfy!<line>
+My only friend...<line>
+Take care of yourself...<line>
+Adios...<line>
 <:func> <2> <8><0><line>
 <:func> <3> <0><line>
 <:func> <5> <1> <1><0><line>

@@ -13,17 +13,17 @@
 #JMP(000000)
 
 [<x_pos> <4><9>]<line>
-Ｓｔａｒｆｙ ａｎｄ Ｍｏｅ ｗｅｒｅ ｏｎｃｅ ａｇａｉｎ<line>
+Starfy and Moe were once again<line>
 [<x_pos> <5><4>]<line>
-ａｂｌｅ ｔｏ ｓｅａｌ Ｏｇｕｒａ ｉｎ ｔｈｅ ｊａｒ．．．<line>
+able to seal Ogura in the jar...<line>
 <:func> <4><line>
 <:c><line>
 [<x_pos> <3><2>]<line>
-<wait>Ａｎｄ ｒｅｓｃｕｅ Ｍａｍａ Ｓｔａｒ ｓａｆｅ ａｎｄ ｓｏｕｎｄ．<line>
+<wait>And rescue Mama Star safe and sound.<line>
 [<x_pos> <7><5>]<line>
-Ｗｈａｔ ａ ｈａｐｐｙ ｅｎｄｉｎｇ．．．<line>
+What a happy ending...<line>
 [<x_pos> <5><2>]<line>
-Ｎｏｗ ｌｅｔ’ｓ ｇｅｔ ｂａｃｋ ｔｏ Ｐｕｆｆｔｏｐ．<line>
+Now let's get back to Pufftop.<line>
 <:func> <4><line>
 <:c><line>
 <:func> <5> <1> <1><0><line>
@@ -32,133 +32,133 @@
 <:func> <2> <8><line>
 <wait><:func> <3> <0><line>
 <wait>[<x_pos> <0>]<line>
-<rname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｏｈ！ Ｓｔａｒｆｙ！<line>
-Ｗｅｌｌ ｄｏｎｅ， ｍｙ ｂｏｙ！<line>
+<rname><diamond>Papa Star<line>
+Oh! Starfy!<line>
+Well done, my boy!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｉ ｎｅｖｅｒ ｔｈｏｕｇｈｔ ｔｈａｔ Ｏｇｕｒａ ｗｏｕｌｄ<line>
-ｅｓｃａｐｅ ｔｈｅ ｊａｒ ｏｎ ｈｉｓ ｏｗｎ．．．<line>
+<redname><diamond>Papa Star<line>
+I never thought that Ogura would<line>
+escape the jar on his own...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｗｅ’ｌｌ ｈａｖｅ ｔｏ ｂｅ ｍｕｃｈ ｍｏｒｅ ｃａｒｅｆｕｌ<line>
-ｗｉｔｈ ｔｈｅ Ｊａｒ ｆｒｏｍ ｎｏｗ ｏｎ．．．<line>
+<redname><diamond>Papa Star<line>
+We'll have to be much more careful<line>
+with the Jar from now on...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｙｅａｈ， Ｏｂｖｉｏｕｓｌｙ！<line>
-Ｓｈｅｅｓｈ， ｙｏｕ ｇｕｙｓ ａｒｅ ｕｓｅｌｅｓｓ．．．<line>
+<redname><diamond>Moe<line>
+Yeah, Obviously!<line>
+Sheesh, you guys are useless...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-＊ｇｒｕｍｂｌｅ＊ Ａｔ ａｎｙ ｒａｔｅ，<line>
-ａｔ ｌｅａｓｔ ｅｖｅｒｙｏｎｅ ｉｓ ｓａｆｅ．．．<line>
+<redname><diamond>Papa Star<line>
+*grumble* At any rate,<line>
+at least everyone is safe...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｂｙ ｔｈｅ ｗａｙ．．． Ｈｅｙ， Ｇｒａｍｐｓ！<line>
-Ｙｏｕ ｋｎｏｗ ｗｈａｔ ｔｏ ｄｏ ｎｏｗ， ｒｉｇｈｔ？．．．<line>
+<redname><diamond>Moe<line>
+By the way... Hey, Gramps!<line>
+You know what to do now, right?...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｙｅｓ， Ｙｅｓ， Ｉ ｋｎｏｗ！ Ｙｏｕ ｗａｎｔ ｔｒｅａｓｕｒｅ．．．<line>
-Ｍｙ ｗｏｒｄ．．．<line>
+<redname><diamond>Papa Star<line>
+Yes, Yes, I know! You want treasure...<line>
+My word...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｉｆ ｙｏｕ ｋｎｏｗ， ｔｈｅｎ ｈｕｒｒｙ ｕｐ ａｎｄ ｈａｎｄ ｉｔ ｏｖｅｒ！<line>
-Ｃｈｏｐ Ｃｈｏｐ！ Ｇｉｍｍｅ ｔｈｅ ｔｒｅａｓｕｒｅ！<line>
+<redname><diamond>Moe<line>
+If you know, then hurry up and hand it over!<line>
+Chop Chop! Gimme the treasure!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
+<redname><diamond>Papa Star<line>
 <:func> <2> <2><4><line>
-Ｏｈ ｆｉｎｅ．．．Ｈｅｒｅ！<line>
-Ｔａｋｅ ｔｈｉｓ ｔｒｅａｓｕｒｅ ｍａｐ！<line>
+Oh fine...Here!<line>
+Take this treasure map!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｗｈａｔ’ｓ ｔｈｉｓ？<line>
+<redname><diamond>Moe<line>
+What's this?<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｔｈｅ ｔｒｅａｓｕｒｅ’ｓ ｒｉｇｈｔ ｈｅｒｅ ｉｎ Ｐｕｆｆｔｏｐ，<line>
-ａｉｎ’ｔ ｉｔ？<line>
+<redname><diamond>Moe<line>
+The treasure's right here in Pufftop,<line>
+ain't it?<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ａｂｏｕｔ ｔｈａｔ．．．<$<5>E>Ｄｕｅ ｔｏ Ｓｔａｒｆｙ<line>
-ａｃｃｉｄｅｎｔａｌｌｙ ｌｏｓｉｎｇ ｔｈｅ ｔｒｅａｓｕｒｅ ｂｅｆｏｒｅ．．．<line>
+<redname><diamond>Papa Star<line>
+About that...<$<5>E>Due to Starfy<line>
+accidentally losing the treasure before...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｗｅ’ｖｅ ｂｅｅｎ ｈｉｄｉｎｇ ｔｈｅｍ ｔｈｒｏｕｇｈｏｕｔ<line>
-ｔｈｅ ｓｅａ ｆｏｒ ｔｈｅ ｐａｓｔ ｆｅｗ ｙｅａｒｓ．<line>
+<redname><diamond>Papa Star<line>
+We've been hiding them throughout<line>
+the sea for the past few years.<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｐａｐａ Ｓｔａｒ<line>
-Ｍｙ ａｐｏｌｏｇｉｅｓ， ｂｕｔ ｙｏｕ’ｌｌ ｈａｖｅ ｔｏ ｕｓｅ<line>
-ｔｈａｔ ｔｒｅａｓｕｒｅ ｍａｐ ｔｏ ｆｉｎｄ ｔｈｅｍ．．．<line>
+<redname><diamond>Papa Star<line>
+My apologies, but you'll have to use<line>
+that treasure map to find them...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｙｏｕ’ｖｅ ｇｏｔｔａ ｂｅ ｋｉｄｄｉｎｇ ｍｅ！<line>
-．．．Ｗｈａｔ ａ ｐａｉｎ．．． Ｓｈｅｅｓｈ．．．<line>
+<redname><diamond>Moe<line>
+You've gotta be kidding me!<line>
+...What a pain... Sheesh...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-//＊Ｓｉｇｈ＊．．． Ｄｏ ｉｔ ｆｏｒ ｔｈｅ ｔｒｅａｓｕｒｅ， Ｍｏｅ．．．<line>
+<redname><diamond>Moe<line>
+//*Sigh*... Do it for the treasure, Moe...<line>
 <:func> <2> <4><0><line>
-Ｃ’ｍｏｎ， Ｓｔａｒｆ！ Ｌｅｔ’ｓ ｇｏ！<line>
+C'mon, Starf! Let's go!<line>
 <line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｗｈａｔ’ｓ ｔｈａｔ？ ”Ｍａｍａ’ｓ ｆｉｎａｌｌｙ ｂａｃｋ，<line>
-ａｎｄ ｙａ ｄｏｎ’ｔ ｗａｎｎａ ｌｅａｖｅ”？！．．．<line>
+<redname><diamond>Moe<line>
+What's that? "Mama's finally back,<line>
+and ya don't wanna leave"?!...<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｄｏｎ’ｔ ｂｅ ｄｕｍｂ！ Ｃ’ｍｏｎ！！！<line>
+<redname><diamond>Moe<line>
+Don't be dumb! C'mon!!!<line>
 <:func> <2> <4><8><line>
-Ｗｈ－ＯＷ！！！<line>
+Wh-OW!!!<line>
 <:func> <3> <0><line>
 <wait><:func> <2> <6><4><line>
 <:func> <3> <0><line>
 <:c><line>
-<redname><diamond>Ｏｇｕｒａ<line>
-Ｇｗａｈａｈａｈａｈａ！ Ｙｏｕ ｆｏｏｌｓ！<line>
+<redname><diamond>Ogura<line>
+Gwahahahaha! You fools!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｏｇｕｒａ<line>
-Ｉ ｈｅａｒｄ ｓｏｍｅｔｈｉｎｇ ｇｒｅａｔ！ Ｉ’ｌｌ ｃｏｌｌｅｃｔ<line>
-ｅｖｅｒｙ ｓｉｎｇｌｅ ｏｎｅ ｏｆ ｔｈｏｓｅ ｔｒｅａｓｕｒｅｓ！<line>
+<redname><diamond>Ogura<line>
+I heard something great! I'll collect<line>
+every single one of those treasures!<line>
 <:func> <2> <6><8><line>
 <:func> <3> <0><line>
 <:c><line>
-<redname><diamond>Ｐｕｃｈｉ Ｏｇｕｒａｓ<line>
+<redname><diamond>Puchi Oguras<line>
 <:func> <2> <7><2><line>
-Ａｈａｈａｈａｈａ！ Ｄｕｍｍｉｅｓ！ Ｉｄｉｏｔｓ！<line>
-Ｗｅ’ｒｅ ｔａｋｉｎｇ ｔｈｅ ｔｒｅａｓｕｒｅ～！<line>
+Ahahahaha! Dummies! Idiots!<line>
+We're taking the treasure～!<line>
 <:func> <4><line>
 <:c><line>
 <wait>[<wait_time> <3><0>]<line>
 <:func> <2> <8><0><line>
 <:func> <3> <0><line>
-<rname><diamond>Ｍｏｅ<line>
-．．．Ｙｏｕ．．． Ｙｏｕ Ｂｌｏｃｋｈｅａｄ！<line>
-Ｌｏｏｋ ａｔ ｗｈａｔ ｙｏｕ ｄｉｄ！<line>
+<rname><diamond>Moe<line>
+...You... You Blockhead!<line>
+Look at what you did!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｃ’ｍｏｎ！ Ｗｅ ｇｏｔｔａ ｇｏ ＮＯＷ！<line>
+<redname><diamond>Moe<line>
+C'mon! We gotta go NOW!<line>
 <:func> <4><line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
+<redname><diamond>Moe<line>
 <:func> <2> <8><8><line>
-Ｗｅ ｈａｖｅ ｔｏ ｆｉｎｄ ｔｈｏｓｅ ｔｒｅａｓｕｒｅｓ ｂｅｆｏｒｅ<line>
-ｔｈｏｓｅ ｇｕｙｓ ｄｏ！ Ｌｅｔ’ｓ ＧＯ！！！<line>
+We have to find those treasures before<line>
+those guys do! Let's GO!!!<line>
 <:func> <3> <0><line>
 <:func> <4><line>
 <:func> <5> <1> <1><0><line>

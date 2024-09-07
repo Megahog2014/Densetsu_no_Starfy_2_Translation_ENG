@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚o‚t‚e‚e‚s‚n‚o@‚W|‚U<line>
+PUFFTOP 8-6<line>
 [<x_pos> <4><6>]<line>
 [<y_pos> <2><0>]<line>
-‚q‚‰‚„‚… ‚i‚…‚—‚…‚Œ‚Œ‚™ ‚s‚‚—‚‚’‚„‚“ ‚n‚•‚’ ‚f‚‚‚ŒI<line>
-    ‚c‚…‚†‚…‚‚” ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚WI<line>
+Ride Jewelly Towards Our Goal!<line>
+    Defeat Puchi Ogura #8!<line>
 <end>
 

@@ -12,9 +12,9 @@
 
 #JMP(000000)
 
-　Ａｎ ｅａｓｙ ｗａｙ<line>
-ｔｏ ｍｏｖｅ ｉｎ ｗａｔｅｒ！<line>
-Ｐｒａｃｔｉｃｅ ａｓ ｍｕｃｈ<line>
-　ａｓ ｙｏｕ’ｄ ｌｉｋｅ！<line>
+ An easy way<line>
+to move in water!<line>
+Practice as much<line>
+ as you'd like!<line>
 <end>
 

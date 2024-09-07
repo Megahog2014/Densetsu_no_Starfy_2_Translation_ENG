@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚f‚k‚t‚f‚k‚t‚f ‚k‚`‚f‚n‚n‚m@‚Q|‚R<line>
+GLUGLUG LAGOON 2-3<line>
 [<x_pos> <3><5>]<line>
 [<y_pos> <2><0>]<line>
-@@@ ‚f‚…‚” ‚”‚ˆ‚… ‚a‚Œ‚‰‚‚ ‚”‚ˆ‚‚”<line>
-‚n‚Œ‚„ ‚l‚‚ ‚l‚…‚ƒ‚ˆ‚‚‚‰f‚“ ‚a‚…‚…‚ ‚v‚‚’‚‹‚‰‚‚‡ ‚n‚I<line>
+    Get the Blimp that<line>
+Old Man Mechani's Been Working On!<line>
 <end>
 

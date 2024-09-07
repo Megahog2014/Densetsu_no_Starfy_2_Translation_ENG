@@ -12,9 +12,9 @@
 
 #JMP(000000)
 
-‚v‚ˆ‚…‚ ‚“‚”‚‚‚„‚‰‚‚‡ ‚‰‚<line>
-‚†‚’‚‚‚” ‚‚† ‚ ‚„‚‚‚’C<line>
-‚‚’‚…‚“‚“ ‚t‚ ‚‚ ‚”‚ˆ‚… <Dpad><line>
-‚”‚ ‚…‚‚”‚…‚’ ‚‰‚”I<line>
+When standing in<line>
+front of a door,<line>
+press Up on the <Dpad><line>
+to enter it!<line>
 <end>
 

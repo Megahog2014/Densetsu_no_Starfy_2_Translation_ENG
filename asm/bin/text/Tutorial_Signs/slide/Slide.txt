@@ -12,10 +12,10 @@
 
 #JMP(000000)
 
-‚x‚‚• ‚ƒ‚‚ ‚•‚“‚… ‚”‚ˆ‚‰‚“<line>
-‚”‚ ‚‡‚…‚” ‚‰‚‚”‚ ‚–‚…‚’‚™<line>
-‚‚‚’‚’‚‚— ‚‚Œ‚‚ƒ‚…‚“I<line>
-‚x‚‚•f‚Œ‚Œ ‚ˆ‚‚–‚… ‚”‚<line>
-‚’‚…‚‚…‚‚‚‚…‚’ ‚”‚ˆ‚‚”I<line>
+You can use this<line>
+to get into very<line>
+narrow places!<line>
+You'll have to<line>
+remember that!<line>
 <end>
 

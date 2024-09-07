@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚f‚k‚t‚f‚k‚t‚f ‚k‚`‚f‚n‚n‚m@‚Q|‚Q<line>
+GLUGLUG LAGOON 2-2<line>
 [<x_pos> <4><5>]<line>
 [<y_pos> <1><8>]<line>
-  ‚b‚‚ ‚v‚… ‚l‚‚‹‚… ‚ ‚o‚‚”‚ˆ ‚s‚ˆ‚’‚‚•‚‡‚ˆ<line>
-‚”‚ˆ‚‰‚“ ‚f‚‚„‚‡‚…‚”|‚e‚‰‚Œ‚Œ‚…‚„ ‚b‚‚’‚‚Œ ‚q‚…‚…‚†H<line>
+  Can We Make a Path Through<line>
+this Gadget-Filled Coral Reef?<line>
 <end>
 

@@ -14,22 +14,22 @@
 
 [<y_pos> <2>]<line>
 [<x_pos> <2>]<line>
-<<textspeed> <5>><rname><diamond>‚n‚‡‚•‚’‚<line>
-‚f‚—‚‚ˆ‚‚ˆ‚‚ˆ‚‚ˆ‚I<line>
-‚e‚‰‚‚‚Œ‚Œ‚™C ‚hf‚ ‚†‚’‚…‚… ‚‚‚ƒ‚… ‚‚‡‚‚‰‚I<line>
+<<textspeed> <5>><rname><diamond>Ogura<line>
+Gwahahahaha!<line>
+Finally, I'm free once again!<line>
 [<wait_time> <2><0><0>]<line>
-<redname><diamond>‚n‚‡‚•‚’‚<line>
-‚r‚”‚‚’‚†‚™I ‚g‚‚— ‚„‚‚’‚… ‚™‚‚• ‚“‚…‚‚Œ ‚‚…<line>
-‚‰‚ ‚”‚ˆ‚… ‚Š‚‚’ ‚•‚ ‚•‚‚”‚‰‚Œ ‚‚‚—I<line>
+<redname><diamond>Ogura<line>
+Starfy! How dare you seal me<line>
+in the jar up until now!<line>
 [<wait_time> <2><0><0>]<line>
-<redname><diamond>‚n‚‡‚•‚’‚<line>
-‚hf‚–‚… ‚‡‚‚” ‚‰‚”I ‚s‚ ‚‚‚™ ‚™‚‚• ‚‚‚‚ƒ‚‹ ‚†‚‚’ ‚”‚ˆ‚‚”C<line>
-‚hf‚Œ‚Œ ‚‚‚… ‚”‚‚‹‚‰‚‚‡ ‚™‚‚•‚’ ‚‚’‚…‚ƒ‚‰‚‚•‚“ ‚‚‚”‚ˆ‚…‚’I<line>
+<redname><diamond>Ogura<line>
+I've got it! To pay you back for that,<line>
+I'll be taking your precious mother!<line>
 [<wait_time> <2><0><0>]<line>
  <progressalt><line>
-<redname><diamond>‚n‚‡‚•‚’‚<line>
-‚x‚‚•f‚’‚… ‚‚‚’‚… ‚”‚ˆ‚‚ ‚—‚…‚Œ‚ƒ‚‚‚… ‚”‚ ‚”‚’‚™ ‚‚‚„<line>
-‚”‚‚‹‚… ‚ˆ‚…‚’ ‚‚‚‚ƒ‚‹ ‚‰‚† ‚™‚‚•f‚„ ‚Œ‚‰‚‹‚…I ‚f‚—‚‚ˆ‚‚ˆ‚‚ˆ‚I<line>
+<redname><diamond>Ogura<line>
+You're more than welcome to try and<line>
+take her back if you'd like! Gwahahaha!<line>
 [<wait_time> <2><0><0>]<line>
  <progressalt><line>
 <end>

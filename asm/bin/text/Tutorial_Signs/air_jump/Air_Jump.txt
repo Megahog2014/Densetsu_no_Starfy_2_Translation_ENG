@@ -12,9 +12,9 @@
 
 #JMP(000000)
 
-‚`‚†‚”‚…‚’ ‚‚…‚— ‚Š‚•‚‚C<line>
-‚‚’ ‚—‚ˆ‚‰‚Œ‚… ‚‚…‚— ‚‡‚Œ‚‰‚„‚…C<line>
-‚‚…‚— ‚ƒ‚‚ ‚Š‚•‚‚<line>
-‚‚‡‚‚‰‚ ‚‚ ‚”‚ˆ‚‰‚ ‚‚‰‚’I<line>
+After mew jump,<line>
+or while mew glide,<line>
+mew can jump<line>
+again on thin air!<line>
 <end>
 

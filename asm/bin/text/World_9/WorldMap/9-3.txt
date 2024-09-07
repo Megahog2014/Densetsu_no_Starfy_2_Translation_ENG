@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚k‚n‚b‚g ‚q‚d‚r‚r@‚X|‚R<line>
+LOCH RESS 9-3<line>
 [<x_pos> <4><0>]<line>
 [<y_pos> <2><0>]<line>
-    ‚v‚ˆ‚‰‚Œ‚… ‚”‚ˆ‚… ‚b‚ˆ‚‚“‚… ‚b‚‚‚”‚‰‚‚•‚…‚“C<line>
-‚v‚ˆ‚f‚“ ‚`‚‚‚…‚‚’‚…‚„ ‚a‚…‚†‚‚’‚… ‚r‚”‚‚’‚†‚™H<line>
+    While the Chase Continues,<line>
+Who's Appeared Before Starfy?<line>
 <end>
 

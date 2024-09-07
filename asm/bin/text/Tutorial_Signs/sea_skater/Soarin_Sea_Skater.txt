@@ -12,9 +12,9 @@
 
 #JMP(000000)
 
-‚g‚‚Œ‚„ ‚”‚ˆ‚… <A> ‚a‚•‚”‚”‚‚Ž<line>
-‚—‚ˆ‚‰‚Œ‚… ‚‚‰‚’‚‚‚‚’‚Ž‚…<line>
-‚”‚ ‚‚…‚’‚†‚‚’‚ ‚<line>
-‚v‚`‚x ‚Œ‚‚Ž‚‡‚…‚’ ‚Š‚•‚‚I<line>
+Hold the <A> Button<line>
+while airborne<line>
+to perform a<line>
+WAY longer jump!<line>
 <end>
 

@@ -12,9 +12,9 @@
 
 #JMP(000000)
 
-@   ‚r‚—‚‰‚ ‚‚”<line>
-‚”‚•‚’‚‚‚ ‚“‚‚…‚…‚„‚“ ‚”‚<line>
-  ‚‚–‚‚‰‚„ ‚…‚‚…‚‚‰‚…‚“<line>
-    ‚‚‚„ ‚”‚’‚‚‚“I<line>
+    Swim at<line>
+turbo speeds to<line>
+  avoid enemies<line>
+    and traps!<line>
 <end>
 

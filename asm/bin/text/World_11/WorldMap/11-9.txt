@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚n‚f‚t‚q‚`f‚r ‚b‚`‚r‚s‚k‚d@‚P‚P|‚X<line>
+OGURA'S CASTLE 11-9<line>
 [<x_pos> <4><0>]<line>
 [<y_pos> <2><0>]<line>
-       ‚` ‚o‚‚‰‚“‚‚Ž‚‚•‚“ ‚l‚‰‚“‚” ‚r‚—‚…‚Œ‚Œ‚“DDD<line>
-‚`‚Ž‚„ ‚s‚ˆ‚‚“‚… ‚c‚‚‚’‚“ ‚`‚’‚… ‚‰‚Ž ‚”‚ˆ‚… ‚v‚‚™III<line>
+       A Poisonous Mist Swells...<line>
+And Those Doors Are in the Way!!!<line>
 <end>
 

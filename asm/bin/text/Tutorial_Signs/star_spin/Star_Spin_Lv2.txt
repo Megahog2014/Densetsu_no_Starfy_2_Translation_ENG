@@ -12,9 +12,9 @@
 
 #JMP(000000)
 
-‚o‚’‚…‚“‚“ ‚t‚{<B> ‚‚”<line>
-‚”‚ˆ‚… ‚—‚‚”‚…‚’f‚“ ‚“‚•‚’‚†‚‚ƒ‚…<line>
-‚”‚ ‚Œ‚…‚‚ ‚‰‚Ž‚”‚ ‚”‚ˆ‚… ‚r‚‹‚™I<line>
-‚s‚’‚™ ‚‚Œ‚Œ ‚‹‚‰‚Ž‚„‚“ ‚‚† ‚”‚ˆ‚‰‚Ž‚‡‚“I<line>
+Press Up+<B> at<line>
+the water's surface<line>
+to leap into the Sky!<line>
+Try all kinds of things!<line>
 <end>
 

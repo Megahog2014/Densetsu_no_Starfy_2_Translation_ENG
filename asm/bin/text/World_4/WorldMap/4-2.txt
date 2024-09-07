@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚r‚k‚h‚o‚o‚d‚q‚x ‚f‚k‚`‚b‚h‚d‚q@‚S|‚Q<line>
+SLIPPERY GLACIER 4-2<line>
 [<x_pos> <5><0>]<line>
 [<y_pos> <2><0>]<line>
-@  ‚s‚‚’‚‰‚”‚ ‚”‚ˆ‚… ‚a‚‚‚” ‚q‚‚ƒ‚…‚’f‚“<line>
-‚v‚‰‚Ž‚”‚…‚’ ‚g‚‚‚‚‚‚‰‚…‚“ ‚‚’‚… ‚r‚‹‚‰‚‰‚Ž‚‡ ‚‚Ž‚„DDDH<line>
+   Torito the Boat Racer's<line>
+Winter Hobbies are Skiing and...?<line>
 <end>
 

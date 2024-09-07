@@ -13,7 +13,7 @@
 #JMP(000000)
 
 [<x_pos> <3><2>]<line>
-‚n‚f‚t‚q‚`f‚r ‚b‚`‚r‚s‚k‚d<line>
+OGURA'S CASTLE<line>
 <:end><line>
 <end>
 

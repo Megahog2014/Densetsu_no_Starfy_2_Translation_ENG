@@ -12,10 +12,10 @@
 
 #JMP(000000)
 
-‚r‚”‚‚‚„ ‚‰‚ ‚†‚’‚‚‚”<line>
-‚‚† ‚ ‚ƒ‚ˆ‚‚’‚‚ƒ‚”‚…‚’<line>
-‚‚‚„ ‚‚’‚…‚“‚“ ‚t‚o<line>
-‚‚ ‚”‚ˆ‚… <Dpad> ‚”‚<line>
-‚”‚‚Œ‚‹ ‚”‚ ‚”‚ˆ‚…‚I<line>
+Stand in front<line>
+of a character<line>
+and press UP<line>
+on the <Dpad> to<line>
+talk to them!<line>
 <end>
 

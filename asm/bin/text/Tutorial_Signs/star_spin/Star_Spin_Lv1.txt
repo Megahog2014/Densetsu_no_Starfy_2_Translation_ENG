@@ -12,11 +12,11 @@
 
 #JMP(000000)
 
-‚t‚“‚… ‚”‚ˆ‚‰‚“ ‚”‚<line>
-‚‚”‚”‚‚ƒ‚‹ ‚…‚‚…‚‚‰‚…‚“C<line>
-‚‚‚’‚…‚‚‹ ‚‚‚Œ‚‚ƒ‚‹‚“C<line>
-‚‚‚„ ‚†‚‚’ ‚—‚ˆ‚…‚<line>
-‚™‚‚• ‚—‚‚‚” ‚”‚ ‚”‚‚Œ‚‹<line>
-‚”‚ ‚l‚‚…D<line>
+Use this to<line>
+attack enemies,<line>
+break blocks,<line>
+and for when<line>
+you want to talk<line>
+to Moe.<line>
 <end>
 

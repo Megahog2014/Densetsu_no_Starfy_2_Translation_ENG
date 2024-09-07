@@ -21,11 +21,11 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-       ‚s‚ˆ‚… ‚k‚…‚‡‚…‚‚„‚‚’‚™<line>
-            ‚r‚”‚‚’‚†‚™ ‚Q<line>
+       The Legendary<line>
+            Starfy 2<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
 <line>
-        ‚r‚”‚‚†‚† ‚b‚’‚…‚„‚‰‚”‚“<line>
+        Staff Credits<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <linealt>
 <line>
@@ -45,10 +45,10 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>          ‚b‚‚‚ƒ‚…‚‚”‚‰‚‚<textcolor_0><line>
-       ‚r‚‚”‚‚‹‚ ‚s‚‚‚‚‹‚<line>
+<textcolor_b>          Conception<textcolor_0><line>
+       Satoko Tanaka<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-   ‚s‚‚”‚“‚•‚ˆ‚‰‚’‚ ‚s‚‚‹‚‚“‚‚‡‚<line>
+   Tatsuhiro Takasago<line>
 <line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
@@ -63,10 +63,10 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>                ‚k‚…‚‚„<line>
-          ‚o‚’‚‚‡‚’‚‚‚‚…‚’<textcolor_0><line>
+<textcolor_b>                Lead<line>
+          Programmer<textcolor_0><line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-          ‚j‚…‚‚”‚ ‚d‚‡‚‚‚‰<line>
+          Kenta Egami<line>
 <line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
@@ -83,16 +83,16 @@
 <:func> <5> <2> <2><$09><$09><$09><$09><$09><$09><line>
 [<wait_time> <4><0>]<line>
 <:func> <1><1> <0><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>         ‚o‚’‚‚‡‚’‚‚‚‚…‚’‚“<textcolor_0><line>
-    ‚s‚‚‹‚‚ˆ‚‰‚’‚ ‚e‚•‚’‚•‚‹‚‚—‚<line>
+<textcolor_b>         Programmers<textcolor_0><line>
+    Takahiro Furukawa<line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-       ‚g‚‰‚“‚‚”‚“‚•‚‡‚• ‚r‚ˆ‚‰‚’‚<line>
-        ‚d‚‚‰‚‹‚ ‚m‚‚‡‚•‚ƒ‚ˆ‚‰<line>
+       Hisatsugu Shiro<line>
+        Emiko Noguchi<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-        ‚j‚‚•‚‰‚ƒ‚ˆ‚‰ ‚j‚‰‚”‚‚‚<line>
-        ‚g‚‰‚’‚‚“‚ˆ‚‰ ‚n‚‹‚•‚„‚<line>
+        Kouichi Kitano<line>
+        Hiroshi Okuda<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
-      ‚g‚‰‚’‚‚™‚•‚‹‚‰ ‚h‚‹‚…‚‚‚‡‚<line>
+      Hiroyuki Ikenaga<line>
 <line>
 <:func> <1><1> <4><$09><$09><$09><$09><$09><$09><line>
 [<wait_time> <6><0>]<line>
@@ -105,9 +105,9 @@
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
 <line>
-<textcolor_b>        ‚k‚…‚‚„ ‚c‚…‚“‚‰‚‡‚‚…‚’<textcolor_0><line>
+<textcolor_b>        Lead Designer<textcolor_0><line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-      ‚j‚‚•‚”‚‚’‚‚• ‚r‚ˆ‚‰‚‚‚‹‚‰<line>
+      Koutarou Shinoki<line>
 <line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
@@ -124,16 +124,16 @@
 <:func> <5> <3> <0><$09><$09><$09><$09><$09><$09><line>
 [<wait_time> <4><0>]<line>
 <:func> <1><1> <0><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>           ‚c‚…‚“‚‰‚‡‚‚…‚’‚“<textcolor_0><line>
-     ‚`‚”‚“‚•‚“‚ˆ‚‰ ‚n‚‹‚‚‚‚”‚<line>
+<textcolor_b>           Designers<textcolor_0><line>
+     Atsushi Okamoto<line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-           ‚d‚’‚‰‚‹‚ ‚g‚‚’‚<line>
-       ‚`‚‹‚‰‚’‚ ‚l‚‚ƒ‚ˆ‚‰‚š‚•‚‹‚‰<line>
+           Erika Hara<line>
+       Akira Mochizuki<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-  ‚x‚•‚•‚‰‚ƒ‚ˆ‚‰‚’‚‚• ‚m‚‚‹‚‚™‚‚‚<line>
-        ‚j‚‚‚‚ ‚j‚‚š‚•‚’‚•<line>
+  Yuuichirou Nakayama<line>
+        Kanna Kozuru<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
-      ‚b‚ˆ‚‰‚…‚‚‰ ‚s‚‚‚‰‚‡‚•‚ƒ‚ˆ‚‰<line>
+      Chiemi Taniguchi<line>
 <line>
 <line>
 <:func> <1><1> <4><$09><$09><$09><$09><$09><$09><line>
@@ -146,12 +146,12 @@
 <line>
 <line>
 <:func> <1><1> <0><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>   ‚o‚‚ƒ‚‹‚‚‡‚… • ‚a‚‚˜ ‚`‚’‚”<line>
+<textcolor_b>   Package & Box Art<line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-         ‚h‚Œ‚Œ‚•‚“‚”‚’‚‚”‚‰‚‚‚“<textcolor_0><line>
+         Illustrations<textcolor_0><line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-   ‚x‚‚“‚•‚‹‚ ‚s‚‚‹‚‚ˆ‚‚“‚ˆ‚‰<line>
-   ‚q‚™‚•‚•‚“‚•‚‹‚… ‚x‚‚“‚ˆ‚‰‚„‚<line>
+   Yasuko Takahashi<line>
+   Ryuusuke Yoshida<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
 <line>
@@ -170,11 +170,11 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>             ‚l‚‚‚•‚‚Œ<textcolor_0><line>
-    ‚r‚‚ƒ‚ˆ‚‰‚‹‚ ‚m‚‚‹‚‚‚‰‚ƒ‚ˆ‚‰<line>
+<textcolor_b>             Manual<textcolor_0><line>
+    Sachiko Nakamichi<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-        ‚s‚‚‹‚‚“‚ˆ‚‰ ‚h‚”‚‚•<line>
-      ‚l‚‚“‚‚™‚•‚‹‚‰ ‚n‚‹‚‚„‚<line>
+        Takashi Itou<line>
+      Masayuki Okada<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
 <line>
@@ -189,9 +189,9 @@
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
 <line>
-<textcolor_b>               ‚l‚•‚“‚‰‚ƒ<textcolor_0><line>
+<textcolor_b>               Music<textcolor_0><line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-      ‚l‚‚’‚‰‚ˆ‚‰‚’‚ ‚h‚—‚‚‚‚”‚<line>
+      Morihiro Iwamoto<line>
 <line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
@@ -209,15 +209,15 @@
 [<wait_time> <4><0>]<line>
 <:func> <1><1> <0><$09><$09><$09><$09><$09><$09><line>
 <line>
-<textcolor_b>       ‚r‚‚…‚ƒ‚‰‚‚Œ ‚s‚ˆ‚‚‚‹‚“<textcolor_0><line>
+<textcolor_b>       Special Thanks<textcolor_0><line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-      ‚l‚‚“‚‚ ‚x‚‚‚‚‚‚”‚<line>
-      ‚`‚“‚‚‹‚ ‚g‚‚’‚•‚ˆ‚‚‚<line>
+      Masao Yamamoto<line>
+      Asako Haruhana<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-       ‚j‚…‚‰‚‹‚ ‚s‚‚‹‚…‚‚‹‚<line>
-         ‚r‚•‚‚…‚’ ‚l‚‚’‚‰‚<line>
+       Keiko Takeoka<line>
+         Super Mario<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
-               ‚b‚Œ‚•‚‚<line>
+               Club<line>
 <line>
 <:func> <1><1> <4><$09><$09><$09><$09><$09><$09><line>
 [<wait_time> <6><0>]<line>
@@ -229,10 +229,10 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>           ‚c‚‰‚’‚…‚ƒ‚”‚‚’‚“<textcolor_0><line>
-            ‚`‚‹‚‰‚ ‚h‚‚‚‰<line>
+<textcolor_b>           Directors<textcolor_0><line>
+            Akio Imai<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-        ‚`‚š‚•‚“‚ ‚s‚‚Š‚‰‚‚<line>
+        Azusa Tajima<line>
 <line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
@@ -252,10 +252,10 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>          ‚o‚’‚‚„‚•‚ƒ‚…‚’‚“<textcolor_0><line>
-   ‚x‚‚“‚•‚ˆ‚‰‚’‚ ‚l‚‰‚‚‚‚‰‚‚‚”‚<line>
+<textcolor_b>          Producers<textcolor_0><line>
+   Yasuhiro Minamimoto<line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-      ‚g‚‰‚”‚‚“‚ˆ‚‰ ‚x‚‚‚‚‡‚‚‚‰<line>
+      Hitoshi Yamagami<line>
 <line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
@@ -270,11 +270,11 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>             ‚f‚…‚‚…‚’‚‚Œ<line>
-           ‚o‚’‚‚„‚•‚ƒ‚…‚’‚“<textcolor_0><line>
+<textcolor_b>             General<line>
+           Producers<textcolor_0><line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-       ‚s‚‚‹‚…‚ˆ‚‰‚’‚ ‚h‚š‚•‚“‚ˆ‚‰<line>
-          ‚r‚ˆ‚‰‚ ‚j‚‚‚„‚‚•<line>
+       Takehiro Izushi<line>
+          Shin Kondou<line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
 <line>
@@ -293,10 +293,10 @@
 <line>
 <line>
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
-<textcolor_b>           ‚d‚˜‚…‚ƒ‚•‚”‚‰‚–‚…<line>
-           ‚o‚’‚‚„‚•‚ƒ‚…‚’<textcolor_0><line>
+<textcolor_b>           Executive<line>
+           Producer<textcolor_0><line>
 <:func> <1><1> <2><$09><$09><$09><$09><$09><$09><line>
-         ‚r‚‚”‚‚’‚• ‚h‚—‚‚”‚<line>
+         Satoru Iwata<line>
 <line>
 <:func> <1><1> <3><$09><$09><$09><$09><$09><$09><line>
 <line>
@@ -346,7 +346,7 @@
 <:func> <1><1> <1><$09><$09><$09><$09><$09><$09><line>
 <line>
 <:func> <0> <6><$09><$09><$09><$09><$09><$09><line>
-           ‚s‚ˆ‚… ‚d‚‚„DDDH<line>
+           The End...?<line>
 <:func> <1><1> <2><line>
 <:func> <1><1> <4><$09><$09><$09><$09><$09><$09><line>
 <wait><:func> <2> <2> <0><$09><$09><$09><$09><$09><line>
@@ -354,13 +354,13 @@
 [<x_pos> <1><2>]<line>
 [<y_pos> <2><8>]<line>
 <:func> <1><0> <0><$09><$09><$09><$09><$09><line>
-‚e‚‰‚‚„ ‚”‚ˆ‚… ‚”‚’‚…‚‚“‚•‚’‚…‚“ ‚”‚ˆ‚‚” ‚ˆ‚‚–‚…<line>
-‚‚‚…‚…‚ ‚“‚ƒ‚‚”‚”‚…‚’‚…‚„ ‚‚ƒ‚’‚‚“‚“ ‚”‚ˆ‚… ‚“‚…‚I<line>
-‚r‚‚‚…‚”‚ˆ‚‰‚‚‡ ‚‡‚‚‚„ ‚‚‰‚‡‚ˆ‚” ‚ˆ‚‚‚‚…‚<line>
-‚‰‚† ‚™‚‚• ‚†‚‰‚‚„ ‚‚Œ‚Œ ‚S‚TDDD<line>
-‚s‚ˆ‚… h‚r‚…‚ ‚i‚‚‚“h ‚‚‚„ h‚o‚‰‚ƒ‚”‚•‚’‚… ‚a‚‚‚‹h<line>
-‚‚…‚‚•‚“ ‚ˆ‚‚–‚… ‚‚‚…‚…‚ ‚•‚‚Œ‚‚ƒ‚‹‚…‚„I ‚f‚ ‚”‚<line>
-‚l‚‚…f‚“ ‚g‚‚•‚“‚… ‚”‚ ‚ƒ‚ˆ‚…‚ƒ‚‹ ‚”‚ˆ‚…‚ ‚‚•‚”I<line>
+Find the treasures that have<line>
+been scattered across the sea!<line>
+Something good might happen<line>
+if you find all 45...<line>
+The "Sea Jams" and "Picture Book"<line>
+menus have been unlocked! Go to<line>
+Moe's House to check them out!<line>
 <line>
 <:func> <1><0> <1><$09><$09><$09><$09><$09><line>
 <:func> <0> <7><$09><$09><$09><$09><$09><line>

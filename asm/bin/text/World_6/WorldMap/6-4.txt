@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚o‚h‚s‚b‚g ‚a‚k‚`‚b‚j ‚b‚`‚u‚d‚q‚m‚r@‚U|‚S<line>
+PITCH BLACK CAVERNS 6-4<line>
 [<x_pos> <2><0>]<line>
 [<y_pos> <2><0>]<line>
-‚s‚ˆ‚‚“‚… ‚o‚‰‚Œ‚Œ‚‚’‚“ ‚j‚…‚…‚ ‚t‚“ ‚e‚’‚‚ ‚o‚’‚‚‡‚’‚…‚“‚“‚‰‚Ž‚‡DDD<line>
-@@‚h‚“ ‚s‚ˆ‚…‚’‚… ‚`‚Ž‚™‚”‚ˆ‚‰‚Ž‚‡ ‚v‚… ‚b‚‚Ž ‚c‚IH<line>
+Those Pillars Keep Us From Progressing...<line>
+  Is There Anything We Can Do!?<line>
 <end>
 

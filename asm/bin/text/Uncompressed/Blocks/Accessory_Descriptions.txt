@@ -7,9 +7,9 @@
 #ACTIVETBL(Minifont)
 
 #WRITE(GBA,$2C6E90)
-‚o‚‚’‚” ‚P ‚‚† ‚”‚ˆ‚… ‚o‚•‚†‚†‚”‚‚ ‚n‚•‚”‚†‚‰‚”D<line>
-‚o‚•‚†‚†‚”‚‚ ‚r‚‚Œ‚„‚‰‚…‚’‚“ ‚•‚“‚•‚‚Œ‚Œ‚™<line>
-‚—‚…‚‚’ ‚”‚ˆ‚‰‚“ ‚ˆ‚‚” ‚‚Ž ‚„‚•‚”‚™D<line>
+Part 1 of the Pufftop Outfit.<line>
+Pufftop Soldiers usually<line>
+wear this hat on duty.<line>
 <:end><line>
 <end>
 
@@ -17,8 +17,8 @@
 //POINTER #1 @ $2C6E94 - STRING #1 @ $63B590
 
 #WRITE(GBA,$2C6E94)
-‚l‚‚‚ ‚r‚”‚‚’ ‚‚‚„‚…<line>
-‚”‚ˆ‚‰‚“ ‚‚‚ƒ‚ˆ‚…‚”‚”‚…D<line>
+Mama Star made<line>
+this pochette.<line>
 <:end><line>
 <end>
 
@@ -26,8 +26,8 @@
 //POINTER #2 @ $2C6E98 - STRING #2 @ $63B5C0
 
 #WRITE(GBA,$2C6E98)
-‚v‚…‚‚’ ‚”‚ˆ‚…‚“‚… ‚‚Ž‚„ ‚™‚‚•f‚Œ‚Œ<line>
-‚‡‚…‚” ‚“‚‚‚’‚”‚…‚’DDD ‚h ‚”‚ˆ‚‰‚Ž‚‹D<line>
+Wear these and you'll<line>
+get smarter... I think.<line>
 <:end><line>
 <end>
 
@@ -35,9 +35,9 @@
 //POINTER #3 @ $2C6E9C - STRING #3 @ $63B608
 
 #WRITE(GBA,$2C6E9C)
-‚` ‚s‚‚’‚‰‚”‚ ‚’‚…‚ƒ‚‚‚‚…‚Ž‚„‚…‚„<line>
-‚ˆ‚…‚Œ‚‚…‚” ‚”‚ˆ‚‚”f‚Œ‚Œ ‚‹‚…‚…‚ ‚™‚‚• ‚“‚‚†‚…<line>
-‚—‚ˆ‚‰‚Œ‚… ‚’‚‰‚„‚‰‚Ž‚‡ ‚”‚ˆ‚… ‚r‚…‚ ‚r‚‹‚‚”‚…‚’D<line>
+A Torito recommended<line>
+helmet that'll keep you safe<line>
+while riding the Sea Skater.<line>
 <:end><line>
 <end>
 
@@ -45,9 +45,9 @@
 //POINTER #4 @ $2C6EA0 - STRING #4 @ $63B654
 
 #WRITE(GBA,$2C6EA0)
-‚o‚‚’‚” ‚Q ‚‚† ‚”‚ˆ‚… ‚o‚•‚†‚†‚”‚‚ ‚‚•‚”‚†‚‰‚”D<line>
-‚d‚–‚…‚’‚™‚‚Ž‚… ‚—‚…‚‚’‚“ ‚”‚ˆ‚…‚“‚… ‚”‚<line>
-‚“‚•‚‚‚…‚’ ‚†‚…‚“‚”‚‰‚–‚‚Œ‚“D<line>
+Part 2 of the Pufftop outfit.<line>
+Everyone wears these to<line>
+summer festivals.<line>
 <:end><line>
 <end>
 
@@ -55,8 +55,8 @@
 //POINTER #5 @ $2C6EA4 - STRING #5 @ $63B698
 
 #WRITE(GBA,$2C6EA4)
-‚v‚…‚‚’ ‚”‚ˆ‚‰‚“ ‚”‚ ‚‚’‚‚”‚…‚ƒ‚” ‚™‚‚•‚’<line>
-‚ˆ‚…‚‚„ ‚„‚•‚’‚‰‚Ž‚‡ ‚…‚‚’‚”‚ˆ‚‘‚•‚‚‹‚…‚“D<line>
+Wear this to protect your<line>
+head during earthquakes.<line>
 <:end><line>
 <end>
 
@@ -64,9 +64,9 @@
 //POINTER #6 @ $2C6EA8 - STRING #6 @ $63B6DC
 
 #WRITE(GBA,$2C6EA8)
-‚s‚ˆ‚…‚“‚… ‚‚’‚… ‚r‚”‚‚’‚†‚™f‚“ ‚†‚‚–‚‚’‚‰‚”‚…<line>
-‚‚‚‰‚’ ‚‚† ‚“‚•‚Ž‚‡‚Œ‚‚“‚“‚…‚“D<line>
-‚g‚‚— ‚r‚”‚™‚Œ‚‰‚“‚ˆI<line>
+These are Starfy's favorite<line>
+pair of sunglasses.<line>
+How Stylish!<line>
 <:end><line>
 <end>
 
@@ -74,9 +74,9 @@
 //POINTER #7 @ $2C6EAC - STRING #7 @ $63B718
 
 #WRITE(GBA,$2C6EAC)
-‚o‚‚’‚” ‚P ‚‚† ‚”‚ˆ‚… ‚a‚‚“‚…‚‚‚‚Œ‚Œ<line>
-‚n‚•‚”‚†‚‰‚”D ‚s‚ˆ‚‰‚“ ‚ƒ‚‚ ‚—‚‚“ ‚ƒ‚•‚“‚”‚‚<line>
-‚‚‚„‚… ‚†‚‚’ ‚s‚…‚‚ ‚r‚”‚‚’‚†‚™D<line>
+Part 1 of the Baseball<line>
+Outfit. This cap was custom<line>
+made for Team Starfy.<line>
 <:end><line>
 <end>
 
@@ -84,9 +84,9 @@
 //POINTER #8 @ $2C6EB0 - STRING #8 @ $63B760
 
 #WRITE(GBA,$2C6EB0)
-‚` ‚„‚…‚‰‚”‚™ ‚—‚‰‚Œ‚Œ ‚ˆ‚…‚Œ‚ ‚™‚‚• ‚‰‚Ž ‚™‚‚•‚’<line>
-‚”‚‰‚‚… ‚‚† ‚Ž‚…‚…‚„I ‚a‚•‚” ‚—‚ˆ‚™ ‚—‚…‚‚’<line>
-‚‰‚” ‚‚Ž ‚™‚‚•‚’ ‚†‚‚’‚…‚ˆ‚…‚‚„DDDH<line>
+A deity will help you in your<line>
+time of need! But why wear<line>
+it on your forehead...?<line>
 <:end><line>
 <end>
 
@@ -94,9 +94,9 @@
 //POINTER #9 @ $2C6EB4 - STRING #9 @ $63B7AC
 
 #WRITE(GBA,$2C6EB4)
-‚q‚•‚‚‚’ ‚ˆ‚‚“ ‚‰‚” ‚”‚ˆ‚‚” ‚k‚‚–‚…‚Œ‚™<line>
-‚—‚…‚‚’‚“ ‚ ‚—‚‰‚‡ ‚Œ‚‰‚‹‚… ‚”‚ˆ‚‰‚“<line>
-‚‚Œ‚Œ ‚”‚ˆ‚… ‚”‚‰‚‚…DDD<line>
+Rumor has it that Lovely<line>
+wears a wig like this<line>
+all the time...<line>
 <:end><line>
 <end>
 
@@ -104,8 +104,8 @@
 //POINTER #10 @ $2C6EB8 - STRING #10 @ $63B7EC
 
 #WRITE(GBA,$2C6EB8)
-‚s‚ˆ‚‰‚“ ‚—‚ˆ‚‰‚ ‚•‚“‚…‚„ ‚”‚ ‚‚‚…‚Œ‚‚Ž‚‡ ‚”‚ ‚<line>
-‚†‚‚‚‚•‚“ ‚‚„‚–‚…‚Ž‚”‚•‚’‚…‚’D<line>
+This whip used to belong to a<line>
+famous adventurer.<line>
 <:end><line>
 <end>
 
@@ -113,9 +113,9 @@
 //POINTER #11 @ $2C6EBC - STRING #11 @ $63B824
 
 #WRITE(GBA,$2C6EBC)
-‚h‚”f‚“ ‚ƒ‚‚‚Œ ‚Œ‚‚‚‹‚‰‚Ž‚‡ ‚‚Ž‚„ ‚“‚‚‚‹‚“<line>
-‚•‚ ‚“‚—‚…‚‚”I ‚s‚‚Œ‚‹ ‚‚‚‚‚•‚” ‚‹‚‰‚Œ‚Œ‚‰‚Ž‚‡<line>
-‚”‚—‚ ‚‚‚‰‚’‚„‚“ ‚—‚‰‚”‚ˆ ‚‚Ž‚… ‚“‚”‚‚Ž‚…I<line>
+It's cool looking and soaks<line>
+up sweat! Talk about killing<line>
+two birds with one stone!<line>
 <:end><line>
 <end>
 
@@ -123,8 +123,8 @@
 //POINTER #12 @ $2C6EC0 - STRING #12 @ $63B868
 
 #WRITE(GBA,$2C6EC0)
-‚s‚ˆ‚‰‚“ ‚ˆ‚‚‰‚’‚‚‚‚Ž‚„ ‚ˆ‚‚“ ‚“‚‚‚…<line>
-‚ƒ‚•‚”‚… ‚’‚‚‚‚‚‚‰‚” ‚…‚‚’‚“ ‚‚Ž ‚‰‚”D<line>
+This hairband has some<line>
+cute rabbit ears on it.<line>
 <:end><line>
 <end>
 
@@ -132,8 +132,8 @@
 //POINTER #13 @ $2C6EC4 - STRING #13 @ $63B8A0
 
 #WRITE(GBA,$2C6EC4)
-‚s‚ˆ‚‰‚“ ‚“‚‚…‚Œ‚Œ‚“ ‚ ‚Œ‚‰‚”‚”‚Œ‚… ‚‚‚‰‚”<line>
-‚Œ‚‰‚‹‚… ‚”‚ˆ‚… ‚“‚…‚DDD<line>
+This smells a little bit<line>
+like the sea...<line>
 <:end><line>
 <end>
 
@@ -141,8 +141,8 @@
 //POINTER #14 @ $2C6EC8 - STRING #14 @ $63B8D0
 
 #WRITE(GBA,$2C6EC8)
-‚s‚ˆ‚‰‚“ ‚‰‚“ ‚ ‚ƒ‚•‚”‚…C<line>
-‚‚Ž‚„ ‚“‚Œ‚‰‚‡‚ˆ‚”‚Œ‚™ ‚‡‚‰‚’‚Œ‚™ ‚g‚‚‰‚’‚‚‚‚Ž‚„D<line>
+This is a cute,<line>
+and slightly girly Hairband.<line>
 <:end><line>
 <end>
 
@@ -150,9 +150,9 @@
 //POINTER #15 @ $2C6ECC - STRING #15 @ $63B90C
 
 #WRITE(GBA,$2C6ECC)
-‚s‚ˆ‚…‚“‚… ‚‚Œ‚Œ‚‚— ‚“‚‚‚‚”‚ˆ ‚ƒ‚’‚•‚‰‚“‚‰‚Ž‚‡<line>
-‚‚Ž ‚’‚‚‚„‚“ ‚‚Ž‚„ ‚‚•‚‚‚Œ‚‰‚ƒ ‚‚’‚…‚‚“D<line>
-‚g‚‚—‚…‚–‚…‚’C ‚‚–‚‚‰‚„ ‚ƒ‚’‚‚“‚ˆ‚‰‚Ž‚‡D<line>
+These allow smooth cruising<line>
+on roads and public areas.<line>
+However, avoid crashing.<line>
 <:end><line>
 <end>
 
@@ -160,9 +160,9 @@
 //POINTER #16 @ $2C6ED0 - STRING #16 @ $63B950
 
 #WRITE(GBA,$2C6ED0)
-‚v‚…‚‚’ ‚”‚ˆ‚‰‚“ ‚—‚‰‚”‚ˆ ‚”‚ˆ‚… ‚v‚‚’‚<line>
-‚e‚•‚’ ‚b‚‚‚” ‚†‚‚’ ‚”‚ˆ‚… ‚‚…‚’‚†‚…‚ƒ‚”<line>
-‚‚’‚‚”‚…‚ƒ‚”‚‰‚‚Ž ‚‚‡‚‚‰‚Ž‚“‚” ‚”‚ˆ‚… ‚ƒ‚‚Œ‚„I<line>
+Wear this with the Warm<line>
+Fur Coat for the perfect<line>
+protection against the cold!<line>
 <:end><line>
 <end>
 
@@ -170,8 +170,8 @@
 //POINTER #17 @ $2C6ED4 - STRING #17 @ $63B994
 
 #WRITE(GBA,$2C6ED4)
-‚h‚”f‚“ ‚”‚ˆ‚‰‚“ ‚“‚•‚‚‚…‚’f‚“ ‚Ž‚…‚— ‚ƒ‚‚Œ‚‚’I<line>
-‚v‚‰‚Œ‚Œ ‚”‚ˆ‚‰‚“ ‚‚‚‹‚… ‚™‚‚• ‚Œ‚‚‚‹ ‚“‚…‚˜‚™H<line>
+It's this summer's new color!<line>
+Will this make you look sexy?<line>
 <:end><line>
 <end>
 
@@ -179,9 +179,9 @@
 //POINTER #18 @ $2C6ED8 - STRING #18 @ $63B9DC
 
 #WRITE(GBA,$2C6ED8)
-‚o‚‚’‚” ‚P ‚‚† ‚”‚ˆ‚… ‚c‚…‚”‚…‚ƒ‚‰‚”‚–‚…<line>
-‚n‚•‚”‚†‚‰‚”D ‚s‚ˆ‚‰‚“ ‚‰‚“ ‚”‚ˆ‚‚” ‚ˆ‚‚”<line>
-‚‚† ‚ ‚‚’‚‰‚–‚‚”‚… ‚…‚™‚…D<line>
+Part 1 of the Detecitve<line>
+Outfit. This is that hat<line>
+of a private eye.<line>
 <:end><line>
 <end>
 
@@ -189,9 +189,9 @@
 //POINTER #19 @ $2C6EDC - STRING #19 @ $63BA1C
 
 #WRITE(GBA,$2C6EDC)
-‚o‚‚’‚” ‚Q ‚‚† ‚”‚ˆ‚… ‚r‚‚‚ƒ‚… ‚n‚•‚”‚†‚‰‚”D<line>
-‚v‚…‚‚’ ‚”‚ˆ‚‰‚“ ‚‚Œ‚‚Ž‚‡‚“‚‰‚„‚…<line>
-‚”‚ˆ‚… ‚“‚‚‚ƒ‚…‚“‚•‚‰‚”D<line>
+Part 2 of the Space Outfit.<line>
+Wear this alongside<line>
+the spacesuit.<line>
 <:end><line>
 <end>
 
@@ -199,9 +199,9 @@
 //POINTER #20 @ $2C6EE0 - STRING #20 @ $63BA64
 
 #WRITE(GBA,$2C6EE0)
-‚o‚‚’‚” ‚Q ‚‚† ‚”‚ˆ‚… ‚r‚…‚Ž‚‡‚‚‹‚•<line>
-‚n‚•‚”‚†‚‰‚”D ‚r‚ƒ‚‚’‚… ‚™‚‚•‚’ ‚…‚Ž‚…‚‚‰‚…‚“<line>
-‚—‚‰‚”‚ˆ ‚”‚ˆ‚… ‚ˆ‚…‚Œ‚‚…‚”f‚“ ‚„‚…‚ƒ‚‚’I<line>
+Part 2 of the Sengoku<line>
+Outfit. Scare your enemies<line>
+with the helmet's decor!<line>
 <:end><line>
 <end>
 
@@ -209,8 +209,8 @@
 //POINTER #21 @ $2C6EE4 - STRING #21 @ $63BAA4
 
 #WRITE(GBA,$2C6EE4)
-‚v‚‰‚”‚ˆ ‚”‚ˆ‚‰‚“C ‚™‚‚• ‚—‚‚Žf‚” ‚‚‰‚“‚“<line>
-‚ ‚”‚ˆ‚‰‚Ž‚‡C ‚Ž‚ ‚‚‚”‚”‚…‚’ ‚ˆ‚‚— ‚“‚‚‚Œ‚ŒI<line>
+With this, you won't miss<line>
+a thing, no matter how small!<line>
 <:end><line>
 <end>
 
@@ -218,8 +218,8 @@
 //POINTER #22 @ $2C6EE8 - STRING #22 @ $63BAD4
 
 #WRITE(GBA,$2C6EE8)
-‚x‚‚•f‚Œ‚Œ ‚—‚‰‚Ž ‚”‚ˆ‚… ‚ˆ‚…‚‚’‚” ‚‚† ‚‡‚‰‚’‚Œ‚“<line>
-‚—‚‰‚”‚ˆ ‚”‚ˆ‚‰‚“ ‚„‚‚Ž‚„‚™ ‚‚•‚“‚”‚‚ƒ‚ˆ‚…I<line>
+You'll win the heart of girls<line>
+with this dandy mustache!<line>
 <:end><line>
 <end>
 
@@ -227,9 +227,9 @@
 //POINTER #23 @ $2C6EEC - STRING #23 @ $63BB18
 
 #WRITE(GBA,$2C6EEC)
-‚o‚‚’‚” ‚P ‚‚† ‚”‚ˆ‚… ‚s‚‚—‚Ž‚“‚‡‚‰‚’‚Œ<line>
-‚‚•‚”‚†‚‰‚”D ‚s‚ˆ‚‰‚“ ‚‰‚“ ‚“‚•‚ƒ‚ˆ ‚<line>
-‚†‚…‚‚‰‚Ž‚‰‚Ž‚… ‚—‚‰‚‡I<line>
+Part 1 of the Townsgirl<line>
+outfit. This is such a<line>
+feminine wig!<line>
 <:end><line>
 <end>
 
@@ -237,9 +237,9 @@
 //POINTER #24 @ $2C6EF0 - STRING #24 @ $63BB58
 
 #WRITE(GBA,$2C6EF0)
-‚o‚‚’‚” ‚Q ‚‚† ‚”‚ˆ‚… ‚c‚‰‚‚™‚‚<line>
-‚n‚•‚”‚†‚‰‚”D ‚c‚‚Žf‚” ‚‚‚… ‚ ‚ƒ‚’‚•‚…‚Œ<line>
-‚…‚Ž‚†‚‚’‚ƒ‚…‚’ ‚Ž‚‚—C ‚™‚‚• ‚ˆ‚…‚‚’H<line>
+Part 2 of the Diaymo<line>
+Outfit. Don't be a cruel<line>
+enforcer now, you hear?<line>
 <:end><line>
 <end>
 
@@ -247,9 +247,9 @@
 //POINTER #25 @ $2C6EF4 - STRING #25 @ $63BB98
 
 #WRITE(GBA,$2C6EF4)
-‚o‚‚’‚” ‚R ‚‚† ‚”‚ˆ‚… ‚o‚•‚†‚†‚”‚‚<line>
-‚“‚…‚’‚‰‚…‚“D ‚s‚ˆ‚‰‚“ ‚‡‚•‚‰‚”‚‚’ ‚—‚‚“<line>
-‚’‚…‚ƒ‚‚‚‚…‚Ž‚„‚…‚„ ‚‚‚™ ‚v‚‚’‚š‚‚’‚”D<line>
+Part 3 of the Pufftop<line>
+series. This guitar was<line>
+recommended by Worzart.<line>
 <:end><line>
 <end>
 
@@ -257,9 +257,9 @@
 //POINTER #26 @ $2C6EF8 - STRING #26 @ $63BBE0
 
 #WRITE(GBA,$2C6EF8)
-‚s‚ˆ‚… ‚“‚‚•‚Ž‚„‚“ ‚‚† ‚”‚ˆ‚‰‚“ ‚t‚‹‚•‚Œ‚…‚Œ‚…<line>
-‚—‚‰‚Œ‚Œ ‚‚‚‹‚… ‚™‚‚• ‚†‚…‚…‚Œ ‚Œ‚‰‚‹‚…<line>
-‚…‚–‚…‚’‚™‚”‚ˆ‚‰‚Ž‚‡f‚“ ‚‡‚‚Ž‚Ž‚ ‚‚‚… ‚‚‹‚‚™D<line>
+The sounds of this Ukulele<line>
+will make you feel like<line>
+everything's gonna be okay.<line>
 <:end><line>
 <end>
 
@@ -267,9 +267,9 @@
 //POINTER #27 @ $2C6EFC - STRING #27 @ $63BC20
 
 #WRITE(GBA,$2C6EFC)
-‚v‚…‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚…‚“‚… ‚—‚ˆ‚‰‚Œ‚… ‚‡‚‚‰‚Ž‚‡<line>
-‚†‚‚’ ‚ ‚„‚‰‚ ‚‰‚Ž ‚”‚ˆ‚… ‚‚ƒ‚…‚‚Ž ‚‰‚“<line>
-‚“‚•‚•‚•‚‚…‚’ ‚’‚…‚Œ‚‚˜‚‰‚Ž‚‡D<line>
+Wearing these while going<line>
+for a dip in the ocean is<line>
+suuuper relaxing.<line>
 <:end><line>
 <end>
 
@@ -277,9 +277,9 @@
 //POINTER #29 @ $2C6F04 - STRING #29 @ $63BCAC
 
 #WRITE(GBA,$2C6F04)
-‚o‚‚’‚” ‚P ‚‚† ‚”‚ˆ‚… ‚j‚Ž‚‰‚‡‚ˆ‚” ‚n‚•‚”‚†‚‰‚”D<line>
-‚h‚”f‚“ ‚ ‚’‚…‚‚Œ‚‰‚ƒ‚ ‚‚† ‚ ‚ˆ‚…‚Œ‚‚…‚”<line>
-‚‹‚Ž‚‰‚‡‚ˆ‚”‚“ ‚—‚‚’‚Ž ‚™‚…‚‚’‚“ ‚‚‡‚D<line>
+Part 1 of the Knight Outfit.<line>
+It's a replica of a helmet<line>
+knights worn years ago.<line>
 <:end><line>
 <end>
 
@@ -287,9 +287,9 @@
 //POINTER #30 @ $2C6F08 - STRING #30 @ $63BCF0
 
 #WRITE(GBA,$2C6F08)
-‚h ‚‚‚…‚” ‚™‚‚•f‚Œ‚Œ ‚ˆ‚‚–‚… ‚ ‚Œ‚‚”<line>
-‚‚† ‚†‚•‚Ž ‚‰‚† ‚™‚‚• ‚—‚…‚‚’ ‚”‚ˆ‚‰‚“<line>
-‚”‚ ‚ ‚†‚…‚“‚”‚‰‚–‚‚ŒD<line>
+I bet you'll have a lot<line>
+of fun if you wear this<line>
+to a festival.<line>
 <:end><line>
 <end>
 
@@ -297,9 +297,9 @@
 //POINTER #31 @ $2C6F0C - STRING #31 @ $63BD30
 
 #WRITE(GBA,$2C6F0C)
-‚s‚ˆ‚‰‚“ ‚”‚•‚’‚‚‚‚Ž ‚—‚‰‚Œ‚Œ ‚‚’‚‚”‚…‚ƒ‚”<line>
-‚™‚‚• ‚†‚’‚‚ ‚”‚ˆ‚… ‚ˆ‚‚’‚“‚ˆ ‚’‚‚™‚“<line>
-‚‚† ‚”‚ˆ‚… ‚“‚•‚ŽI<line>
+This turban will protect<line>
+you from the harsh rays<line>
+of the sun!<line>
 <:end><line>
 <end>
 
@@ -307,8 +307,8 @@
 //POINTER #32 @ $2C6F10 - STRING #32 @ $63BD74
 
 #WRITE(GBA,$2C6F10)
-‚` ‚—‚‰‚‡ ‚”‚ˆ‚‚”f‚“ ‚‚‚•‚’‚“‚”‚‰‚Ž‚‡<line>
-‚—‚‰‚”‚ˆ ‚V‚Of‚“ ‚†‚Œ‚‚‰‚’I<line>
+A wig that's bursting<line>
+with 70's flair!<line>
 <:end><line>
 <end>
 
@@ -316,9 +316,9 @@
 //POINTER #33 @ $2C6F14 - STRING #33 @ $63BDB0
 
 #WRITE(GBA,$2C6F14)
-‚`‚’‚… ‚™‚‚• ‚‡‚‚‚„ ‚‚” ‚‹‚…‚Ž‚„‚H<line>
-‚h‚† ‚™‚‚• ‚‡‚‚” ‚”‚ˆ‚… ‚“‚‚‰‚’‚‰‚”C ‚”‚ˆ‚‚”f‚“<line>
-‚‚‚’‚… ‚”‚ˆ‚‚Ž ‚…‚Ž‚‚•‚‡‚ˆI<line>
+Are you good at kendo?<line>
+If you got the spirit, that's<line>
+more than enough!<line>
 <:end><line>
 <end>
 
@@ -326,9 +326,9 @@
 //POINTER #34 @ $2C6F18 - STRING #34 @ $63BDF4
 
 #WRITE(GBA,$2C6F18)
-‚o‚‚’‚” ‚P ‚‚† ‚”‚ˆ‚… ‚g‚…‚’‚ ‚r‚•‚‰‚”D<line>
-‚s‚’‚‚Ž‚“‚†‚‚’‚ ‚‰‚Ž‚”‚ ‚”‚ˆ‚… ‚g‚…‚’‚<line>
-‚‚† ‚”‚ˆ‚… ‚r‚…‚I<line>
+Part 1 of the Hero Suit.<line>
+Transform into the Hero<line>
+of the Sea!<line>
 <:end><line>
 <end>
 
@@ -336,9 +336,9 @@
 //POINTER #35 @ $2C6F1C - STRING #35 @ $63BE34
 
 #WRITE(GBA,$2C6F1C)
-‚v‚ˆ‚‚” ‚ƒ‚Œ‚‚”‚ˆ‚…‚“ ‚„‚ ‚™‚‚• ‚”‚ˆ‚‰‚Ž‚‹<line>
-‚—‚‚•‚Œ‚„ ‚‡‚ ‚—‚…‚Œ‚Œ ‚—‚‰‚”‚ˆ ‚”‚ˆ‚‰‚“<line>
-‚“‚ˆ‚‰‚Ž‚™C ‚‡‚‚Œ‚„|‚‚Œ‚‚”‚…‚„ ‚ƒ‚’‚‚—‚ŽH<line>
+What clothes do you think<line>
+would go well with this<line>
+shiny, gold-plated crown?<line>
 <:end><line>
 <end>
 
@@ -346,9 +346,9 @@
 //POINTER #36 @ $2C6F20 - STRING #36 @ $63BE7C
 
 #WRITE(GBA,$2C6F20)
-‚l‚‚™‚‚‚… ‚x‚‚•f‚Œ‚Œ ‚ˆ‚‚–‚… ‚‡‚‚‚„<line>
-‚„‚’‚…‚‚‚“ ‚—‚…‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚‰‚“ ‚…‚–‚…‚’‚™<line>
-‚Ž‚‰‚‡‚ˆ‚”DDD<line>
+Maybe You'll have good<line>
+dreams wearing this every<line>
+night...<line>
 <:end><line>
 <end>
 
@@ -356,9 +356,9 @@
 //POINTER #37 @ $2C6F24 - STRING #37 @ $63BEB8
 
 #WRITE(GBA,$2C6F24)
-‚o‚‚’‚” ‚P ‚‚† ‚”‚ˆ‚… ‚o‚Œ‚‚™‚‰‚Ž‚‡ ‚g‚‚•‚“‚…<line>
-‚n‚•‚”‚†‚‰‚”D ‚s‚ˆ‚‰‚“ ‚‰‚“ ‚ ‚l‚t‚r‚s<line>
-‚v‚ˆ‚…‚Ž ‚™‚‚• ‚‚Œ‚‚™ ‚ˆ‚‚•‚“‚…I<line>
+Part 1 of the Playing House<line>
+Outfit. This is a MUST<line>
+When you play house!<line>
 <:end><line>
 <end>
 
@@ -366,9 +366,9 @@
 //POINTER #38 @ $2C6F28 - STRING #38 @ $63BEF8
 
 #WRITE(GBA,$2C6F28)
-‚o‚‚’‚” ‚P ‚‚† ‚”‚ˆ‚… ‚c‚…‚–‚‰‚Œ ‚n‚•‚”‚†‚‰‚”D<line>
-‚r‚”‚‚’‚†‚™f‚“ ‚”‚•‚’‚Ž‚…‚„ ‚‰‚Ž‚”‚<line>
-‚ ‚„‚…‚–‚‰‚ŒH<line>
+Part 1 of the Devil Outfit.<line>
+Starfy's turned into<line>
+a devil?<line>
 <:end><line>
 <end>
 
@@ -376,9 +376,9 @@
 //POINTER #39 @ $2C6F2C - STRING #39 @ $63BF40
 
 #WRITE(GBA,$2C6F2C)
-‚o‚‚’‚” ‚P ‚‚† ‚”‚ˆ‚… ‚r‚•‚‚…‚’‚‚‚Ž<line>
-‚n‚•‚”‚†‚‰‚”D ‚s‚ˆ‚‰‚“ ‚‰‚“ ‚”‚ˆ‚… ‚ˆ‚‚”<line>
-‚‚† ‚‚Ž ‚‚Œ‚Œ‚™ ‚‚† ‚Š‚•‚“‚”‚‰‚ƒ‚…I<line>
+Part 1 of the Superman<line>
+Outfit. This is the hat<line>
+of an ally of justice!<line>
 <:end><line>
 <end>
 
@@ -386,9 +386,9 @@
 //POINTER #40 @ $2C6F30 - STRING #40 @ $63BF80
 
 #WRITE(GBA,$2C6F30)
-‚o‚‚’‚” ‚P ‚‚† ‚”‚ˆ‚… ‚l‚‚’‚”‚‰‚‚Ž ‚n‚•‚”‚†‚‰‚”D<line>
-‚h‚“ ‚”‚ˆ‚‰‚“DDD ‚q‚d‚`‚k‚k‚x ‚—‚ˆ‚‚” ‚<line>
-‚l‚‚’‚”‚‰‚‚Ž ‚Œ‚‚‚‹‚“ ‚Œ‚‰‚‹‚…H<line>
+Part 1 of the Martian Outfit.<line>
+Is this... REALLY what a<line>
+Martian looks like?<line>
 <:end><line>
 <end>
 
@@ -396,9 +396,9 @@
 //POINTER #41 @ $2C6F34 - STRING #41 @ $63BFCC
 
 #WRITE(GBA,$2C6F34)
-‚` ‚—‚‰‚‡ ‚‚†‚”‚…‚Ž ‚“‚…‚…‚Ž ‚„‚•‚’‚‰‚Ž‚‡<line>
-‚ƒ‚‚‚…‚„‚™ ‚’‚‚•‚”‚‰‚Ž‚…‚“D ‚v‚‚”‚ƒ‚ˆ ‚‚•‚”<line>
-‚†‚‚’ ‚™‚‚•‚’ ‚‚‚’‚”‚Ž‚…‚’ ‚‚‚•‚”‚”‚‰‚Ž‚‡ ‚‰‚ŽI<line>
+A wig often seen during<line>
+comedy routines. Watch out<line>
+for your partner butting in!<line>
 <:end><line>
 <end>
 
@@ -406,9 +406,9 @@
 //POINTER #42 @ $2C6F38 - STRING #42 @ $63C010
 
 #WRITE(GBA,$2C6F38)
-‚` ‚—‚‰‚‡ ‚”‚ˆ‚‚” ‚’‚…‚‚Œ‚Œ‚™ ‚‚‚‹‚…‚“<line>
-‚™‚‚• ‚“‚”‚‚Ž‚„ ‚‚•‚”D ‚l‚‚™‚‚‚…<line>
-‚™‚‚•f‚Œ‚Œ ‚…‚–‚…‚Ž ‚‡‚…‚” ‚“‚‚‚… ‚†‚‚Ž‚“I<line>
+A wig that really makes<line>
+you stand out. Maybe<line>
+you'll even get some fans!<line>
 <:end><line>
 <end>
 
@@ -416,8 +416,8 @@
 //POINTER #43 @ $2C6F3C - STRING #43 @ $63C050
 
 #WRITE(GBA,$2C6F3C)
-‚h‚”f‚“ ‚‚‚„‚… ‚‚•‚” ‚‚† ‚‚Œ‚‚“‚”‚‰‚ƒC<line>
-‚“‚ ‚‰‚” ‚„‚‚…‚“‚Žf‚” ‚“‚‚…‚Œ‚ŒD<line>
+It's made out of plastic,<line>
+so it doesn't smell.<line>
 <:end><line>
 <end>
 
@@ -425,9 +425,9 @@
 //POINTER #44 @ $2C6F40 - STRING #44 @ $63C084
 
 #WRITE(GBA,$2C6F40)
-‚` ‚”‚’‚‚„‚‰‚”‚‚Ž‚‚Œ ‚SC‚O‚O‚O ‚™‚…‚‚’<line>
-‚‚Œ‚„ ‚—‚‰‚‡ ‚—‚‰‚”‚ˆ ‚ ‚“‚™‚‚‚‚‚Œ ‚”‚ˆ‚‚”<line>
-‚‚…‚‚Ž‚“ h‚‚‰‚„‚„‚Œ‚…h ‚‚”‚”‚‚ƒ‚ˆ‚…‚„D<line>
+A traditonal 4,000 year<line>
+old wig with a symbol that<line>
+means "middle" attached.<line>
 <:end><line>
 <end>
 
@@ -435,8 +435,8 @@
 //POINTER #46 @ $2C6F48 - STRING #46 @ $63C0E0
 
 #WRITE(GBA,$2C6F48)
-‚x‚‚•f‚Œ‚Œ ‚‚‚… ‚”‚‚Œ‚‹ ‚‚† ‚”‚ˆ‚… ‚‚‚’‚”‚™<line>
-‚—‚…‚‚’‚‰‚Ž‚‡ ‚”‚ˆ‚‰‚“I<line>
+You'll be talk of the party<line>
+wearing this!<line>
 <:end><line>
 <end>
 
@@ -444,9 +444,9 @@
 //POINTER #47 @ $2C6F4C - STRING #47 @ $63C110
 
 #WRITE(GBA,$2C6F4C)
-‚` ‚“‚”‚‚‚Œ‚… ‚‚‚’‚”‚™ ‚‚’‚‚D<line>
-‚s‚ˆ‚‰‚“f‚Œ‚Œ ‚‚‚… ‚ ‚‚‚‰‚‡ ‚ˆ‚‰‚” ‚—‚‰‚”‚ˆ<line>
-‚‚‚’‚”‚™‚‡‚‚…‚’‚“III<line>
+A staple party prop.<line>
+This'll be a big hit with<line>
+partygoers!!!<line>
 <:end><line>
 <end>
 
@@ -454,8 +454,8 @@
 //POINTER #48 @ $2C6F50 - STRING #48 @ $63C154
 
 #WRITE(GBA,$2C6F50)
-‚d‚˜‚”‚’‚…‚‚…‚Œ‚™ ‚ˆ‚‰‚‡‚ˆ|‚ƒ‚Œ‚‚“‚“ ‚‚‚‹‚…<line>
-‚•‚ ‚”‚ˆ‚‚” ‚k‚‚–‚…‚Œ‚™ ‚—‚…‚‚’‚“ ‚”‚‚D<line>
+Extremely high-class make<line>
+up that Lovely wears too.<line>
 <:end><line>
 <end>
 
@@ -463,16 +463,16 @@
 //POINTER #49 @ $2C6F54 - STRING #49 @ $63C198
 
 #WRITE(GBA,$2C6F54)
-‚` ‚‹‚‰‚Ž‚„‚ ‚“‚ƒ‚‚’‚™ ‚Œ‚‚‚‹‚‰‚Ž‚‡ ‚—‚‰‚‡D<line>
+A kinda scary looking wig.<line>
 <:end><line>
 <end>
 
 //POINTER #28 @ $2C6F00 - STRING #28 @ $63BC68
 
 #WRITE(GBA,$2C6F00)
-‚x‚‚• ‚ƒ‚‚Ž ‚‚…‚’‚†‚‚’‚ ‚‡‚’‚…‚‚”<line>
-‚”‚’‚‰‚ƒ‚‹‚“ ‚‚” ‚‚‚’‚”‚‰‚…‚“ ‚—‚‰‚”‚ˆ ‚”‚ˆ‚‰‚“<line>
-‚„‚…‚…‚ ‚‚‚Œ‚‚ƒ‚‹ ‚”‚‚ ‚ˆ‚‚”D<line>
+You can perform great<line>
+tricks at parties with this<line>
+deep black top hat.<line>
 <:end><line>
 <end>
 

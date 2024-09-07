@@ -14,9 +14,9 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚x‚n‚c‚d‚k|‚k‚`‚x|‚g‚d‚d ‚g‚d‚h‚f‚g‚s‚r@‚V|‚R<line>
+YODEL-LAY-HEE HEIGHTS 7-3<line>
 [<x_pos> <2><7>]<line>
 [<y_pos> <2><6>]<line>
-‚t‚“‚… ‚o‚ˆ‚‚”‚‚“ ‚”‚ ‚e‚‰‚Ž‚„ ‚”‚ˆ‚… ‚g‚‰‚„‚„‚…‚Ž ‚c‚‚‚’‚“I<line>
+Use Photos to Find the Hidden Doors!<line>
 <end>
 

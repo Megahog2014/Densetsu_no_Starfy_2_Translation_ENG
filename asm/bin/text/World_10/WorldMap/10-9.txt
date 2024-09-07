@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚s‚n‚q‚q‚d‚m‚s‚h‚`‚k ‚e‚`‚k‚k‚r@‚P‚O|‚X<line>
+TORRENTIAL FALLS 10-9<line>
 [<x_pos> <4><8>]<line>
 [<y_pos> <2><0>]<line>
-         ‚c‚‚Žf‚” ‚k‚‚“‚… ‚e‚‚ƒ‚•‚“I<line>
-‚v‚…‚Œ‚ƒ‚‚‚… ‚”‚ ‚r‚‚‰‚‹‚… ‚a‚‚Œ‚Œ ‚s‚‚’‚”‚•‚’‚…I<line>
+         Don't Lose Focus!<line>
+Welcome to Spike Ball Torture!<line>
 <end>
 

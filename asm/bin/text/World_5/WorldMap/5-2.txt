@@ -14,9 +14,9 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚i‚t‚l‚a‚n‚v‚n‚n‚c ‚e‚n‚q‚d‚r‚s@‚T|‚Q<line>
+JUMBOWOOD FOREST 5-2<line>
 [<x_pos> <7><0>]<line>
 [<y_pos> <2><6>]<line>
-‚l‚‚“‚”‚…‚’ ‚”‚ˆ‚… ‚`‚‰‚’ ‚i‚•‚‚I<line>
+Master the Air Jump!<line>
 <end>
 

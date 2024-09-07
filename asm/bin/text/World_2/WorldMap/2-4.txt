@@ -14,10 +14,10 @@
 
 [<x_pos> <2>]<line>
 [<y_pos> <2>]<line>
-‚f‚k‚t‚f‚k‚t‚f ‚k‚`‚f‚n‚n‚m@‚Q|‚S<line>
+GLUGLUG LAGOON 2-4<line>
 [<x_pos> <3><0>]<line>
 [<y_pos> <2><0>]<line>
-@@@@@ ‚`‚” ‚k‚‚“‚”I<line>
-‚s‚ˆ‚… ‚r‚ˆ‚‚—‚„‚‚—‚Ž ‚—‚‰‚”‚ˆ ‚o‚•‚ƒ‚ˆ ‚n‚‡‚•‚’‚ ”‚QI<line>
+      At Last!<line>
+The Showdown with Puch Ogura #2!<line>
 <end>
 
