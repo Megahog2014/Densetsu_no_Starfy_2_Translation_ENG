@@ -54,17 +54,17 @@
 <:func> <8> <0> <9><9><line>
 <:func> <7><line>
 <:func> <1><8> <7><line>
-<rname><diamond>Ｐｕｃｈｉ Ｏｇｕｒａ ＃１<line>
-Ｓｏ！ Ｔｈａｔ ｌｏｓｅｒ ｃｌａｍ’ｓ<line>
-ｐａｒｔｎｅｒ’ｓ ｆｉｎａｌｌｙ ｈｅｒｅ！<line>
+<rname><diamond>Puchi Ogura #1<line>
+So! That loser clam's<line>
+partner's finally here!<line>
 <:c><line>
-<redname><diamond>Ｋｏｎｋ<line>
-Ｉ ｗｏｎ’ｔ ｌｏｓｅ ｔｏ ｙｏｕ ｌｉｋｅ ｂｅｆｏｒｅ， Ｋｏｎｋ！<line>
-Ｐｒｅｐａｒｅ ｙｏｕｒｓｅｌｆ Ｋｏｎｋ！<line>
+<redname><diamond>Konk<line>
+I won't lose to you like before, Konk!<line>
+Prepare yourself Konk!<line>
 <:c><line>
-<redname><diamond>Ｐｕｃｈｉ Ｏｇｕｒａ ＃１<line>
-Ｙｅａｈ， ｙｏｕ ｔｅｌｌ ｈｉｍ， Ｋｏｎｋ！<line>
-Ｎｏｗ ｃｏｍｅ ｏｎ， ｌｅｔ’ｓ ｄｏ ｔｈｉｓ！<line>
+<redname><diamond>Puchi Ogura #1<line>
+Yeah, you tell him, Konk!<line>
+Now come on, let's do this!<line>
 <:obj> <1> <1><0> <3> <2><line>
 [<wait_time> <4><0>]<line>
 <:c><line>
@@ -81,15 +81,15 @@
 <:obj> <1> <7> <8><0> <1><2><8> <2><0><line>
 [<wait_time> <1><0><0>]<line>
 <:obj> <1> <1><0> <3> <1><line>
-<rname><diamond>Ｋｏｎｋ<line>
-Ｋｏｎｋ　Ｋｏｎｋ　Ｋｏｎｋ！<line>
-Ｎｏ　ｍａｔｔｅｒ　ｈｏｗ　ｍａｎｙ　ｔｉｍｅｓ　ｙｏｕ　ｃｏｍｅ　ｂａｃｋ，<line>
-ｎｏｔｈｉｎｇ’ｌｌ　ｃｈａｎｇｅ　Ｋｏｎｇ！<line>
+<rname><diamond>Konk<line>
+Konk Konk Konk!<line>
+No matter how many times you come back,<line>
+nothing'll change Kong!<line>
 <:c><line>
-<redname><diamond>Ｐｕｃｈｉ Ｏｇｕｒａ ＃１<line>
-Ａｈａｈａｈａ！　Ｙｅａｈ，<line>
-ｗｅ’ｌｌ　ｋｅｅｐ　ｋｎｏｃｋｉｎｇ　ｙｏｕ　ｆｌａｔ！<line>
-Ｌｅｔ’ｓ　ｇｏ，　Ｋｏｎｋ！<line>
+<redname><diamond>Puchi Ogura #1<line>
+Ahahaha! Yeah,<line>
+we'll keep knocking you flat!<line>
+Let's go, Konk!<line>
 <:obj> <1> <1><0> <3> <2><line>
 [<wait_time> <4><0>]<line>
 <:c><line>

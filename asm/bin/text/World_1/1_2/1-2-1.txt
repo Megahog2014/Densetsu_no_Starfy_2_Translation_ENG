@@ -22,67 +22,67 @@
 <:func> <1> <1><line>
 <:se><line>
 <:func> <2><2> <-><1><line>
-<rname><diamond>Ｈｅｒｍａｎ<line>
+<rname><diamond>Herman<line>
 <:obj> <1> <4><line>
-Ｏｈ， Ｓｔａｒｆｙ ａｎｄ Ｍｏｅ！ Ｊｕｓｔ ｉｎ ｔｉｍｅ！<line>
-Ｌｉｓｔｅｎ ｔｏ ｔｈｉｓ．．．<line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
-Ｓｏｍｅ Ｏｇｕｒａ ｌｏｏｋｉｎｇ ｋｉｄ ｗａｓ<line>
-ｒｕｎｎｉｎｇ ａｍｏｋ ｔｈｒｏｕｇｈ ｈｅｒｅ ａ ｌｉｔｔｌｅ ｗｈｉｌｅ ａｇｏ．．．<line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
-Ａｎｄ ｔｈａｎｋｓ ｔｏ ｔｈｅｍ，<line>
-Ｉ’ｍ ｈａｖｉｎｇ ｔｒｏｕｂｌｅ ｗｉｔｈ ｔｈｏｓｅ<line>
-ｇｒｅｅｎ ｔｈｉｎｇｓ ｅｖｅｒｙｗｈｅｒｅ．．．<line>
+Oh, Starfy and Moe! Just in time!<line>
+Listen to this...<line>
+<redname><diamond>Herman<line>
+Some Ogura looking kid was<line>
+running amok through here a little while ago...<line>
+<redname><diamond>Herman<line>
+And thanks to them,<line>
+I'm having trouble with those<line>
+green things everywhere...<line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
+<redname><diamond>Moe<line>
 <:obj> <2> <4><line>
-Ｏｈ ｙｅａｈ，<line>
-Ｗｅ ｓａｗ ａ ｂｕｎｃｈ ｏｆ ｔｈｏｓｅ ｏｎ ｔｈｅ ｗａｙ ｈｅｒｅ．<line>
-Ｔｈｅｙ ｍａｄｅ ｉｔ ａ ｒｅａｌ ｐａｉｎ ｔｏ ｇｅｔ ｈｅｒｅ．．．<line>
+Oh yeah,<line>
+We saw a bunch of those on the way here.<line>
+They made it a real pain to get here...<line>
 <:c><line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
+<redname><diamond>Herman<line>
 <:obj> <1> <4><line>
-Ｙｅａｈ， ｅｘａｃｔｌｙ！<line>
-Ｉｔ’ｓ ｐｒｏｂａｂｌｙ ａ ｐｒａｎｋ<line>
-ｐｕｌｌｅｄ ｂｙ ｔｈａｔ Ｏｇｕｒａ ｌｏｏｋ－ａｌｉｋｅ．<line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
-Ｙｏｕ ｓｈｏｕｌｄ ｂｅ ａｂｌｅ ｔｏ ｇｅｔ ｒｉｄ ｏｆ ｔｈｅｍ<line>
-ｗｉｔｈ ｙｏｕｒ <textcolor_d>”Ｓｔａｒ Ｓｐｉｎ”<textcolor_0> ｔｈｏｕｇｈ， Ｓｔａｒｆｙ．<line>
+Yeah, exactly!<line>
+It's probably a prank<line>
+pulled by that Ogura look-alike.<line>
+<redname><diamond>Herman<line>
+You should be able to get rid of them<line>
+with your <textcolor_d>"Star Spin"<textcolor_0> though, Starfy.<line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
+<redname><diamond>Moe<line>
 <:obj> <2> <4><line>
-Ｉ ｇｏｔ ｓｏｍｅ ｂａｄ ｎｅｗｓ ｆｏｒ ｙａ．<line>
-Ｓｔａｒｆ’ ｈｅｒｅ’ｓ ｕｓｅｌｅｓｓ．<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｔｈｉｓ ｃｌｕｍｓｙ ｏａｆ ｆｏｒｇｏｔ<line>
-Ａｌｌ ｏｆ ｈｉｓ Ａｂｉｌｉｔｉｅｓ ｆｒｏｍ ｂｅｆｏｒｅ！<line>
-Ｕｎｂｅｌｉｅｖａｂｌｅ．．．<line>
+I got some bad news for ya.<line>
+Starf' here's useless.<line>
+<redname><diamond>Moe<line>
+This clumsy oaf forgot<line>
+All of his Abilities from before!<line>
+Unbelievable...<line>
 <:c><line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
+<redname><diamond>Herman<line>
 <:obj> <1> <4><line>
-Ｏｈ ｎｏ！ Ｉｎ ｔｈａｔ ｃａｓｅ，<line>
-Ｉ’ｌｌ ｔｅａｃｈ ｙｏｕ ｔｈｅ Ｓｔａｒ Ｓｐｉｎ ｏｎｅ ｍｏｒｅ ｔｉｍｅ．<line>
+Oh no! In that case,<line>
+I'll teach you the Star Spin one more time.<line>
 <:c><line>
-<redname><diamond>Ｍｏｅ<line>
+<redname><diamond>Moe<line>
 <:obj> <2> <4><line>
-＊ｓｉｇｈ＊．．． Ｈｏｗ ａｎｎｏｙｉｎｇ．．．<line>
-Ｉ’ｍ ｇｏｉｎｇ ｏｎ ａｈｅａｄ．<line>
-Ｈｅｒｍａｎ， ｔａｋｅ ｃａｒｅ ｏｆ ｔｈｉｓ ｂｌｏｃｋｈｅａｄ， ｗｉｌｌ ｙａ？<line>
+*sigh*... How annoying...<line>
+I'm going on ahead.<line>
+Herman, take care of this blockhead, will ya?<line>
 <:c><line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
+<redname><diamond>Herman<line>
 <:obj> <1> <4><line>
-Ｉｆ ｙｏｕ ｗａｎｎａ ｓｅｅ ｈｏｗ ｔｏ ｕｓｅ ｔｈｅ Ｓｔａｒ Ｓｐｉｎ，<line>
-ｔａｋｅ ａ ｌｏｏｋ ａｔ ｔｈｅ ｓｉｇｎ ａｂｏｖｅ ｕｓ．<line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
-Ｔｈｅｒｅ ａｒｅ <textcolor_d>４０ ｏｆ ｔｈｏｓｅ ｗｅｉｒｄ ｇｒｅｅｎ ｔｈｉｎｇｓ<textcolor_0><line>
-ｉｎ ｔｏｔａｌ．<line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
-Ｏｈ， ｔｈａｔ’ｓ ｒｉｇｈｔ！<line>
-Ｉｆ ｙｏｕ ｕｓｅ ｔｈｅ Ｓｔａｒ Ｓｐｉｎ ｔｏｏ ｍｕｃｈ，<line>
-Ｙｏｕ’ｌｌ ｇｅｔ ｄｉｚｚｙ．．．<line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
-Ｂｕｔ ｙｏｕ ｃａｎ ｒｅｃｏｖｅｒ ｑｕｉｃｋｌｙ<line>
-ｂｙ <textcolor_d>ｍａｓｈｉｎｇ ｔｈｅ <Dpad><textcolor_0>！ Ｇｏｏｄ ｌｕｃｋ！<line>
+If you wanna see how to use the Star Spin,<line>
+take a look at the sign above us.<line>
+<redname><diamond>Herman<line>
+There are <textcolor_d>40 of those weird green things<textcolor_0><line>
+in total.<line>
+<redname><diamond>Herman<line>
+Oh, that's right!<line>
+If you use the Star Spin too much,<line>
+You'll get dizzy...<line>
+<redname><diamond>Herman<line>
+But you can recover quickly<line>
+by <textcolor_d>mashing the <Dpad><textcolor_0>! Good luck!<line>
 <:c><line>
 <wait><:sd><line>
 <:func> <4><line>
@@ -93,36 +93,36 @@
 <:exit><line>
 <wait>:<1><line>
 <:func> <2><2> <-><1><line>
-<rname><diamond>Ｈｅｒｍａｎ<line>
-Ｕｓｅ ｙｏｕｒ <textcolor_d>Ｓｔａｒ Ｓｐｉｎ<textcolor_0> ｔｏ ｇｅｔ ｒｉｄ ｏｆ<line>
-<textcolor_d>４０ ｏｆ ｔｈｏｓｅ ｗｉｅｒｄ ｇｒｅｅｎ ｔｈｉｎｇｓ<textcolor_0>！<line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
-Ｉｆ ｙｏｕ ｕｓｅ ｔｈｅ <textcolor_d>Ｓｔａｒ Ｓｐｉｎ<textcolor_0> ｔｏｏ ｍｕｃｈ ａｎｄ ｇｅｔ ｄｉｚｚｙ．．．<line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
-Ｙｏｕ ｃａｎ ｒｅｃｏｖｅｒ ｆｒｏｍ ｉｔ ｑｕｉｃｋｅｒ ｂｙ,<line>
-ｍａｓｈｉｎｇ ｔｈｅ <textcolor_d><Dpad><textcolor_0><line>
+<rname><diamond>Herman<line>
+Use your <textcolor_d>Star Spin<textcolor_0> to get rid of<line>
+<textcolor_d>40 of those wierd green things<textcolor_0>!<line>
+<redname><diamond>Herman<line>
+If you use the <textcolor_d>Star Spin<textcolor_0> too much and get dizzy...<line>
+<redname><diamond>Herman<line>
+You can recover from it quicker by,<line>
+mashing the <textcolor_d><Dpad><textcolor_0><line>
 <:end><line>
 <wait>:<2><line>
 <:func> <2><2> <-><2><line>
-<rname><diamond>Ｈｅｒｍａｎ<line>
-Ｗｏｗ， ｙｏｕ ｇｏｔ ｒｉｄ ｏｆ ａｌｌ ｏｆ ｔｈｅｍ！<line>
-Ｔｈａｎｋｓ， Ｓｔａｒｆｙ！<line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
-Ｉｎ ｒｅｔｕｒｎ， Ｉ’ｌｌ ｏｐｅｎ ｔｈｅ ｄｏｏｒ ｎｅｘｔ ｔｏ ｍｅ．<line>
+<rname><diamond>Herman<line>
+Wow, you got rid of all of them!<line>
+Thanks, Starfy!<line>
+<redname><diamond>Herman<line>
+In return, I'll open the door next to me.<line>
 <:flagon> <1><2><5><2><line>
 <:func> <1><8> <1> <7><4><line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
-Ｉ ｆｏｕｎｄ ｓｏｍｅｔｈｉｎｇ ｔｈａｔ ｌｏｏｋｅｄ ｒａｒｅ ｉｎ ｔｈｅｒｅ！<line>
-Ｗｈｙ ｄｏｎ’ｔ ｙｏｕ ｔａｋｅ ａ ｌｏｏｋ？<line>
+<redname><diamond>Herman<line>
+I found something that looked rare in there!<line>
+Why don't you take a look?<line>
 <:end><line>
 <wait>:<3><line>
 <:func> <2><2> <-><1><line>
-<rname><diamond>Ｈｅｒｍａｎ<line>
-Ｂｙ ｔｈｅ ｗａｙ， ｈａｖｅ ｙｏｕ ａｌｒｅａｄｙ ｒｅｍｅｍｂｅｒｅｄ<line>
-ｔｈｅ ｉｎｓ ａｎｄ ｏｕｔｓ ｏｆ ｔｈｅ <textcolor_d>Ｓｔａｒ Ｓｐｉｎ<textcolor_0>？<line>
-<redname><diamond>Ｈｅｒｍａｎ<line>
-Ｉ ｂｅｇ ｙｏｕ’ｌｌ ｂｅ ｕｓｉｎｇ ｉｔ ｉｎ ａｌｌ ｓｏｒｔｓ ｏｆ ｓｉｔｕａｔｉｏｎｓ，<line>
-ｓｏ ｍａｋｅ ｓｕｒｅ ｔｏ ｐｒｏｐｅｒｌｙ ｐｒａｃｔｉｃｅ ｕｓｉｎｇ ｉｔ！<line>
+<rname><diamond>Herman<line>
+By the way, have you already remembered<line>
+the ins and outs of the <textcolor_d>Star Spin<textcolor_0>?<line>
+<redname><diamond>Herman<line>
+I beg you'll be using it in all sorts of situations,<line>
+so make sure to properly practice using it!<line>
 <:end><line>
 <end>
 

@@ -19,72 +19,72 @@
 <:obj> <2> <4><line>
 <:se><line>
 <:func> <2><2> <-><2><line>
-<rname><diamond>Ｌｏｖｅｌｙ<line>
-Ｏｈ ｍｙ！ Ｗｅｌｃｏｍｅ！<line>
-Ｉｔ’ｓ ｂｅｅｎ ａ ｗｈｉｌｅ ｓｉｎｃｅ Ｉ’ｖｅ ｓｅｅｎ<line>
-ｔｈｅｓｅ ａｄｏｒａｂｌｅ ｆａｃｅｓ， ｈａｓｎ’ｔ ｉｔ？<line>
+<rname><diamond>Lovely<line>
+Oh my! Welcome!<line>
+It's been a while since I've seen<line>
+these adorable faces, hasn't it?<line>
 <:c><line>
 <wait><:obj> <1> <4><line>
-<rname><diamond>Ｍｏｅ<line>
-Ｗｈｏａ， ｉｔ ｒｅａｌｌｙ ｉｓ ｙｏｕ！<line>
-Ｉ ｋｎｅｗ ｔｈａｔ ｗａｙ ｏｆ ｓｐｅａｋｉｎ’ ｗａｓ ｆａｍｉｌｉａｒ．．．<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｂｕｔ ｄｏｎ’ｔ ｙｏｕ ｌｉｖｅ ｉｎ ｔｈｅ Ｓｅａ ｏｆ Ｉｃｅ？<line>
+<rname><diamond>Moe<line>
+Whoa, it really is you!<line>
+I knew that way of speakin' was familiar...<line>
+<redname><diamond>Moe<line>
+But don't you live in the Sea of Ice?<line>
 <:c><line>
 <wait><:obj> <2> <4><line>
-<rname><diamond>Ｌｏｖｅｌｙ<line>
-Ｏｈ， ｍｙ ｄａｒｌｉｎｇ ｌｉｔｔｌｅ ｃｌａｍ，<line>
-Ｉ’ｍ ｓｏ ｇｌａｄ ｙｏｕ ｒｅｍｅｍｂｅｒｅｄ！<line>
-Ｕｆｕ， ｌｅｔ Ｍｓ． Ｌｏｖｅｌｙ ｇｉｖｅ ｙｏｕ ａ ｋｉｓｓ．．<line>
+<rname><diamond>Lovely<line>
+Oh, my darling little clam,<line>
+I'm so glad you remembered!<line>
+Ufu, let Ms. Lovely give you a kiss..<line>
 <:c><line>
 <wait><:obj> <1> <4><line>
-<rname><diamond>Ｍｏｅ<line>
-Ａｃｋ， ｎｏ！ Ｉ ｄｏｎ’ｔ ｗａｎｔ ａ ｋｉｓｓ！<line>
-Ａｎｙｗａｙ， Ｗｈａｔ’ｒｅ ｙａ ｄｏｉｎ’ ｈｅｒｅ， Ｌｏｖｅｌｙ？<line>
+<rname><diamond>Moe<line>
+Ack, no! I don't want a kiss!<line>
+Anyway, What're ya doin' here, Lovely?<line>
 <:c><line>
 <wait><:obj> <2> <4><line>
-<rname><diamond>Ｌｏｖｅｌｙ<line>
-Ｉ ｍｏｖｅｄ ｈｅｒｅ ｒｅｃｅｎｔｌｙ ｔｏ<line>
-ｏｐｅｎ ｔｈｉｓ ｌｉｔｔｌｅ <textcolor_d>ｓｈｏｐ<textcolor_0> ｏｆ ｍｉｎｅ．<line>
-<redname><diamond>Ｌｏｖｅｌｙ<line>
-Ｉ ｈａｖｅ ａ ｌｏｔ ｏｆ <textcolor_d>ｐｉｃｔｕｒｅｓ<textcolor_0> ｏｆ ｃｕｔｉｅｓ ｆｏｒ ｓａｌｅ．<line>
-Ｉｆ ｙｏｕ ｗａｎｔ ｓｏｍｅ，<line>
-ｂｅ ｓｕｒｅ ｔｏ ｂｒｉｎｇ ｍｅ ｓｏｍｅ <textcolor_d>ｐｅａｒｌｓ<textcolor_0>．<line>
-<redname><diamond>Ｌｏｖｅｌｙ<line>
-Ｉｆ ｙｏｕ ｂｕｙ ａ ｗｈｏｌｅ ｂｕｎｃｈ，<line>
-Ｉ’ｌｌ ｇｉｖｅ ｙｏｕ ａ ｋｉｓｓ． Ｕｆｕ．．．<line>
+<rname><diamond>Lovely<line>
+I moved here recently to<line>
+open this little <textcolor_d>shop<textcolor_0> of mine.<line>
+<redname><diamond>Lovely<line>
+I have a lot of <textcolor_d>pictures<textcolor_0> of cuties for sale.<line>
+If you want some,<line>
+be sure to bring me some <textcolor_d>pearls<textcolor_0>.<line>
+<redname><diamond>Lovely<line>
+If you buy a whole bunch,<line>
+I'll give you a kiss. Ufu...<line>
 <:c><line>
 <wait><:obj> <1> <4><line>
-<rname><diamond>Ｍｏｅ<line>
-Ｙｅａｈ， Ｉ’ｌｌ ｐａｓｓ ｏｎ ｔｈｅ ｋｉｓｓｅｓ．<line>
-Ｉ ａｍ ｃｕｒｉｏｕｓ ａｂｏｕｔ ｔｈｏｓｅ<line>
-ｃｕｔｅ ｇｉｒｌｓ ｔｈｏｕｇｈ．．．<line>
+<rname><diamond>Moe<line>
+Yeah, I'll pass on the kisses.<line>
+I am curious about those<line>
+cute girls though...<line>
 <:c><line>
 <wait><:obj> <2> <4><line>
-<rname><diamond>Ｌｏｖｅｌｙ<line>
-Ｙｏｕ ｃａｎ <textcolor_d>ｅｎｔｅｒ ｍｙ Ｓｈｏｐ ｆｒｏｍ ｔｈｅ Ｍａｐ Ｓｃｒｅｅｎ<textcolor_0>．<line>
-<redname><diamond>Ｌｏｖｅｌｙ<line>
-Ｏｈ， ｓｉｌｌｙ ｍｅ！ Ｔｏ ｃｅｌｅｂｒａｔｅ ｏｕｒ ｒｅｕｎｉｏｎ，<line>
-Ｉ’ｌｌ ｏｐｅｎ ｔｈｅ ｄｏｏｒ ｂｅｈｉｎｄ ｍｅ．<line>
+<rname><diamond>Lovely<line>
+You can <textcolor_d>enter my Shop from the Map Screen<textcolor_0>.<line>
+<redname><diamond>Lovely<line>
+Oh, silly me! To celebrate our reunion,<line>
+I'll open the door behind me.<line>
 <:flagon> <1><3><1><0><line>
 <:func> <1><8> <1> <7><4><line>
-<redname><diamond>Ｌｏｖｅｌｙ<line>
-Ｉ ｈｏｐｅ ｙｏｕ ｆｉｎｄ ｓｏｍｅｔｈｉｎｇ ｍａｒｖｅｌｏｕｓ ｉｎ ｔｈｅｒｅ．<line>
-Ｗｅｌｌ， ｔｏｏｄｌｅ－ｌｏｏ， ｂｏｙｓ！<line>
+<redname><diamond>Lovely<line>
+I hope you find something marvelous in there.<line>
+Well, toodle-loo, boys!<line>
 <:c><line>
 <wait><:obj> <1> <9> <2><line>
 <:obj> <1> <4><line>
-<rname><diamond>Ｍｏｅ<line>
-Ｎｏｗ ｔｈａｔ’ｓ ｗｈａｔ Ｉ’ｍ ｔａｌｋｉｎ’ ａｂｏｕｔ！<line>
-Ｈｅｙ， Ｓｔａｒｆ’！<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｗｈｅｎ ｙａ ｃｏｌｌｅｃｔ ａ ｗｈｏｌｅ ｂｕｎｃｈ ｏｆ Ｐｅａｒｌｓ，<line>
-ｕｓｅ’ｅｍ ｔｏ ｂｕｙ ｐｈｏｔｏｓ ａｎｄ<line>
-ａｌｌ ｋｉｎｄｓ ｏｆ ｓｔｕｆｆ ａｔ Ｌｏｖｅｌｙ’ｓ Ｓｈｏｐ．<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｍａｋｅ ｓｕｒｅ ｔｏ ｂｕｙ ａ ｂｕｎｃｈ ｏｆ<line>
-ｐｈｏｔｏｓ ｏｆ ｃｕｔｅ ｇｉｒｌｓ！<line>
-Ｗｅｌｌ， ｓｅｅ ｙａ ｌａｔｅｒ Ｌｏｖｅｌｙ！<line>
+<rname><diamond>Moe<line>
+Now that's what I'm talkin' about!<line>
+Hey, Starf'!<line>
+<redname><diamond>Moe<line>
+When ya collect a whole bunch of Pearls,<line>
+use'em to buy photos and<line>
+all kinds of stuff at Lovely's Shop.<line>
+<redname><diamond>Moe<line>
+Make sure to buy a bunch of<line>
+photos of cute girls!<line>
+Well, see ya later Lovely!<line>
 <:c><line>
 <wait><:sd><line>
 <:func> <4><line>
@@ -95,13 +95,13 @@
 <:exit><line>
 <wait>:<1><line>
 <:func> <2><2> <-><1><line>
-<rname><diamond>Ｌｏｖｅｌｙ<line>
-Ｃｏｌｌｅｃｔ <textcolor_d>Ｐｅａｒｌｓ<textcolor_0><line>
-ａｎｄ ｂｕｙ ａｌｌ ｓｏｒｔｓ ｏｆ ｔｈｉｎｇｓ， ｓｕｇａｒ．<line>
-<redname><diamond>Ｌｏｖｅｌｙ<line>
-<textcolor_d>Ｙｏｕ ｃａｎ ｖｉｓｉｔ ｔｈｅ Ｓｈｏｐ<textcolor_0><line>
-<textcolor_d>ｆｒｏｍ ｔｈｅ Ｍａｐ Ｓｃｒｅｅｎ．<textcolor_0><line>
-Ｉ’ｍ ｌｏｏｋｉｎｇ ｆｏｒｗａｒｄ ｔｏ ｉｔ．．． Ｕｆｕ～<line>
+<rname><diamond>Lovely<line>
+Collect <textcolor_d>Pearls<textcolor_0><line>
+and buy all sorts of things, sugar.<line>
+<redname><diamond>Lovely<line>
+<textcolor_d>You can visit the Shop<textcolor_0><line>
+<textcolor_d>from the Map Screen.<textcolor_0><line>
+I'm looking forward to it... Ufu～<line>
 <:c><line>
 <:end><line>
 <end>

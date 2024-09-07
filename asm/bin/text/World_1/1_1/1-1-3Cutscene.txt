@@ -16,32 +16,32 @@
 <:func> <3> <2> <0><line>
 <:func> <3> <1> <3><line>
 <:se><line>
-<rname><diamond>Ｏｇｕｒａ<line>
-Ｇｗａｈａｈａｈａｈａ！<line>
-Ｓｅｒｖｅｓ ｙｏｕ ｒｉｇｈｔ， Ｓｔａｒｆｙ！<line>
+<rname><diamond>Ogura<line>
+Gwahahahaha!<line>
+Serves you right, Starfy!<line>
 [<wait_time> <1><8><0>]<line>
 <:func> <4><line>
-<redname><diamond>Ｏｇｕｒａ<line>
-Ｉ’ｍ ｔａｋｉｎｇ ｙｏｕｒ ｍｏｔｈｅｒ ｆａｒ，<line>
-ｆａｒ ａｗａｙ ｆｒｏｍ ｙｏｕ！ Ｇｗａｈａｈａｈａｈａ！<line>
+<redname><diamond>Ogura<line>
+I'm taking your mother far,<line>
+far away from you! Gwahahahaha!<line>
 [<wait_time> <1><8><0>]<line>
 <:func> <4><line>
 <:c><line>
 <wait><:func> <0> <0><line>
-<rname><diamond>Ｍａｍａ Ｓｔａｒ<line>
-Ｓ．．． Ｓｔａｒｆｙ．．． ｓａｖｅ ｍｅ．．．<line>
-Ｔｈ－ｔｈａｔ’ｓ ｉｔ！ Ｉｆ Ｉ ｌｅａｖｅ ｔｈｅｓｅ ｂｅｈｉｎｄ．．．<line>
+<rname><diamond>Mama Star<line>
+S... Starfy... save me...<line>
+Th-that's it! If I leave these behind...<line>
 [<wait_time> <1><8><0>]<line>
 <:func> <4><line>
 <wait><:func> <0> <1><line>
-<rname><diamond>Ｍａｍａ Ｓｔａｒ<line>
-Ｉ’ｖｅ ｄｒｏｐｐｅｄ ｙｏｕｒ <textcolor_d>”Ｓｔｕｆｆ”<textcolor_1>．．． Ｓｔａｒｆｙ！<line>
+<rname><diamond>Mama Star<line>
+I've dropped your <textcolor_d>"Stuff"<textcolor_1>... Starfy!<line>
 [<wait_time> <1><8><0>]<line>
 <:func> <4><line>
-<redname><diamond>Ｍａｍａ Ｓｔａｒ<line>
-Ｉ ｂｅｇ ｏｆ ｙｏｕ．．．<line>
-Ｐｌｅａｓｅ ｎｏｔｉｃｅ ｔｈｅｍ<line>
-ａｎｄ ｆｉｎｄ ｙｏｕｒ ｗａｙ ｔｏ Ｍａｍａ．．．<line>
+<redname><diamond>Mama Star<line>
+I beg of you...<line>
+Please notice them<line>
+and find your way to Mama...<line>
 [<wait_time> <1><8><0>]<line>
 <:sd><line>
 <:func> <4><line>

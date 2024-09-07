@@ -20,29 +20,29 @@
 <:se><line>
 <:func> <2><2> <-><1><line>
 [<wait_time> <3><0>]<line>
-<rname><diamond>Ｍｅｒｍａｉｄ<line>
-Ｏｈ， Ｓｔａｒｆｙ！ Ｌｏｎｇｔｉｍｅ ｎｏ ｓｅｅ！<line>
-Ｗｈａｔ’ｓ ｈａｐｐｅｎｉｎｇ ｔｈｉｓ ｔｉｍｅ ａｒｏｕｎｄ？<line>
-<redname><diamond>Ｍｅｒｍａｉｄ<line>
-．．．Ｈｍ．．ｈｍ．．．Ｏｈ， ｔｈａｔ’ｓ ｔｅｒｒｉｂｌｅ！<line>
-Ｙｏｕ ｎｅｅｄ ｔｏ ｈｕｒｒｙ ａｎｄ ｓａｖｅ ｙｏｕｒ ｍｏｍ！<line>
-<redname><diamond>Ｍｅｒｍａｉｄ<line>
-Ｉｎ ｔｈａｔ ｃａｓｅ， Ｉ’ｌｌ ｈｅｌｐ ｙｏｕ<line>
-ｏｎ ｙｏｕｒ ａｄｖｅｎｔｕｒｅ ｔｈｉｓ ｔｉｍｅ ｔｏｏ！<line>
-<redname><diamond>Ｍｅｒｍａｉｄ<line>
-<textcolor_d>Ｊｕｓｔ ｔｏｕｃｈ ｍｙ ｓｈｅｌｌ ｔｏ ｓａｖｅ！<textcolor_0><line>
-Ｔｈａｔ ｗａｙ ｉｆ ｓｏｍｅｔｈｉｎｇ ｇｏｅｓ ｗｒｏｎｇ， ｙｏｕ ｃａｎ<line>
-ｃｏｎｔｉｎｕｅ ｆｒｏｍ ｔｈｅｒｅ！<line>
-<redname><diamond>Ｍｅｒｍａｉｄ<line>
-Ａｈ！ Ｂｙ ｔｈｅ ｗａｙ， ｉｆ ｙｏｕ ｗａｎｎａ<line>
-ｔａｋｅ ａ ｂｒｅａｋ ｉｎ ｔｈｅ ｍｉｄｄｌｅ ｏｆ ａ ｓｔａｇｅ．．．<line>
-<redname><diamond>Ｍｅｒｍａｉｄ<line>
-<textcolor_d>Ｐｒｅｓｓ ｔｈｅ Ｓｔａｒｔ Ｂｕｔｔｏｎ ｔｏ ｐａｕｓｅ ｔｈｅ ｇａｍｅ<textcolor_0><line>
-<textcolor_d>ａｎｄ ｔｈｅｎ ｔｕｒｎ ｉｔ ｏｆｆ．．．<textcolor_0><line>
-<redname><diamond>Ｍｅｒｍａｉｄ<line>
-Ａｎｄ ｗｈｅｎ ｙｏｕ ｃｏｍｅ ｂａｃｋ，<line>
-ｙｏｕ ｃａｎ ｐｉｃｋ ｕｐ ｒｉｇｈｔ ｗｈｅｒｅ ｙｏｕ ｌｅｆｔ ｏｆｆ！<line>
-Ｉ’ｍ ｒｏｏｔｉｎｇ ｆｏｒ ｙｏｕ Ｓｔａｒｆｙ！<line>
+<rname><diamond>Mermaid<line>
+Oh, Starfy! Longtime no see!<line>
+What's happening this time around?<line>
+<redname><diamond>Mermaid<line>
+...Hm..hm...Oh, that's terrible!<line>
+You need to hurry and save your mom!<line>
+<redname><diamond>Mermaid<line>
+In that case, I'll help you<line>
+on your adventure this time too!<line>
+<redname><diamond>Mermaid<line>
+<textcolor_d>Just touch my shell to save!<textcolor_0><line>
+That way if something goes wrong, you can<line>
+continue from there!<line>
+<redname><diamond>Mermaid<line>
+Ah! By the way, if you wanna<line>
+take a break in the middle of a stage...<line>
+<redname><diamond>Mermaid<line>
+<textcolor_d>Press the Start Button to pause the game<textcolor_0><line>
+<textcolor_d>and then turn it off...<textcolor_0><line>
+<redname><diamond>Mermaid<line>
+And when you come back,<line>
+you can pick up right where you left off!<line>
+I'm rooting for you Starfy!<line>
 <:c><line>
 <wait><:sd><line>
 <:func> <4><line>

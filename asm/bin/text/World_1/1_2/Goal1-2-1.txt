@@ -17,11 +17,11 @@
 <:func> <0> <0><line>
 <:se><line>
 [<y_pos> <1><8>]<line>
-Ｉｎｓｉｄｅ ｔｈｅ ｔｒｅａｓｕｒｅ ｃｈｅｓｔ ｗａｓ．．．<line>
-ａ <textcolor_d>Ｓａｉｌｏｒ’ｓ Ｕｎｉｆｏｒｍ<textcolor_1>！<line>
+Inside the treasure chest was...<line>
+a <textcolor_d>Sailor's Uniform<textcolor_1>!<line>
 <:c><line>
-<wait>Ｎｏｗ ｔｈａｔ ｙｏｕ’ｖｅ ｒｅｍｅｍｂｅｒｅｄ ｔｈｅ Ｓｔａｒ Ｓｐｉｎ，<line>
-ｙｏｕ’ｒｅ ｇｏｉｎｇ ｔｏ ｕｓｅ ｉｔ ａ ｂｕｎｃｈ ｆｒｏｍ ｎｏｗ ｏｎ！<line>
+<wait>Now that you've remembered the Star Spin,<line>
+you're going to use it a bunch from now on!<line>
 <:c><line>
 <wait><:sd><line>
 <:func> <1> <0><line>

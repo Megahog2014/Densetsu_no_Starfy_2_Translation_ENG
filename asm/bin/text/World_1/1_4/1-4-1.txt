@@ -23,8 +23,8 @@
 <:func> <1><8> <1> <7><6><line>
 <:se><line>
 <:func> <2><2> <-><1><line>
-<rname><diamond>‚l‚‚…<line>
-‚v|‚v‚ˆ‚‚DDDI ‚v|‚—‚ˆ‚‚”f‚“ ‚ˆ‚‚‚‚…‚‚‰‚‚‡IH<line>
+<rname><diamond>Moe<line>
+W-Whoa...! W-what's happening!?<line>
 <:c><line>
 <wait><:func> <4><line>
 <:obj> <2> <8><line>
@@ -36,30 +36,30 @@
 <:func> <9><line>
 <:obj> <2> <7> <1><8><0> <4><0> <4><0><line>
 <:func> <9><line>
-<rname><diamond>‚j‚‚‚‹<line>
-‚j‚‚‚‹ ‚j‚‚‚‹ ‚j‚‚‚‹I ‚v‚ˆ‚‚” ‚ ‚‚‰‚ƒ‚… ‚j‚‚‚‹ ‚„‚‚™I<line>
+<rname><diamond>Konk<line>
+Konk Konk Konk! What a nice Konk day!<line>
 <:c><line>
 <wait><:obj> <1> <5> <0><line>
 <:func> <8> <0> <9><9><line>
-<rname><diamond>‚l‚‚…<line>
-‚v‚‚‰‚” ‚ ‚‚‰‚‚•‚”‚…DDDI<line>
-‚x‚‚•f‚’‚… ‚”‚ˆ‚‚” ‚‡‚•‚™ ‚†‚’‚‚ ‚Œ‚‚“‚” ‚”‚‰‚‚…III<line>
+<rname><diamond>Moe<line>
+Wait a minute...!<line>
+You're that guy from last time!!!<line>
 <:c><line>
-<redname><diamond>‚j‚‚‚‹<line>
-‚n‚ˆ‚ˆI ‚h ‚“‚‚™ ‚—‚‰‚”‚ˆ ‚‚™ ‚Œ‚‰‚”‚”‚Œ‚… ‚j‚‚‚‹ ‚…‚™‚…DDD<line>
-‚` ‚Œ‚‚‚… ‚ƒ‚Œ‚‚C ‚j‚‚‚‹I<line>
-<redname><diamond>‚j‚‚‚‹<line>
-‚s‚ˆ‚… ‚“‚‚‚… ‚Œ‚‚‚… ‚ƒ‚Œ‚‚ ‚”‚ˆ‚‚” ‚‡‚‚”<line>
-‚’‚…‚Š‚…‚ƒ‚”‚…‚„ ‚‚‚™ ‚q‚•‚‚‚™I ‚j‚‚‚‹ ‚j‚‚‚‹ ‚j‚‚‚‹I<line>
+<redname><diamond>Konk<line>
+Ohh! I spy with my little Konk eye...<line>
+A lame clam, Konk!<line>
+<redname><diamond>Konk<line>
+The same lame clam that got<line>
+rejected by Ruby! Konk Konk Konk!<line>
 <:c><line>
 <wait><:obj> <1> <5> <4><line>
-<rname><diamond>‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P<line>
-‚`‚ˆ‚‚ˆ‚I ‚q‚…‚Š‚…‚ƒ‚”‚…‚„I ‚q‚…‚Š‚…‚ƒ‚”‚…‚„`I<line>
-‚`‚ˆ‚‚ˆ‚‚ˆ‚‚‚‚‚I<line>
-<redname><diamond>‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P<line>
-‚g‚…‚™C ‚‚‰‚“‚”‚…‚’ ‚Œ‚‚‚…|‚ ‚ƒ‚Œ‚‚I<line>
-‚h‚† ‚™‚‚•f‚’‚… ‚‚‚„C<line>
-‚—‚ˆ‚™ ‚„‚‚f‚”‚ƒ‚ˆ‚ ‚„‚ ‚“‚‚‚…‚”‚ˆ‚‰‚‚‡ ‚‚‚‚‚•‚” ‚‰‚”I<line>
+<rname><diamond>Puchi Ogura #1<line>
+Ahaha! Rejected! Rejected`!<line>
+Ahahahaaaaa!<line>
+<redname><diamond>Puchi Ogura #1<line>
+Hey, mister lame-o clam!<line>
+If you're mad,<line>
+why don'tcha do something about it!<line>
 <:c><line>
 <wait><:func> <4><line>
 <:obj> <2> <7> <1><0><0> <0> <4><0><line>
@@ -68,20 +68,20 @@
 <:func> <7><line>
 <:obj> <1> <5><line>
 <:obj> <1> <5> <2><line>
-<rname><diamond>‚l‚‚…<line>
-‚v‚‚‰‚” ‚™‚‚•|I ‚q‚‡‚ˆC ‚hf‚ ‚‚…‚–‚…‚’ ‚†‚‚’‚‡‚‰‚–‚‰‚‚‡<line>
-‚”‚ˆ‚‚” ‚“‚‚‰‚‚‚‰‚‚‡ ‚‰‚„‚‰‚‚”III<line>
-<redname><diamond>‚l‚‚…<line>
-‚h ‚—‚‚“‚f‚” ‚…‚–‚…‚ ‚’‚…‚Š‚…‚ƒ‚”‚…‚„ ‚™‚…‚”I<line>
-‚l‚“D‚q‚•‚‚‚™ ‚Š‚•‚“‚” ‚“‚‚‰‚„ ‚”‚ˆ‚‚” ‚“‚ˆ‚…<line>
-h‚—‚‚‚”‚…‚„ ‚”‚ ‚“‚”‚‚™ ‚†‚’‚‰‚…‚‚„‚“ ‚†‚‚’ ‚‚‚—hI<line>
+<rname><diamond>Moe<line>
+Wait you-! Rgh, I'm never forgiving<line>
+that spinning idiot!!!<line>
+<redname><diamond>Moe<line>
+I wasn't even rejected yet!<line>
+Ms.Ruby just said that she<line>
+"wanted to stay friends for now"!<line>
 <wait><:obj> <1> <9> <2><line>
-<rname><diamond>‚l‚‚…<line>
-‚r‚”‚‚’‚†fI ‚v‚ˆ‚‚”f‚’‚… ‚™‚‚• ‚“‚”‚‚‚„‚‰‚‚‡ ‚‚’‚‚•‚‚„ ‚†‚‚’IH<line>
-‚g‚•‚’‚’‚™ ‚•‚ ‚‚‚„ ‚†‚‚Œ‚Œ‚‚— ‚‚…I<line>
-<redname><diamond>‚l‚‚…<line>
-‚v‚ˆ‚…‚ ‚h ‚‡‚…‚” ‚‚™ ‚ˆ‚‚‚„‚“ ‚‚ ‚”‚ˆ‚‚“‚… ‚”‚—‚C<line>
-‚hf‚ ‚‡‚‚‚‚ ‚‚‚…‚‚”f‚…‚ ‚”‚ ‚ ‚‚•‚Œ‚I<line>
+<rname><diamond>Moe<line>
+Starf'! What're you standing around for!?<line>
+Hurry up and follow me!<line>
+<redname><diamond>Moe<line>
+When I get my hands on those two,<line>
+I'm gonna beat'em to a pulp!<line>
 <:c><line>
 <wait><:func> <4><line>
 <:obj> <1> <9> <2> <1><line>

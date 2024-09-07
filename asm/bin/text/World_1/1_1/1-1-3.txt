@@ -18,19 +18,19 @@
 <:func> <1> <1><line>
 <:se><line>
 <:func> <2><2> <-><2><line>
-<rname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚v‚…‚Œ‚ŒC ‚—‚…‚Œ‚ŒC ‚—‚…‚Œ‚ŒI<line>
-‚x‚‚• ‚“‚…‚…‚ ‚”‚ ‚ˆ‚‚–‚… ‚’‚…‚‚…‚‚‚‚…‚’‚…‚„ ‚™‚‚•‚’ ‚`‚‚‚‰‚Œ‚‰‚”‚‰‚…‚“DDD<line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚i‚•‚“‚” ‚‚‚“‚” ‚‚… ‚‰‚“ ‚ ‚s‚’‚…‚‚“‚•‚’‚… ‚b‚ˆ‚…‚“‚”DDD<line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚h‚‚“‚‰‚„‚… ‚‚† ‚—‚ˆ‚‰‚ƒ‚ˆ ‚‰‚“ <textcolor_d>h‚r‚”‚•‚†‚†h<textcolor_0> ‚’‚…‚Œ‚‚”‚…‚„ ‚”‚ ‚o‚•‚†‚†‚”‚‚<line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚hf‚ ‚“‚•‚’‚… ‚”‚ˆ‚‚” ‚‚“ ‚n‚‡‚•‚’‚<line>
-‚‚‚„‚… ‚‚—‚‚™ ‚—‚‰‚”‚ˆ ‚™‚‚•‚’ ‚‚‚”‚ˆ‚…‚’DDD<line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚r‚ˆ‚… ‚„‚’‚‚‚‚…‚„ ‚”‚ˆ‚…‚“‚… ‚”‚’‚…‚‚“‚•‚’‚…‚“<line>
-‚‰‚ ‚‚’‚„‚…‚’ ‚†‚‚’ ‚™‚‚• ‚”‚ ‚†‚‰‚‚„ ‚ˆ‚…‚’D<line>
+<rname><diamond>Old Man Lobber<line>
+Well, well, well!<line>
+You seem to have remembered your Abilities...<line>
+<redname><diamond>Old Man Lobber<line>
+Just past me is a Treasure Chest...<line>
+<redname><diamond>Old Man Lobber<line>
+Inside of which is <textcolor_d>"Stuff"<textcolor_0> related to Pufftop<line>
+<redname><diamond>Old Man Lobber<line>
+I'm sure that as Ogura<line>
+made away with your mother...<line>
+<redname><diamond>Old Man Lobber<line>
+She dropped these treasures<line>
+in order for you to find her.<line>
 <:c><line>
 <wait><:sd><line>
 <:func> <4><line>
@@ -41,27 +41,27 @@
 <:func> <3> <2> <0><line>
 <:func> <3> <1> <3><line>
 <:se><line>
-<rname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚h‚† ‚™‚‚• ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚” ‚”‚ˆ‚…‚“‚… ‚”‚’‚…‚‚“‚•‚’‚…‚“C<line>
-‚™‚‚•f‚Œ‚Œ ‚ƒ‚…‚’‚”‚‚‰‚‚Œ‚™ ‚‚‚… ‚‚‚‚Œ‚… ‚”‚ ‚†‚‰‚‚„<line>
-‚‚‚„ ‚’‚…‚“‚ƒ‚•‚… ‚™‚‚•‚’ ‚‚‚”‚ˆ‚…‚’D<line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚r‚‚‚… ‚‚† ‚™‚‚•‚’ ‚…‚‚…‚‚‰‚…‚“ ‚‚‚™<line>
-‚ˆ‚‚–‚… ‚”‚ˆ‚…‚ ‚‰‚ ‚”‚ˆ‚…‚‰‚’ ‚‚‚“‚“‚…‚“‚“‚‰‚‚ ‚‚“ ‚—‚…‚Œ‚ŒDDD<line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚h ‚—‚‰‚“‚ˆ ‚™‚‚• ‚”‚ˆ‚… ‚‚‚…‚“‚” ‚‚† ‚Œ‚•‚ƒ‚‹<line>
-‚‰‚ ‚‚‚‚”‚ˆ ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚‰‚‚‡ ‚”‚ˆ‚…‚“‚… ‚”‚’‚…‚‚“‚•‚’‚…‚“<line>
-‚‚‚„ ‚“‚‚–‚‰‚‚‡ ‚™‚‚•‚’ ‚‚‚”‚ˆ‚…‚’I<line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚n‚‚ƒ‚… ‚™‚‚• ‚ˆ‚‚–‚… ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚…‚„ ‚“‚‚‚… ‚r‚”‚•‚†‚†C<line>
-<textcolor_d>‚™‚‚• ‚ƒ‚‚ ‚‡‚ ‚”‚ ‚”‚ˆ‚… ‚r‚”‚•‚†‚† ‚l‚…‚‚• ‚”‚ ‚‚•‚” ‚”‚ˆ‚…‚ ‚‚D<textcolor_0><line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚x‚‚• ‚ƒ‚‚ ‚‚ƒ‚ƒ‚…‚“‚“ ‚”‚ˆ‚… ‚r‚”‚•‚†‚† ‚l‚…‚‚• ‚–‚‰‚ ‚”‚ˆ‚…<line>
-<textcolor_d>‚o‚‚•‚“‚… ‚l‚…‚‚• ‚‚‚„ ‚”‚ˆ‚… ‚l‚‚ ‚r‚ƒ‚’‚…‚…‚D<textcolor_0><line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚g‚•‚’‚’‚™ ‚‚Œ‚‚‚‡ ‚‚‚—I<line>
-‚a‚•‚”C ‚‰‚† ‚™‚‚• ‚ˆ‚‚–‚… ‚‚‚™ ‚‘‚•‚…‚“‚”‚‰‚‚‚“C<line>
-‚†‚…‚…‚Œ ‚†‚’‚…‚… ‚”‚ ‚‚“‚‹D<line>
+<rname><diamond>Old Man Lobber<line>
+If you collect these treasures,<line>
+you'll certainly be able to find<line>
+and rescue your mother.<line>
+<redname><diamond>Old Man Lobber<line>
+Some of your enemies may<line>
+have them in their possession as well...<line>
+<redname><diamond>Old Man Lobber<line>
+I wish you the best of luck<line>
+in both collecting these treasures<line>
+and saving your mother!<line>
+<redname><diamond>Old Man Lobber<line>
+Once you have collected some Stuff,<line>
+<textcolor_d>you can go to the Stuff Menu to put them on.<textcolor_0><line>
+<redname><diamond>Old Man Lobber<line>
+You can access the Stuff Menu via the<line>
+<textcolor_d>Pause Menu and the Map Screen.<textcolor_0><line>
+<redname><diamond>Old Man Lobber<line>
+Hurry along now!<line>
+But, if you have any questions,<line>
+feel free to ask.<line>
 <:c><line>
 <wait><:sd><line>
 <:func> <4><line>
@@ -71,17 +71,17 @@
 <:exit><line>
 <wait>:<1><0><line>
 <:func> <2><2> <-><1><line>
-<rname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚b‚‚Œ‚Œ‚…‚ƒ‚” ‚o‚•‚†‚†‚”‚‚f‚“ <textcolor_d>‚r‚”‚•‚†‚†<textcolor_0> ‚”‚ˆ‚‚” ‚™‚‚•f‚Œ‚Œ ‚†‚‰‚‚„<line>
-‚‚ ‚™‚‚•‚’ ‚‚„‚–‚…‚‚”‚•‚’‚… ‚‚‚„ ‚‡‚…‚” ‚†‚’‚‚ ‚…‚‚…‚‚‰‚…‚“DDD<line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚`‚‚„ ‚•‚“‚… ‚”‚ˆ‚…‚ ‚”‚ ‚†‚‰‚‚„ ‚™‚‚•‚’ ‚‚‚”‚ˆ‚…‚’I<line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚x‚‚• ‚ƒ‚‚ ‚—‚…‚‚’ <textcolor_d>‚r‚”‚•‚†‚†<textcolor_0> ‚™‚‚•f‚–‚… ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚…‚„<line>
-‚‚‚™ ‚‡‚‚‰‚‚‡ ‚”‚ ‚”‚ˆ‚… <textcolor_d>‚r‚”‚•‚†‚† ‚r‚ƒ‚’‚…‚…‚<textcolor_0>D<line>
-<redname><diamond>‚n‚Œ‚„ ‚l‚‚ ‚k‚‚‚‚‚‚…‚’<line>
-‚x‚‚• ‚ƒ‚‚ ‚‚ƒ‚ƒ‚…‚“‚“ ‚”‚ˆ‚… <textcolor_d>‚r‚”‚•‚†‚† ‚r‚ƒ‚’‚…‚…‚<textcolor_0><line>
-<textcolor_d>‚†‚’‚‚ ‚”‚ˆ‚… ‚o‚‚•‚“‚… ‚l‚…‚‚• ‚‚’ ‚l‚‚ ‚r‚ƒ‚’‚…‚…‚DDD<textcolor_0><line>
+<rname><diamond>Old Man Lobber<line>
+Collect Pufftop's <textcolor_d>Stuff<textcolor_0> that you'll find<line>
+on your adventure and get from enemies...<line>
+<redname><diamond>Old Man Lobber<line>
+And use them to find your mother!<line>
+<redname><diamond>Old Man Lobber<line>
+You can wear <textcolor_d>Stuff<textcolor_0> you've collected<line>
+by going to the <textcolor_d>Stuff Screen<textcolor_0>.<line>
+<redname><diamond>Old Man Lobber<line>
+You can access the <textcolor_d>Stuff Screen<textcolor_0><line>
+<textcolor_d>from the Pause Menu or Map Screen...<textcolor_0><line>
 <:end><line>
 <end>
 

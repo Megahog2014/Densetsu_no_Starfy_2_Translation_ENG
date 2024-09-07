@@ -17,20 +17,20 @@
 <:func> <0> <0><line>
 <:se><line>
 [<y_pos> <1><8>]<line>
-‚h‚‚“‚‰‚„‚… ‚”‚ˆ‚… ‚”‚’‚…‚‚“‚•‚’‚… ‚ƒ‚ˆ‚…‚“‚” ‚—‚‚“DDD<line>
-‚“‚‚‚… <textcolor_d>‚r‚—‚‰‚‚‚‰‚‚‡ ‚s‚’‚•‚‚‹‚“<textcolor_1>I<line>
+Inside the treasure chest was...<line>
+some <textcolor_d>Swimming Trunks<textcolor_1>!<line>
 <:c><line>
-<wait>‚c‚‰‚„ ‚‚‚…‚‚”‚‰‚‚‡ ‚j‚‚‚‹ ‚‚‚‹‚…<line>
-‚l‚‚… ‚†‚…‚…‚Œ ‚ ‚Œ‚‰‚”‚”‚Œ‚… ‚‚‚…‚”‚”‚…‚’H<line>
+<wait>Did beating Konk make<line>
+Moe feel a little better?<line>
 <:c><line>
 [<y_pos> <1><3>]<line>
-<wait>‚h‚” ‚“‚…‚…‚‚“ ‚‚“ ‚‰‚† ‚”‚ˆ‚… ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚‚“<line>
-‚—‚‰‚Œ‚Œ ‚‚‚… ‚—‚‚‰‚”‚‰‚‚‡ ‚†‚‚’ ‚•‚“<line>
-‚‚” ‚”‚ˆ‚… ‚†‚‰‚‚‚Œ ‚“‚”‚‚‡‚… ‚‚† ‚ ‚—‚‚’‚Œ‚„DDD<line>
+<wait>It seems as if the Puchi Oguras<line>
+will be waiting for us<line>
+at the final stage of a world...<line>
 <:c><line>
 [<y_pos> <1><8>]<line>
-<wait>‚k‚…‚”f‚“ ‚‹‚…‚…‚ ‚”‚ˆ‚‰‚“ ‚“‚”‚’‚‰‚„‚… ‚‚‚„<line>
-‚‚‚…‚‚” ‚”‚ˆ‚… ‚’‚…‚“‚” ‚‚† ‚”‚ˆ‚… ‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ‚f‚‚‚‡I<line>
+<wait>Let's keep this stride and<line>
+beat the rest of the Puchi Ogura Gang!<line>
 <:c><line>
 <wait><:sd><line>
 <:func> <1> <0><line>

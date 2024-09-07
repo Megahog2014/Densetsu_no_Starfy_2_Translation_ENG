@@ -17,17 +17,17 @@
 <:func> <0> <0><line>
 <:se><line>
 [<y_pos> <1><8>]<line>
-‚h‚‚“‚‰‚„‚… ‚”‚ˆ‚… ‚”‚’‚…‚‚“‚•‚’‚… ‚ƒ‚ˆ‚…‚“‚” ‚—‚‚“DDD<line>
-‚ <textcolor_d>‚o‚•‚†‚†‚”‚‚ ‚r‚‚Œ‚„‚‰‚…‚’f‚“ ‚g‚‚”<textcolor_1>I<line>
+Inside the treasure chest was...<line>
+a <textcolor_d>Pufftop Soldier's Hat<textcolor_1>!<line>
 <:c><line>
 <wait>[<y_pos> <1><3>]<line>
-‚h‚† ‚™‚‚• ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚” ‚r‚”‚•‚†‚†C<line>
-‚™‚‚•f‚Œ‚Œ ‚„‚…‚†‚‰‚‚‰‚”‚…‚Œ‚™ ‚†‚‰‚‚„ ‚l‚‚‚ ‚r‚”‚‚’DDD<line>
-‚b‚‚‚… ‚‚C ‚—‚…f‚–‚… ‚‡‚‚” ‚r‚”‚•‚†‚† ‚”‚ ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”I<line>
+If you collect Stuff,<line>
+you'll definitely find Mama Star...<line>
+Come on, we've got Stuff to collect!<line>
 <:c><line>
-<wait>‚x‚‚• ‚ƒ‚‚ ‚—‚…‚‚’ ‚”‚ˆ‚… ‚r‚”‚•‚†‚† ‚™‚‚•f‚–‚… ‚ƒ‚‚Œ‚Œ‚…‚ƒ‚”‚…‚„<line>
-‚‰‚ ‚”‚ˆ‚… <textcolor_d>‚r‚”‚•‚†‚† ‚l‚…‚‚•<textcolor_1> ‚†‚’‚‚ ‚…‚‰‚”‚ˆ‚…‚’<line>
-‚”‚ˆ‚… <textcolor_d>‚o‚‚•‚“‚… ‚l‚…‚‚• ‚‚’ ‚”‚ˆ‚… ‚l‚‚ ‚r‚ƒ‚’‚…‚…‚<textcolor_1>I<line>
+<wait>You can wear the Stuff you've collected<line>
+in the <textcolor_d>Stuff Menu<textcolor_1> from either<line>
+the <textcolor_d>Pause Menu or the Map Screen<textcolor_1>!<line>
 <:c><line>
 <wait><:sd><line>
 <:func> <1> <0><line>

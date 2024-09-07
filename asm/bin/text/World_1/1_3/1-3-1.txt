@@ -23,59 +23,59 @@
 <:func> <6> <1> <0><line>
 <:se><line>
 <:func> <2><2> <-><1><line>
-<rname><diamond>Ｍｏｅ<line>
-Ｈｅｙａ Ｓｔａｒｆ， ｇｏｏｄ ｔｉｍｉｎｇ！<line>
-Ｉ ｆｏｕｎｄ ｓｏｍｅｔｈｉｎｇ ｂｅｆｏｒｅ ｙａ ｇｏｔ ｈｅｒｅ！<line>
+<rname><diamond>Moe<line>
+Heya Starf, good timing!<line>
+I found something before ya got here!<line>
 <:obj> <2> <2> <1><line>
 <:func> <1><8> <1> <7><1><line>
-<redname><diamond>Ｍｏｅ<line>
-Ｉｔ ｌｏｏｋｓ ｌｉｋｅ ｓｏｍｅ ｓｏｒｔａ ｐａｍｐｈｌｅｔ．．．<line>
-Ａｌｒｉｇｈｔｙ， ｌｅｔ’ｓ ｔａｋｅ ａ ｌｉｔｔｌｅ ｌｏｏｋｓｅｅ！ ＊ａｈｅｍ＊<line>
+<redname><diamond>Moe<line>
+It looks like some sorta pamphlet...<line>
+Alrighty, let's take a little looksee! *ahem*<line>
 <:c><line>
 [<x_pos> <1><0><0>]<line>
-<wait>Ｐａｍｐｌｅｔ<line>
+<wait>Pamplet<line>
 <line>
 [<x_pos> <9>]<line>
-<textcolor_d>Ｌｏｖｅｌｙ’ｓ Ｓｈｏｐ<textcolor_0> ｉｓ ｈａｖｉｎｇ ａ ｈｕｇｅ ｓａｌｅ， ｄａｒｌｉｎｇｓ！<line>
+<textcolor_d>Lovely's Shop<textcolor_0> is having a huge sale, darlings!<line>
 <:c><line>
 [<x_pos> <3><5>]<line>
-<wait>Ｈｅｒｅ’ｓ ｔｈｉｓ ｉｓｓｕｅ’ｓ ｓｐｅｃｉａｌ ｆｅａｔｕｒｅ！<line>
+<wait>Here's this issue's special feature!<line>
 [<x_pos> <1><6>]<line>
 <line>
-”Ｔｈｅ Ｂｅａｕｔｉｆｕｌ Ｍｅｎ ａｎｄ Ｗｏｍｅｎ ｏｆ ｔｈｅ Ｓｅａ！”<line>
+"The Beautiful Men and Women of the Sea!"<line>
 <:c><line>
-<wait>Ｔｈｅｒｅ ａｒｅ ｓｏ ｍａｎｙ <textcolor_d>ｐｈｏｔｏｓ<textcolor_0> ｔｏ ｃｈｏｏｓｅ ｆｒｏｍ！<line>
+<wait>There are so many <textcolor_d>photos<textcolor_0> to choose from!<line>
 [<x_pos> <4><0>]<line>
-Ｄｏｎ’ｔ ｍｉｓｓ ｔｈｅ ｃｈａｎｃｅ， ｄａｒｌｉｎｇｓ！<line>
+Don't miss the chance, darlings!<line>
 <:c><line>
 [<x_pos> <0>]<line>
-<redname><diamond>Ｍｏｅ<line>
-．．．Ｔｈａｔ’ｓ ｗｈａｔ ｉｔ ｓａｙｓ！<line>
-Ｈａ ｈａａａ！ Ｔｈｉｓ ｉｓ ｇｒｅａｔ， Ｓｔａｒｆ’！<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｔｈｅｒｅ’ｓ ｂｏｕｎｄ ｔｏ ｂｅ ａ ｂｕｎｃｈ ｏｆ ｐｈｏｔｏｓ<line>
-ｏｆ ｃｕｔｅ ｇｉｒｌｓ．．． Ａｎｄ．．． Ａｎｄ ｍａｙｂｅ．．．<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｍｓ． Ｒｕｂｙ’ｌｌ ｂｅ ｉｎ ａ ｂｉ－ｂｉ－ｂｉｋｉｎｉ ｉｎ ｈｅｒ ｐｈｏｔｏ．．．<line>
-Ｈｅｈ ｈｅｈ ｈｅｈ．．．<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｂｕｔ， ｕｈ．．． Ｗｈｅｒｅ ｉｓ <textcolor_d>Ｌｏｖｅｌｙ’ｓ Ｓｈｏｐ<textcolor_0>？<line>
-Ｄｏｅｓｎ’ｔ ｌｏｏｋ ｌｉｋｅ ｔｈｅｒｅ’ｓ ａ ｍａｐ ａｎｙｗｈｅｒｅ．．．<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｈｕｈ？ Ｗａｉｔ ａ ｓｅｃ！ Ｌｏｏｋｓ ｌｉｋｅ ｔｈｅｒｅ’ｓ<line>
-ｓｏｍｅ ｓｏｒｔ ｏｆ ｎｏｔｅ ｏｎ ｔｈｅ ｂａｃｋ！<line>
-<redname><diamond>Ｍｏｅ<line>
-”Ｔｈｉｓ ｍｏｒｎｉｎｇ， ａｔ <textcolor_d>９ ｏ’ｃｌｏｃｋ<textcolor_0>， Ｉ ｇｏｔ ｕｐ ａｎｄ<line>
-ｗｅｎｔ ｔｏ ｗｏｒｋ． Ｔｈｅｎ， ａｔ<textcolor_d> １２<textcolor_0>， Ｉ ａｔｅ ｌｕｎｃｈ．．．”<line>
-<redname><diamond>Ｍｏｅ<line>
-”Ｔｈｅｎ Ｉ ｈａｄ ａ ｔａｓｔｙ ｓｎａｃｋ ａｔ <textcolor_d>３<textcolor_0>，<line>
-ａｎｄ ｆｉｎａｌｌｙ， ａｔ<textcolor_d> ６<textcolor_0>， Ｉ ａｔｅ ｄｉｎｎｅｒ．．．Ｕｆｕ．．．”<line>
-<redname><diamond>Ｍｏｅ<line>
-．．．Ｔｈｅ ｈｅｃｋ ｄｏｅｓ ｔｈａｔ ｍｅａｎ？<line>
-Ｔｈｉｓ ｓｏｍｅ ｓｏｒｔａ ｒｉｄｄｌｅ？<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｗｈａｔｅｖｅｒ．．．<line>
-Ｈｕｒｒｙ ｕｐ ａｎｄ ｆｉｎｄ ｔｈｉｓ ｓｈｏｐ ａｌｒｅａｄｙ！<line>
+<redname><diamond>Moe<line>
+...That's what it says!<line>
+Ha haaa! This is great, Starf'!<line>
+<redname><diamond>Moe<line>
+There's bound to be a bunch of photos<line>
+of cute girls... And... And maybe...<line>
+<redname><diamond>Moe<line>
+Ms. Ruby'll be in a bi-bi-bikini in her photo...<line>
+Heh heh heh...<line>
+<redname><diamond>Moe<line>
+But, uh... Where is <textcolor_d>Lovely's Shop<textcolor_0>?<line>
+Doesn't look like there's a map anywhere...<line>
+<redname><diamond>Moe<line>
+Huh? Wait a sec! Looks like there's<line>
+some sort of note on the back!<line>
+<redname><diamond>Moe<line>
+"This morning, at <textcolor_d>9 o'clock<textcolor_0>, I got up and<line>
+went to work. Then, at<textcolor_d> 12<textcolor_0>, I ate lunch..."<line>
+<redname><diamond>Moe<line>
+"Then I had a tasty snack at <textcolor_d>3<textcolor_0>,<line>
+and finally, at<textcolor_d> 6<textcolor_0>, I ate dinner...Ufu..."<line>
+<redname><diamond>Moe<line>
+...The heck does that mean?<line>
+This some sorta riddle?<line>
+<redname><diamond>Moe<line>
+Whatever...<line>
+Hurry up and find this shop already!<line>
 <:c><line>
 <wait><:sd><line>
 <:func> <4><line>
@@ -91,13 +91,13 @@
 <:func> <6> <1><line>
 <:se><line>
 <:func> <2><2> <-><1><line>
-<rname><diamond>Ｍｏｅ<line><line>
-Ｇｏｔｔａ ａｄｍｉｔ， Ｉ’ｍ ｃｕｒｉｏｕｓ ａｂｏｕｔ ｔｈｉｓ ｍｅｍｏ．．．<line>
-<textcolor_d>９ ｏ’ｃｌｏｃｋ<textcolor_0>， <textcolor_d>１２ ｏ’ｃｌｏｃｋ<textcolor_0>， <textcolor_d>３ ｏ’ｃｌｏｃｋ<textcolor_0>， <textcolor_d>６ ｏ’ｃｌｏｃｋ<textcolor_0>．．．<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｄｏｅｓ ｉｔ ｈａｖｅ ｓｏｍｅｔｈｉｎ’ ｔｏ ｄｏ ｗｉｔｈ<line>
-ｔｈｅ ｌａｙｏｕｔ ｏｆ ｔｈｉｓ ｐｌａｃｅ？<line>
-Ｈｍｍ．．． Ｉ ｄｕｎｎｏ．．． ＊ｍｕｍｂｌｅ ｍｕｍｂｌｅ＊<line>
+<rname><diamond>Moe<line><line>
+Gotta admit, I'm curious about this memo...<line>
+<textcolor_d>9 o'clock<textcolor_0>, <textcolor_d>12 o'clock<textcolor_0>, <textcolor_d>3 o'clock<textcolor_0>, <textcolor_d>6 o'clock<textcolor_0>...<line>
+<redname><diamond>Moe<line>
+Does it have somethin' to do with<line>
+the layout of this place?<line>
+Hmm... I dunno... *mumble mumble*<line>
 <:end><line>
 <end>
 

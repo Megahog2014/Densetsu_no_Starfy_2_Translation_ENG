@@ -15,30 +15,30 @@
 <:if> <1><1><0><1> <go> <1><0><line>
 <:flagon> <1><1><0><1><line>
 <:func> <2><2> <-><1><line>
-<<textspeed> <2>><rname><diamond>Ｍｏｅ<line>
-Ｆｉｎａｌｌｙ ｒｅｍｅｍｂｅｒ ｓｏｍｅ ｏｆ ｙｏｕｒ ａｂｉｌｉｔｉｅｓ， Ｓｔａｒｆ？<line>
-Ｓｈｅｅｓｈ， ｙｏｕ’ｒｅ ａｓ ｍｕｃｈ ｏｆ ａ ｐａｉｎ ａｓ ｅｖｅｒ．．．<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｉ’ｍ ｓｕｒｅ ｔｈｅｒｅ’ｌｌ ｂｅ ｆｏｌｋｓ ｗｈｏ’ｌｌ ｔｅａｃｈ ｙｏｕ<line>
-ｅｖｅｎ ｍｏｒｅ ａｂｉｌｉｔｉｅｓ ａｌｏｎｇ ｔｈｅ ｗａｙ．．．<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｓｏ ｙｏｕ ｂｅｔｔｅｒ ｌｉｓｔｅｎ ｔｏ ｗｈａｔ ｔｈｅｙ ｔｅｌｌ ｙａ！<line>
+<<textspeed> <2>><rname><diamond>Moe<line>
+Finally remember some of your abilities, Starf?<line>
+Sheesh, you're as much of a pain as ever...<line>
+<redname><diamond>Moe<line>
+I'm sure there'll be folks who'll teach you<line>
+even more abilities along the way...<line>
+<redname><diamond>Moe<line>
+So you better listen to what they tell ya!<line>
 <wait><:obj> <1> <5><line>
-<rname><diamond>Ｍｏｅ<line>
-Ａｎｄ ｊｕｓｔ ｌｉｋｅ ｌａｓｔ ｔｉｍｅ，<line>
-ｉｆ ｙａ ｈａｖｅ ｑｕｅｓｔｉｏｎｓ ａｔ ａｎｙ ｐｏｉｎｔ．．．<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｊｕｓｔ ｔａｌｋ ｔｏ ｔｈｉｓ ｃｏｏｌ ａｎｄ ｒｅｌｉａｂｌｅ ｃｌａｍ！<line>
-Ｇｏｔ ｉｔ？<line>
+<rname><diamond>Moe<line>
+And just like last time,<line>
+if ya have questions at any point...<line>
+<redname><diamond>Moe<line>
+Just talk to this cool and reliable clam!<line>
+Got it?<line>
 <:end><line>
 <wait>:<1><0><line>
 <:func> <2><2> <-><1><line>
-<rname><diamond>Ｍｏｅ<line>
-Ｊｕｓｔ ｌｉｋｅ ｌａｓｔ ｔｉｍｅ，<line>
-ｉｆ ｙａ ｈａｖｅ ｑｕｅｓｔｉｏｎｓ ａｔ ａｎｙ ｐｏｉｎｔ．．．<line>
-<redname><diamond>Ｍｏｅ<line>
-Ｊｕｓｔ ｔａｌｋ ｔｏ ｔｈｉｓ ｃｏｏｌ ａｎｄ ｒｅｌｉａｂｌｅ ｃｌａｍ！<line>
-Ｇｏｔ ｉｔ？<line>
+<rname><diamond>Moe<line>
+Just like last time,<line>
+if ya have questions at any point...<line>
+<redname><diamond>Moe<line>
+Just talk to this cool and reliable clam!<line>
+Got it?<line>
 <:end><line>
 <end>
 

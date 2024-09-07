@@ -16,13 +16,13 @@
 <:func> <6> <1><line>
 <:se><line>
 <:func> <2><2> <-><1><line>
-<rname><diamond>‚l‚‚…<line>
-‚g‚…‚™ ‚r‚”‚‚’‚†C ‚„‚‰‚„‚Š‚ ‚‡‚…‚” ‚’‚‰‚„ ‚‚† ‚‚Œ‚Œ<line>
-<textcolor_d>‚S‚O<textcolor_0> ‚‚† ‚”‚ˆ‚‚“‚… ‚‡‚’‚…‚…‚ ‚”‚ˆ‚‰‚‚‡‚“ ‚™‚…‚”H<line>
-<redname><diamond>‚l‚‚…<line>
-‚x‚‚•f‚’‚… ‚‡‚‚‚‚ ‚ˆ‚‚–‚… ‚”‚ ‚Œ‚‚‚‹ ‚‰‚<line>
-‚…‚–‚…‚’‚™ ‚‚‚‚‹ ‚‚‚„ ‚ƒ‚’‚‚‚‚™C<line>
-‚“‚ ‚‚‚‹‚… ‚“‚•‚’‚… ‚”‚ ‚‡‚ ‚‚‚‚ƒ‚‹ ‚”‚ˆ‚… ‚—‚‚™ ‚—‚… ‚ƒ‚‚‚…I<line>
+<rname><diamond>Moe<line>
+Hey Starf, didja get rid of all<line>
+<textcolor_d>40<textcolor_0> of those green things yet?<line>
+<redname><diamond>Moe<line>
+You're gonna have to look in<line>
+every nook and cranny,<line>
+so make sure to go back the way we came!<line>
 <:end><line>
 <end>
 

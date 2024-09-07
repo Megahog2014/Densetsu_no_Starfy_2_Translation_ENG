@@ -13,7 +13,7 @@
 #JMP(000000)
 
 <:func> <2><2> <-><1><line>
-‚x‚‚• ‚†‚‚•‚‚„ ‚”‚ˆ‚… <textcolor_d>‚S|‚r‚‰‚„‚…‚„ ‚j‚…‚™<textcolor_0>I<line>
+You found the <textcolor_d>4-Sided Key<textcolor_0>!<line>
 <:sd><line>
 <:flagon> <1><4><0><3><line>
 <:flagon> <1><5><5><0><2><line>

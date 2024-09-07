@@ -21,41 +21,41 @@
 <:obj> <1> <4><line>
 <:se><line>
 <:func> <2><2> <-><1><line>
-<rname><diamond>‚l‚‚…<line>
-‚c‚‚‚‡‚‰‚”I ‚s‚ˆ‚‚“‚… ‚”‚—‚ ‚‚’‚… ‚”‚ˆ‚’‚‚•‚‡‚ˆ ‚”‚ˆ‚‰‚“ ‚„‚‚‚’C<line>
-‚‚‚•‚” ‚—‚… ‚ƒ‚‚f‚” ‚‚‚…‚ ‚‰‚” ‚—‚‰‚”‚ˆ‚‚•‚” <textcolor_d>‚R ‚‹‚…‚™‚“<textcolor_0>I<line>
+<rname><diamond>Moe<line>
+Dangit! Those two are through this door,<line>
+but we can't open it without <textcolor_d>3 keys<textcolor_0>!<line>
 <:c><line>
 <wait><:obj> <1> <9> <2> <1><line>
 <:obj> <2> <2> <1><line>
 <:func> <1><8> <1> <6><5><line>
-<rname><diamond>‚o‚•‚ƒ‚ˆ‚‰ ‚n‚‡‚•‚’‚ ”‚P<line>
-‚`‚ˆ‚‚ˆ‚‚ˆ‚I ‚r‚”‚•‚‚‰‚„` ‚h‚„‚‰‚‚”`I<line>
-‚r‚•‚‚…‚’ ‚Œ‚‚‚…|‚ ‚ƒ‚Œ‚‚‚‚‚‚‚`I<line>
+<rname><diamond>Puchi Ogura #1<line>
+Ahahaha! Stupid` Idiot`!<line>
+Super lame-o claaaaaam`!<line>
 <:c><line>
-<redname><diamond>‚j‚‚‚‹<line>
-‚h‚† ‚™‚‚• ‚„‚‚f‚” ‚ˆ‚•‚’‚’‚™ ‚•‚C<line>
-‚hf‚Œ‚Œ ‚“‚”‚…‚‚Œ ‚q‚•‚‚‚™ ‚‚—‚‚™ ‚‚‡‚‚‰‚C ‚j‚‚‚‚‚‚‹I<line>
+<redname><diamond>Konk<line>
+If you don't hurry up,<line>
+I'll steal Ruby away again, Koooonk!<line>
 <:c><line>
 <wait><:obj> <1> <5> <2><line>
 <:obj> <1> <4><line>
-<rname><diamond>‚l‚‚…<line>
-‚s‚ˆ‚‚“‚… ‚Œ‚‰‚”‚”‚Œ‚…|I ‚s‚ˆ‚… ‚f‚’‚…‚‚” ‚l‚‚… ‚‰‚“ ‚‚‚™‚”‚ˆ‚‰‚‚‡<line>
-‚‚‚•‚” ‚l‚’D ‚t‚‚‚‚‚•‚Œ‚‚’C ‚hf‚Œ‚Œ ‚“‚ˆ‚‚— ‚™‚‚•I<line>
+<rname><diamond>Moe<line>
+Those little-! The Great Moe is anything<line>
+but Mr. Unpopular, I'll show you!<line>
 <wait><:obj> <1> <5><line>
-<rname><diamond>‚l‚‚…<line>
-‚m‚C ‚”‚ˆ‚‚”f‚“ ‚‚‚” ‚‰‚‚‚‚’‚”‚‚‚”DDD<line>
-‚g‚‚— ‚„‚‚’‚… ‚ˆ‚… ‚’‚…‚†‚…‚’ ‚”‚ ‚l‚“D‚q‚•‚‚‚™ ‚“‚ ‚ƒ‚‚“‚•‚‚Œ‚Œ‚™I<line>
-<redname><diamond>‚l‚‚…<line>
-‚d‚–‚…‚ ‚h ‚ˆ‚‚–‚…‚f‚” ‚ƒ‚‚Œ‚Œ‚…‚„ ‚ˆ‚…‚’ ‚Š‚•‚“‚”<line>
-h‚q‚•‚‚‚™h ‚™‚…‚”DDD–‚‚•‚‚‚‚Œ‚… ‚‚•‚‚‚‚Œ‚…–<line>
+<rname><diamond>Moe<line>
+No, that's not important...<line>
+How dare he refer to Ms.Ruby so casually!<line>
+<redname><diamond>Moe<line>
+Even I haven't called her just<line>
+"Ruby" yet...*mumble mumble*<line>
 <wait><:obj> <1> <9> <2><line>
-<rname><diamond>‚l‚‚…<line>
-‚g‚…‚™C ‚r‚”‚‚’‚†I ‚g‚•‚’‚’‚™ ‚•‚ ‚‚‚„ ‚†‚‰‚‚„ ‚”‚ˆ‚‚“‚… ‚‹‚…‚™‚“<line>
-‚“‚ ‚—‚… ‚ƒ‚‚ ‚„‚ ‚“‚‚‚…‚”‚ˆ‚‰‚‚‡ ‚‚‚‚‚•‚” ‚”‚ˆ‚‰‚“ ‚„‚‚‚’I<line>
-<redname><diamond>‚l‚‚…<line>
-‚s‚ˆ‚…‚™ ‚‡‚‚”‚”‚ ‚‚‚… ‚‚’‚‚•‚‚„ ‚ˆ‚…‚’‚… ‚“‚‚‚…‚—‚ˆ‚…‚’‚…I<line>
-‚e‚‰‚‚„ ‚”‚ˆ‚… ‚‹‚…‚™‚“ ‚”‚ˆ‚‚” <textcolor_d>‚‚‚”‚ƒ‚ˆ ‚”‚ˆ‚… ‚‚‚”‚”‚…‚’‚“<textcolor_0><line>
-<textcolor_d>‚‚ ‚”‚ˆ‚… ‚Œ‚‚ƒ‚‹‚“<textcolor_0> ‚‚Œ‚’‚…‚‚„‚™C ‚“‚ˆ‚…‚…‚“‚ˆI<line>
+<rname><diamond>Moe<line>
+Hey, Starf! Hurry up and find those keys<line>
+so we can do something about this door!<line>
+<redname><diamond>Moe<line>
+They gotta be around here somewhere!<line>
+Find the keys that <textcolor_d>match the patters<textcolor_0><line>
+<textcolor_d>on the locks<textcolor_0> already, sheesh!<line>
 <:c><line>
 <wait><:sd><line>
 <linealt><:func> <4><line>
@@ -71,34 +71,34 @@
 <:func> <6> <1><line>
 <:se><line>
 <:func> <2><2> <-><1><line>
-<rname><diamond>‚l‚‚…<line>
-‚e‚‰‚‚„ ‚”‚ˆ‚… ‚‹‚…‚™‚“ ‚”‚ˆ‚‚” ‚‚‚”‚ƒ‚ˆ ‚”‚ˆ‚… ‚Œ‚‚ƒ‚‹‚“f ‚‚‚”‚”‚…‚’‚‚“<line>
-‚“‚ ‚—‚… ‚ƒ‚‚ ‚‚‚…‚ ‚”‚ˆ‚‰‚“ ‚„‚‚‚’C ‚‚Œ‚’‚…‚‚„‚™I<line>
-‚r‚ˆ‚…‚…‚“‚ˆI<line>
+<rname><diamond>Moe<line>
+Find the keys that match the locks' patterns<line>
+so we can open this door, already!<line>
+Sheesh!<line>
 <:end><line>
 <wait>:<2><line>
 <:sd><line>
 <:func> <6> <1><line>
 <:se><line>
 <:func> <2><2> <-><1><line>
-<rname><diamond>‚l‚‚…<line>
-‚c‚ ‚™‚‚• ‚’‚…‚‚…‚‚‚‚…‚’ ‚”‚ˆ‚‚”<line>
-‚“‚‚‰‚‚‚‰‚‚‡ ‚‰‚„‚‰‚‚”f‚“ ‚—‚…‚‚‹ ‚‚‚‰‚‚”C ‚r‚”‚‚’‚†fH<line>
-<redname><diamond>‚l‚‚…<line>
-‚h‚”f‚“ ‚ˆ‚‰‚“ ‚ˆ‚…‚‚„I ‚`‚‰‚ ‚†‚‚’ ‚ˆ‚‰‚“ ‚ˆ‚…‚‚„I<line>
-‚m‚‚— ‚‡‚ ‚‚‚„ ‚‚‚…‚‚” ‚ˆ‚‰‚ ‚“‚…‚‚“‚…‚Œ‚…‚“‚“I<line>
-<redname><diamond>‚l‚‚…<line>
-‚n‚ˆC ‚’‚‰‚‡‚ˆ‚”I ‚i‚•‚“‚” ‚‚‚… ‚‚‚’‚… ‚”‚ˆ‚‰‚‚‡C<line>
-‚‚‚„ ‚™‚‚•f‚Œ‚Œ ‚’‚…‚‚Œ‚Œ‚™ ‚Œ‚‰‚‹‚… ‚”‚ˆ‚‰‚“DDD<line>
-<redname><diamond>‚l‚‚…<line>
-<textcolor_d>‚h‚† ‚™‚‚• ‚‚‚…‚‚” ‚‚•‚Œ‚”‚‰‚‚Œ‚… ‚…‚‚…‚‚‰‚…‚“ ‚‰‚ ‚ ‚’‚‚—C<textcolor_0><line>
-<textcolor_d>‚™‚‚• ‚ƒ‚‚ ‚‹‚‚‚ƒ‚‹ ‚”‚ˆ‚… ‚‚…‚‚’‚Œ‚“ ‚’‚‰‚‡‚ˆ‚” ‚‚•‚” ‚‚† f‚…‚<textcolor_0>I<line>
-<redname><diamond>‚l‚‚…<line>
-‚`‚‚„ ‚‰‚† ‚™‚‚•f‚’‚… ‚‘‚•‚‰‚ƒ‚‹ ‚…‚‚‚•‚‡‚ˆC<line>
-<textcolor_d>‚™‚‚• ‚ƒ‚‚ ‚‡‚…‚” ‚“‚‚‚… ‚‚‚‰‚‡ ‚‚…‚‚’‚Œ‚“ ‚‚•‚” ‚‚† f‚…‚ ‚”‚‚<textcolor_0>I<line>
-<redname><diamond>‚l‚‚…<line>
-‚l‚‚‹‚… ‚“‚•‚’‚… ‚™‚‚•f‚’‚… ‚‚Œ‚—‚‚™‚“ ‚’‚…‚‚„‚™<line>
-‚”‚ ‚†‚‰‚‡‚ˆ‚” ‚‚” ‚†‚•‚Œ‚Œ ‚“‚”‚’‚…‚‚‡‚”‚ˆD<line>
+<rname><diamond>Moe<line>
+Do you remember that<line>
+spinning idiot's weak point, Starf'?<line>
+<redname><diamond>Moe<line>
+It's his head! Aim for his head!<line>
+Now go and beat him senseless!<line>
+<redname><diamond>Moe<line>
+Oh, right! Just one more thing,<line>
+and you'll really like this...<line>
+<redname><diamond>Moe<line>
+<textcolor_d>If you beat multiple enemies in a row,<textcolor_0><line>
+<textcolor_d>you can knock the pearls right out of 'em<textcolor_0>!<line>
+<redname><diamond>Moe<line>
+And if you're quick enough,<line>
+<textcolor_d>you can get some big pearls out of 'em too<textcolor_0>!<line>
+<redname><diamond>Moe<line>
+Make sure you're always ready<line>
+to fight at full strength.<line>
 <:end><line>
 <:end><line>
 <end>
