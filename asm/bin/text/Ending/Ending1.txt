@@ -108,7 +108,6 @@ You've gotta be kidding me!<line>
 <:func> <4><line>
 <:c><line>
 <redname><diamond>Moe<line>
-//*Sigh*... Do it for the treasure, Moe...<line>
 <:func> <2> <4><0><line>
 C'mon, Starf! Let's go!<line>
 <line>
@@ -140,7 +139,7 @@ every single one of those treasures!<line>
 <redname><diamond>Puchi Oguras<line>
 <:func> <2> <7><2><line>
 Ahahahaha! Dummies! Idiots!<line>
-We're taking the treasure!<line>
+We're taking the treasure!~<line>
 <:func> <4><line>
 <:c><line>
 <wait>[<wait_time> <3><0>]<line>
