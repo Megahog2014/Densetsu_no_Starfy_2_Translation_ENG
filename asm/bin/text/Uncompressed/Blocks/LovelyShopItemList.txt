@@ -18,122 +18,122 @@
 //Batch 1 for Lovely's Shop-----------------
 
 #WRITE(GBA,$2D3C4C)
-Moe„ÄÄ      <end>
+MoeÅ@      <end>
 
 
 //POINTER #1 @ $2D3C58 - STRING #1 @ $2D3634
 
 #WRITE(GBA,$2D3C58)
-Old Man Lobber„ÄÄ <end>
+Old Man LobberÅ@ <end>
 
 
 //POINTER #2 @ $2D3C64 - STRING #2 @ $2D3648
 
 #WRITE(GBA,$2D3C64)
-Mermaid„ÄÄ  <end>
+MermaidÅ@  <end>
 
 
 //POINTER #3 @ $2D3C70 - STRING #3 @ $2D365C
 
 #WRITE(GBA,$2D3C70)
-Herman„ÄÄ   <end>
+HermanÅ@   <end>
 
 
 //POINTER #4 @ $2D3C7C - STRING #4 @ $2D3670
 
 #WRITE(GBA,$2D3C7C)
-Lovely„ÄÄ    <end>
+LovelyÅ@    <end>
 
 
 //POINTER #5 @ $2D3C88 - STRING #5 @ $2D3684
 
 #WRITE(GBA,$2D3C88)
-Ruby„ÄÄ   <end>
+RubyÅ@   <end>
 
 
 //POINTER #6 @ $2D3C94 - STRING #6 @ $2D3698
 
 #WRITE(GBA,$2D3C94)
-Old Man Mechani„ÄÄ<end>
+Old Man MechaniÅ@<end>
 
 
 //POINTER #7 @ $2D3CA0 - STRING #7 @ $2D36AC
 
 #WRITE(GBA,$2D3CA0)
-Tortamama„ÄÄ    <end>
+TortamamaÅ@Å@    <end>
 
 
 //POINTER #8 @ $2D3CAC - STRING #8 @ $2D36C0
 
 #WRITE(GBA,$2D3CAC)
-Turtle Kids„ÄÄ<end>
+Turtle KidsÅ@<end>
 
 
 //POINTER #9 @ $2D3CB8 - STRING #9 @ $2D36D4
 
 #WRITE(GBA,$2D3CB8)
-Bad Turtle Kids„ÄÄ<end>
+Bad Turtle KidsÅ@<end>
 
 
 //POINTER #10 @ $2D3CC4 - STRING #10 @ $2D36E8
 
 #WRITE(GBA,$2D3CC4)
-Gaganmo„ÄÄ    <end>
+GaganmoÅ@Å@    <end>
 
 
 //POINTER #11 @ $2D3CD0 - STRING #11 @ $2D36FC
 
 #WRITE(GBA,$2D3CD0)
-Jellato Siblings„ÄÄ <end>
+Jellato SiblingsÅ@Å@ <end>
 
 
 //POINTER #12 @ $2D3CDC - STRING #12 @ $2D3710
 
 #WRITE(GBA,$2D3CDC)
-Bellyband„ÄÄ    <end>
+BellybandÅ@Å@    <end>
 
 
 //POINTER #13 @ $2D3CE8 - STRING #13 @ $2D3724
 
 #WRITE(GBA,$2D3CE8)
-Hero's Helmet„ÄÄ <end>
+Hero's HelmetÅ@Å@ <end>
 
 
 //POINTER #14 @ $2D3CF4 - STRING #14 @ $2D3738
 
 #WRITE(GBA,$2D3CF4)
-Hero's Suit„ÄÄ <end>
+Hero's SuitÅ@Å@ <end>
 
 
 //POINTER #15 @ $2D3D00 - STRING #15 @ $2D374C
 
 #WRITE(GBA,$2D3D00)
-Night Cap„ÄÄ <end>
+Night CapÅ@Å@ <end>
 
 
 //POINTER #16 @ $2D3D0C - STRING #16 @ $2D3760
 
 #WRITE(GBA,$2D3D0C)
-Pajamas„ÄÄ    <end>
+PajamasÅ@Å@    <end>
 
 
 //POINTER #17 @ $2D3D18 - STRING #17 @ $2D3774
 
 #WRITE(GBA,$2D3D18)
-Silk Hat„ÄÄ  <end>
+Silk HatÅ@Å@  <end>
 
 
 //POINTER #18 @ $2D3D24 - STRING #18 @ $2D3788
 
 #WRITE(GBA,$2D3D24)
-Work Pants„ÄÄ    <end>
+Work PantsÅ@Å@    <end>
 
 //Batch 2
 
 //POINTER #19 @ $2D3D30 - STRING #19 @ $2D379C
 
 #WRITE(GBA,$2D3D30)
-Torito„ÄÄ    <end>
+ToritoÅ@Å@    <end>
 
 
 //POINTER #20 @ $2D3D3C - STRING #20 @ $2D37B0
