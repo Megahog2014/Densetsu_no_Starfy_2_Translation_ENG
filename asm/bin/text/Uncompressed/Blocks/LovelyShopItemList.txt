@@ -139,7 +139,7 @@ Torito　　    <end>
 //POINTER #20 @ $2D3D3C - STRING #20 @ $2D37B0
 
 #WRITE(GBA,$2D3D3C)
-Savako    <end>
+Savako　    <end>
 
 
 //POINTER #21 @ $2D3D48 - STRING #21 @ $2D37C4
@@ -151,13 +151,13 @@ Hirao and Hirarin<end>
 //POINTER #22 @ $2D3D54 - STRING #22 @ $2D37D8
 
 #WRITE(GBA,$2D3D54)
-Coalbies    <end>
+Coalbies　    <end>
 
 
 //POINTER #23 @ $2D3D60 - STRING #23 @ $2D37EC
 
 #WRITE(GBA,$2D3D60)
-Ookids    <end>
+Ookids　    <end>
 
 
 //POINTER #24 @ $2D3D6C - STRING #24 @ $2D3800
@@ -169,327 +169,327 @@ Orisu and Korisu<end>
 //POINTER #25 @ $2D3D78 - STRING #25 @ $2D3814
 
 #WRITE(GBA,$2D3D78)
-Shurikit   <end>
+Shurikit　   <end>
 
 
 //POINTER #26 @ $2D3D84 - STRING #26 @ $2D3828
 
 #WRITE(GBA,$2D3D84)
-Kamone    <end>
+Kamone　    <end>
 
 
 //POINTER #27 @ $2D3D90 - STRING #27 @ $2D383C
 
 #WRITE(GBA,$2D3D90)
-Old Man Grizzly    <end>
+Old Man Grizzly　    <end>
 
 
 //POINTER #28 @ $2D3D9C - STRING #28 @ $2D3850
 
 #WRITE(GBA,$2D3D9C)
-Viva      <end>
+Viva　      <end>
 
 
 //POINTER #29 @ $2D3DA8 - STRING #29 @ $2D3864
 
 #WRITE(GBA,$2D3DA8)
-Moon     <end>
+Moon　     <end>
 
 
 //POINTER #30 @ $2D3DB4 - STRING #30 @ $2D3878
 
 #WRITE(GBA,$2D3DB4)
-Ladle     <end>
+Ladle　     <end>
 
 
 //POINTER #31 @ $2D3DC0 - STRING #31 @ $2D388C
 
 #WRITE(GBA,$2D3DC0)
-Apron    <end>
+Apron　    <end>
 
 
 //POINTER #32 @ $2D3DCC - STRING #32 @ $2D38A0
 
 #WRITE(GBA,$2D3DCC)
-Afro Wig   <end>
+Afro Wig　   <end>
 
 
 //POINTER #33 @ $2D3DD8 - STRING #33 @ $2D38B4
 
 #WRITE(GBA,$2D3DD8)
-Devil Horns  <end>
+Devil Horns　  <end>
 
 
 //POINTER #34 @ $2D3DE4 - STRING #34 @ $2D38C8
 
 #WRITE(GBA,$2D3DE4)
-Devilish Gear  <end>
+Devilish Gear　  <end>
 
 
 //POINTER #35 @ $2D3DF0 - STRING #35 @ $2D38DC
 
 #WRITE(GBA,$2D3DF0)
-Tuxedo   <end>
+Tuxedo　   <end>
 
 
 //POINTER #36 @ $2D3DFC - STRING #36 @ $2D38F0
 
 #WRITE(GBA,$2D3DFC)
-Superman Hat <end>
+Superman Hat　<end>
 
 
 //POINTER #37 @ $2D3E08 - STRING #37 @ $2D3904
 
 #WRITE(GBA,$2D3E08)
-Sexy Dress <end>
+Sexy Dress　<end>
 
 //Batch 3
 
 //POINTER #38 @ $2D3E14 - STRING #38 @ $2D3918
 
 #WRITE(GBA,$2D3E14)
-Pursley <end>
+Pursley　<end>
 
 
 //POINTER #39 @ $2D3E20 - STRING #39 @ $2D392C
 
 #WRITE(GBA,$2D3E20)
-Wozart <end>
+Wozart　<end>
 
 
 //POINTER #40 @ $2D3E2C - STRING #40 @ $2D3940
 
 #WRITE(GBA,$2D3E2C)
-Tutah <end>
+Tutah　<end>
 
 
 //POINTER #41 @ $2D3E38 - STRING #41 @ $2D3954
 
 #WRITE(GBA,$2D3E38)
-The Barrel Squids <end>
+The Barrel Squids　<end>
 
 
 //POINTER #42 @ $2D3E44 - STRING #42 @ $2D3968
 
 #WRITE(GBA,$2D3E44)
-Guidonna <end>
+Guidonna　<end>
 
 
 //POINTER #43 @ $2D3E50 - STRING #43 @ $2D397C
 
 #WRITE(GBA,$2D3E50)
-The Craw Family <end>
+The Craw Family　<end>
 
 
 //POINTER #44 @ $2D3E5C - STRING #44 @ $2D3990
 
 #WRITE(GBA,$2D3E5C)
-The Fat Cat Family <end>
+The Fat Cat Family　<end>
 
 
 //POINTER #45 @ $2D3E68 - STRING #45 @ $2D39A4
 
 #WRITE(GBA,$2D3E68)
-Professoar <end>
+Professoar　<end>
 
 
 //POINTER #46 @ $2D3E74 - STRING #46 @ $2D39B8
 
 #WRITE(GBA,$2D3E74)
-Tutweets <end>
+Tutweets　<end>
 
 
 //POINTER #47 @ $2D3E80 - STRING #47 @ $2D39CC
 
 #WRITE(GBA,$2D3E80)
-Taiblond <end>
+Taiblond　<end>
 
 
 //POINTER #48 @ $2D3E8C - STRING #48 @ $2D39E0
 
 #WRITE(GBA,$2D3E8C)
-Horun <end>
+Horun　<end>
 
 
 //POINTER #49 @ $2D3E98 - STRING #49 @ $2D39F4
 
 #WRITE(GBA,$2D3E98)
-Pufftop Soldier <end>
+Pufftop Soldier　<end>
 
 
 //POINTER #50 @ $2D3EA4 - STRING #50 @ $2D3A08
 
 #WRITE(GBA,$2D3EA4)
-Mummy Wraps <end>
+Mummy Wraps　<end>
 
 
 //POINTER #51 @ $2D3EB0 - STRING #51 @ $2D3A1C
 
 #WRITE(GBA,$2D3EB0)
-Long Johns <end>
+Long Johns　<end>
 
 
 //POINTER #52 @ $2D3EBC - STRING #52 @ $2D3A30
 
 #WRITE(GBA,$2D3EBC)
-Martian Hat <end>
+Martian Hat　<end>
 
 
 //POINTER #53 @ $2D3EC8 - STRING #53 @ $2D3A44
 
 #WRITE(GBA,$2D3EC8)
-Martian Tentacles <end>
+Martian Tentacles　<end>
 
 
 //POINTER #54 @ $2D3ED4 - STRING #54 @ $2D3A58
 
 #WRITE(GBA,$2D3ED4)
-Lab Coat <end>
+Lab Coat　<end>
 
 
 //POINTER #55 @ $2D3EE0 - STRING #55 @ $2D3A6C
 
 #WRITE(GBA,$2D3EE0)
-Muscle Machine <end>
+Muscle Machine　<end>
 
 
 //POINTER #56 @ $2D3EEC - STRING #56 @ $2D3A80
 
 #WRITE(GBA,$2D3EEC)
-Bald Wig <end>
+Bald Wig　<end>
 
 
 //POINTER #57 @ $2D3EF8 - STRING #57 @ $2D3A94
 
 #WRITE(GBA,$2D3EF8)
-Mohawk <end>
+Mohawk　<end>
 
 //Batch 4
 
 //POINTER #58 @ $2D3F04 - STRING #58 @ $2D3AA8
 
 #WRITE(GBA,$2D3F04)
-Dragobrows <end>
+Dragobrows　<end>
 
 
 //POINTER #59 @ $2D3F10 - STRING #59 @ $2D3ABC
 
 #WRITE(GBA,$2D3F10)
-The Squirts <end>
+The Squirts　<end>
 
 
 //POINTER #60 @ $2D3F1C - STRING #60 @ $2D3AD0
 
 #WRITE(GBA,$2D3F1C)
-Pufftop Kids <end>
+Pufftop Kids　<end>
 
 
 //POINTER #61 @ $2D3F28 - STRING #61 @ $2D3AE4
 
 #WRITE(GBA,$2D3F28)
-Jewelly <end>
+Jewelly　<end>
 
 
 //POINTER #62 @ $2D3F34 - STRING #62 @ $2D3AF8
 
 #WRITE(GBA,$2D3F34)
-Ressie <end>
+Ressie　<end>
 
 
 //POINTER #63 @ $2D3F40 - STRING #63 @ $2D3B0C
 
 #WRITE(GBA,$2D3F40)
-Funazou <end>
+Funazou　<end>
 
 
 //POINTER #64 @ $2D3F4C - STRING #64 @ $2D3B20
 
 #WRITE(GBA,$2D3F4C)
-Jawjiro <end>
+Jawjiro　<end>
 
 
 //POINTER #65 @ $2D3F58 - STRING #65 @ $2D3B34
 
 #WRITE(GBA,$2D3F58)
-Lovely's Sisters <end>
+Lovely's Sisters　<end>
 
 
 //POINTER #66 @ $2D3F64 - STRING #66 @ $2D3B48
 
 #WRITE(GBA,$2D3F64)
-Fluffy <end>
+Fluffy　<end>
 
 
 //POINTER #67 @ $2D3F70 - STRING #67 @ $2D3B5C
 
 #WRITE(GBA,$2D3F70)
-The Kunoichi <end>
+The Kunoichi　<end>
 
 
 //POINTER #68 @ $2D3F7C - STRING #68 @ $2D3B70
 
 #WRITE(GBA,$2D3F7C)
-Master Croak <end>
+Master Croak　<end>
 
 
 //POINTER #69 @ $2D3F88 - STRING #69 @ $2D3B84
 
 #WRITE(GBA,$2D3F88)
-Lumi <end>
+Lumi　<end>
 
 
 //POINTER #70 @ $2D3F94 - STRING #70 @ $2D3B98
 
 #WRITE(GBA,$2D3F94)
-Joe & Schmoe <end>
+Joe & Schmoe　<end>
 
 
 //POINTER #71 @ $2D3FA0 - STRING #71 @ $2D3BAC
 
 #WRITE(GBA,$2D3FA0)
-Poop Hat <end>
+Poop Hat　<end>
 
 
 //POINTER #72 @ $2D3FAC - STRING #72 @ $2D3BC0
 
 #WRITE(GBA,$2D3FAC)
-Chun Hat <end>
+Chun Hat　<end>
 
 
 //POINTER #73 @ $2D3FB8 - STRING #73 @ $2D3BD4
 
 #WRITE(GBA,$2D3FB8)
-Cardboard Box <end>
+Cardboard Box　<end>
 
 
 //POINTER #74 @ $2D3FC4 - STRING #74 @ $2D3BE8
 
 #WRITE(GBA,$2D3FC4)
-Chest Hair <end>
+Chest Hair　<end>
 
 
 //POINTER #75 @ $2D3FD0 - STRING #75 @ $2D3BFC
 
 #WRITE(GBA,$2D3FD0)
-Pince-nez <end>
+Pince-nez　<end>
 
 
 //POINTER #76 @ $2D3FDC - STRING #76 @ $2D3C10
 
 #WRITE(GBA,$2D3FDC)
-Perfect Makeup <end>
+Perfect Makeup　<end>
 
 
 //POINTER #77 @ $2D3FE8 - STRING #77 @ $2D3C24
 
 #WRITE(GBA,$2D3FE8)
-Wild Rider Coat <end>
+Wild Rider Coat　<end>
 
 
 //POINTER #78 @ $2D3FF4 - STRING #78 @ $2D3C38
 
 #WRITE(GBA,$2D3FF4)
-Fighting Pants <end>
+Fighting Pants　<end>
 
 
 //BLOCK #001 NAME:		Lovely's Shop Choices (After all items Purchased)(Pointer)
