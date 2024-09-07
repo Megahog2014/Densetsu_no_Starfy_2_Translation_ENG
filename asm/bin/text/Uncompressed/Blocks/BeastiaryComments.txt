@@ -2593,7 +2593,7 @@ beats the heat.<end>
 //POINTER #347 @ $2D2F64 - STRING #347 @ $2D0D94
 
 #WRITE(GBA,$2D2F64)
-Instead of doin' all that,Ä<linealt>
+Instead of doin' all that,<linealt>
 he could've just taken off<linealt>
 his costume.<end>
 
