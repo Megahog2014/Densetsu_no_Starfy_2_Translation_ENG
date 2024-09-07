@@ -1076,7 +1076,7 @@ and hand it over to Bawss.<line>
 
 #WRITE(GBA,$2C6930)
 Beat the bad guy just past here<line>
-so we can chart a course for¸<line>
+so we can chart a course for<line>
 Ogura's Castle!<line>
 <:end><line>
 <end>
