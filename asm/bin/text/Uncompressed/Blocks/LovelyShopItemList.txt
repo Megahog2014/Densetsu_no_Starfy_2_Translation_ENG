@@ -18,7 +18,7 @@
 //Batch 1 for Lovely's Shop-----------------
 
 #WRITE(GBA,$2D3C4C)
-Moe　      <end>
+Moe　　      <end>
 
 
 //POINTER #1 @ $2D3C58 - STRING #1 @ $2D3634
@@ -30,25 +30,25 @@ Old Man Lobber　 <end>
 //POINTER #2 @ $2D3C64 - STRING #2 @ $2D3648
 
 #WRITE(GBA,$2D3C64)
-Mermaid　  <end>
+Mermaid　　  <end>
 
 
 //POINTER #3 @ $2D3C70 - STRING #3 @ $2D365C
 
 #WRITE(GBA,$2D3C70)
-Herman　   <end>
+Herman　　   <end>
 
 
 //POINTER #4 @ $2D3C7C - STRING #4 @ $2D3670
 
 #WRITE(GBA,$2D3C7C)
-Lovely　    <end>
+Lovely　　    <end>
 
 
 //POINTER #5 @ $2D3C88 - STRING #5 @ $2D3684
 
 #WRITE(GBA,$2D3C88)
-Ruby　   <end>
+Ruby　　　   <end>
 
 
 //POINTER #6 @ $2D3C94 - STRING #6 @ $2D3698
@@ -60,7 +60,7 @@ Old Man Mechani　<end>
 //POINTER #7 @ $2D3CA0 - STRING #7 @ $2D36AC
 
 #WRITE(GBA,$2D3CA0)
-Tortamama　　    <end>
+Tortamama　　     <end>
 
 
 //POINTER #8 @ $2D3CAC - STRING #8 @ $2D36C0

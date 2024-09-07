@@ -8,7 +8,7 @@ Lovely's shop dialogue and Pause menu Hints surprisingly doesn't use compression
 
 :end and :exit Possibly stops the text?
 
-00 00 = Termination code = <endscene>
+00 00 = Termination code = <end>
 
 :sd starts the scene itself sometimes and :se starts sending text
 Must copy :if statements as well!
