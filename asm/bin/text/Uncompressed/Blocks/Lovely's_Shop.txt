@@ -88,7 +88,7 @@ Right?<end>
 //POINTER #4 @ $2D492C - STRING #4 @ $2D443C
 
 #WRITE(GBA,$2D492C)
-Sorry hun-bunÅ`<linealt>
+Sorry hun-bun~<linealt>
 You don't have enough pearls...<end>
 
 
@@ -102,7 +102,7 @@ Silly boy.<end>
 //POINTER #6 @ $2D4934 - STRING #6 @ $2D449C
 
 #WRITE(GBA,$2D4934)
-Thanks, hunÅ`<textcolor_6><heart><heart><heart><textcolor_0><linealt>
+Thanks, hun~<textcolor_6><heart><heart><heart><textcolor_0><linealt>
 Let me give you a kiss, Mwah!<end>
 
 
@@ -131,7 +131,7 @@ Leaving so soon?<end>
 
 #WRITE(GBA,$2D4944)
 Aw... I'll miss you.<linealt>
-Come againÅ`<end>
+Come again~<end>
 
 
 //POINTER #11 @ $2D4948 - STRING #11 @ $2D4568
@@ -151,7 +151,7 @@ I knew you wanted to stay here with me.<textcolor_6><heart><textcolor_0><end>
 
 #WRITE(GBA,$2D4950)
 Ufufufu...<linealt>
-Stay as looooong as you want, sugarÅ`<textcolor_6><heart><textcolor_0><end>
+Stay as looooong as you want, sugar~<textcolor_6><heart><textcolor_0><end>
 
 
 //POINTER #14 @ $2D4954 - STRING #14 @ $2D460C
@@ -166,13 +166,13 @@ You bought everything I had!<end>
 #WRITE(GBA,$2D4958)
 For buying so much from me,<linealt>
 I'll throw in a little extra.<linealt>
-Free<textcolor_6><heart><textcolor_0>of<textcolor_6><heart><textcolor_0>chargeÅ`<textcolor_6><heart><heart><heart><heart><textcolor_0><end>
+Free<textcolor_6><heart><textcolor_0>of<textcolor_6><heart><textcolor_0>charge~<textcolor_6><heart><heart><heart><heart><textcolor_0><end>
 
 
 //POINTER #16 @ $2D495C - STRING #16 @ $2D46C4
 
 #WRITE(GBA,$2D495C)
-I don't have anything else to sellÅ`!<linealt>
+I don't have anything else to sell~!<linealt>
 Is this what you call being sold out?<end>
 
 
@@ -186,7 +186,7 @@ You can visit little old me anytime!<end>
 //POINTER #18 @ $2D4964 - STRING #18 @ $2D4754
 
 #WRITE(GBA,$2D4964)
-You miiight get to see something amazingÅ`<linealt>
+You miiight get to see something amazing~<linealt>
 Ufufufufu...<textcolor_6><heart><textcolor_0><end>
 
 
@@ -201,7 +201,7 @@ That makes me so happy!<end>
 
 #WRITE(GBA,$2D496C)
 <linealt>
-Oh noÅ`!<end>
+Oh no~!<end>
 
 
 //POINTER #21 @ $2D4970 - STRING #21 @ $2D47EC
@@ -222,8 +222,8 @@ that made me look that way.<end>
 //POINTER #23 @ $2D4978 - STRING #23 @ $2D4850
 
 #WRITE(GBA,$2D4978)
-AhhÅ`<linealt>
-Blonde looks so good on meÅ`!<end>
+Ahh~<linealt>
+Blonde looks so good on me~!<end>
 
 
 //POINTER #24 @ $2D497C - STRING #24 @ $2D4878
