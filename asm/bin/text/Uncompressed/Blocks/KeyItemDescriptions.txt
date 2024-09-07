@@ -184,7 +184,7 @@ amends.<line>
 //POINTER #18 @ $2C5A94 - STRING #18 @ $6436C0
 
 #WRITE(GBA,$2C5A94)
-A letter addressedÚ<line>
+A letter addressed<line>
 to Gellato to make<line>
 amends.<line>
 <:end><line>

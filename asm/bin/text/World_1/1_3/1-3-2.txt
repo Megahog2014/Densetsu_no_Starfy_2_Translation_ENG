@@ -101,7 +101,7 @@ and buy all sorts of things, sugar.<line>
 <redname><diamond>Lovely<line>
 <textcolor_d>You can visit the Shop<textcolor_0><line>
 <textcolor_d>from the Map Screen.<textcolor_0><line>
-I'm looking forward to it... UfuÅ`<line>
+I'm looking forward to it... Ufu~<line>
 <:c><line>
 <:end><line>
 <end>

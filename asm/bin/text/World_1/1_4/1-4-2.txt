@@ -29,8 +29,8 @@ but we can't open it without <textcolor_d>3 keys<textcolor_0>!<line>
 <:obj> <2> <2> <1><line>
 <:func> <1><8> <1> <6><5><line>
 <rname><diamond>Puchi Ogura #1<line>
-Ahahaha! StupidÅ` IdiotÅ`!<line>
-Super lame-o claaaaaamÅ`!<line>
+Ahahaha! Stupid~ Idiot~!<line>
+Super lame-o claaaaaam~!<line>
 <:c><line>
 <redname><diamond>Konk<line>
 If you don't hurry up,<line>

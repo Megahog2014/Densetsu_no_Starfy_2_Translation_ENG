@@ -54,7 +54,7 @@ rejected by Ruby! Konk Konk Konk!<line>
 <:c><line>
 <wait><:obj> <1> <5> <4><line>
 <rname><diamond>Puchi Ogura #1<line>
-Ahaha! Rejected! Rejected`!<line>
+Ahaha! Rejected! Rejected~!<line>
 Ahahahaaaaa!<line>
 <redname><diamond>Puchi Ogura #1<line>
 Hey, mister lame-o clam!<line>
