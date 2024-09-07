@@ -68,20 +68,21 @@ your time while you browse.<end>
 //POINTER #1 @ $13978C - STRING #1 @ $2D3548
 
 #WRITE(GBA,$13978C)
-You want the <end>
+You want the <textcolor_6><end>
 //Åw<end>
 
 
 //POINTER #2 @ $139798 - STRING #2 @ $2D354C
 
 #WRITE(GBA,$139798)
-,<end>
+<textcolor_0>,<end>
 //Åx<end>
 
 
 //POINTER #3 @ $2D4928 - STRING #3 @ $2D4418
 
 #WRITE(GBA,$2D4928)
+<line>
 Right?<end>
 
 
