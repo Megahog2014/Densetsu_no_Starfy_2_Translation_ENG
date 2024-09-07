@@ -88,7 +88,7 @@ ain't it?<line>
 <:func> <4><line>
 <:c><line>
 <redname><diamond>Papa Star<line>
-About that...<$<5>E>Due to Starfy<line>
+About that...<$5E>Due to Starfy<line>
 accidentally losing the treasure before...<line>
 <:func> <4><line>
 <:c><line>
@@ -140,7 +140,7 @@ every single one of those treasures!<line>
 <redname><diamond>Puchi Oguras<line>
 <:func> <2> <7><2><line>
 Ahahahaha! Dummies! Idiots!<line>
-We're taking the treasure`!<line>
+We're taking the treasure~!<line>
 <:func> <4><line>
 <:c><line>
 <wait>[<wait_time> <3><0>]<line>
